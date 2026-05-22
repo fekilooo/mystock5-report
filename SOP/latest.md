@@ -1,6 +1,6 @@
 # 今日短線觀察池
 
-產生時間：2026/5/22 20:48:06
+產生時間：2026/5/22 21:01:34
 
 市場基準資料：2026-05-22 官方盤後行情
 
@@ -48,6 +48,14 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 | 2421 建準 | 轉強潛伏 | 待確認 | 觸發後拉回 | 158.5 | 159 | 143.2 | 2.98x | 等重新站回 |
 | 1717 長興 | 轉強潛伏 | 待確認 | 未觸發 | 83.00 | 87.80 | 73.50 | 1.4x | 不動作 |
 | 3131 弘塑 | 錯殺反彈 | 待確認 | 價過量不足 | 2820 | 2701 | 2583.9 | 0.64x | 等量能補上 |
+| 3706 神達 | 轉強潛伏 | 待確認 | 未觸發 | 87.80 | 89.20 | 81.00 | 2.6x | 不動作 |
+| 5274 信驊 | 錯殺反彈 | 待確認 | 盤中觸發 | 17780 | 16254 | 15132.6 | 0.95x | 可依紀律找買點 |
+| 2618 長榮航 | 轉強潛伏 | 待確認 | 未觸發 | 35.50 | 36.20 | 33.70 | 1.5x | 不動作 |
+| 1519 華城 | 錯殺反彈 | 待確認 | 價過量不足 | 826 | 796 | 778.9 | 0.54x | 等量能補上 |
+| 3231 緯創 | 轉強潛伏 | 待確認 | 未觸發 | 144.5 | 149 | 134 | 1.59x | 不動作 |
+| 6669 緯穎 | 轉強潛伏 | 待確認 | 未觸發 | 5525 | 5870 | 4912.5 | 0.72x | 不動作 |
+| 2376 技嘉 | 轉強潛伏 | 待確認 | 未觸發 | 322.5 | 351 | 294.8 | 0.86x | 不動作 |
+| 1605 華新 | 轉強潛伏 | 待確認 | 觸發後拉回 | 36.50 | 36.70 | 32.34 | 1.35x | 等重新站回 |
 
 ### 隔日實戰觀察清單
 
@@ -187,8 +195,8 @@ HiStock 2026/05/22: 外資 2980、投信 1252、法人合計 3978; 3日合計 60
 HiStock 2026/05/22: 外資 687、投信 258、法人合計 962; 3日合計 683
 
 - [【10:54 即時新聞】愛普*(6531)攻上漲停963元，CoWoS／EMIB-T題材回溫＋短線超跌後技術性強彈伴隨空單回補 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjUzMFBjVnNrMTRKb2hiMnV2NklnLW5qNDNzYkZtLU9JMm8wQldPWVU5VS1ITTczNTJxanZhNU83MzdxZUVqRXpMUHo1eF9GS3VCYWl4c3FjMUtlSVoxSGctM0xvUHcxWW1mY1FzenhmLTVNNmxQZXNoQkVmaG93aG5EX2oxd0JUZ1BqZGxn?oc=5)
+- [6531 愛普* - 危機入市別人恐懼我貪婪，早盤1000進2張-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QMXk3RjlQckhzekRNWmZqWldjd2diQ1VJSUROeDlON0xCV3lMcmx1c1VLZE9zNXE1Y1ZieVJRV3AxbmJFZjU4ZUVLUjN6X1dpQUFzOUNsNlE?oc=5)
 - [【數報】盤中快報:6531(愛普*)股價漲停鎖定在963.00元，委託買量101張。 - 富聯網](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWlKOFlsMzFMTUkxSHdxMFFCd3A1ZE9WZGZ1NWlxNVgxNGJ0OVNRRFhLZlhoOUhjYkk0UE1ZOHVTbksxcHFDWFlCbVpXV0szS3F5UWNxNDJCeVlYTVlSVWU4bElqb1NFa1E4N0J0LXlKaXpFdXNPU2h0VlFTS2YtT2tYX05TYms?oc=5)
-- [愛普*（6531）做什麼、法說有何重點？2026年第一季EPS達4.15元，IoTRAM強勁需求推升營收年增115%，S-SiCap量產佈局加速啟動｜股市話題 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMihgVBVV95cUxPbEx6SXVjQVJLdTZSQl9qNmMxMkhGdk1zMkJnbXM4QVFmUURZc0JKYzQ2eGZJb3pyR3R2aW5QVENfTElCc2xxRGpjWmd5M21pM2pqb3hYMU1KTDNiVkg0M1JhVUFwajg5c1VSaF9BVGoxVW5qUVBfcFZyeWVCVE9hYVcycGp3dlNzQXpjYm80OHFJUmVRSzVVRFp6VEUxVy11YXo0QTl5NFlsNHpNSXVTZFA5azRiVkQweExuNzhkZnJBajlfVHBEVjJONGU5Ul9hZU5HeDUyLUZOa3pRSXFQRGw3TDRZZlVwZS1xM2trV29oMC1MWDRoRHZ4UlBUWXBESm83M2JydFl1MHRnSkI5MnNmNEdPZVNvX2tYOGZWZ2l5aHMycUFUb3VHM0p0a0R6OG1Na09yWnplc1FKTHVjcmhLSzNYMk1jOEtSQkRjVlNGQ1ZWU2p3TS1XOGZIRTZaaGt5SG1wUXVfcDc2MDJ3cm50anQxVTQ2SVpCSGI4QnVfRDhzemQ3bnpzZmFPYmlyemktM08wVjZ0c1N1cEV2ZFlXdVJ2eGlIcFczRWNteGQwZ1puZGd6NjlNbnlCNGdSRzBMS2pHSFFHMDNPNUNmRmhvb2hNZXVaU2hON2pDNWlxY01jLVIybUVHc1VlNFBJbkdaWml1S280QWxlMWhPMXJ3cXZfa2ZYXzExV09mYUl1azhuZDRmR1JxeEpzM1gyMFRZWEwwWWNPbUpBRHQ4Vm5PQ08wc0ZiS0d0NUxfTG8tdS1UaDBPc2M5eGZ1blhmT21hSTE3cEx2cGtpSnVoZlJSVTRQMVBhUWt0cmxYdVd3VXpwYmJkN1N0MDRXRU1zaDZ5TWp3?oc=5)
 
 ### 3105 穩懋
 
