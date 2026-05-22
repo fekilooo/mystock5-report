@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026/5/22 21:50:13",
+  "generatedAt": "2026/5/22 22:00:36",
   "mode": "evening",
   "marketDate": "2026-05-22",
   "marketDateTwse": "20260522",
@@ -1593,7 +1593,7 @@
     "success": true,
     "cdpConnected": true,
     "apiAvailable": true,
-    "chartSymbol": "TWSE_DLY:2313",
+    "chartSymbol": "TWSE_DLY:3189",
     "chartResolution": "1D"
   },
   "hotPool": [
@@ -6658,28 +6658,9 @@
       "chips": {
         "source": "HiStock",
         "url": "https://histock.tw/stock/chips.aspx?no=3711",
-        "latest": {
-          "date": "2026/05/22",
-          "foreign": 2980,
-          "investmentTrust": 1252,
-          "dealerSelf": -90,
-          "dealerHedge": -164,
-          "total": 3978
-        },
-        "sum3": {
-          "foreign": 4661,
-          "investmentTrust": 1917,
-          "dealerSelf": -234,
-          "dealerHedge": -269,
-          "total": 6076
-        },
-        "sum5": {
-          "foreign": -5263,
-          "investmentTrust": 2197,
-          "dealerSelf": -357,
-          "dealerHedge": -82,
-          "total": -3505
-        }
+        "latest": null,
+        "sum3": null,
+        "sum5": null
       },
       "news": {
         "source": "Google News RSS",
@@ -6845,16 +6826,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "6531 愛普* - 危機入市別人恐懼我貪婪，早盤1000進2張-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QMXk3RjlQckhzekRNWmZqWldjd2diQ1VJSUROeDlON0xCV3lMcmx1c1VLZE9zNXE1Y1ZieVJRV3AxbmJFZjU4ZUVLUjN6X1dpQUFzOUNsNlE?oc=5",
-            "pubDate": "Thu, 21 May 2026 21:19:37 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "愛普*（6531）做什麼、法說有何重點？2026年第一季EPS達4.15元，IoTRAM強勁需求推升營收年增115%，S-SiCap量產佈局加速啟動｜股市話題 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxPbEx6SXVjQVJLdTZSQl9qNmMxMkhGdk1zMkJnbXM4QVFmUURZc0JKYzQ2eGZJb3pyR3R2aW5QVENfTElCc2xxRGpjWmd5M21pM2pqb3hYMU1KTDNiVkg0M1JhVUFwajg5c1VSaF9BVGoxVW5qUVBfcFZyeWVCVE9hYVcycGp3dlNzQXpjYm80OHFJUmVRSzVVRFp6VEUxVy11YXo0QTl5NFlsNHpNSXVTZFA5azRiVkQweExuNzhkZnJBajlfVHBEVjJONGU5Ul9hZU5HeDUyLUZOa3pRSXFQRGw3TDRZZlVwZS1xM2trV29oMC1MWDRoRHZ4UlBUWXBESm83M2JydFl1MHRnSkI5MnNmNEdPZVNvX2tYOGZWZ2l5aHMycUFUb3VHM0p0a0R6OG1Na09yWnplc1FKTHVjcmhLSzNYMk1jOEtSQkRjVlNGQ1ZWU2p3TS1XOGZIRTZaaGt5SG1wUXVfcDc2MDJ3cm50anQxVTQ2SVpCSGI4QnVfRDhzemQ3bnpzZmFPYmlyemktM08wVjZ0c1N1cEV2ZFlXdVJ2eGlIcFczRWNteGQwZ1puZGd6NjlNbnlCNGdSRzBMS2pHSFFHMDNPNUNmRmhvb2hNZXVaU2hON2pDNWlxY01jLVIybUVHc1VlNFBJbkdaWml1S280QWxlMWhPMXJ3cXZfa2ZYXzExV09mYUl1azhuZDRmR1JxeEpzM1gyMFRZWEwwWWNPbUpBRHQ4Vm5PQ08wc0ZiS0d0NUxfTG8tdS1UaDBPc2M5eGZ1blhmT21hSTE3cEx2cGtpSnVoZlJSVTRQMVBhUWt0cmxYdVd3VXpwYmJkN1N0MDRXRU1zaDZ5TWp3?oc=5",
             "pubDate": "Wed, 13 May 2026 00:41:12 GMT",
             "source": "sinotrade.com.tw"
+          },
+          {
+            "title": "【數報】盤中快報:6531(愛普*)股價漲停鎖定在963.00元，委託買量101張。 - 富聯網",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWlKOFlsMzFMTUkxSHdxMFFCd3A1ZE9WZGZ1NWlxNVgxNGJ0OVNRRFhLZlhoOUhjYkk0UE1ZOHVTbksxcHFDWFlCbVpXV0szS3F5UWNxNDJCeVlYTVlSVWU4bElqb1NFa1E4N0J0LXlKaXpFdXNPU2h0VlFTS2YtT2tYX05TYms?oc=5",
+            "pubDate": "Fri, 22 May 2026 03:44:00 GMT",
+            "source": "富聯網"
           }
         ]
       }
@@ -7000,16 +6981,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "3105 穩懋- 光通訊磷化銦1.6T 雙雄奮起！！-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JY3BlQ0VZX1RhcnFtOEZoYzFSVlM2ZHBjYk5Cb09TWUtHRHlEczJhWjItNlM2ZHNUMWI0WkhhTW4yUHVSSUtCN1g0QV8tbU81bkpXdW1VS0c?oc=5",
-            "pubDate": "Thu, 21 May 2026 22:32:55 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "穩懋、乙盛業績看旺- 日報 - 工商時報",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5",
             "pubDate": "Thu, 21 May 2026 19:00:00 GMT",
             "source": "工商時報"
+          },
+          {
+            "title": "個股：穩懋(3105)5/29受邀參加Morgan Stanley Asia AI Summit 2026 - 富聯網",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGlpYWlXVC1wbHFyeHUyT1F3djFtVmVhcGN6Q1o5OWZXRkZTS2xhM3hhbFZ3SDZaQlF3NlRSaGMtd3dXVF9Td2ZCbXdoemNlOTlaZTAwOHd0MlJiOUdqc3hfLTR0NUtlbVptaWhhREtkNE9Da2k2ZXQtYjFMNHhUUkw2Rk9MU2ph?oc=5",
+            "pubDate": "Fri, 22 May 2026 07:54:00 GMT",
+            "source": "富聯網"
           }
         ]
       }
@@ -8296,28 +8277,9 @@
       "chips": {
         "source": "HiStock",
         "url": "https://histock.tw/stock/chips.aspx?no=3711",
-        "latest": {
-          "date": "2026/05/22",
-          "foreign": 2980,
-          "investmentTrust": 1252,
-          "dealerSelf": -90,
-          "dealerHedge": -164,
-          "total": 3978
-        },
-        "sum3": {
-          "foreign": 4661,
-          "investmentTrust": 1917,
-          "dealerSelf": -234,
-          "dealerHedge": -269,
-          "total": 6076
-        },
-        "sum5": {
-          "foreign": -5263,
-          "investmentTrust": 2197,
-          "dealerSelf": -357,
-          "dealerHedge": -82,
-          "total": -3505
-        }
+        "latest": null,
+        "sum3": null,
+        "sum5": null
       },
       "news": {
         "source": "Google News RSS",
@@ -8483,16 +8445,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "6531 愛普* - 危機入市別人恐懼我貪婪，早盤1000進2張-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QMXk3RjlQckhzekRNWmZqWldjd2diQ1VJSUROeDlON0xCV3lMcmx1c1VLZE9zNXE1Y1ZieVJRV3AxbmJFZjU4ZUVLUjN6X1dpQUFzOUNsNlE?oc=5",
-            "pubDate": "Thu, 21 May 2026 21:19:37 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "愛普*（6531）做什麼、法說有何重點？2026年第一季EPS達4.15元，IoTRAM強勁需求推升營收年增115%，S-SiCap量產佈局加速啟動｜股市話題 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxPbEx6SXVjQVJLdTZSQl9qNmMxMkhGdk1zMkJnbXM4QVFmUURZc0JKYzQ2eGZJb3pyR3R2aW5QVENfTElCc2xxRGpjWmd5M21pM2pqb3hYMU1KTDNiVkg0M1JhVUFwajg5c1VSaF9BVGoxVW5qUVBfcFZyeWVCVE9hYVcycGp3dlNzQXpjYm80OHFJUmVRSzVVRFp6VEUxVy11YXo0QTl5NFlsNHpNSXVTZFA5azRiVkQweExuNzhkZnJBajlfVHBEVjJONGU5Ul9hZU5HeDUyLUZOa3pRSXFQRGw3TDRZZlVwZS1xM2trV29oMC1MWDRoRHZ4UlBUWXBESm83M2JydFl1MHRnSkI5MnNmNEdPZVNvX2tYOGZWZ2l5aHMycUFUb3VHM0p0a0R6OG1Na09yWnplc1FKTHVjcmhLSzNYMk1jOEtSQkRjVlNGQ1ZWU2p3TS1XOGZIRTZaaGt5SG1wUXVfcDc2MDJ3cm50anQxVTQ2SVpCSGI4QnVfRDhzemQ3bnpzZmFPYmlyemktM08wVjZ0c1N1cEV2ZFlXdVJ2eGlIcFczRWNteGQwZ1puZGd6NjlNbnlCNGdSRzBMS2pHSFFHMDNPNUNmRmhvb2hNZXVaU2hON2pDNWlxY01jLVIybUVHc1VlNFBJbkdaWml1S280QWxlMWhPMXJ3cXZfa2ZYXzExV09mYUl1azhuZDRmR1JxeEpzM1gyMFRZWEwwWWNPbUpBRHQ4Vm5PQ08wc0ZiS0d0NUxfTG8tdS1UaDBPc2M5eGZ1blhmT21hSTE3cEx2cGtpSnVoZlJSVTRQMVBhUWt0cmxYdVd3VXpwYmJkN1N0MDRXRU1zaDZ5TWp3?oc=5",
             "pubDate": "Wed, 13 May 2026 00:41:12 GMT",
             "source": "sinotrade.com.tw"
+          },
+          {
+            "title": "【數報】盤中快報:6531(愛普*)股價漲停鎖定在963.00元，委託買量101張。 - 富聯網",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWlKOFlsMzFMTUkxSHdxMFFCd3A1ZE9WZGZ1NWlxNVgxNGJ0OVNRRFhLZlhoOUhjYkk0UE1ZOHVTbksxcHFDWFlCbVpXV0szS3F5UWNxNDJCeVlYTVlSVWU4bElqb1NFa1E4N0J0LXlKaXpFdXNPU2h0VlFTS2YtT2tYX05TYms?oc=5",
+            "pubDate": "Fri, 22 May 2026 03:44:00 GMT",
+            "source": "富聯網"
           }
         ]
       }
@@ -8788,16 +8750,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "3105 穩懋- 光通訊磷化銦1.6T 雙雄奮起！！-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JY3BlQ0VZX1RhcnFtOEZoYzFSVlM2ZHBjYk5Cb09TWUtHRHlEczJhWjItNlM2ZHNUMWI0WkhhTW4yUHVSSUtCN1g0QV8tbU81bkpXdW1VS0c?oc=5",
-            "pubDate": "Thu, 21 May 2026 22:32:55 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "穩懋、乙盛業績看旺- 日報 - 工商時報",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5",
             "pubDate": "Thu, 21 May 2026 19:00:00 GMT",
             "source": "工商時報"
+          },
+          {
+            "title": "個股：穩懋(3105)5/29受邀參加Morgan Stanley Asia AI Summit 2026 - 富聯網",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGlpYWlXVC1wbHFyeHUyT1F3djFtVmVhcGN6Q1o5OWZXRkZTS2xhM3hhbFZ3SDZaQlF3NlRSaGMtd3dXVF9Td2ZCbXdoemNlOTlaZTAwOHd0MlJiOUdqc3hfLTR0NUtlbVptaWhhREtkNE9Da2k2ZXQtYjFMNHhUUkw2Rk9MU2ph?oc=5",
+            "pubDate": "Fri, 22 May 2026 07:54:00 GMT",
+            "source": "富聯網"
           }
         ]
       }

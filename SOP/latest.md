@@ -1,6 +1,6 @@
 # 今日短線觀察池
 
-產生時間：2026/5/22 21:50:13
+產生時間：2026/5/22 22:00:36
 
 市場基準資料：2026-05-22 官方盤後行情
 
@@ -79,6 +79,20 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 | 8150 南茂 | 錯殺反彈 | 觀察 | 盤中觸發 | 79.10 | 78.60 | 62.49 | 1.27x | 可依紀律找買點 |
 | 2892 第一金 | 錯殺反彈 | 觀察 | 跌破後收復 | 27.55 | 28.15 | 27.40 | 1.89x | 等收盤確認 |
 | 6805 富世達 | 錯殺反彈 | 觀察 | 觸發後拉回 | 1795 | 1810 | 1632.5 | 0.43x | 等重新站回 |
+
+### 過去名單重複股（統計出現次數）
+
+統計範圍：往前 2 期晚間報表（不含今日）
+
+| 股票 | 出現次數 | 過去次數 | 最近出現 | 過去出現日(最多5筆) |
+|---|---:|---:|---|---|
+| 1519 華城 | 2 | 1 | 2026-05-21 | 2026-05-21 |
+| 1717 長興 | 2 | 1 | 2026-05-21 | 2026-05-21 |
+| 2618 長榮航 | 2 | 1 | 2026-05-21 | 2026-05-21 |
+| 3131 弘塑 | 2 | 1 | 2026-05-21 | 2026-05-21 |
+| 3231 緯創 | 2 | 1 | 2026-05-21 | 2026-05-21 |
+| 3324 雙鴻 | 2 | 1 | 2026-05-21 | 2026-05-21 |
+| 5274 信驊 | 2 | 1 | 2026-05-21 | 2026-05-21 |
 
 ### 隔日實戰觀察清單
 
@@ -207,7 +221,7 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 
 ### 3711 日月光投控
 
-HiStock 2026/05/22: 外資 2980、投信 1252、法人合計 3978; 3日合計 6076
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3711）
 
 - [【10:09 即時新聞】日月光投控(3711)攻上漲停561元，受惠AMD先進封裝合作題材＋外資回補搭配中期多頭結構 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1J1N0FjalVXRWJkeTN1QmY1YlRDUGlwMnZiNlVPTFZLbHhjUHR5THJvelJQVGxOa1B4ZDhyTkhNaTdVekJQN296QXR3QlFfSHNPeHV4SUNnZEpxRkM2eFJFT1dlOU9oVTZ2ZmtPWGc4ekF2Tjk0Wllqc3lPQndDcUNWVjk1ZjRpTUVDYUR3?oc=5)
 - [【數報】盤中快報:3711(日月光投控)股價漲停鎖定在561.00元，委託買量402張。 - 富聯網](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmxESXktTVRLYWF4ZzFEZ2xlWkhRZW42ZC12d2NYempPd0RBUW0xa21TdVZ4NTNoNTdsekVCZFktMFFNRDJvekJ3YU50SFNXYTc0a1psYW9vZmM3WGsyckRWVmhxZmNXU2t3akhMaFY3a1ZfZjVWU1V1TmllbUwzLXF4cTQtd3ZodUxTcjZB?oc=5)
@@ -218,16 +232,16 @@ HiStock 2026/05/22: 外資 2980、投信 1252、法人合計 3978; 3日合計 60
 HiStock 2026/05/22: 外資 687、投信 258、法人合計 962; 3日合計 683
 
 - [【10:54 即時新聞】愛普*(6531)攻上漲停963元，CoWoS／EMIB-T題材回溫＋短線超跌後技術性強彈伴隨空單回補 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjUzMFBjVnNrMTRKb2hiMnV2NklnLW5qNDNzYkZtLU9JMm8wQldPWVU5VS1ITTczNTJxanZhNU83MzdxZUVqRXpMUHo1eF9GS3VCYWl4c3FjMUtlSVoxSGctM0xvUHcxWW1mY1FzenhmLTVNNmxQZXNoQkVmaG93aG5EX2oxd0JUZ1BqZGxn?oc=5)
-- [6531 愛普* - 危機入市別人恐懼我貪婪，早盤1000進2張-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QMXk3RjlQckhzekRNWmZqWldjd2diQ1VJSUROeDlON0xCV3lMcmx1c1VLZE9zNXE1Y1ZieVJRV3AxbmJFZjU4ZUVLUjN6X1dpQUFzOUNsNlE?oc=5)
 - [愛普*（6531）做什麼、法說有何重點？2026年第一季EPS達4.15元，IoTRAM強勁需求推升營收年增115%，S-SiCap量產佈局加速啟動｜股市話題 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMihgVBVV95cUxPbEx6SXVjQVJLdTZSQl9qNmMxMkhGdk1zMkJnbXM4QVFmUURZc0JKYzQ2eGZJb3pyR3R2aW5QVENfTElCc2xxRGpjWmd5M21pM2pqb3hYMU1KTDNiVkg0M1JhVUFwajg5c1VSaF9BVGoxVW5qUVBfcFZyeWVCVE9hYVcycGp3dlNzQXpjYm80OHFJUmVRSzVVRFp6VEUxVy11YXo0QTl5NFlsNHpNSXVTZFA5azRiVkQweExuNzhkZnJBajlfVHBEVjJONGU5Ul9hZU5HeDUyLUZOa3pRSXFQRGw3TDRZZlVwZS1xM2trV29oMC1MWDRoRHZ4UlBUWXBESm83M2JydFl1MHRnSkI5MnNmNEdPZVNvX2tYOGZWZ2l5aHMycUFUb3VHM0p0a0R6OG1Na09yWnplc1FKTHVjcmhLSzNYMk1jOEtSQkRjVlNGQ1ZWU2p3TS1XOGZIRTZaaGt5SG1wUXVfcDc2MDJ3cm50anQxVTQ2SVpCSGI4QnVfRDhzemQ3bnpzZmFPYmlyemktM08wVjZ0c1N1cEV2ZFlXdVJ2eGlIcFczRWNteGQwZ1puZGd6NjlNbnlCNGdSRzBMS2pHSFFHMDNPNUNmRmhvb2hNZXVaU2hON2pDNWlxY01jLVIybUVHc1VlNFBJbkdaWml1S280QWxlMWhPMXJ3cXZfa2ZYXzExV09mYUl1azhuZDRmR1JxeEpzM1gyMFRZWEwwWWNPbUpBRHQ4Vm5PQ08wc0ZiS0d0NUxfTG8tdS1UaDBPc2M5eGZ1blhmT21hSTE3cEx2cGtpSnVoZlJSVTRQMVBhUWt0cmxYdVd3VXpwYmJkN1N0MDRXRU1zaDZ5TWp3?oc=5)
+- [【數報】盤中快報:6531(愛普*)股價漲停鎖定在963.00元，委託買量101張。 - 富聯網](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWlKOFlsMzFMTUkxSHdxMFFCd3A1ZE9WZGZ1NWlxNVgxNGJ0OVNRRFhLZlhoOUhjYkk0UE1ZOHVTbksxcHFDWFlCbVpXV0szS3F5UWNxNDJCeVlYTVlSVWU4bElqb1NFa1E4N0J0LXlKaXpFdXNPU2h0VlFTS2YtT2tYX05TYms?oc=5)
 
 ### 3105 穩懋
 
 HiStock 2026/05/22: 外資 3924、投信 651、法人合計 5434; 3日合計 5876
 
 - [【10:51 即時新聞】穩懋(3105)攻上漲停531元，受光通訊與低軌衛星題材加溫＋法人買盤與技術多頭結構同步轉強 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFV5SlJDVzI5S0R0QkRFcmc3WThuVkMzWXlKU01zbFU4UEctcHk4R0huUDFxWlZfM2h4eFNfRXpzZWJWME5pNWZLcnduUjNFTHVYOVhlTDFSOWd0eE5fYUtEVFlxYmRGc2hqUzZuUklldXhRcE9MVzI2NVFUdUNWTlBXN1ZXZGFUcXZsOU13?oc=5)
-- [3105 穩懋- 光通訊磷化銦1.6T 雙雄奮起！！-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JY3BlQ0VZX1RhcnFtOEZoYzFSVlM2ZHBjYk5Cb09TWUtHRHlEczJhWjItNlM2ZHNUMWI0WkhhTW4yUHVSSUtCN1g0QV8tbU81bkpXdW1VS0c?oc=5)
 - [穩懋、乙盛業績看旺- 日報 - 工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5)
+- [個股：穩懋(3105)5/29受邀參加Morgan Stanley Asia AI Summit 2026 - 富聯網](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGlpYWlXVC1wbHFyeHUyT1F3djFtVmVhcGN6Q1o5OWZXRkZTS2xhM3hhbFZ3SDZaQlF3NlRSaGMtd3dXVF9Td2ZCbXdoemNlOTlaZTAwOHd0MlJiOUdqc3hfLTR0NUtlbVptaWhhREtkNE9Da2k2ZXQtYjFMNHhUUkw2Rk9MU2ph?oc=5)
 
 ### 3714 富采
 
