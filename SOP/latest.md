@@ -1,6 +1,6 @@
 # 今日短線觀察池
 
-產生時間：2026/5/22 20:06:26
+產生時間：2026/5/22 20:48:06
 
 市場基準資料：2026-05-22 官方盤後行情
 
@@ -195,8 +195,8 @@ HiStock 2026/05/22: 外資 687、投信 258、法人合計 962; 3日合計 683
 HiStock 2026/05/22: 外資 3924、投信 651、法人合計 5434; 3日合計 5876
 
 - [【10:51 即時新聞】穩懋(3105)攻上漲停531元，受光通訊與低軌衛星題材加溫＋法人買盤與技術多頭結構同步轉強 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFV5SlJDVzI5S0R0QkRFcmc3WThuVkMzWXlKU01zbFU4UEctcHk4R0huUDFxWlZfM2h4eFNfRXpzZWJWME5pNWZLcnduUjNFTHVYOVhlTDFSOWd0eE5fYUtEVFlxYmRGc2hqUzZuUklldXhRcE9MVzI2NVFUdUNWTlBXN1ZXZGFUcXZsOU13?oc=5)
-- [穩懋、乙盛業績看旺- 日報 - 工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5)
 - [【數報】盤中快報:3105(穩懋)股價漲停鎖定在531.00元，委託買量1158張。 - 富聯網](https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0w1WWxwMm4zUEl6U0IyZTNjY0RXV19KSmV4YzYtTkJYRm8wcUQ1Q2FldGJpZG1fMzZsdjVRSnpmWWVpZjJwaklMZVdwOW5CU3pKRXNKdXdPemRGQ3dGTXlNdUxZNVhKaF9sbmlQMjdsZjJFVUhjZWlSdUZvN1dmSkhSa2prY21OdFoxUkhB?oc=5)
+- [穩懋、乙盛業績看旺- 日報 - 工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5)
 
 ### 3714 富采
 
@@ -230,15 +230,15 @@ HiStock 2026/05/22: 外資 36033、投信 11、法人合計 37462; 3日合計 33
 
 - [【即時新聞】台玻股價大漲逾8% 玻璃基板概念股受市場矚目 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVVzQWNmeWQ3a3ZUY2x4OGI1WWsyVlNBSWltQllxeS1GT1RyUHhEcFcyUl9VcFUxb004WmtnNkJHRFJZb0RiaTV2dmFBNHlzcG12S3VUTlB4WC1hWG93c3o0QXpBZEdKMERaenA1LVpGTE83cXJ6OGlYNTFsbDRVUmpUaUJsaG1PM1dmODFHTXE?oc=5)
 - [【即時新聞】台玻衝刺CoPoS玻璃材料 股價盤中大漲近6%站回月線 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTBzYkd1bURudDlNVHgtY1R6M2FURXZHTVkxVU9veEhrQ1U0YUxMOWhvc2ZhVGVhMjZXdXgycHRCa0trdU85UjRiUmFTOFpJX0wyMlBaUDlqZTVPZ0lOY0dFenhZRFVxRllNRk1WczZhSll1SGFNZU1FVVVPbkp6dTYxVW95QWZ0c0xEUVVFMlQ?oc=5)
-- [1802 台玻- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手...-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jX01ycWJEaW5FdnB0S2Zwczd1R01PYm0yQjY0ZXlaSXBlMzY1MjN5THB5ZW5lNUZsOGVfVDkwbUJSSXVlck50cmc3TXU1ZmdNRHdqV1VVUWc?oc=5)
+- [1802 台玻 - 今年空軍都睡公園第一排了，搞不懂幹麻做空搞死自己-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKUzktTEl6Z2hPUzJKMTZ0eDRibTA1SWs0OEVVeGZ1cE5nbXFBNnZ2NmpQYk5yRF9IR19qZ1lEMDJPU1ZuclZEVG1NQ2d4WlE5YWl0MnNaNlQ?oc=5)
 
 ### 8996 高力
 
 HiStock 2026/05/22: 外資 696、投信 37、法人合計 773; 3日合計 556
 
 - [高力看旺AI液冷需求，近3到5年為營運倍增期- 新聞 - MoneyDJ](https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEYtVU9XbzFINkFPMnRwYlFzY0tDOV9LbFYzWE1VNlEzdWVJREFaVHlVRG51QXVBNFFBN1hzd1ZhX2VFaFZPNGh2cDdJeTFPa2RqTWk3Qi1TZEp1T2pCY0VtaXNKR1JVeUFhOVprbDJ2djdpQ2JNNHAyTUhTRWhGNWhvUk5RT1ZuWWRSSXNzcmpiZw?oc=5)
+- [【數報】盤中快報:8996(高力)股價漲停鎖定在1170.00元，委託買量149張。 - 富聯網](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVhiR0JvVnF1a1dXOUVCSl9Kc1NWS2JrUmh3MjI1MVMtemJJUHk0TXpnUHFObmtwdThYc2xOQlRuVWttaVNmWkpzbmhGT3BYODd0TFNFY1dPSHdaUlU5WG95UnhydWw2dFJpbG05U3dCcnRiZURDbEVuMlRDall2Zzh6TFU1VG1tM2xIMEVn?oc=5)
 - [【10:51 即時新聞】高力(8996)股價上漲近一成站上1250，受SOFC燃料電池＋AI資料中心電力題材加持，量能與中長多頭技術結構同步轉強 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkVGa0JKMWo1aXl5dUZKUE9VOUJWTVRoanhKek94QWpTZ1E4WkR6Si1nSTY4cTVCLTNuTnd6LWlKNW5fV2JHTFRQclo2b29QS2V1OVluOWZ4YmpwNG9qYmpLLTV3Y05uZXdDREcxRzN5ampEVnNIdUxJUDRITS0ya21jbG14SGlwdGtSeGFR?oc=5)
-- [8996 高力 - 很不給主力面子欸哈哈，拉上去又被賣下來，後面主力都懶得拉了-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE03WkFycDV1encxenlSYUIyWnJ1SDNHOXJUdVh2a1E1VUFiZVBDbk1aUHpSaWxBZi1tM3BSb0ZpWXhzdGJpZ0dwZkphY1k2TkltZzA0b3VmNWs?oc=5)
 
 ### 8039 台虹
 
@@ -247,6 +247,90 @@ HiStock 2026/05/22: 外資 8218、投信 -92、法人合計 8406; 3日合計 100
 - [【12:14 即時新聞】臺虹(8039)亮燈漲停至139元，獲利成長與車用高階材料題材帶動，強勢鎖價扭轉短線技術疲弱結構 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxNZlk4Q2NlVTJLcFFFc3lYNXZ0VFBpaHJCWVBZWFd5V1NLcUhZRWRSUG1Sc1pPX2RsdHpFSjZubVgxdWZhUGRVa1MxTUVTNjVISUJJSTR1NVVTY1o2YTRrTE1IR280VjAybUJSaE9oeHh5MWQtZUNfMFprWWJGUndtX2lVbGZTdVVQZjZVUGZB?oc=5)
 - [【即時新聞】台虹(8039)外資狂買飆漲逾7%，這「4檔概念股」多空交戰陷震盪！ - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wU1pVSGp0Q1djRlRrcjRVMUR5NXVJNW5FZHdqa0F3QkhMRjNVUFpvcjZVX014MEZxOE5qV2ttNWxSbUZPT2JPV245XzZHUEVpdkU4dFRQekM?oc=5)
 - [【數報】盤中快報:8039(台虹)股價漲停鎖定在139.00元，委託買量250張。 - 富聯網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOMkJHc3FyMnF2clVUOElpaTJyQ1A1c3V2RTE5VzFMWl9jbDZqZEZrX1JwVGtLSmdjMl94RTlONnowV2tBanZvQk9RVXhGaGM2cVc3c0ZqaWsycldQQk9xdHVNNTNZRndfNFVielRTV0NjbEYwNG5ZRktSbnViSDBmT1BKRk4xMlhuZms5QmdmSGk?oc=5)
+
+### 5274 信驊
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=5274）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=5274%20%E4%BF%A1%E9%A9%8A%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 2485 兆赫
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2485）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2485%20%E5%85%86%E8%B5%AB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 3030 德律
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3030）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3030%20%E5%BE%B7%E5%BE%8B%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 3293 鈊象
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3293）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3293%20%E9%88%8A%E8%B1%A1%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 2383 台光電
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2383）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2383%20%E5%8F%B0%E5%85%89%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 3231 緯創
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3231）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3231%20%E7%B7%AF%E5%89%B5%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 1717 長興
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=1717）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=1717%20%E9%95%B7%E8%88%88%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 8112 至上
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=8112）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=8112%20%E8%87%B3%E4%B8%8A%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 2618 長榮航
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2618）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2618%20%E9%95%B7%E6%A6%AE%E8%88%AA%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 5269 祥碩
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=5269）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=5269%20%E7%A5%A5%E7%A2%A9%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 2887 台新新光金
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2887）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2887%20%E5%8F%B0%E6%96%B0%E6%96%B0%E5%85%89%E9%87%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 2330 台積電
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2330）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2330%20%E5%8F%B0%E7%A9%8D%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 2882 國泰金
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2882）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2882%20%E5%9C%8B%E6%B3%B0%E9%87%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 2379 瑞昱
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2379）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2379%20%E7%91%9E%E6%98%B1%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
 
 ## 錯殺池 A/B級法人與新聞補充
 
@@ -289,5 +373,95 @@ HiStock 2026/05/22: 外資 -29、投信 -37、法人合計 -6; 3日合計 -379
 - [Factset 最新調查：華城(1519-TW)EPS預估上修至21.38元，預估目標價為1035元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE0yeHVBTUFpdjRxa25lSEw1VUNHVWJnUXdGNUF3Z0R5Mm45WjRWUWtUOWRhYzNrSDJuWWJRSWdpc21mZWwycmNhekJLdDFUc2lRbUxiX1RwVW9vNFh4QXpvSGE2UFZwVjlVM2o5ME1wU2d2T1ZJSnc?oc=5)
 - [【即時新聞】華城最新狂攬150億訂單，外資單日倒貨千張還能追嗎？ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTJBVTF4UlZKZzg3UTdSeUxZb1J2UHlLemxYNDVoU0l4a0drX21FT2lSWjZSWnZvcTgyZVZuWFprcm8tYXpvSDh0VGRjaEQxdFRCS3JaTkpRT2NpeGZXS1ByUE9ZbDFfcXVfVzJoZVpYZFlqMTZSWV9YcUF3cE1FR0NLenZJZElkLVVLaEEwRW4?oc=5)
 - [1519 華城 - 全力加碼！越跌越買，上看-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfemRtVVU3SEc4WWhjOVZiQUE3alY2YlZxRWU2Rmt0V1NUd3Jpb2JTX0UwTml6aV9ZYkd6dzNKTHVDMFpBTzIycjdWRkJhQ2tkUHEwZV94YUM?oc=5)
+
+### 3715 定穎投控
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3715）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3715%20%E5%AE%9A%E7%A9%8E%E6%8A%95%E6%8E%A7%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 3131 弘塑
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3131）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3131%20%E5%BC%98%E5%A1%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 3081 聯亞
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3081）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3081%20%E8%81%AF%E4%BA%9E%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 1815 富喬
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=1815）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=1815%20%E5%AF%8C%E5%96%AC%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 3529 力旺
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3529）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3529%20%E5%8A%9B%E6%97%BA%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 3324 雙鴻
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3324）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3324%20%E9%9B%99%E9%B4%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 6187 萬潤
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=6187）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=6187%20%E8%90%AC%E6%BD%A4%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 2382 廣達
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2382）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2382%20%E5%BB%A3%E9%81%94%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 2449 京元電子
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2449）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2449%20%E4%BA%AC%E5%85%83%E9%9B%BB%E5%AD%90%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 1590 亞德客-KY
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=1590）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=1590%20%E4%BA%9E%E5%BE%B7%E5%AE%A2-KY%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 3017 奇鋐
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3017）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3017%20%E5%A5%87%E9%8B%90%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 4967 十銓
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=4967）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=4967%20%E5%8D%81%E9%8A%93%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 8150 南茂
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=8150）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=8150%20%E5%8D%97%E8%8C%82%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 2892 第一金
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2892）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2892%20%E7%AC%AC%E4%B8%80%E9%87%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+
+### 6805 富世達
+
+HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=6805）
+
+- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=6805%20%E5%AF%8C%E4%B8%96%E9%81%94%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
 
 > 提醒：這是短線觀察清單，不是買賣建議。隔日盤中只做確認：有沒有過觸發價、量能是否配合、是否跌破防守價。

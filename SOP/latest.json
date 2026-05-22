@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026/5/22 20:06:26",
+  "generatedAt": "2026/5/22 20:48:06",
   "mode": "evening",
   "marketDate": "2026-05-22",
   "marketDateTwse": "20260522",
@@ -920,7 +920,7 @@
     "success": true,
     "cdpConnected": true,
     "apiAvailable": true,
-    "chartSymbol": "TWSE_DLY:2409",
+    "chartSymbol": "TWSE_DLY:3189",
     "chartResolution": "1D"
   },
   "hotPool": [
@@ -1647,9 +1647,9 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "1802 台玻- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jX01ycWJEaW5FdnB0S2Zwczd1R01PYm0yQjY0ZXlaSXBlMzY1MjN5THB5ZW5lNUZsOGVfVDkwbUJSSXVlck50cmc3TXU1ZmdNRHdqV1VVUWc?oc=5",
-            "pubDate": "Sun, 17 May 2026 23:21:29 GMT",
+            "title": "1802 台玻 - 今年空軍都睡公園第一排了，搞不懂幹麻做空搞死自己-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKUzktTEl6Z2hPUzJKMTZ0eDRibTA1SWs0OEVVeGZ1cE5nbXFBNnZ2NmpQYk5yRF9IR19qZ1lEMDJPU1ZuclZEVG1NQ2d4WlE5YWl0MnNaNlQ?oc=5",
+            "pubDate": "Mon, 04 May 2026 23:10:53 GMT",
             "source": "CMoney"
           }
         ]
@@ -1767,16 +1767,16 @@
             "source": "MoneyDJ"
           },
           {
+            "title": "【數報】盤中快報:8996(高力)股價漲停鎖定在1170.00元，委託買量149張。 - 富聯網",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVhiR0JvVnF1a1dXOUVCSl9Kc1NWS2JrUmh3MjI1MVMtemJJUHk0TXpnUHFObmtwdThYc2xOQlRuVWttaVNmWkpzbmhGT3BYODd0TFNFY1dPSHdaUlU5WG95UnhydWw2dFJpbG05U3dCcnRiZURDbEVuMlRDall2Zzh6TFU1VG1tM2xIMEVn?oc=5",
+            "pubDate": "Fri, 22 May 2026 02:35:00 GMT",
+            "source": "富聯網"
+          },
+          {
             "title": "【10:51 即時新聞】高力(8996)股價上漲近一成站上1250，受SOFC燃料電池＋AI資料中心電力題材加持，量能與中長多頭技術結構同步轉強 - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkVGa0JKMWo1aXl5dUZKUE9VOUJWTVRoanhKek94QWpTZ1E4WkR6Si1nSTY4cTVCLTNuTnd6LWlKNW5fV2JHTFRQclo2b29QS2V1OVluOWZ4YmpwNG9qYmpLLTV3Y05uZXdDREcxRzN5ampEVnNIdUxJUDRITS0ya21jbG14SGlwdGtSeGFR?oc=5",
             "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
-          },
-          {
-            "title": "8996 高力 - 很不給主力面子欸哈哈，拉上去又被賣下來，後面主力都懶得拉了-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03WkFycDV1encxenlSYUIyWnJ1SDNHOXJUdVh2a1E1VUFiZVBDbk1aUHpSaWxBZi1tM3BSb0ZpWXhzdGJpZ0dwZkphY1k2TkltZzA0b3VmNWs?oc=5",
-            "pubDate": "Tue, 19 May 2026 11:07:23 GMT",
-            "source": "CMoney"
           }
         ]
       }
@@ -5167,16 +5167,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "穩懋、乙盛業績看旺- 日報 - 工商時報",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5",
-            "pubDate": "Thu, 21 May 2026 19:00:00 GMT",
-            "source": "工商時報"
-          },
-          {
             "title": "【數報】盤中快報:3105(穩懋)股價漲停鎖定在531.00元，委託買量1158張。 - 富聯網",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0w1WWxwMm4zUEl6U0IyZTNjY0RXV19KSmV4YzYtTkJYRm8wcUQ1Q2FldGJpZG1fMzZsdjVRSnpmWWVpZjJwaklMZVdwOW5CU3pKRXNKdXdPemRGQ3dGTXlNdUxZNVhKaF9sbmlQMjdsZjJFVUhjZWlSdUZvN1dmSkhSa2prY21OdFoxUkhB?oc=5",
             "pubDate": "Fri, 22 May 2026 02:58:00 GMT",
             "source": "富聯網"
+          },
+          {
+            "title": "穩懋、乙盛業績看旺- 日報 - 工商時報",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5",
+            "pubDate": "Thu, 21 May 2026 19:00:00 GMT",
+            "source": "工商時報"
           }
         ]
       }
@@ -6665,16 +6665,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "穩懋、乙盛業績看旺- 日報 - 工商時報",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5",
-            "pubDate": "Thu, 21 May 2026 19:00:00 GMT",
-            "source": "工商時報"
-          },
-          {
             "title": "【數報】盤中快報:3105(穩懋)股價漲停鎖定在531.00元，委託買量1158張。 - 富聯網",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0w1WWxwMm4zUEl6U0IyZTNjY0RXV19KSmV4YzYtTkJYRm8wcUQ1Q2FldGJpZG1fMzZsdjVRSnpmWWVpZjJwaklMZVdwOW5CU3pKRXNKdXdPemRGQ3dGTXlNdUxZNVhKaF9sbmlQMjdsZjJFVUhjZWlSdUZvN1dmSkhSa2prY21OdFoxUkhB?oc=5",
             "pubDate": "Fri, 22 May 2026 02:58:00 GMT",
             "source": "富聯網"
+          },
+          {
+            "title": "穩懋、乙盛業績看旺- 日報 - 工商時報",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5",
+            "pubDate": "Thu, 21 May 2026 19:00:00 GMT",
+            "source": "工商時報"
           }
         ]
       }
@@ -6798,9 +6798,9 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "1802 台玻- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jX01ycWJEaW5FdnB0S2Zwczd1R01PYm0yQjY0ZXlaSXBlMzY1MjN5THB5ZW5lNUZsOGVfVDkwbUJSSXVlck50cmc3TXU1ZmdNRHdqV1VVUWc?oc=5",
-            "pubDate": "Sun, 17 May 2026 23:21:29 GMT",
+            "title": "1802 台玻 - 今年空軍都睡公園第一排了，搞不懂幹麻做空搞死自己-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKUzktTEl6Z2hPUzJKMTZ0eDRibTA1SWs0OEVVeGZ1cE5nbXFBNnZ2NmpQYk5yRF9IR19qZ1lEMDJPU1ZuclZEVG1NQ2d4WlE5YWl0MnNaNlQ?oc=5",
+            "pubDate": "Mon, 04 May 2026 23:10:53 GMT",
             "source": "CMoney"
           }
         ]
@@ -6918,16 +6918,16 @@
             "source": "MoneyDJ"
           },
           {
+            "title": "【數報】盤中快報:8996(高力)股價漲停鎖定在1170.00元，委託買量149張。 - 富聯網",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVhiR0JvVnF1a1dXOUVCSl9Kc1NWS2JrUmh3MjI1MVMtemJJUHk0TXpnUHFObmtwdThYc2xOQlRuVWttaVNmWkpzbmhGT3BYODd0TFNFY1dPSHdaUlU5WG95UnhydWw2dFJpbG05U3dCcnRiZURDbEVuMlRDall2Zzh6TFU1VG1tM2xIMEVn?oc=5",
+            "pubDate": "Fri, 22 May 2026 02:35:00 GMT",
+            "source": "富聯網"
+          },
+          {
             "title": "【10:51 即時新聞】高力(8996)股價上漲近一成站上1250，受SOFC燃料電池＋AI資料中心電力題材加持，量能與中長多頭技術結構同步轉強 - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkVGa0JKMWo1aXl5dUZKUE9VOUJWTVRoanhKek94QWpTZ1E4WkR6Si1nSTY4cTVCLTNuTnd6LWlKNW5fV2JHTFRQclo2b29QS2V1OVluOWZ4YmpwNG9qYmpLLTV3Y05uZXdDREcxRzN5ampEVnNIdUxJUDRITS0ya21jbG14SGlwdGtSeGFR?oc=5",
             "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
-          },
-          {
-            "title": "8996 高力 - 很不給主力面子欸哈哈，拉上去又被賣下來，後面主力都懶得拉了-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03WkFycDV1encxenlSYUIyWnJ1SDNHOXJUdVh2a1E1VUFiZVBDbk1aUHpSaWxBZi1tM3BSb0ZpWXhzdGJpZ0dwZkphY1k2TkltZzA0b3VmNWs?oc=5",
-            "pubDate": "Tue, 19 May 2026 11:07:23 GMT",
-            "source": "CMoney"
           }
         ]
       }
