@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026/5/22 21:01:34",
+  "generatedAt": "2026/5/22 21:50:13",
   "mode": "evening",
   "marketDate": "2026-05-22",
   "marketDateTwse": "20260522",
@@ -301,38 +301,67 @@
     ]
   },
   "previousFollowup": {
-    "generatedAt": "2026/5/22 16:51:46",
+    "generatedAt": "2026/5/22 21:21:55",
     "mode": "intraday",
-    "sourceReport": "D:\\00000ABOT\\TV\\scanner\\reports\\shortlist-2026-05-21-evening.json",
-    "sourceMarketDate": "2026-05-21",
+    "sourceReport": "D:\\00000ABOT\\TV\\scanner\\reports\\shortlist-2026-05-22-evening.json",
+    "sourceMarketDate": "2026-05-22",
     "followupDate": "2026-05-22",
     "tvHealth": {
       "success": true,
       "cdpConnected": true,
       "apiAvailable": true,
-      "chartSymbol": "TWSE_DLY:1605",
+      "chartSymbol": "TWSE_DLY:3189",
       "chartResolution": "1D"
     },
     "results": [
       {
-        "code": "3443",
-        "name": "創意",
-        "symbol": "TWSE:3443",
+        "code": "6770",
+        "name": "力積電",
+        "symbol": "TWSE:6770",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "待確認",
+        "trendType": "打底轉強",
+        "sourcePrice": 63.79999923706055,
+        "price": 63.8,
+        "open": 60.3,
+        "high": 64.8,
+        "low": 60.2,
+        "volume": 218295235,
+        "estimatedVolume": 218295235,
+        "avgVol20": 172913991.9,
+        "estimatedVolRatio20": 1.2624498029415976,
+        "prevClose": 63.79999923706055,
+        "trigger": 67,
+        "defense": 57.38,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0.0000011958298736775657,
+        "changeFromSourcePct": 0.0000011958298736775657,
+        "intradayLocation": 0.7826086956521736
+      },
+      {
+        "code": "3711",
+        "name": "日月光投控",
+        "symbol": "TWSE:3711",
         "poolLabel": "熱門追蹤",
-        "sopGrade": "可執行",
+        "sopGrade": "待確認",
         "trendType": "趨勢表態",
-        "sourcePrice": 5065,
-        "price": 5140,
-        "open": 5105,
-        "high": 5195,
-        "low": 4955,
-        "volume": 2682444,
-        "estimatedVolume": 2682444,
-        "avgVol20": 2442586,
-        "estimatedVolRatio20": 1.098198384826573,
-        "prevClose": 5065,
-        "trigger": 5065,
-        "defense": 4963.7,
+        "sourcePrice": 561,
+        "price": 561,
+        "open": 535,
+        "high": 561,
+        "low": 524,
+        "volume": 31183324,
+        "estimatedVolume": 31183324,
+        "avgVol20": 26154366.7,
+        "estimatedVolRatio20": 1.1922798344798002,
+        "prevClose": 561,
+        "trigger": 561,
+        "defense": 532.9,
         "status": "跌破後收復",
         "action": "等收盤確認",
         "flags": [
@@ -340,372 +369,225 @@
           "量能推估不足",
           "盤中位置偏強"
         ],
-        "changePct": 1.4807502467917077,
-        "changeFromSourcePct": 1.4807502467917077,
-        "intradayLocation": 0.7708333333333334
-      },
-      {
-        "code": "2454",
-        "name": "聯發科",
-        "symbol": "TWSE:2454",
-        "poolLabel": "熱門追蹤",
-        "sopGrade": "可執行",
-        "trendType": "趨勢表態",
-        "sourcePrice": 3550,
-        "price": 3860,
-        "open": 3765,
-        "high": 3880,
-        "low": 3675,
-        "volume": 20774466,
-        "estimatedVolume": 20774466,
-        "avgVol20": 13741234.45,
-        "estimatedVolRatio20": 1.5118340404999058,
-        "prevClose": 3550,
-        "trigger": 3550,
-        "defense": 3470.5,
-        "status": "盤中觸發",
-        "action": "可依紀律找買點",
-        "flags": [
-          "站上觸發",
-          "量能推估足",
-          "盤中位置偏強"
-        ],
-        "changePct": 8.732394366197182,
-        "changeFromSourcePct": 8.732394366197182,
-        "intradayLocation": 0.9024390243902439
-      },
-      {
-        "code": "4919",
-        "name": "新唐",
-        "symbol": "TWSE:4919",
-        "poolLabel": "熱門追蹤",
-        "sopGrade": "可執行",
-        "trendType": "趨勢表態",
-        "sourcePrice": 181.5,
-        "price": 199.5,
-        "open": 190.5,
-        "high": 199.5,
-        "low": 188.5,
-        "volume": 42517850,
-        "estimatedVolume": 42517850,
-        "avgVol20": 23237621.85,
-        "estimatedVolRatio20": 1.8296988510465841,
-        "prevClose": 181.5,
-        "trigger": 181.5,
-        "defense": 172.4,
-        "status": "盤中觸發",
-        "action": "可依紀律找買點",
-        "flags": [
-          "站上觸發",
-          "量能推估足",
-          "盤中位置偏強"
-        ],
-        "changePct": 9.917355371900827,
-        "changeFromSourcePct": 9.917355371900827,
+        "changePct": 0,
+        "changeFromSourcePct": 0,
         "intradayLocation": 1
       },
       {
-        "code": "3037",
-        "name": "欣興",
-        "symbol": "TWSE:3037",
+        "code": "6531",
+        "name": "愛普*",
+        "symbol": "TWSE:6531",
         "poolLabel": "熱門追蹤",
         "sopGrade": "待確認",
         "trendType": "趨勢表態",
-        "sourcePrice": 905,
-        "price": 970,
-        "open": 932,
-        "high": 986,
-        "low": 931,
-        "volume": 39403962,
-        "estimatedVolume": 39403962,
-        "avgVol20": 27851928.8,
-        "estimatedVolRatio20": 1.41476600356669,
-        "prevClose": 905,
-        "trigger": 905,
-        "defense": 859.8,
-        "status": "盤中觸發",
-        "action": "可依紀律找買點",
+        "sourcePrice": 963,
+        "price": 963,
+        "open": 919,
+        "high": 963,
+        "low": 906,
+        "volume": 7730956,
+        "estimatedVolume": 7730956,
+        "avgVol20": 7553761.55,
+        "estimatedVolRatio20": 1.0234577764769395,
+        "prevClose": 963,
+        "trigger": 1010,
+        "defense": 943.7,
+        "status": "跌破後收復",
+        "action": "等收盤確認",
         "flags": [
-          "站上觸發",
-          "量能推估足",
-          "盤中位置偏強"
-        ],
-        "changePct": 7.18232044198895,
-        "changeFromSourcePct": 7.18232044198895,
-        "intradayLocation": 0.7090909090909091
-      },
-      {
-        "code": "2409",
-        "name": "友達",
-        "symbol": "TWSE:2409",
-        "poolLabel": "轉強潛伏",
-        "sopGrade": "可執行",
-        "trendType": "打底轉強",
-        "sourcePrice": 20.200000762939453,
-        "price": 22.2,
-        "open": 20.85,
-        "high": 22.2,
-        "low": 20.55,
-        "volume": 394425774,
-        "estimatedVolume": 394425774,
-        "avgVol20": 266088440.2,
-        "estimatedVolRatio20": 1.482310820054933,
-        "prevClose": 20.200000762939453,
-        "trigger": 20.7,
-        "defense": 18.07,
-        "status": "盤中觸發",
-        "action": "可依紀律找買點",
-        "flags": [
-          "站上觸發",
-          "量能推估足",
-          "盤中位置偏強"
-        ],
-        "changePct": 9.900985948128803,
-        "changeFromSourcePct": 9.900985948128803,
-        "intradayLocation": 1
-      },
-      {
-        "code": "3665",
-        "name": "貿聯-KY",
-        "symbol": "TWSE:3665",
-        "poolLabel": "錯殺反彈",
-        "sopGrade": "待確認",
-        "trendType": "錯殺反彈",
-        "sourcePrice": 2155,
-        "price": 2225,
-        "open": 2255,
-        "high": 2270,
-        "low": 2200,
-        "volume": 2291246,
-        "estimatedVolume": 2291246,
-        "avgVol20": 3667599.45,
-        "estimatedVolRatio20": 0.6247263451847229,
-        "prevClose": 2155,
-        "trigger": 2046,
-        "defense": 1897.6,
-        "status": "價過量不足",
-        "action": "等量能補上",
-        "flags": [
-          "站上觸發",
-          "量能推估不足"
-        ],
-        "changePct": 3.248259860788863,
-        "changeFromSourcePct": 3.248259860788863,
-        "intradayLocation": 0.35714285714285715
-      },
-      {
-        "code": "3324",
-        "name": "雙鴻",
-        "symbol": "TPEX:3324",
-        "poolLabel": "錯殺反彈",
-        "sopGrade": "待確認",
-        "trendType": "錯殺反彈",
-        "sourcePrice": 1000,
-        "price": 1010,
-        "open": 1035,
-        "high": 1040,
-        "low": 1005,
-        "volume": 3661887,
-        "estimatedVolume": 3661887,
-        "avgVol20": 4577982.7,
-        "estimatedVolRatio20": 0.7998909650750755,
-        "prevClose": 1000,
-        "trigger": 976.4,
-        "defense": 923.6,
-        "status": "價過量不足",
-        "action": "等量能補上",
-        "flags": [
-          "站上觸發",
-          "量能推估不足",
-          "盤中位置偏弱"
-        ],
-        "changePct": 1,
-        "changeFromSourcePct": 1,
-        "intradayLocation": 0.14285714285714285
-      },
-      {
-        "code": "2324",
-        "name": "仁寶",
-        "symbol": "TWSE:2324",
-        "poolLabel": "熱門追蹤",
-        "sopGrade": "待確認",
-        "trendType": "趨勢表態",
-        "sourcePrice": 30.35,
-        "price": 31.5,
-        "open": 30.95,
-        "high": 32.2,
-        "low": 30.5,
-        "volume": 199926271,
-        "estimatedVolume": 199926271,
-        "avgVol20": 56344951.8,
-        "estimatedVolRatio20": 3.548255249372669,
-        "prevClose": 30.35,
-        "trigger": 30.35,
-        "defense": 29.46,
-        "status": "盤中觸發",
-        "action": "可依紀律找買點",
-        "flags": [
-          "站上觸發",
-          "量能推估足"
-        ],
-        "changePct": 3.78912685337726,
-        "changeFromSourcePct": 3.78912685337726,
-        "intradayLocation": 0.5882352941176461
-      },
-      {
-        "code": "2489",
-        "name": "瑞軒",
-        "symbol": "TWSE:2489",
-        "poolLabel": "熱門追蹤",
-        "sopGrade": "待確認",
-        "trendType": "趨勢表態",
-        "sourcePrice": 46.8,
-        "price": 51.4,
-        "open": 50.7,
-        "high": 51.4,
-        "low": 50.7,
-        "volume": 29542292,
-        "estimatedVolume": 29542292,
-        "avgVol20": 46698679.7,
-        "estimatedVolRatio20": 0.6326151443634925,
-        "prevClose": 46.8,
-        "trigger": 46.8,
-        "defense": 44.46,
-        "status": "價過量不足",
-        "action": "等量能補上",
-        "flags": [
-          "站上觸發",
+          "防守曾失守",
           "量能推估不足",
           "盤中位置偏強"
         ],
-        "changePct": 9.829059829059833,
-        "changeFromSourcePct": 9.829059829059833,
+        "changePct": 0,
+        "changeFromSourcePct": 0,
         "intradayLocation": 1
       },
       {
-        "code": "2421",
-        "name": "建準",
-        "symbol": "TWSE:2421",
+        "code": "2367",
+        "name": "燿華",
+        "symbol": "TWSE:2367",
         "poolLabel": "轉強潛伏",
         "sopGrade": "待確認",
         "trendType": "打底轉強",
-        "sourcePrice": 152,
-        "price": 158.5,
-        "open": 154.5,
-        "high": 163.5,
-        "low": 153.5,
-        "volume": 16310199,
-        "estimatedVolume": 16310199,
-        "avgVol20": 5464184.65,
-        "estimatedVolRatio20": 2.9849282271235102,
-        "prevClose": 152,
-        "trigger": 159,
-        "defense": 143.2,
+        "sourcePrice": 66.80000305175781,
+        "price": 66.8,
+        "open": 64.5,
+        "high": 67.5,
+        "low": 64.5,
+        "volume": 61068731,
+        "estimatedVolume": 61068731,
+        "avgVol20": 51822194.25,
+        "estimatedVolRatio20": 1.1784281210747845,
+        "prevClose": 66.80000305175781,
+        "trigger": 67.5,
+        "defense": 60.48,
         "status": "觸發後拉回",
         "action": "等重新站回",
         "flags": [
           "假突破風險",
-          "量能推估足"
+          "量能推估不足",
+          "盤中位置偏強"
         ],
-        "changePct": 4.276315789473684,
-        "changeFromSourcePct": 4.276315789473684,
-        "intradayLocation": 0.5
+        "changePct": -0.000004568499514854236,
+        "changeFromSourcePct": -0.000004568499514854236,
+        "intradayLocation": 0.7666666666666657
       },
       {
-        "code": "1717",
-        "name": "長興",
-        "symbol": "TWSE:1717",
+        "code": "3105",
+        "name": "穩懋",
+        "symbol": "TPEX:3105",
+        "poolLabel": "熱門追蹤",
+        "sopGrade": "待確認",
+        "trendType": "趨勢表態",
+        "sourcePrice": 531,
+        "price": 531,
+        "open": 506,
+        "high": 531,
+        "low": 499.5,
+        "volume": 28968844,
+        "estimatedVolume": 28968844,
+        "avgVol20": 30702547.2,
+        "estimatedVolRatio20": 0.9435322682282206,
+        "prevClose": 531,
+        "trigger": 531,
+        "defense": 504.4,
+        "status": "跌破後收復",
+        "action": "等收盤確認",
+        "flags": [
+          "防守曾失守",
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 1
+      },
+      {
+        "code": "1802",
+        "name": "台玻",
+        "symbol": "TWSE:1802",
         "poolLabel": "轉強潛伏",
         "sopGrade": "待確認",
         "trendType": "打底轉強",
-        "sourcePrice": 79.69999694824219,
-        "price": 83,
-        "open": 80.6,
-        "high": 84.4,
-        "low": 80.1,
-        "volume": 67986073,
-        "estimatedVolume": 67986073,
-        "avgVol20": 48488105.1,
-        "estimatedVolRatio20": 1.4021185785624772,
-        "prevClose": 79.69999694824219,
-        "trigger": 87.8,
-        "defense": 73.5,
+        "sourcePrice": 70.5,
+        "price": 70.5,
+        "open": 67.1,
+        "high": 70.6,
+        "low": 67,
+        "volume": 125407590,
+        "estimatedVolume": 125407590,
+        "avgVol20": 104363274.3,
+        "estimatedVolRatio20": 1.2016448395391137,
+        "prevClose": 70.5,
+        "trigger": 75.5,
+        "defense": 66.32,
         "status": "未觸發",
         "action": "不動作",
         "flags": [
           "量能推估足",
           "盤中位置偏強"
         ],
-        "changePct": 4.140530963760088,
-        "changeFromSourcePct": 4.140530963760088,
-        "intradayLocation": 0.6744186046511623
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.9722222222222238
       },
       {
-        "code": "3131",
-        "name": "弘塑",
-        "symbol": "TPEX:3131",
-        "poolLabel": "錯殺反彈",
-        "sopGrade": "待確認",
-        "trendType": "錯殺反彈",
-        "sourcePrice": 2700,
-        "price": 2820,
-        "open": 2750,
-        "high": 2910,
-        "low": 2735,
-        "volume": 542319,
-        "estimatedVolume": 542319,
-        "avgVol20": 849458.3,
-        "estimatedVolRatio20": 0.6384292201276979,
-        "prevClose": 2700,
-        "trigger": 2701,
-        "defense": 2583.9,
-        "status": "價過量不足",
-        "action": "等量能補上",
-        "flags": [
-          "站上觸發",
-          "量能推估不足"
-        ],
-        "changePct": 4.444444444444445,
-        "changeFromSourcePct": 4.444444444444445,
-        "intradayLocation": 0.4857142857142857
-      },
-      {
-        "code": "3706",
-        "name": "神達",
-        "symbol": "TWSE:3706",
+        "code": "8996",
+        "name": "高力",
+        "symbol": "TWSE:8996",
         "poolLabel": "轉強潛伏",
         "sopGrade": "待確認",
         "trendType": "打底轉強",
-        "sourcePrice": 83.5,
-        "price": 87.8,
-        "open": 84.3,
-        "high": 88.4,
-        "low": 83.6,
-        "volume": 37196613,
-        "estimatedVolume": 37196613,
-        "avgVol20": 14296100,
-        "estimatedVolRatio20": 2.6018713495288925,
-        "prevClose": 83.5,
-        "trigger": 89.2,
-        "defense": 81,
+        "sourcePrice": 1170,
+        "price": 1170,
+        "open": 1110,
+        "high": 1170,
+        "low": 1110,
+        "volume": 3288258,
+        "estimatedVolume": 3288258,
+        "avgVol20": 2806765.6,
+        "estimatedVolRatio20": 1.1715470647067927,
+        "prevClose": 1170,
+        "trigger": 1310,
+        "defense": 1078.2,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 1
+      },
+      {
+        "code": "3714",
+        "name": "富采",
+        "symbol": "TWSE:3714",
+        "poolLabel": "熱門追蹤",
+        "sopGrade": "待確認",
+        "trendType": "趨勢表態",
+        "sourcePrice": 81.4,
+        "price": 81.4,
+        "open": 75.8,
+        "high": 81.4,
+        "low": 74.5,
+        "volume": 76568242,
+        "estimatedVolume": 76568242,
+        "avgVol20": 28278095.35,
+        "estimatedVolRatio20": 2.7076873831957,
+        "prevClose": 81.4,
+        "trigger": 81.4,
+        "defense": 77.33,
+        "status": "跌破後收復",
+        "action": "等收盤確認",
+        "flags": [
+          "防守曾失守",
+          "量能推估足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 1
+      },
+      {
+        "code": "8039",
+        "name": "台虹",
+        "symbol": "TWSE:8039",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "待確認",
+        "trendType": "打底轉強",
+        "sourcePrice": 151,
+        "price": 151,
+        "open": 141,
+        "high": 152.5,
+        "low": 141,
+        "volume": 21867086,
+        "estimatedVolume": 21867086,
+        "avgVol20": 14537001.9,
+        "estimatedVolRatio20": 1.504236303360461,
+        "prevClose": 151,
+        "trigger": 162.5,
+        "defense": 135.4,
         "status": "未觸發",
         "action": "不動作",
         "flags": [
           "量能推估足",
           "盤中位置偏強"
         ],
-        "changePct": 5.149700598802392,
-        "changeFromSourcePct": 5.149700598802392,
-        "intradayLocation": 0.8749999999999986
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.8695652173913043
       },
       {
         "code": "5274",
         "name": "信驊",
         "symbol": "TPEX:5274",
-        "poolLabel": "錯殺反彈",
+        "poolLabel": "轉強潛伏",
         "sopGrade": "待確認",
-        "trendType": "錯殺反彈",
-        "sourcePrice": 16440,
+        "trendType": "打底轉強",
+        "sourcePrice": 17780,
         "price": 17780,
         "open": 17235,
         "high": 17780,
@@ -714,68 +596,68 @@
         "estimatedVolume": 355918,
         "avgVol20": 373020.4,
         "estimatedVolRatio20": 0.9541515691903176,
-        "prevClose": 16440,
-        "trigger": 16254,
-        "defense": 15132.6,
-        "status": "盤中觸發",
-        "action": "可依紀律找買點",
+        "prevClose": 17780,
+        "trigger": 19195,
+        "defense": 16285,
+        "status": "跌破後收復",
+        "action": "等收盤確認",
         "flags": [
-          "站上觸發",
+          "防守曾失守",
           "量能推估不足",
           "盤中位置偏強"
         ],
-        "changePct": 8.150851581508515,
-        "changeFromSourcePct": 8.150851581508515,
+        "changePct": 0,
+        "changeFromSourcePct": 0,
         "intradayLocation": 1
       },
       {
-        "code": "2618",
-        "name": "長榮航",
-        "symbol": "TWSE:2618",
+        "code": "2485",
+        "name": "兆赫",
+        "symbol": "TWSE:2485",
         "poolLabel": "轉強潛伏",
         "sopGrade": "待確認",
         "trendType": "打底轉強",
-        "sourcePrice": 35.29999923706055,
-        "price": 35.5,
-        "open": 35.5,
-        "high": 35.65,
-        "low": 35.1,
-        "volume": 45237975,
-        "estimatedVolume": 45237975,
-        "avgVol20": 30089272,
-        "estimatedVolRatio20": 1.5034586081045762,
-        "prevClose": 35.29999923706055,
-        "trigger": 36.2,
-        "defense": 33.7,
+        "sourcePrice": 73,
+        "price": 73,
+        "open": 70.3,
+        "high": 73.5,
+        "low": 70.1,
+        "volume": 36889592,
+        "estimatedVolume": 36889592,
+        "avgVol20": 40087615.65,
+        "estimatedVolRatio20": 0.9202241490758256,
+        "prevClose": 73,
+        "trigger": 76.9,
+        "defense": 65.72,
         "status": "未觸發",
         "action": "不動作",
         "flags": [
-          "量能推估足",
+          "量能推估不足",
           "盤中位置偏強"
         ],
-        "changePct": 0.5665744115072885,
-        "changeFromSourcePct": 0.5665744115072885,
-        "intradayLocation": 0.7272727272727284
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.8529411764705885
       },
       {
-        "code": "1519",
-        "name": "華城",
-        "symbol": "TWSE:1519",
+        "code": "2337",
+        "name": "旺宏",
+        "symbol": "TWSE:2337",
         "poolLabel": "錯殺反彈",
         "sopGrade": "待確認",
         "trendType": "錯殺反彈",
-        "sourcePrice": 800,
-        "price": 826,
-        "open": 809,
-        "high": 835,
-        "low": 802,
-        "volume": 1840162,
-        "estimatedVolume": 1840162,
-        "avgVol20": 3399279,
-        "estimatedVolRatio20": 0.5413389133401524,
-        "prevClose": 800,
-        "trigger": 796,
-        "defense": 778.9,
+        "sourcePrice": 149.5,
+        "price": 149.5,
+        "open": 144,
+        "high": 152.5,
+        "low": 143.5,
+        "volume": 112827275,
+        "estimatedVolume": 112827275,
+        "avgVol20": 194372545.15,
+        "estimatedVolRatio20": 0.5804691959604151,
+        "prevClose": 149.5,
+        "trigger": 149,
+        "defense": 134.4,
         "status": "價過量不足",
         "action": "等量能補上",
         "flags": [
@@ -783,9 +665,183 @@
           "量能推估不足",
           "盤中位置偏強"
         ],
-        "changePct": 3.25,
-        "changeFromSourcePct": 3.25,
-        "intradayLocation": 0.7272727272727273
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.6666666666666666
+      },
+      {
+        "code": "3030",
+        "name": "德律",
+        "symbol": "TWSE:3030",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "待確認",
+        "trendType": "觀察",
+        "sourcePrice": 419.5,
+        "price": 419.5,
+        "open": 395,
+        "high": 419.5,
+        "low": 395,
+        "volume": 5603787,
+        "estimatedVolume": 5603787,
+        "avgVol20": 4897975.6,
+        "estimatedVolRatio20": 1.1441026778491914,
+        "prevClose": 419.5,
+        "trigger": 435.5,
+        "defense": 370.7,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 1
+      },
+      {
+        "code": "3293",
+        "name": "鈊象",
+        "symbol": "TPEX:3293",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "待確認",
+        "trendType": "打底轉強",
+        "sourcePrice": 748,
+        "price": 748,
+        "open": 746,
+        "high": 756,
+        "low": 741,
+        "volume": 2169761,
+        "estimatedVolume": 2169761,
+        "avgVol20": 1638364.1,
+        "estimatedVolRatio20": 1.324346035170082,
+        "prevClose": 748,
+        "trigger": 770,
+        "defense": 721.5,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估足"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.4666666666666667
+      },
+      {
+        "code": "8021",
+        "name": "尖點",
+        "symbol": "TWSE:8021",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "待確認",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 422,
+        "price": 422,
+        "open": 396.5,
+        "high": 422,
+        "low": 396,
+        "volume": 6017069,
+        "estimatedVolume": 6017069,
+        "avgVol20": 6563164.1,
+        "estimatedVolRatio20": 0.9167939287088678,
+        "prevClose": 422,
+        "trigger": 391.9,
+        "defense": 358.3,
+        "status": "盤中觸發",
+        "action": "可依紀律找買點",
+        "flags": [
+          "站上觸發",
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 1
+      },
+      {
+        "code": "2368",
+        "name": "金像電",
+        "symbol": "TWSE:2368",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "待確認",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 1330,
+        "price": 1330,
+        "open": 1325,
+        "high": 1365,
+        "low": 1305,
+        "volume": 5646399,
+        "estimatedVolume": 5646399,
+        "avgVol20": 6418557.15,
+        "estimatedVolRatio20": 0.879699108077584,
+        "prevClose": 1330,
+        "trigger": 1305,
+        "defense": 1229.4,
+        "status": "價過量不足",
+        "action": "等量能補上",
+        "flags": [
+          "站上觸發",
+          "量能推估不足"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.4166666666666667
+      },
+      {
+        "code": "6510",
+        "name": "精測",
+        "symbol": "TPEX:6510",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "待確認",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 3405,
+        "price": 3405,
+        "open": 3410,
+        "high": 3510,
+        "low": 3300,
+        "volume": 697009,
+        "estimatedVolume": 697009,
+        "avgVol20": 979097.65,
+        "estimatedVolRatio20": 0.7118891563063193,
+        "prevClose": 3405,
+        "trigger": 3495,
+        "defense": 3283.1,
+        "status": "觸發後拉回",
+        "action": "等重新站回",
+        "flags": [
+          "假突破風險",
+          "量能推估不足"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.5
+      },
+      {
+        "code": "2383",
+        "name": "台光電",
+        "symbol": "TWSE:2383",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "待確認",
+        "trendType": "觀察",
+        "sourcePrice": 5005,
+        "price": 5005,
+        "open": 4925,
+        "high": 5085,
+        "low": 4800,
+        "volume": 3037648,
+        "estimatedVolume": 3037648,
+        "avgVol20": 3114834.2,
+        "estimatedVolRatio20": 0.9752198046367925,
+        "prevClose": 5005,
+        "trigger": 5215,
+        "defense": 4610.7,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.7192982456140351
       },
       {
         "code": "3231",
@@ -794,7 +850,7 @@
         "poolLabel": "轉強潛伏",
         "sopGrade": "待確認",
         "trendType": "打底轉強",
-        "sourcePrice": 140,
+        "sourcePrice": 144.5,
         "price": 144.5,
         "open": 142.5,
         "high": 146,
@@ -803,116 +859,733 @@
         "estimatedVolume": 70277790,
         "avgVol20": 44177162.1,
         "estimatedVolRatio20": 1.5908172154860984,
-        "prevClose": 140,
+        "prevClose": 144.5,
         "trigger": 149,
-        "defense": 134,
+        "defense": 137.3,
         "status": "未觸發",
         "action": "不動作",
         "flags": [
           "量能推估足",
           "盤中位置偏強"
         ],
-        "changePct": 3.214285714285714,
-        "changeFromSourcePct": 3.214285714285714,
+        "changePct": 0,
+        "changeFromSourcePct": 0,
         "intradayLocation": 0.7692307692307693
       },
       {
-        "code": "6669",
-        "name": "緯穎",
-        "symbol": "TWSE:6669",
-        "poolLabel": "轉強潛伏",
+        "code": "1519",
+        "name": "華城",
+        "symbol": "TWSE:1519",
+        "poolLabel": "錯殺反彈",
         "sopGrade": "待確認",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 826,
+        "price": 826,
+        "open": 809,
+        "high": 835,
+        "low": 802,
+        "volume": 1840162,
+        "estimatedVolume": 1840162,
+        "avgVol20": 3399279,
+        "estimatedVolRatio20": 0.5413389133401524,
+        "prevClose": 826,
+        "trigger": 804,
+        "defense": 774.7,
+        "status": "價過量不足",
+        "action": "等量能補上",
+        "flags": [
+          "站上觸發",
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.7272727272727273
+      },
+      {
+        "code": "1717",
+        "name": "長興",
+        "symbol": "TWSE:1717",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "觀察",
         "trendType": "打底轉強",
-        "sourcePrice": 5345,
-        "price": 5525,
-        "open": 5460,
-        "high": 5575,
-        "low": 5330,
-        "volume": 1969769,
-        "estimatedVolume": 1969769,
-        "avgVol20": 2742820.6,
-        "estimatedVolRatio20": 0.7181545158294348,
-        "prevClose": 5345,
-        "trigger": 5870,
-        "defense": 4912.5,
+        "sourcePrice": 83,
+        "price": 83,
+        "open": 80.6,
+        "high": 84.4,
+        "low": 80.1,
+        "volume": 67986073,
+        "estimatedVolume": 67986073,
+        "avgVol20": 48488105.1,
+        "estimatedVolRatio20": 1.4021185785624772,
+        "prevClose": 83,
+        "trigger": 85,
+        "defense": 76.99,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.6744186046511623
+      },
+      {
+        "code": "3715",
+        "name": "定穎投控",
+        "symbol": "TWSE:3715",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 174.5,
+        "price": 174.5,
+        "open": 165.5,
+        "high": 178.5,
+        "low": 165.5,
+        "volume": 13230542,
+        "estimatedVolume": 13230542,
+        "avgVol20": 16213284.45,
+        "estimatedVolRatio20": 0.8160309554058308,
+        "prevClose": 174.5,
+        "trigger": 168,
+        "defense": 161.2,
+        "status": "價過量不足",
+        "action": "等量能補上",
+        "flags": [
+          "站上觸發",
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.6923076923076923
+      },
+      {
+        "code": "8112",
+        "name": "至上",
+        "symbol": "TWSE:8112",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "觀察",
+        "trendType": "打底轉強",
+        "sourcePrice": 86.19999694824219,
+        "price": 86.2,
+        "open": 86.5,
+        "high": 87.9,
+        "low": 86,
+        "volume": 20963797,
+        "estimatedVolume": 20963797,
+        "avgVol20": 22978598.25,
+        "estimatedVolRatio20": 0.9123183569302361,
+        "prevClose": 86.19999694824219,
+        "trigger": 90.5,
+        "defense": 83.04,
         "status": "未觸發",
         "action": "不動作",
         "flags": [
           "量能推估不足",
-          "盤中位置偏強"
+          "盤中位置偏弱"
         ],
-        "changePct": 3.367633302151544,
-        "changeFromSourcePct": 3.367633302151544,
-        "intradayLocation": 0.7959183673469388
+        "changePct": 0.0000035403224169190682,
+        "changeFromSourcePct": 0.0000035403224169190682,
+        "intradayLocation": 0.10526315789473803
       },
       {
-        "code": "2376",
-        "name": "技嘉",
-        "symbol": "TWSE:2376",
+        "code": "2618",
+        "name": "長榮航",
+        "symbol": "TWSE:2618",
         "poolLabel": "轉強潛伏",
-        "sopGrade": "待確認",
-        "trendType": "打底轉強",
-        "sourcePrice": 316.5,
-        "price": 322.5,
-        "open": 318.5,
-        "high": 325,
-        "low": 311.5,
-        "volume": 13226599,
-        "estimatedVolume": 13226599,
-        "avgVol20": 15325425.15,
-        "estimatedVolRatio20": 0.8630494012755007,
-        "prevClose": 316.5,
-        "trigger": 351,
-        "defense": 294.8,
-        "status": "未觸發",
-        "action": "不動作",
-        "flags": [
-          "量能推估不足",
-          "盤中位置偏強"
-        ],
-        "changePct": 1.8957345971563981,
-        "changeFromSourcePct": 1.8957345971563981,
-        "intradayLocation": 0.8148148148148148
-      },
-      {
-        "code": "1605",
-        "name": "華新",
-        "symbol": "TWSE:1605",
-        "poolLabel": "轉強潛伏",
-        "sopGrade": "待確認",
+        "sopGrade": "觀察",
         "trendType": "打底轉強",
         "sourcePrice": 35.5,
-        "price": 36.5,
-        "open": 35.7,
-        "high": 37.1,
-        "low": 35.3,
-        "volume": 60349986,
-        "estimatedVolume": 60349986,
-        "avgVol20": 44688915.75,
-        "estimatedVolRatio20": 1.350446413549427,
+        "price": 35.5,
+        "open": 35.5,
+        "high": 35.65,
+        "low": 35.1,
+        "volume": 45237975,
+        "estimatedVolume": 45237975,
+        "avgVol20": 30089272,
+        "estimatedVolRatio20": 1.5034586081045762,
         "prevClose": 35.5,
-        "trigger": 36.7,
-        "defense": 32.34,
+        "trigger": 36.2,
+        "defense": 33.78,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.7272727272727284
+      },
+      {
+        "code": "3131",
+        "name": "弘塑",
+        "symbol": "TPEX:3131",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 2820,
+        "price": 2820,
+        "open": 2750,
+        "high": 2910,
+        "low": 2735,
+        "volume": 542319,
+        "estimatedVolume": 542319,
+        "avgVol20": 849458.3,
+        "estimatedVolRatio20": 0.6384292201276979,
+        "prevClose": 2820,
+        "trigger": 2725,
+        "defense": 2577.7,
+        "status": "價過量不足",
+        "action": "等量能補上",
+        "flags": [
+          "站上觸發",
+          "量能推估不足"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.4857142857142857
+      },
+      {
+        "code": "3081",
+        "name": "聯亞",
+        "symbol": "TPEX:3081",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 2710,
+        "price": 2710,
+        "open": 2715,
+        "high": 2790,
+        "low": 2670,
+        "volume": 2249420,
+        "estimatedVolume": 2249420,
+        "avgVol20": 3469207.3,
+        "estimatedVolRatio20": 0.6483959606564877,
+        "prevClose": 2710,
+        "trigger": 2660,
+        "defense": 2384.2,
+        "status": "價過量不足",
+        "action": "等量能補上",
+        "flags": [
+          "站上觸發",
+          "量能推估不足",
+          "盤中位置偏弱"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.3333333333333333
+      },
+      {
+        "code": "1815",
+        "name": "富喬",
+        "symbol": "TPEX:1815",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 107,
+        "price": 107,
+        "open": 104,
+        "high": 108,
+        "low": 104,
+        "volume": 28250123,
+        "estimatedVolume": 28250123,
+        "avgVol20": 38078283.2,
+        "estimatedVolRatio20": 0.7418959214001538,
+        "prevClose": 107,
+        "trigger": 105,
+        "defense": 99.18,
+        "status": "價過量不足",
+        "action": "等量能補上",
+        "flags": [
+          "站上觸發",
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.75
+      },
+      {
+        "code": "3529",
+        "name": "力旺",
+        "symbol": "TPEX:3529",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 3625,
+        "price": 3625,
+        "open": 3700,
+        "high": 3765,
+        "low": 3600,
+        "volume": 504411,
+        "estimatedVolume": 504411,
+        "avgVol20": 993923.2,
+        "estimatedVolRatio20": 0.5074949452834988,
+        "prevClose": 3625,
+        "trigger": 3660,
+        "defense": 3223.1,
         "status": "觸發後拉回",
         "action": "等重新站回",
         "flags": [
           "假突破風險",
+          "量能推估不足",
+          "盤中位置偏弱"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.15151515151515152
+      },
+      {
+        "code": "5269",
+        "name": "祥碩",
+        "symbol": "TWSE:5269",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "觀察",
+        "trendType": "打底轉強",
+        "sourcePrice": 1480,
+        "price": 1480,
+        "open": 1430,
+        "high": 1495,
+        "low": 1420,
+        "volume": 1861941,
+        "estimatedVolume": 1861941,
+        "avgVol20": 2702116.7,
+        "estimatedVolRatio20": 0.6890675743205317,
+        "prevClose": 1480,
+        "trigger": 1545,
+        "defense": 1357.5,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.8
+      },
+      {
+        "code": "2887",
+        "name": "台新新光金",
+        "symbol": "TWSE:2887",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "觀察",
+        "trendType": "打底轉強",
+        "sourcePrice": 23.799999237060547,
+        "price": 23.8,
+        "open": 23.9,
+        "high": 24.15,
+        "low": 23.75,
+        "volume": 105580110,
+        "estimatedVolume": 105580110,
+        "avgVol20": 91937731.6,
+        "estimatedVolRatio20": 1.1483871546815498,
+        "prevClose": 23.799999237060547,
+        "trigger": 24.55,
+        "defense": 23.23,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估不足",
+          "盤中位置偏弱"
+        ],
+        "changePct": 0.0000032056280600527054,
+        "changeFromSourcePct": 0.0000032056280600527054,
+        "intradayLocation": 0.12500000000000222
+      },
+      {
+        "code": "2330",
+        "name": "台積電",
+        "symbol": "TWSE:2330",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "觀察",
+        "trendType": "打底轉強",
+        "sourcePrice": 2255,
+        "price": 2255,
+        "open": 2245,
+        "high": 2260,
+        "low": 2225,
+        "volume": 26262576,
+        "estimatedVolume": 26262576,
+        "avgVol20": 41126761.75,
+        "estimatedVolRatio20": 0.6385763158218991,
+        "prevClose": 2255,
+        "trigger": 2345,
+        "defense": 2191,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.8571428571428571
+      },
+      {
+        "code": "3324",
+        "name": "雙鴻",
+        "symbol": "TPEX:3324",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 1010,
+        "price": 1010,
+        "open": 1035,
+        "high": 1040,
+        "low": 1005,
+        "volume": 3661887,
+        "estimatedVolume": 3661887,
+        "avgVol20": 4577982.7,
+        "estimatedVolRatio20": 0.7998909650750755,
+        "prevClose": 1010,
+        "trigger": 1015,
+        "defense": 916.2,
+        "status": "觸發後拉回",
+        "action": "等重新站回",
+        "flags": [
+          "假突破風險",
+          "量能推估不足",
+          "盤中位置偏弱"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.14285714285714285
+      },
+      {
+        "code": "6187",
+        "name": "萬潤",
+        "symbol": "TPEX:6187",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 1140,
+        "price": 1140,
+        "open": 1120,
+        "high": 1170,
+        "low": 1115,
+        "volume": 2507106,
+        "estimatedVolume": 2507106,
+        "avgVol20": 3776895.9,
+        "estimatedVolRatio20": 0.6638006623375561,
+        "prevClose": 1140,
+        "trigger": 1140,
+        "defense": 1005.7,
+        "status": "價過量不足",
+        "action": "等量能補上",
+        "flags": [
+          "站上觸發",
+          "量能推估不足"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.45454545454545453
+      },
+      {
+        "code": "2382",
+        "name": "廣達",
+        "symbol": "TWSE:2382",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 316,
+        "price": 316,
+        "open": 310,
+        "high": 317,
+        "low": 305.5,
+        "volume": 35848592,
+        "estimatedVolume": 35848592,
+        "avgVol20": 24819362.45,
+        "estimatedVolRatio20": 1.4443800509468767,
+        "prevClose": 316,
+        "trigger": 312.5,
+        "defense": 287.9,
+        "status": "盤中觸發",
+        "action": "可依紀律找買點",
+        "flags": [
+          "站上觸發",
           "量能推估足",
           "盤中位置偏強"
         ],
-        "changePct": 2.8169014084507045,
-        "changeFromSourcePct": 2.8169014084507045,
-        "intradayLocation": 0.6666666666666666
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.9130434782608695
+      },
+      {
+        "code": "2449",
+        "name": "京元電子",
+        "symbol": "TWSE:2449",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 296,
+        "price": 296,
+        "open": 292,
+        "high": 301,
+        "low": 290.5,
+        "volume": 26407806,
+        "estimatedVolume": 26407806,
+        "avgVol20": 40026447.3,
+        "estimatedVolRatio20": 0.6597589289419649,
+        "prevClose": 296,
+        "trigger": 292.5,
+        "defense": 261.8,
+        "status": "價過量不足",
+        "action": "等量能補上",
+        "flags": [
+          "站上觸發",
+          "量能推估不足"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.5238095238095238
+      },
+      {
+        "code": "1590",
+        "name": "亞德客-KY",
+        "symbol": "TWSE:1590",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 1410,
+        "price": 1410,
+        "open": 1430,
+        "high": 1450,
+        "low": 1375,
+        "volume": 1218880,
+        "estimatedVolume": 1218880,
+        "avgVol20": 1459509.45,
+        "estimatedVolRatio20": 0.835129912999193,
+        "prevClose": 1410,
+        "trigger": 1450,
+        "defense": 1361.9,
+        "status": "觸發後拉回",
+        "action": "等重新站回",
+        "flags": [
+          "假突破風險",
+          "量能推估不足"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.4666666666666667
+      },
+      {
+        "code": "3017",
+        "name": "奇鋐",
+        "symbol": "TWSE:3017",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 2545,
+        "price": 2545,
+        "open": 2550,
+        "high": 2610,
+        "low": 2470,
+        "volume": 5501063,
+        "estimatedVolume": 5501063,
+        "avgVol20": 5971737.5,
+        "estimatedVolRatio20": 0.9211829890379475,
+        "prevClose": 2545,
+        "trigger": 2515,
+        "defense": 2227.2,
+        "status": "盤中觸發",
+        "action": "可依紀律找買點",
+        "flags": [
+          "站上觸發",
+          "量能推估不足"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.5357142857142857
+      },
+      {
+        "code": "4967",
+        "name": "十銓",
+        "symbol": "TWSE:4967",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 270.5,
+        "price": 270.5,
+        "open": 270,
+        "high": 275.5,
+        "low": 268,
+        "volume": 4681414,
+        "estimatedVolume": 4681414,
+        "avgVol20": 19670988.9,
+        "estimatedVolRatio20": 0.23798569679432843,
+        "prevClose": 270.5,
+        "trigger": 274,
+        "defense": 255.8,
+        "status": "觸發後拉回",
+        "action": "等重新站回",
+        "flags": [
+          "假突破風險",
+          "量能推估不足",
+          "盤中位置偏弱"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.3333333333333333
+      },
+      {
+        "code": "2882",
+        "name": "國泰金",
+        "symbol": "TWSE:2882",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "觀察",
+        "trendType": "打底轉強",
+        "sourcePrice": 79.69999694824219,
+        "price": 79.7,
+        "open": 78.5,
+        "high": 79.8,
+        "low": 78.2,
+        "volume": 40807865,
+        "estimatedVolume": 40807865,
+        "avgVol20": 34752795.95,
+        "estimatedVolRatio20": 1.1742325727895857,
+        "prevClose": 79.69999694824219,
+        "trigger": 80.8,
+        "defense": 75.88,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0.000003829056376657086,
+        "changeFromSourcePct": 0.000003829056376657086,
+        "intradayLocation": 0.9375000000000033
+      },
+      {
+        "code": "2379",
+        "name": "瑞昱",
+        "symbol": "TWSE:2379",
+        "poolLabel": "轉強潛伏",
+        "sopGrade": "觀察",
+        "trendType": "打底轉強",
+        "sourcePrice": 578,
+        "price": 578,
+        "open": 574,
+        "high": 578,
+        "low": 566,
+        "volume": 3741508,
+        "estimatedVolume": 3741508,
+        "avgVol20": 4616872.1,
+        "estimatedVolRatio20": 0.8103988845608264,
+        "prevClose": 578,
+        "trigger": 615,
+        "defense": 544.6,
+        "status": "未觸發",
+        "action": "不動作",
+        "flags": [
+          "量能推估不足",
+          "盤中位置偏強"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 1
+      },
+      {
+        "code": "8150",
+        "name": "南茂",
+        "symbol": "TWSE:8150",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 79.0999984741211,
+        "price": 79.1,
+        "open": 77.4,
+        "high": 82.4,
+        "low": 76.3,
+        "volume": 46238424,
+        "estimatedVolume": 46238424,
+        "avgVol20": 36302313.25,
+        "estimatedVolRatio20": 1.2737046171568696,
+        "prevClose": 79.0999984741211,
+        "trigger": 78.6,
+        "defense": 62.49,
+        "status": "盤中觸發",
+        "action": "可依紀律找買點",
+        "flags": [
+          "站上觸發",
+          "量能推估足"
+        ],
+        "changePct": 0.000001929050480405351,
+        "changeFromSourcePct": 0.000001929050480405351,
+        "intradayLocation": 0.45901639344262185
+      },
+      {
+        "code": "2892",
+        "name": "第一金",
+        "symbol": "TWSE:2892",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 27.549999237060547,
+        "price": 27.55,
+        "open": 27.8,
+        "high": 27.8,
+        "low": 27.4,
+        "volume": 84956255,
+        "estimatedVolume": 84956255,
+        "avgVol20": 44947873.45,
+        "estimatedVolRatio20": 1.890106215914871,
+        "prevClose": 27.549999237060547,
+        "trigger": 28.15,
+        "defense": 27.4,
+        "status": "跌破後收復",
+        "action": "等收盤確認",
+        "flags": [
+          "防守曾失守",
+          "量能推估足"
+        ],
+        "changePct": 0.0000027692902902488236,
+        "changeFromSourcePct": 0.0000027692902902488236,
+        "intradayLocation": 0.37500000000000333
+      },
+      {
+        "code": "6805",
+        "name": "富世達",
+        "symbol": "TWSE:6805",
+        "poolLabel": "錯殺反彈",
+        "sopGrade": "觀察",
+        "trendType": "錯殺反彈",
+        "sourcePrice": 1795,
+        "price": 1795,
+        "open": 1830,
+        "high": 1845,
+        "low": 1785,
+        "volume": 989339,
+        "estimatedVolume": 989339,
+        "avgVol20": 2313587.85,
+        "estimatedVolRatio20": 0.4276211080551793,
+        "prevClose": 1795,
+        "trigger": 1810,
+        "defense": 1632.5,
+        "status": "觸發後拉回",
+        "action": "等重新站回",
+        "flags": [
+          "假突破風險",
+          "量能推估不足",
+          "盤中位置偏弱"
+        ],
+        "changePct": 0,
+        "changeFromSourcePct": 0,
+        "intradayLocation": 0.16666666666666666
       }
     ],
     "summary": {
-      "total": 20,
+      "total": 43,
       "byStatus": {
-        "跌破後收復": 1,
-        "盤中觸發": 6,
-        "價過量不足": 5,
-        "觸發後拉回": 2,
-        "未觸發": 6
+        "未觸發": 17,
+        "跌破後收復": 6,
+        "觸發後拉回": 7,
+        "價過量不足": 9,
+        "盤中觸發": 4
       }
     }
   },
@@ -920,7 +1593,7 @@
     "success": true,
     "cdpConnected": true,
     "apiAvailable": true,
-    "chartSymbol": "TWSE_DLY:3189",
+    "chartSymbol": "TWSE_DLY:2313",
     "chartResolution": "1D"
   },
   "hotPool": [
@@ -1351,6 +2024,31 @@
       "defenseLine": "57.38",
       "firstTarget": "78.90",
       "riskReward": 2.3516592560336367,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "66.33~67.67",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "57.38",
+          "fail": "56.52"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "78.90",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "94.30",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 66.33~67.67｜守 57.38（失守 56.52）｜賣 T1 78.90 / T2 94.30"
+      },
+      "waveSummary": "買 66.33~67.67｜守 57.38（失守 56.52）｜賣 T1 78.90 / T2 94.30",
       "trendType": "打底轉強",
       "chips": {
         "source": "HiStock",
@@ -1476,6 +2174,31 @@
       "defenseLine": "60.48",
       "firstTarget": "82.50",
       "riskReward": 2.4844509149119096,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "66.83~68.17",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "60.48",
+          "fail": "59.57"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "82.50",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "94.60",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 66.83~68.17｜守 60.48（失守 59.57）｜賣 T1 82.50 / T2 94.60"
+      },
+      "waveSummary": "買 66.83~68.17｜守 60.48（失守 59.57）｜賣 T1 82.50 / T2 94.60",
       "trendType": "打底轉強",
       "chips": {
         "source": "HiStock",
@@ -1603,6 +2326,31 @@
       "defenseLine": "66.32",
       "firstTarget": "76.90",
       "riskReward": 1.529856489999357,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "74.75~76.25",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "66.32",
+          "fail": "65.33"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "76.90",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "90.70",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 74.75~76.25｜守 66.32（失守 65.33）｜賣 T1 76.90 / T2 90.70"
+      },
+      "waveSummary": "買 74.75~76.25｜守 66.32（失守 65.33）｜賣 T1 76.90 / T2 90.70",
       "trendType": "打底轉強",
       "chips": {
         "source": "HiStock",
@@ -1729,6 +2477,31 @@
       "defenseLine": "1078.2",
       "firstTarget": "1310",
       "riskReward": 1.524988017951286,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "1296.9~1323.1",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "1078.2",
+          "fail": "1062"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1310",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "1640",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 1296.9~1323.1｜守 1078.2（失守 1062）｜賣 T1 1310 / T2 1640"
+      },
+      "waveSummary": "買 1296.9~1323.1｜守 1078.2（失守 1062）｜賣 T1 1310 / T2 1640",
       "trendType": "打底轉強",
       "chips": {
         "source": "HiStock",
@@ -1855,6 +2628,31 @@
       "defenseLine": "135.4",
       "firstTarget": "170.5",
       "riskReward": 1.2470023980815357,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "160.9~164.1",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "135.4",
+          "fail": "133.4"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "170.5",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "207.5",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 160.9~164.1｜守 135.4（失守 133.4）｜賣 T1 170.5 / T2 207.5"
+      },
+      "waveSummary": "買 160.9~164.1｜守 135.4（失守 133.4）｜賣 T1 170.5 / T2 207.5",
       "trendType": "打底轉強",
       "chips": {
         "source": "HiStock",
@@ -1982,6 +2780,31 @@
       "defenseLine": "16285",
       "firstTarget": "19195",
       "riskReward": 0.9464882943143813,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "19003~19387",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "16285",
+          "fail": "16040.7"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "19195",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "23250",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 19003~19387｜守 16285（失守 16040.7）｜賣 T1 19195 / T2 23250"
+      },
+      "waveSummary": "買 19003~19387｜守 16285（失守 16040.7）｜賣 T1 19195 / T2 23250",
       "trendType": "打底轉強"
     },
     {
@@ -2057,6 +2880,31 @@
       "defenseLine": "65.72",
       "firstTarget": "86.90",
       "riskReward": 1.9103115630417549,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "76.13~77.67",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "65.72",
+          "fail": "64.73"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "86.90",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "105.7",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 76.13~77.67｜守 65.72（失守 64.73）｜賣 T1 86.90 / T2 105.7"
+      },
+      "waveSummary": "買 76.13~77.67｜守 65.72（失守 64.73）｜賣 T1 86.90 / T2 105.7",
       "trendType": "打底轉強"
     },
     {
@@ -2132,6 +2980,31 @@
       "defenseLine": "370.7",
       "firstTarget": "435.5",
       "riskReward": 0.3280974449411474,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "431.1~439.9",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "370.7",
+          "fail": "365.1"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "435.5",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "569",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 431.1~439.9｜守 370.7（失守 365.1）｜賣 T1 435.5 / T2 569"
+      },
+      "waveSummary": "買 431.1~439.9｜守 370.7（失守 365.1）｜賣 T1 435.5 / T2 569",
       "trendType": "觀察"
     },
     {
@@ -2207,6 +3080,31 @@
       "defenseLine": "721.5",
       "firstTarget": "805",
       "riskReward": 2.15297450424929,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "762.3~777.7",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "721.5",
+          "fail": "710.7"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "805",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "865",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 762.3~777.7｜守 721.5（失守 710.7）｜賣 T1 805 / T2 865"
+      },
+      "waveSummary": "買 762.3~777.7｜守 721.5（失守 710.7）｜賣 T1 805 / T2 865",
       "trendType": "打底轉強"
     },
     {
@@ -2282,6 +3180,31 @@
       "defenseLine": "4610.7",
       "firstTarget": "5215",
       "riskReward": 0.5325286234135082,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "5162.9~5267.1",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "4610.7",
+          "fail": "4541.5"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "5215",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "6270",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 5162.9~5267.1｜守 4610.7（失守 4541.5）｜賣 T1 5215 / T2 6270"
+      },
+      "waveSummary": "買 5162.9~5267.1｜守 4610.7（失守 4541.5）｜賣 T1 5215 / T2 6270",
       "trendType": "觀察"
     },
     {
@@ -2358,6 +3281,31 @@
       "defenseLine": "137.3",
       "firstTarget": "149",
       "riskReward": 0.6291066685306872,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "147.5~150.5",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "137.3",
+          "fail": "135.2"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "149",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "166",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 147.5~150.5｜守 137.3（失守 135.2）｜賣 T1 149 / T2 166"
+      },
+      "waveSummary": "買 147.5~150.5｜守 137.3（失守 135.2）｜賣 T1 149 / T2 166",
       "trendType": "打底轉強"
     },
     {
@@ -2431,6 +3379,31 @@
       "defenseLine": "76.99",
       "firstTarget": "88.80",
       "riskReward": 0.9656532033294616,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "84.15~85.85",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "76.99",
+          "fail": "75.84"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "88.80",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "103",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 84.15~85.85｜守 76.99（失守 75.84）｜賣 T1 88.80 / T2 103"
+      },
+      "waveSummary": "買 84.15~85.85｜守 76.99（失守 75.84）｜賣 T1 88.80 / T2 103",
       "trendType": "打底轉強"
     },
     {
@@ -2506,6 +3479,31 @@
       "defenseLine": "83.04",
       "firstTarget": "97.90",
       "riskReward": 3.6971546432497675,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "89.59~91.41",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "83.04",
+          "fail": "81.79"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "97.90",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "109.3",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 89.59~91.41｜守 83.04（失守 81.79）｜賣 T1 97.90 / T2 109.3"
+      },
+      "waveSummary": "買 89.59~91.41｜守 83.04（失守 81.79）｜賣 T1 97.90 / T2 109.3",
       "trendType": "打底轉強"
     },
     {
@@ -2581,6 +3579,31 @@
       "defenseLine": "33.78",
       "firstTarget": "38.40",
       "riskReward": 1.689042356100088,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "35.84~36.56",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "33.78",
+          "fail": "33.27"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "38.40",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "41.40",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 35.84~36.56｜守 33.78（失守 33.27）｜賣 T1 38.40 / T2 41.40"
+      },
+      "waveSummary": "買 35.84~36.56｜守 33.78（失守 33.27）｜賣 T1 38.40 / T2 41.40",
       "trendType": "打底轉強"
     },
     {
@@ -2657,6 +3680,31 @@
       "defenseLine": "70.21",
       "firstTarget": "84.80",
       "riskReward": 1.4763789620085905,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "80.69~82.31",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "70.21",
+          "fail": "69.16"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "84.80",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "103.4",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 80.69~82.31｜守 70.21（失守 69.16）｜賣 T1 84.80 / T2 103.4"
+      },
+      "waveSummary": "買 80.69~82.31｜守 70.21（失守 69.16）｜賣 T1 84.80 / T2 103.4",
       "trendType": "打底轉強"
     },
     {
@@ -2731,6 +3779,31 @@
       "defenseLine": "1357.5",
       "firstTarget": "1545",
       "riskReward": 0.5308072353109309,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "1529.5~1560.5",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "1357.5",
+          "fail": "1337.1"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1545",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "1830",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 1529.5~1560.5｜守 1357.5（失守 1337.1）｜賣 T1 1545 / T2 1830"
+      },
+      "waveSummary": "買 1529.5~1560.5｜守 1357.5（失守 1337.1）｜賣 T1 1545 / T2 1830",
       "trendType": "打底轉強"
     },
     {
@@ -2806,6 +3879,31 @@
       "defenseLine": "23.23",
       "firstTarget": "26.00",
       "riskReward": 3.849188270035643,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "24.30~24.80",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "23.23",
+          "fail": "22.88"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "26.00",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "27.70",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 24.30~24.80｜守 23.23（失守 22.88）｜賣 T1 26.00 / T2 27.70"
+      },
+      "waveSummary": "買 24.30~24.80｜守 23.23（失守 22.88）｜賣 T1 26.00 / T2 27.70",
       "trendType": "打底轉強"
     },
     {
@@ -2882,6 +3980,31 @@
       "defenseLine": "2191",
       "firstTarget": "2345",
       "riskReward": 1.4070194637692457,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "2321.6~2368.4",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "2191",
+          "fail": "2158.1"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "2345",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "2585",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 2321.6~2368.4｜守 2191（失守 2158.1）｜賣 T1 2345 / T2 2585"
+      },
+      "waveSummary": "買 2321.6~2368.4｜守 2191（失守 2158.1）｜賣 T1 2345 / T2 2585",
       "trendType": "打底轉強"
     },
     {
@@ -2957,6 +4080,31 @@
       "defenseLine": "75.88",
       "firstTarget": "80.80",
       "riskReward": 0.28806548300244084,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "79.99~81.61",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "75.88",
+          "fail": "74.74"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "80.80",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "87.90",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 79.99~81.61｜守 75.88（失守 74.74）｜賣 T1 80.80 / T2 87.90"
+      },
+      "waveSummary": "買 79.99~81.61｜守 75.88（失守 74.74）｜賣 T1 80.80 / T2 87.90",
       "trendType": "打底轉強"
     },
     {
@@ -3032,6 +4180,31 @@
       "defenseLine": "544.6",
       "firstTarget": "615",
       "riskReward": 1.1089465008242168,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "608.9~621.1",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "544.6",
+          "fail": "536.4"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "615",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "706",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 608.9~621.1｜守 544.6（失守 536.4）｜賣 T1 615 / T2 706"
+      },
+      "waveSummary": "買 608.9~621.1｜守 544.6（失守 536.4）｜賣 T1 615 / T2 706",
       "trendType": "打底轉強"
     }
   ],
@@ -3109,6 +4282,36 @@
       "defenseLine": "134.4",
       "firstTarget": "160.1",
       "riskReward": 0.7053711951532411,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "135.7~149.7",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "134.4",
+          "fail": "132.4"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "155.5",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "178.5",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "160.1",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 135.7~149.7｜守 134.4（失守 132.4）｜賣 T1 155.5 / T2 178.5 / T3 160.1"
+      },
+      "waveSummary": "買 135.7~149.7｜守 134.4（失守 132.4）｜賣 T1 155.5 / T2 178.5 / T3 160.1",
       "trendType": "錯殺反彈",
       "chips": {
         "source": "HiStock",
@@ -3234,6 +4437,36 @@
       "defenseLine": "358.3",
       "firstTarget": "431.7",
       "riskReward": 0.15179522192939834,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "361.9~393.9",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "358.3",
+          "fail": "352.9"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "419.1",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "497",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "431.7",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 361.9~393.9｜守 358.3（失守 352.9）｜賣 T1 419.1 / T2 497 / T3 431.7"
+      },
+      "waveSummary": "買 361.9~393.9｜守 358.3（失守 352.9）｜賣 T1 419.1 / T2 497 / T3 431.7",
       "trendType": "錯殺反彈",
       "chips": {
         "source": "HiStock",
@@ -3359,6 +4592,36 @@
       "defenseLine": "1229.4",
       "firstTarget": "1408",
       "riskReward": 0.7757208208288308,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "1241.7~1311.5",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "1229.4",
+          "fail": "1211"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1367",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "1520",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "1408",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 1241.7~1311.5｜守 1229.4（失守 1211）｜賣 T1 1367 / T2 1520 / T3 1408"
+      },
+      "waveSummary": "買 1241.7~1311.5｜守 1229.4（失守 1211）｜賣 T1 1367 / T2 1520 / T3 1408",
       "trendType": "錯殺反彈",
       "chips": {
         "source": "HiStock",
@@ -3484,6 +4747,36 @@
       "defenseLine": "3283.1",
       "firstTarget": "3767.5",
       "riskReward": 2.974187394222214,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "3315.9~3512.5",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "3283.1",
+          "fail": "3233.9"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "3657.8",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "4200",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "3767.5",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 3315.9~3512.5｜守 3283.1（失守 3233.9）｜賣 T1 3657.8 / T2 4200 / T3 3767.5"
+      },
+      "waveSummary": "買 3315.9~3512.5｜守 3283.1（失守 3233.9）｜賣 T1 3657.8 / T2 4200 / T3 3767.5",
       "trendType": "錯殺反彈",
       "chips": {
         "source": "HiStock",
@@ -3609,6 +4902,36 @@
       "defenseLine": "774.7",
       "firstTarget": "891",
       "riskReward": 1.2652203294227482,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "782.4~808",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "774.7",
+          "fail": "763.1"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "865",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "944",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "891",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 782.4~808｜守 774.7（失守 763.1）｜賣 T1 865 / T2 944 / T3 891"
+      },
+      "waveSummary": "買 782.4~808｜守 774.7（失守 763.1）｜賣 T1 865 / T2 944 / T3 891",
       "trendType": "錯殺反彈",
       "chips": {
         "source": "HiStock",
@@ -3733,6 +5056,36 @@
       "defenseLine": "161.2",
       "firstTarget": "182.9",
       "riskReward": 0.6341204135369658,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "162.8~168.8",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "161.2",
+          "fail": "158.8"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "177.6",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "200",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "182.9",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 162.8~168.8｜守 161.2（失守 158.8）｜賣 T1 177.6 / T2 200 / T3 182.9"
+      },
+      "waveSummary": "買 162.8~168.8｜守 161.2（失守 158.8）｜賣 T1 177.6 / T2 200 / T3 182.9",
       "trendType": "錯殺反彈"
     },
     {
@@ -3808,6 +5161,36 @@
       "defenseLine": "2577.7",
       "firstTarget": "3009.9",
       "riskReward": 0.7838581151679263,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "2603.5~2738.6",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "2577.7",
+          "fail": "2539"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "2922.3",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "3245",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "3009.9",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 2603.5~2738.6｜守 2577.7（失守 2539）｜賣 T1 2922.3 / T2 3245 / T3 3009.9"
+      },
+      "waveSummary": "買 2603.5~2738.6｜守 2577.7（失守 2539）｜賣 T1 2922.3 / T2 3245 / T3 3009.9",
       "trendType": "錯殺反彈"
     },
     {
@@ -3883,6 +5266,36 @@
       "defenseLine": "2384.2",
       "firstTarget": "2768.6",
       "riskReward": 0.17998812259198232,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "2408~2673.3",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "2384.2",
+          "fail": "2348.4"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "2688",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "3245",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "2768.6",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 2408~2673.3｜守 2384.2（失守 2348.4）｜賣 T1 2688 / T2 3245 / T3 2768.6"
+      },
+      "waveSummary": "買 2408~2673.3｜守 2384.2（失守 2348.4）｜賣 T1 2688 / T2 3245 / T3 2768.6",
       "trendType": "錯殺反彈"
     },
     {
@@ -3958,6 +5371,36 @@
       "defenseLine": "99.18",
       "firstTarget": "110.8",
       "riskReward": 0.4831753747950318,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "100.2~105.5",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "99.18",
+          "fail": "97.69"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "107.5",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "122",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "110.8",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 100.2~105.5｜守 99.18（失守 97.69）｜賣 T1 107.5 / T2 122 / T3 110.8"
+      },
+      "waveSummary": "買 100.2~105.5｜守 99.18（失守 97.69）｜賣 T1 107.5 / T2 122 / T3 110.8",
       "trendType": "錯殺反彈"
     },
     {
@@ -4033,6 +5476,36 @@
       "defenseLine": "3223.1",
       "firstTarget": "4087",
       "riskReward": 1.1496046731100817,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "3255.3~3678.3",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "3223.1",
+          "fail": "3174.8"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "3968",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "4785",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "4087",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 3255.3~3678.3｜守 3223.1（失守 3174.8）｜賣 T1 3968 / T2 4785 / T3 4087"
+      },
+      "waveSummary": "買 3255.3~3678.3｜守 3223.1（失守 3174.8）｜賣 T1 3968 / T2 4785 / T3 4087",
       "trendType": "錯殺反彈"
     },
     {
@@ -4108,6 +5581,36 @@
       "defenseLine": "916.2",
       "firstTarget": "1109.4",
       "riskReward": 1.0602352817836178,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "925.4~1020.1",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "916.2",
+          "fail": "902.5"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1077.1",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "1305",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "1109.4",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 925.4~1020.1｜守 916.2（失守 902.5）｜賣 T1 1077.1 / T2 1305 / T3 1109.4"
+      },
+      "waveSummary": "買 925.4~1020.1｜守 916.2（失守 902.5）｜賣 T1 1077.1 / T2 1305 / T3 1109.4",
       "trendType": "錯殺反彈"
     },
     {
@@ -4182,6 +5685,36 @@
       "defenseLine": "1005.7",
       "firstTarget": "1192.2",
       "riskReward": 0.3889468156341569,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "1015.8~1145.7",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "1005.7",
+          "fail": "990.6"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1157.5",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "1430",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "1192.2",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 1015.8~1145.7｜守 1005.7（失守 990.6）｜賣 T1 1157.5 / T2 1430 / T3 1192.2"
+      },
+      "waveSummary": "買 1015.8~1145.7｜守 1005.7（失守 990.6）｜賣 T1 1157.5 / T2 1430 / T3 1192.2",
       "trendType": "錯殺反彈"
     },
     {
@@ -4256,6 +5789,36 @@
       "defenseLine": "287.9",
       "firstTarget": "331.8",
       "riskReward": 0.5621295201860941,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "290.8~314.1",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "287.9",
+          "fail": "283.6"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "322.1",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "352.5",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "331.8",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 290.8~314.1｜守 287.9（失守 283.6）｜賣 T1 322.1 / T2 352.5 / T3 331.8"
+      },
+      "waveSummary": "買 290.8~314.1｜守 287.9（失守 283.6）｜賣 T1 322.1 / T2 352.5 / T3 331.8",
       "trendType": "錯殺反彈"
     },
     {
@@ -4330,6 +5893,36 @@
       "defenseLine": "261.8",
       "firstTarget": "311.5",
       "riskReward": 0.4537163433400174,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "264.4~294",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "261.8",
+          "fail": "257.9"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "302.4",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "364.5",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "311.5",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 264.4~294｜守 261.8（失守 257.9）｜賣 T1 302.4 / T2 364.5 / T3 311.5"
+      },
+      "waveSummary": "買 264.4~294｜守 261.8（失守 257.9）｜賣 T1 302.4 / T2 364.5 / T3 311.5",
       "trendType": "錯殺反彈"
     },
     {
@@ -4404,6 +5997,36 @@
       "defenseLine": "1361.9",
       "firstTarget": "1497.1",
       "riskReward": 1.8108243433592477,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "1375.5~1457.2",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "1361.9",
+          "fail": "1341.5"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1453.5",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "1600",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "1497.1",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 1375.5~1457.2｜守 1361.9（失守 1341.5）｜賣 T1 1453.5 / T2 1600 / T3 1497.1"
+      },
+      "waveSummary": "買 1375.5~1457.2｜守 1361.9（失守 1341.5）｜賣 T1 1453.5 / T2 1600 / T3 1497.1",
       "trendType": "錯殺反彈"
     },
     {
@@ -4478,6 +6101,36 @@
       "defenseLine": "2227.2",
       "firstTarget": "2676.2",
       "riskReward": 0.41285727310678183,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "2249.5~2527.6",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "2227.2",
+          "fail": "2193.8"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "2598.3",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "3010",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "2676.2",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 2249.5~2527.6｜守 2227.2（失守 2193.8）｜賣 T1 2598.3 / T2 3010 / T3 2676.2"
+      },
+      "waveSummary": "買 2249.5~2527.6｜守 2227.2（失守 2193.8）｜賣 T1 2598.3 / T2 3010 / T3 2676.2",
       "trendType": "錯殺反彈"
     },
     {
@@ -4553,6 +6206,36 @@
       "defenseLine": "255.8",
       "firstTarget": "289.9",
       "riskReward": 1.3162028375731172,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "258.4~275.4",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "255.8",
+          "fail": "252"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "281.4",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "323",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "289.9",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 258.4~275.4｜守 255.8（失守 252）｜賣 T1 281.4 / T2 323 / T3 289.9"
+      },
+      "waveSummary": "買 258.4~275.4｜守 255.8（失守 252）｜賣 T1 281.4 / T2 323 / T3 289.9",
       "trendType": "錯殺反彈"
     },
     {
@@ -4626,6 +6309,36 @@
       "defenseLine": "62.49",
       "firstTarget": "82.45",
       "riskReward": 0.2014123327919913,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "63.11~78.99",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "62.49",
+          "fail": "61.55"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "80.05",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "103",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "82.45",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 63.11~78.99｜守 62.49（失守 61.55）｜賣 T1 80.05 / T2 103 / T3 82.45"
+      },
+      "waveSummary": "買 63.11~78.99｜守 62.49（失守 61.55）｜賣 T1 80.05 / T2 103 / T3 82.45",
       "trendType": "錯殺反彈"
     },
     {
@@ -4700,6 +6413,36 @@
       "defenseLine": "27.40",
       "firstTarget": "29.58",
       "riskReward": 7.3835773643473495,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "27.67~28.29",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "27.40",
+          "fail": "26.99"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "28.72",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "29.80",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "29.58",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 27.67~28.29｜守 27.40（失守 26.99）｜賣 T1 28.72 / T2 29.80 / T3 29.58"
+      },
+      "waveSummary": "買 27.67~28.29｜守 27.40（失守 26.99）｜賣 T1 28.72 / T2 29.80 / T3 29.58",
       "trendType": "錯殺反彈"
     },
     {
@@ -4774,6 +6517,36 @@
       "defenseLine": "1632.5",
       "firstTarget": "1968.3",
       "riskReward": 1.0664841485187646,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "1648.8~1819",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "1632.5",
+          "fail": "1608"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1911",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "2275",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "1968.3",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 1648.8~1819｜守 1632.5（失守 1608）｜賣 T1 1911 / T2 2275 / T3 1968.3"
+      },
+      "waveSummary": "買 1648.8~1819｜守 1632.5（失守 1608）｜賣 T1 1911 / T2 2275 / T3 1968.3",
       "trendType": "錯殺反彈"
     }
   ],
@@ -4861,6 +6634,26 @@
       "defenseLine": "532.9",
       "firstTarget": "603.1",
       "riskReward": 1.499999999999998,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "558.2~566.6",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "532.9",
+          "fail": "524.9"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "603.1",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 558.2~566.6｜守 532.9（失守 524.9）｜賣 T1 603.1"
+      },
+      "waveSummary": "買 558.2~566.6｜守 532.9（失守 524.9）｜賣 T1 603.1",
       "trendType": "趨勢表態",
       "chips": {
         "source": "HiStock",
@@ -4994,6 +6787,26 @@
       "defenseLine": "943.7",
       "firstTarget": "1006.3",
       "riskReward": 2.250000000000003,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "1005~1020.1",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "943.7",
+          "fail": "929.5"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1006.3",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 1005~1020.1｜守 943.7（失守 929.5）｜賣 T1 1006.3"
+      },
+      "waveSummary": "買 1005~1020.1｜守 943.7（失守 929.5）｜賣 T1 1006.3",
       "trendType": "趨勢表態",
       "chips": {
         "source": "HiStock",
@@ -5038,10 +6851,10 @@
             "source": "CMoney"
           },
           {
-            "title": "【數報】盤中快報:6531(愛普*)股價漲停鎖定在963.00元，委託買量101張。 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWlKOFlsMzFMTUkxSHdxMFFCd3A1ZE9WZGZ1NWlxNVgxNGJ0OVNRRFhLZlhoOUhjYkk0UE1ZOHVTbksxcHFDWFlCbVpXV0szS3F5UWNxNDJCeVlYTVlSVWU4bElqb1NFa1E4N0J0LXlKaXpFdXNPU2h0VlFTS2YtT2tYX05TYms?oc=5",
-            "pubDate": "Fri, 22 May 2026 03:44:00 GMT",
-            "source": "富聯網"
+            "title": "愛普*（6531）做什麼、法說有何重點？2026年第一季EPS達4.15元，IoTRAM強勁需求推升營收年增115%，S-SiCap量產佈局加速啟動｜股市話題 - sinotrade.com.tw",
+            "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxPbEx6SXVjQVJLdTZSQl9qNmMxMkhGdk1zMkJnbXM4QVFmUURZc0JKYzQ2eGZJb3pyR3R2aW5QVENfTElCc2xxRGpjWmd5M21pM2pqb3hYMU1KTDNiVkg0M1JhVUFwajg5c1VSaF9BVGoxVW5qUVBfcFZyeWVCVE9hYVcycGp3dlNzQXpjYm80OHFJUmVRSzVVRFp6VEUxVy11YXo0QTl5NFlsNHpNSXVTZFA5azRiVkQweExuNzhkZnJBajlfVHBEVjJONGU5Ul9hZU5HeDUyLUZOa3pRSXFQRGw3TDRZZlVwZS1xM2trV29oMC1MWDRoRHZ4UlBUWXBESm83M2JydFl1MHRnSkI5MnNmNEdPZVNvX2tYOGZWZ2l5aHMycUFUb3VHM0p0a0R6OG1Na09yWnplc1FKTHVjcmhLSzNYMk1jOEtSQkRjVlNGQ1ZWU2p3TS1XOGZIRTZaaGt5SG1wUXVfcDc2MDJ3cm50anQxVTQ2SVpCSGI4QnVfRDhzemQ3bnpzZmFPYmlyemktM08wVjZ0c1N1cEV2ZFlXdVJ2eGlIcFczRWNteGQwZ1puZGd6NjlNbnlCNGdSRzBMS2pHSFFHMDNPNUNmRmhvb2hNZXVaU2hON2pDNWlxY01jLVIybUVHc1VlNFBJbkdaWml1S280QWxlMWhPMXJ3cXZfa2ZYXzExV09mYUl1azhuZDRmR1JxeEpzM1gyMFRZWEwwWWNPbUpBRHQ4Vm5PQ08wc0ZiS0d0NUxfTG8tdS1UaDBPc2M5eGZ1blhmT21hSTE3cEx2cGtpSnVoZlJSVTRQMVBhUWt0cmxYdVd3VXpwYmJkN1N0MDRXRU1zaDZ5TWp3?oc=5",
+            "pubDate": "Wed, 13 May 2026 00:41:12 GMT",
+            "source": "sinotrade.com.tw"
           }
         ]
       }
@@ -5129,6 +6942,26 @@
       "defenseLine": "504.4",
       "firstTarget": "570.8",
       "riskReward": 1.500000000000001,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "528.3~536.3",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "504.4",
+          "fail": "496.8"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "570.8",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 528.3~536.3｜守 504.4（失守 496.8）｜賣 T1 570.8"
+      },
+      "waveSummary": "買 528.3~536.3｜守 504.4（失守 496.8）｜賣 T1 570.8",
       "trendType": "趨勢表態",
       "chips": {
         "source": "HiStock",
@@ -5167,10 +7000,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "【數報】盤中快報:3105(穩懋)股價漲停鎖定在531.00元，委託買量1158張。 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0w1WWxwMm4zUEl6U0IyZTNjY0RXV19KSmV4YzYtTkJYRm8wcUQ1Q2FldGJpZG1fMzZsdjVRSnpmWWVpZjJwaklMZVdwOW5CU3pKRXNKdXdPemRGQ3dGTXlNdUxZNVhKaF9sbmlQMjdsZjJFVUhjZWlSdUZvN1dmSkhSa2prY21OdFoxUkhB?oc=5",
-            "pubDate": "Fri, 22 May 2026 02:58:00 GMT",
-            "source": "富聯網"
+            "title": "3105 穩懋- 光通訊磷化銦1.6T 雙雄奮起！！-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JY3BlQ0VZX1RhcnFtOEZoYzFSVlM2ZHBjYk5Cb09TWUtHRHlEczJhWjItNlM2ZHNUMWI0WkhhTW4yUHVSSUtCN1g0QV8tbU81bkpXdW1VS0c?oc=5",
+            "pubDate": "Thu, 21 May 2026 22:32:55 GMT",
+            "source": "CMoney"
           },
           {
             "title": "穩懋、乙盛業績看旺- 日報 - 工商時報",
@@ -5266,6 +7099,26 @@
       "defenseLine": "77.33",
       "firstTarget": "87.51",
       "riskReward": 1.5000000000000018,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "80.99~82.21",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "77.33",
+          "fail": "76.17"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "87.51",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 80.99~82.21｜守 77.33（失守 76.17）｜賣 T1 87.51"
+      },
+      "waveSummary": "買 80.99~82.21｜守 77.33（失守 76.17）｜賣 T1 87.51",
       "trendType": "趨勢表態",
       "chips": {
         "source": "HiStock",
@@ -5404,6 +7257,26 @@
       "defenseLine": "403.8",
       "firstTarget": "456.9",
       "riskReward": 1.5,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "422.9~429.3",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "403.8",
+          "fail": "397.7"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "456.9",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 422.9~429.3｜守 403.8（失守 397.7）｜賣 T1 456.9"
+      },
+      "waveSummary": "買 422.9~429.3｜守 403.8（失守 397.7）｜賣 T1 456.9",
       "trendType": "趨勢表態"
     },
     {
@@ -5491,6 +7364,26 @@
       "defenseLine": "167.2",
       "firstTarget": "189.2",
       "riskReward": 1.5,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "175.1~177.8",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "167.2",
+          "fail": "164.7"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "189.2",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 175.1~177.8｜守 167.2（失守 164.7）｜賣 T1 189.2"
+      },
+      "waveSummary": "買 175.1~177.8｜守 167.2（失守 164.7）｜賣 T1 189.2",
       "trendType": "趨勢表態"
     },
     {
@@ -5578,6 +7471,26 @@
       "defenseLine": "189.5",
       "firstTarget": "214.5",
       "riskReward": 1.5,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "198.5~201.5",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "189.5",
+          "fail": "186.7"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "214.5",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 198.5~201.5｜守 189.5（失守 186.7）｜賣 T1 214.5"
+      },
+      "waveSummary": "買 198.5~201.5｜守 189.5（失守 186.7）｜賣 T1 214.5",
       "trendType": "趨勢表態"
     },
     {
@@ -5666,6 +7579,26 @@
       "defenseLine": "56.52",
       "firstTarget": "63.96",
       "riskReward": 1.500000000000001,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "59.20~60.09",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "56.52",
+          "fail": "55.67"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "63.96",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 59.20~60.09｜守 56.52（失守 55.67）｜賣 T1 63.96"
+      },
+      "waveSummary": "買 59.20~60.09｜守 56.52（失守 55.67）｜賣 T1 63.96",
       "trendType": "趨勢表態"
     },
     {
@@ -5755,6 +7688,26 @@
       "defenseLine": "597.5",
       "firstTarget": "676.2",
       "riskReward": 1.5,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "625.9~635.3",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "597.5",
+          "fail": "588.5"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "676.2",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 625.9~635.3｜守 597.5（失守 588.5）｜賣 T1 676.2"
+      },
+      "waveSummary": "買 625.9~635.3｜守 597.5（失守 588.5）｜賣 T1 676.2",
       "trendType": "趨勢表態"
     },
     {
@@ -5844,6 +7797,26 @@
       "defenseLine": "578.5",
       "firstTarget": "654.7",
       "riskReward": 1.5,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "606~615.1",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "578.5",
+          "fail": "569.8"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "654.7",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 606~615.1｜守 578.5（失守 569.8）｜賣 T1 654.7"
+      },
+      "waveSummary": "買 606~615.1｜守 578.5（失守 569.8）｜賣 T1 654.7",
       "trendType": "趨勢表態"
     },
     {
@@ -5931,6 +7904,26 @@
       "defenseLine": "490.2",
       "firstTarget": "554.7",
       "riskReward": 1.500000000000001,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "513.4~521.2",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "490.2",
+          "fail": "482.8"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "554.7",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 513.4~521.2｜守 490.2（失守 482.8）｜賣 T1 554.7"
+      },
+      "waveSummary": "買 513.4~521.2｜守 490.2（失守 482.8）｜賣 T1 554.7",
       "trendType": "趨勢表態"
     },
     {
@@ -6020,6 +8013,26 @@
       "defenseLine": "42.42",
       "firstTarget": "48.00",
       "riskReward": 1.5,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "44.43~45.10",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "42.42",
+          "fail": "41.78"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "48.00",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 44.43~45.10｜守 42.42（失守 41.78）｜賣 T1 48.00"
+      },
+      "waveSummary": "買 44.43~45.10｜守 42.42（失守 41.78）｜賣 T1 48.00",
       "trendType": "趨勢表態"
     }
   ],
@@ -6099,6 +8112,31 @@
       "defenseLine": "57.38",
       "firstTarget": "78.90",
       "riskReward": 2.3516592560336367,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "66.33~67.67",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "57.38",
+          "fail": "56.52"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "78.90",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "94.30",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 66.33~67.67｜守 57.38（失守 56.52）｜賣 T1 78.90 / T2 94.30"
+      },
+      "waveSummary": "買 66.33~67.67｜守 57.38（失守 56.52）｜賣 T1 78.90 / T2 94.30",
       "trendType": "打底轉強",
       "chips": {
         "source": "HiStock",
@@ -6234,6 +8272,26 @@
       "defenseLine": "532.9",
       "firstTarget": "603.1",
       "riskReward": 1.499999999999998,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "558.2~566.6",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "532.9",
+          "fail": "524.9"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "603.1",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 558.2~566.6｜守 532.9（失守 524.9）｜賣 T1 603.1"
+      },
+      "waveSummary": "買 558.2~566.6｜守 532.9（失守 524.9）｜賣 T1 603.1",
       "trendType": "趨勢表態",
       "chips": {
         "source": "HiStock",
@@ -6367,6 +8425,26 @@
       "defenseLine": "943.7",
       "firstTarget": "1006.3",
       "riskReward": 2.250000000000003,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "1005~1020.1",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "943.7",
+          "fail": "929.5"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1006.3",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 1005~1020.1｜守 943.7（失守 929.5）｜賣 T1 1006.3"
+      },
+      "waveSummary": "買 1005~1020.1｜守 943.7（失守 929.5）｜賣 T1 1006.3",
       "trendType": "趨勢表態",
       "chips": {
         "source": "HiStock",
@@ -6411,10 +8489,10 @@
             "source": "CMoney"
           },
           {
-            "title": "【數報】盤中快報:6531(愛普*)股價漲停鎖定在963.00元，委託買量101張。 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWlKOFlsMzFMTUkxSHdxMFFCd3A1ZE9WZGZ1NWlxNVgxNGJ0OVNRRFhLZlhoOUhjYkk0UE1ZOHVTbksxcHFDWFlCbVpXV0szS3F5UWNxNDJCeVlYTVlSVWU4bElqb1NFa1E4N0J0LXlKaXpFdXNPU2h0VlFTS2YtT2tYX05TYms?oc=5",
-            "pubDate": "Fri, 22 May 2026 03:44:00 GMT",
-            "source": "富聯網"
+            "title": "愛普*（6531）做什麼、法說有何重點？2026年第一季EPS達4.15元，IoTRAM強勁需求推升營收年增115%，S-SiCap量產佈局加速啟動｜股市話題 - sinotrade.com.tw",
+            "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxPbEx6SXVjQVJLdTZSQl9qNmMxMkhGdk1zMkJnbXM4QVFmUURZc0JKYzQ2eGZJb3pyR3R2aW5QVENfTElCc2xxRGpjWmd5M21pM2pqb3hYMU1KTDNiVkg0M1JhVUFwajg5c1VSaF9BVGoxVW5qUVBfcFZyeWVCVE9hYVcycGp3dlNzQXpjYm80OHFJUmVRSzVVRFp6VEUxVy11YXo0QTl5NFlsNHpNSXVTZFA5azRiVkQweExuNzhkZnJBajlfVHBEVjJONGU5Ul9hZU5HeDUyLUZOa3pRSXFQRGw3TDRZZlVwZS1xM2trV29oMC1MWDRoRHZ4UlBUWXBESm83M2JydFl1MHRnSkI5MnNmNEdPZVNvX2tYOGZWZ2l5aHMycUFUb3VHM0p0a0R6OG1Na09yWnplc1FKTHVjcmhLSzNYMk1jOEtSQkRjVlNGQ1ZWU2p3TS1XOGZIRTZaaGt5SG1wUXVfcDc2MDJ3cm50anQxVTQ2SVpCSGI4QnVfRDhzemQ3bnpzZmFPYmlyemktM08wVjZ0c1N1cEV2ZFlXdVJ2eGlIcFczRWNteGQwZ1puZGd6NjlNbnlCNGdSRzBMS2pHSFFHMDNPNUNmRmhvb2hNZXVaU2hON2pDNWlxY01jLVIybUVHc1VlNFBJbkdaWml1S280QWxlMWhPMXJ3cXZfa2ZYXzExV09mYUl1azhuZDRmR1JxeEpzM1gyMFRZWEwwWWNPbUpBRHQ4Vm5PQ08wc0ZiS0d0NUxfTG8tdS1UaDBPc2M5eGZ1blhmT21hSTE3cEx2cGtpSnVoZlJSVTRQMVBhUWt0cmxYdVd3VXpwYmJkN1N0MDRXRU1zaDZ5TWp3?oc=5",
+            "pubDate": "Wed, 13 May 2026 00:41:12 GMT",
+            "source": "sinotrade.com.tw"
           }
         ]
       }
@@ -6492,6 +8570,31 @@
       "defenseLine": "60.48",
       "firstTarget": "82.50",
       "riskReward": 2.4844509149119096,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "66.83~68.17",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "60.48",
+          "fail": "59.57"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "82.50",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "94.60",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 66.83~68.17｜守 60.48（失守 59.57）｜賣 T1 82.50 / T2 94.60"
+      },
+      "waveSummary": "買 66.83~68.17｜守 60.48（失守 59.57）｜賣 T1 82.50 / T2 94.60",
       "trendType": "打底轉強",
       "chips": {
         "source": "HiStock",
@@ -6627,6 +8730,26 @@
       "defenseLine": "504.4",
       "firstTarget": "570.8",
       "riskReward": 1.500000000000001,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "528.3~536.3",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "504.4",
+          "fail": "496.8"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "570.8",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 528.3~536.3｜守 504.4（失守 496.8）｜賣 T1 570.8"
+      },
+      "waveSummary": "買 528.3~536.3｜守 504.4（失守 496.8）｜賣 T1 570.8",
       "trendType": "趨勢表態",
       "chips": {
         "source": "HiStock",
@@ -6665,10 +8788,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "【數報】盤中快報:3105(穩懋)股價漲停鎖定在531.00元，委託買量1158張。 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0w1WWxwMm4zUEl6U0IyZTNjY0RXV19KSmV4YzYtTkJYRm8wcUQ1Q2FldGJpZG1fMzZsdjVRSnpmWWVpZjJwaklMZVdwOW5CU3pKRXNKdXdPemRGQ3dGTXlNdUxZNVhKaF9sbmlQMjdsZjJFVUhjZWlSdUZvN1dmSkhSa2prY21OdFoxUkhB?oc=5",
-            "pubDate": "Fri, 22 May 2026 02:58:00 GMT",
-            "source": "富聯網"
+            "title": "3105 穩懋- 光通訊磷化銦1.6T 雙雄奮起！！-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JY3BlQ0VZX1RhcnFtOEZoYzFSVlM2ZHBjYk5Cb09TWUtHRHlEczJhWjItNlM2ZHNUMWI0WkhhTW4yUHVSSUtCN1g0QV8tbU81bkpXdW1VS0c?oc=5",
+            "pubDate": "Thu, 21 May 2026 22:32:55 GMT",
+            "source": "CMoney"
           },
           {
             "title": "穩懋、乙盛業績看旺- 日報 - 工商時報",
@@ -6754,6 +8877,31 @@
       "defenseLine": "66.32",
       "firstTarget": "76.90",
       "riskReward": 1.529856489999357,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "74.75~76.25",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "66.32",
+          "fail": "65.33"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "76.90",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "90.70",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 74.75~76.25｜守 66.32（失守 65.33）｜賣 T1 76.90 / T2 90.70"
+      },
+      "waveSummary": "買 74.75~76.25｜守 66.32（失守 65.33）｜賣 T1 76.90 / T2 90.70",
       "trendType": "打底轉強",
       "chips": {
         "source": "HiStock",
@@ -6880,6 +9028,31 @@
       "defenseLine": "1078.2",
       "firstTarget": "1310",
       "riskReward": 1.524988017951286,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "1296.9~1323.1",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "1078.2",
+          "fail": "1062"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1310",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "1640",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 1296.9~1323.1｜守 1078.2（失守 1062）｜賣 T1 1310 / T2 1640"
+      },
+      "waveSummary": "買 1296.9~1323.1｜守 1078.2（失守 1062）｜賣 T1 1310 / T2 1640",
       "trendType": "打底轉強",
       "chips": {
         "source": "HiStock",
@@ -7017,6 +9190,26 @@
       "defenseLine": "77.33",
       "firstTarget": "87.51",
       "riskReward": 1.5000000000000018,
+      "waveZones": {
+        "pool": "hot",
+        "entry": {
+          "range": "80.99~82.21",
+          "style": "突破/續抱"
+        },
+        "stop": {
+          "hard": "77.33",
+          "fail": "76.17"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "87.51",
+            "note": "順勢波段目標"
+          }
+        ],
+        "summary": "買 80.99~82.21｜守 77.33（失守 76.17）｜賣 T1 87.51"
+      },
+      "waveSummary": "買 80.99~82.21｜守 77.33（失守 76.17）｜賣 T1 87.51",
       "trendType": "趨勢表態",
       "chips": {
         "source": "HiStock",
@@ -7143,6 +9336,31 @@
       "defenseLine": "135.4",
       "firstTarget": "170.5",
       "riskReward": 1.2470023980815357,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "160.9~164.1",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "135.4",
+          "fail": "133.4"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "170.5",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "207.5",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 160.9~164.1｜守 135.4（失守 133.4）｜賣 T1 170.5 / T2 207.5"
+      },
+      "waveSummary": "買 160.9~164.1｜守 135.4（失守 133.4）｜賣 T1 170.5 / T2 207.5",
       "trendType": "打底轉強",
       "chips": {
         "source": "HiStock",
@@ -7270,6 +9488,31 @@
       "defenseLine": "16285",
       "firstTarget": "19195",
       "riskReward": 0.9464882943143813,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "19003~19387",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "16285",
+          "fail": "16040.7"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "19195",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "23250",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 19003~19387｜守 16285（失守 16040.7）｜賣 T1 19195 / T2 23250"
+      },
+      "waveSummary": "買 19003~19387｜守 16285（失守 16040.7）｜賣 T1 19195 / T2 23250",
       "trendType": "打底轉強"
     },
     {
@@ -7345,6 +9588,31 @@
       "defenseLine": "65.72",
       "firstTarget": "86.90",
       "riskReward": 1.9103115630417549,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "76.13~77.67",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "65.72",
+          "fail": "64.73"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "86.90",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "105.7",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 76.13~77.67｜守 65.72（失守 64.73）｜賣 T1 86.90 / T2 105.7"
+      },
+      "waveSummary": "買 76.13~77.67｜守 65.72（失守 64.73）｜賣 T1 86.90 / T2 105.7",
       "trendType": "打底轉強"
     },
     {
@@ -7420,6 +9688,36 @@
       "defenseLine": "134.4",
       "firstTarget": "160.1",
       "riskReward": 0.7053711951532411,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "135.7~149.7",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "134.4",
+          "fail": "132.4"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "155.5",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "178.5",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "160.1",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 135.7~149.7｜守 134.4（失守 132.4）｜賣 T1 155.5 / T2 178.5 / T3 160.1"
+      },
+      "waveSummary": "買 135.7~149.7｜守 134.4（失守 132.4）｜賣 T1 155.5 / T2 178.5 / T3 160.1",
       "trendType": "錯殺反彈",
       "chips": {
         "source": "HiStock",
@@ -7545,6 +9843,31 @@
       "defenseLine": "370.7",
       "firstTarget": "435.5",
       "riskReward": 0.3280974449411474,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "431.1~439.9",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "370.7",
+          "fail": "365.1"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "435.5",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "569",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 431.1~439.9｜守 370.7（失守 365.1）｜賣 T1 435.5 / T2 569"
+      },
+      "waveSummary": "買 431.1~439.9｜守 370.7（失守 365.1）｜賣 T1 435.5 / T2 569",
       "trendType": "觀察"
     },
     {
@@ -7620,6 +9943,31 @@
       "defenseLine": "721.5",
       "firstTarget": "805",
       "riskReward": 2.15297450424929,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "762.3~777.7",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "721.5",
+          "fail": "710.7"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "805",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "865",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 762.3~777.7｜守 721.5（失守 710.7）｜賣 T1 805 / T2 865"
+      },
+      "waveSummary": "買 762.3~777.7｜守 721.5（失守 710.7）｜賣 T1 805 / T2 865",
       "trendType": "打底轉強"
     },
     {
@@ -7695,6 +10043,36 @@
       "defenseLine": "358.3",
       "firstTarget": "431.7",
       "riskReward": 0.15179522192939834,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "361.9~393.9",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "358.3",
+          "fail": "352.9"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "419.1",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "497",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "431.7",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 361.9~393.9｜守 358.3（失守 352.9）｜賣 T1 419.1 / T2 497 / T3 431.7"
+      },
+      "waveSummary": "買 361.9~393.9｜守 358.3（失守 352.9）｜賣 T1 419.1 / T2 497 / T3 431.7",
       "trendType": "錯殺反彈",
       "chips": {
         "source": "HiStock",
@@ -7820,6 +10198,36 @@
       "defenseLine": "1229.4",
       "firstTarget": "1408",
       "riskReward": 0.7757208208288308,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "1241.7~1311.5",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "1229.4",
+          "fail": "1211"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1367",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "1520",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "1408",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 1241.7~1311.5｜守 1229.4（失守 1211）｜賣 T1 1367 / T2 1520 / T3 1408"
+      },
+      "waveSummary": "買 1241.7~1311.5｜守 1229.4（失守 1211）｜賣 T1 1367 / T2 1520 / T3 1408",
       "trendType": "錯殺反彈",
       "chips": {
         "source": "HiStock",
@@ -7945,6 +10353,36 @@
       "defenseLine": "3283.1",
       "firstTarget": "3767.5",
       "riskReward": 2.974187394222214,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "3315.9~3512.5",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "3283.1",
+          "fail": "3233.9"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "3657.8",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "4200",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "3767.5",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 3315.9~3512.5｜守 3283.1（失守 3233.9）｜賣 T1 3657.8 / T2 4200 / T3 3767.5"
+      },
+      "waveSummary": "買 3315.9~3512.5｜守 3283.1（失守 3233.9）｜賣 T1 3657.8 / T2 4200 / T3 3767.5",
       "trendType": "錯殺反彈",
       "chips": {
         "source": "HiStock",
@@ -8070,6 +10508,31 @@
       "defenseLine": "4610.7",
       "firstTarget": "5215",
       "riskReward": 0.5325286234135082,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "5162.9~5267.1",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "4610.7",
+          "fail": "4541.5"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "5215",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "6270",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 5162.9~5267.1｜守 4610.7（失守 4541.5）｜賣 T1 5215 / T2 6270"
+      },
+      "waveSummary": "買 5162.9~5267.1｜守 4610.7（失守 4541.5）｜賣 T1 5215 / T2 6270",
       "trendType": "觀察"
     },
     {
@@ -8146,6 +10609,31 @@
       "defenseLine": "137.3",
       "firstTarget": "149",
       "riskReward": 0.6291066685306872,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "147.5~150.5",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "137.3",
+          "fail": "135.2"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "149",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "166",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 147.5~150.5｜守 137.3（失守 135.2）｜賣 T1 149 / T2 166"
+      },
+      "waveSummary": "買 147.5~150.5｜守 137.3（失守 135.2）｜賣 T1 149 / T2 166",
       "trendType": "打底轉強"
     },
     {
@@ -8221,6 +10709,36 @@
       "defenseLine": "774.7",
       "firstTarget": "891",
       "riskReward": 1.2652203294227482,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "782.4~808",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "774.7",
+          "fail": "763.1"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "865",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "944",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "891",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 782.4~808｜守 774.7（失守 763.1）｜賣 T1 865 / T2 944 / T3 891"
+      },
+      "waveSummary": "買 782.4~808｜守 774.7（失守 763.1）｜賣 T1 865 / T2 944 / T3 891",
       "trendType": "錯殺反彈",
       "chips": {
         "source": "HiStock",
@@ -8272,6 +10790,2369 @@
           }
         ]
       }
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:1717",
+      "code": "1717",
+      "name": "長興",
+      "close": 83,
+      "open": 80.5999984741211,
+      "high": 84.4000015258789,
+      "low": 80.0999984741211,
+      "volume": 67897644,
+      "amount": 5627996562,
+      "changePct": 4.140530963760088,
+      "hotScore": 78.47189305288106,
+      "price": 83,
+      "prevClose": 79.69999694824219,
+      "prevHigh": 79.9000015258789,
+      "fiveDayAgoClose": 78.69999694824219,
+      "threeDayAgoClose": 74.5,
+      "fiveDayChangePct": 5.463790620710889,
+      "threeDayChangePct": 11.409395973154362,
+      "ma5": 76.73999938964843,
+      "ma10": 78.58999938964844,
+      "ma20": 78.56499977111817,
+      "ma60": 71.00833320617676,
+      "ma120": 60.77222220918052,
+      "bbMid": 78.56499977111817,
+      "bbUpper": 84.06927867612106,
+      "bbLower": 73.06072086611528,
+      "box20High": 85,
+      "box20Low": 70.80000305175781,
+      "box60High": 88.80000305175781,
+      "box60Low": 56.599998474121094,
+      "avgVol20": 46042031.6,
+      "volRatio20": 1.47468827157488,
+      "upperWick": 0.3255815191355725,
+      "lowerWick": 0.11627898724295169,
+      "rsi14": 59.56628267103008,
+      "kdK": 53.99058611313785,
+      "kdD": 32.09703630403338,
+      "yahooSymbol": "1717.TW",
+      "source": "Yahoo historical chart",
+      "setupScore": 75,
+      "setupGrade": "A",
+      "setupTag": "轉強可盯",
+      "setupNotes": [
+        "接近/站上20MA",
+        "站上短均",
+        "RSI轉強未過熱",
+        "量能溫和",
+        "接近20日箱頂",
+        "箱體中上段",
+        "上影不重",
+        "近5日未過熱"
+      ],
+      "closeLocation20": 0.859154899308089,
+      "distanceToBoxHighPct": 2.4096385542168677,
+      "pool": "setup",
+      "poolLabel": "轉強潛伏",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": 1.0917504759552097,
+      "sopScore": 57.464416363716076,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "打底轉強"
+      ],
+      "nextTrigger": "85.00",
+      "defenseLine": "76.99",
+      "firstTarget": "88.80",
+      "riskReward": 0.9656532033294616,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "84.15~85.85",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "76.99",
+          "fail": "75.84"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "88.80",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "103",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 84.15~85.85｜守 76.99（失守 75.84）｜賣 T1 88.80 / T2 103"
+      },
+      "waveSummary": "買 84.15~85.85｜守 76.99（失守 75.84）｜賣 T1 88.80 / T2 103",
+      "trendType": "打底轉強"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:3715",
+      "code": "3715",
+      "name": "定穎投控",
+      "close": 174.5,
+      "open": 165.5,
+      "high": 178.5,
+      "low": 165.5,
+      "volume": 13202552,
+      "amount": 2294063055,
+      "changePct": 6.402439024390244,
+      "hotScore": 77.12212150906417,
+      "price": 174.5,
+      "prevClose": 164,
+      "prevHigh": 168,
+      "fiveDayAgoClose": 175,
+      "threeDayAgoClose": 165,
+      "fiveDayChangePct": -0.2857142857142857,
+      "threeDayChangePct": 5.757575757575758,
+      "ma5": 167,
+      "ma10": 172.95,
+      "ma20": 177.6,
+      "ma60": 174.04166666666666,
+      "ma120": 151.78055442092764,
+      "bbMid": 177.6,
+      "bbUpper": 193.99085110663873,
+      "bbLower": 161.20914889336126,
+      "box20High": 200,
+      "box20Low": 159,
+      "box60High": 203.5,
+      "box60Low": 138.5,
+      "avgVol20": 15115053.85,
+      "volRatio20": 0.8734703912417752,
+      "upperWick": 0.3076923076923077,
+      "lowerWick": 0,
+      "rsi14": 48.64331288814518,
+      "kdK": 26.96488696488696,
+      "kdD": 16.204251721493097,
+      "yahooSymbol": "3715.TW",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 80,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "KD低檔轉折",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 12.75,
+      "pullback60Pct": 14.250614250614252,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": 3.3536585365853657,
+      "sopScore": 56.67682926829268,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "相對大盤強",
+        "止跌訊號"
+      ],
+      "nextTrigger": "168",
+      "defenseLine": "161.2",
+      "firstTarget": "182.9",
+      "riskReward": 0.6341204135369658,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "162.8~168.8",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "161.2",
+          "fail": "158.8"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "177.6",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "200",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "182.9",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 162.8~168.8｜守 161.2（失守 158.8）｜賣 T1 177.6 / T2 200 / T3 182.9"
+      },
+      "waveSummary": "買 162.8~168.8｜守 161.2（失守 158.8）｜賣 T1 177.6 / T2 200 / T3 182.9",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:8112",
+      "code": "8112",
+      "name": "至上",
+      "close": 86.2,
+      "open": 86.5,
+      "high": 87.9000015258789,
+      "low": 86,
+      "volume": 20944224,
+      "amount": 1823406390,
+      "changePct": 0.8187098809850145,
+      "hotScore": 51.76919208850152,
+      "price": 86.19999694824219,
+      "prevClose": 85.5,
+      "prevHigh": 85.9000015258789,
+      "fiveDayAgoClose": 81.5999984741211,
+      "threeDayAgoClose": 83.5999984741211,
+      "fiveDayChangePct": 5.637253137424939,
+      "threeDayChangePct": 3.1100460784409463,
+      "ma5": 84.67999877929688,
+      "ma10": 84.02999954223633,
+      "ma20": 84.72999992370606,
+      "ma60": 82.0016668955485,
+      "ma120": 78.21282052586221,
+      "bbMid": 84.72999992370606,
+      "bbUpper": 89.30213416867034,
+      "bbLower": 80.15786567874179,
+      "box20High": 90.5,
+      "box20Low": 79.0999984741211,
+      "box60High": 97.9000015258789,
+      "box60Low": 63,
+      "avgVol20": 22238767.15,
+      "volRatio20": 0.9417888976817674,
+      "upperWick": 0.8947385328284552,
+      "lowerWick": 0.10526146717154479,
+      "rsi14": 54.092142872592554,
+      "kdK": 61.34720607057244,
+      "kdD": 50.35454760435439,
+      "yahooSymbol": "8112.TW",
+      "source": "Yahoo historical chart",
+      "setupScore": 88,
+      "setupGrade": "A",
+      "setupTag": "轉強可盯",
+      "setupNotes": [
+        "接近/站上20MA",
+        "剛站回20MA",
+        "站上短均",
+        "短均線改善",
+        "RSI轉強未過熱",
+        "量能溫和",
+        "接近20日箱頂",
+        "箱體中上段",
+        "近5日未過熱"
+      ],
+      "closeLocation20": 0.6228068003327486,
+      "distanceToBoxHighPct": 4.988402788853579,
+      "pool": "setup",
+      "poolLabel": "轉強潛伏",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": -2.2300706068198637,
+      "sopScore": 56.66647053661149,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "打底轉強",
+        "上影風險"
+      ],
+      "nextTrigger": "90.50",
+      "defenseLine": "83.04",
+      "firstTarget": "97.90",
+      "riskReward": 3.6971546432497675,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "89.59~91.41",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "83.04",
+          "fail": "81.79"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "97.90",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "109.3",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 89.59~91.41｜守 83.04（失守 81.79）｜賣 T1 97.90 / T2 109.3"
+      },
+      "waveSummary": "買 89.59~91.41｜守 83.04（失守 81.79）｜賣 T1 97.90 / T2 109.3",
+      "trendType": "打底轉強"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:2618",
+      "code": "2618",
+      "name": "長榮航",
+      "close": 35.5,
+      "open": 35.5,
+      "high": 35.650001525878906,
+      "low": 35.099998474121094,
+      "volume": 45215670,
+      "amount": 1604190697,
+      "changePct": 0.5665744115072885,
+      "hotScore": 55.30616676317314,
+      "price": 35.5,
+      "prevClose": 35.29999923706055,
+      "prevHigh": 35.45000076293945,
+      "fiveDayAgoClose": 34.650001525878906,
+      "threeDayAgoClose": 34.45000076293945,
+      "fiveDayChangePct": 2.4530979413846747,
+      "threeDayChangePct": 3.0478932185978724,
+      "ma5": 34.72999954223633,
+      "ma10": 34.869999694824216,
+      "ma20": 34.47249984741211,
+      "ma60": 34.80666656494141,
+      "ma120": 35.6504272395729,
+      "bbMid": 34.47249984741211,
+      "bbUpper": 36.01635107053091,
+      "bbLower": 32.92864862429331,
+      "box20High": 36.20000076293945,
+      "box20Low": 33.20000076293945,
+      "box60High": 38.400001525878906,
+      "box60Low": 32.150001525878906,
+      "avgVol20": 29017171.85,
+      "volRatio20": 1.5582383505096826,
+      "upperWick": 0.2727285337772229,
+      "lowerWick": 0.727271466222777,
+      "rsi14": 56.54231996094113,
+      "kdK": 44.444444444444436,
+      "kdD": 28.761917656306053,
+      "yahooSymbol": "2618.TW",
+      "source": "Yahoo historical chart",
+      "setupScore": 81,
+      "setupGrade": "A",
+      "setupTag": "轉強可盯",
+      "setupNotes": [
+        "接近/站上20MA",
+        "站上短均",
+        "短均線改善",
+        "RSI轉強未過熱",
+        "量能溫和",
+        "接近20日箱頂",
+        "箱體中上段",
+        "上影不重",
+        "近5日未過熱"
+      ],
+      "closeLocation20": 0.7666664123535156,
+      "distanceToBoxHighPct": 1.971833135040713,
+      "pool": "setup",
+      "poolLabel": "轉強潛伏",
+      "sector": "航空",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": -2.4822060762975897,
+      "sopScore": 56.57912368375779,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "收在日內高檔",
+        "打底轉強"
+      ],
+      "nextTrigger": "36.20",
+      "defenseLine": "33.78",
+      "firstTarget": "38.40",
+      "riskReward": 1.689042356100088,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "35.84~36.56",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "33.78",
+          "fail": "33.27"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "38.40",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "41.40",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 35.84~36.56｜守 33.78（失守 33.27）｜賣 T1 38.40 / T2 41.40"
+      },
+      "waveSummary": "買 35.84~36.56｜守 33.78（失守 33.27）｜賣 T1 38.40 / T2 41.40",
+      "trendType": "打底轉強"
+    },
+    {
+      "exchange": "TPEX",
+      "symbol": "TPEX:3131",
+      "code": "3131",
+      "name": "弘塑",
+      "close": 2820,
+      "open": 2750,
+      "high": 2910,
+      "low": 2735,
+      "volume": 542118,
+      "amount": 1534121825,
+      "changePct": 4.444444444444445,
+      "hotScore": 66.45746132848043,
+      "price": 2820,
+      "prevClose": 2700,
+      "prevHigh": 2725,
+      "fiveDayAgoClose": 2870,
+      "threeDayAgoClose": 2580,
+      "fiveDayChangePct": -1.7421602787456445,
+      "threeDayChangePct": 9.30232558139535,
+      "ma5": 2691,
+      "ma10": 2851.5,
+      "ma20": 2922.25,
+      "ma60": 2670,
+      "ma120": 2145.08547008547,
+      "bbMid": 2922.25,
+      "bbUpper": 3266.785556945869,
+      "bbLower": 2577.714443054131,
+      "box20High": 3245,
+      "box20Low": 2550,
+      "box60High": 3625,
+      "box60Low": 1595,
+      "avgVol20": 742229.15,
+      "volRatio20": 0.7303916856404791,
+      "upperWick": 0.5142857142857142,
+      "lowerWick": 0.08571428571428572,
+      "rsi14": 47.66297403008676,
+      "kdK": 22.55639097744361,
+      "kdD": 13.669330872787276,
+      "yahooSymbol": "3131.TWO",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 94,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "RSI低檔",
+        "KD低檔轉折",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 13.097072419106318,
+      "pullback60Pct": 22.206896551724135,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": 1.3956639566395665,
+      "sopScore": 56.23795543510991,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "止跌訊號",
+        "上影風險"
+      ],
+      "nextTrigger": "2725",
+      "defenseLine": "2577.7",
+      "firstTarget": "3009.9",
+      "riskReward": 0.7838581151679263,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "2603.5~2738.6",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "2577.7",
+          "fail": "2539"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "2922.3",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "3245",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "3009.9",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 2603.5~2738.6｜守 2577.7（失守 2539）｜賣 T1 2922.3 / T2 3245 / T3 3009.9"
+      },
+      "waveSummary": "買 2603.5~2738.6｜守 2577.7（失守 2539）｜賣 T1 2922.3 / T2 3245 / T3 3009.9",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TPEX",
+      "symbol": "TPEX:3081",
+      "code": "3081",
+      "name": "聯亞",
+      "close": 2710,
+      "open": 2715,
+      "high": 2790,
+      "low": 2670,
+      "volume": 2245689,
+      "amount": 6159463505,
+      "changePct": 6.066536203522505,
+      "hotScore": 79.98938428874735,
+      "price": 2710,
+      "prevClose": 2555,
+      "prevHigh": 2660,
+      "fiveDayAgoClose": 2655,
+      "threeDayAgoClose": 2490,
+      "fiveDayChangePct": 2.0715630885122414,
+      "threeDayChangePct": 8.835341365461847,
+      "ma5": 2609,
+      "ma10": 2731.5,
+      "ma20": 2688,
+      "ma60": 2102.6666666666665,
+      "ma120": 1423.525641025641,
+      "bbMid": 2688,
+      "bbUpper": 2991.799275838505,
+      "bbLower": 2384.200724161495,
+      "box20High": 3245,
+      "box20Low": 2430,
+      "box60High": 3305,
+      "box60Low": 1205,
+      "avgVol20": 3032326.4,
+      "volRatio20": 0.7405828739280838,
+      "upperWick": 0.6666666666666666,
+      "lowerWick": 0.3333333333333333,
+      "rsi14": 54.31471530278113,
+      "kdK": 26.050420168067223,
+      "kdD": 20.2574477084281,
+      "yahooSymbol": "3081.TWO",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 80,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "KD低檔轉折",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 16.486902927580893,
+      "pullback60Pct": 18.00302571860817,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": 3.0177557157176267,
+      "sopScore": 55.74376587699341,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "相對大盤強",
+        "止跌訊號",
+        "上影風險"
+      ],
+      "nextTrigger": "2660",
+      "defenseLine": "2384.2",
+      "firstTarget": "2768.6",
+      "riskReward": 0.17998812259198232,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "2408~2673.3",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "2384.2",
+          "fail": "2348.4"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "2688",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "3245",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "2768.6",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 2408~2673.3｜守 2384.2（失守 2348.4）｜賣 T1 2688 / T2 3245 / T3 2768.6"
+      },
+      "waveSummary": "買 2408~2673.3｜守 2384.2（失守 2348.4）｜賣 T1 2688 / T2 3245 / T3 2768.6",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TPEX",
+      "symbol": "TPEX:1815",
+      "code": "1815",
+      "name": "富喬",
+      "close": 107,
+      "open": 104,
+      "high": 108,
+      "low": 104,
+      "volume": 28211175,
+      "amount": 3006654925,
+      "changePct": 5.41871921182266,
+      "hotScore": 77.94585987261146,
+      "price": 107,
+      "prevClose": 101.5,
+      "prevHigh": 105,
+      "fiveDayAgoClose": 102.5,
+      "threeDayAgoClose": 102,
+      "fiveDayChangePct": 4.390243902439024,
+      "threeDayChangePct": 4.901960784313726,
+      "ma5": 102.7,
+      "ma10": 104.65,
+      "ma20": 107.55,
+      "ma60": 108.15,
+      "ma120": 99.02860364343366,
+      "bbMid": 107.55,
+      "bbUpper": 115.91600262969119,
+      "bbLower": 99.1839973703088,
+      "box20High": 122,
+      "box20Low": 97.4000015258789,
+      "box60High": 129.5,
+      "box60Low": 94.19999694824219,
+      "avgVol20": 36739666.85,
+      "volRatio20": 0.7678669247377783,
+      "upperWick": 0.25,
+      "lowerWick": 0,
+      "rsi14": 49.846696486254324,
+      "kdK": 32.962613471960445,
+      "kdD": 24.38396592322185,
+      "yahooSymbol": "1815.TWO",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 80,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "KD低檔轉折",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 12.295081967213115,
+      "pullback60Pct": 17.374517374517374,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": 2.369938724017782,
+      "sopScore": 53.94427423338273,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "相對大盤強",
+        "收在日內高檔",
+        "止跌訊號"
+      ],
+      "nextTrigger": "105",
+      "defenseLine": "99.18",
+      "firstTarget": "110.8",
+      "riskReward": 0.4831753747950318,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "100.2~105.5",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "99.18",
+          "fail": "97.69"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "107.5",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "122",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "110.8",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 100.2~105.5｜守 99.18（失守 97.69）｜賣 T1 107.5 / T2 122 / T3 110.8"
+      },
+      "waveSummary": "買 100.2~105.5｜守 99.18（失守 97.69）｜賣 T1 107.5 / T2 122 / T3 110.8",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TPEX",
+      "symbol": "TPEX:3529",
+      "code": "3529",
+      "name": "力旺",
+      "close": 3625,
+      "open": 3700,
+      "high": 3765,
+      "low": 3600,
+      "volume": 503121,
+      "amount": 1850859660,
+      "changePct": 1.969057665260197,
+      "hotScore": 56.642540050183364,
+      "price": 3625,
+      "prevClose": 3555,
+      "prevHigh": 3660,
+      "fiveDayAgoClose": 3830,
+      "threeDayAgoClose": 3310,
+      "fiveDayChangePct": -5.352480417754569,
+      "threeDayChangePct": 9.516616314199396,
+      "ma5": 3465,
+      "ma10": 3757,
+      "ma20": 3968,
+      "ma60": 3241.8333333333335,
+      "ma120": 2540.08547008547,
+      "bbMid": 3968,
+      "bbUpper": 4712.912075348494,
+      "bbLower": 3223.087924651506,
+      "box20High": 4785,
+      "box20Low": 3210,
+      "box60High": 4785,
+      "box60Low": 2150,
+      "avgVol20": 920414.55,
+      "volRatio20": 0.5466243444326254,
+      "upperWick": 0.8484848484848485,
+      "lowerWick": 0.15151515151515152,
+      "rsi14": 47.579663612033315,
+      "kdK": 22.979610538373425,
+      "kdD": 14.378174148620884,
+      "yahooSymbol": "3529.TWO",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 80,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "RSI低檔",
+        "KD低檔轉折",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 24.242424242424242,
+      "pullback60Pct": 24.242424242424242,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": -1.079722822544681,
+      "sopScore": 53.731939462363016,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "止跌訊號",
+        "量不足需確認",
+        "上影風險"
+      ],
+      "nextTrigger": "3660",
+      "defenseLine": "3223.1",
+      "firstTarget": "4087",
+      "riskReward": 1.1496046731100817,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "3255.3~3678.3",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "3223.1",
+          "fail": "3174.8"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "3968",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "4785",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "4087",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 3255.3~3678.3｜守 3223.1（失守 3174.8）｜賣 T1 3968 / T2 4785 / T3 4087"
+      },
+      "waveSummary": "買 3255.3~3678.3｜守 3223.1（失守 3174.8）｜賣 T1 3968 / T2 4785 / T3 4087",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:5269",
+      "code": "5269",
+      "name": "祥碩",
+      "close": 1480,
+      "open": 1430,
+      "high": 1495,
+      "low": 1420,
+      "volume": 1855835,
+      "amount": 2715422015,
+      "changePct": 4.964539007092199,
+      "hotScore": 77.25955414012739,
+      "price": 1480,
+      "prevClose": 1410,
+      "prevHigh": 1455,
+      "fiveDayAgoClose": 1455,
+      "threeDayAgoClose": 1380,
+      "fiveDayChangePct": 1.718213058419244,
+      "threeDayChangePct": 7.246376811594203,
+      "ma5": 1409,
+      "ma10": 1431,
+      "ma20": 1385.25,
+      "ma60": 1263.75,
+      "ma120": 1258.7179487179487,
+      "bbMid": 1385.25,
+      "bbUpper": 1513.0965877526655,
+      "bbLower": 1257.4034122473345,
+      "box20High": 1545,
+      "box20Low": 1260,
+      "box60High": 1545,
+      "box60Low": 1040,
+      "avgVol20": 2388027.55,
+      "volRatio20": 0.7771413692442536,
+      "upperWick": 0.2,
+      "lowerWick": 0.13333333333333333,
+      "rsi14": 61.733887166098405,
+      "kdK": 52.46913580246913,
+      "kdD": 45.47325102880658,
+      "yahooSymbol": "5269.TW",
+      "source": "Yahoo historical chart",
+      "setupScore": 75,
+      "setupGrade": "A",
+      "setupTag": "轉強可盯",
+      "setupNotes": [
+        "接近/站上20MA",
+        "站上短均",
+        "RSI轉強未過熱",
+        "量能溫和",
+        "接近20日箱頂",
+        "箱體中上段",
+        "上影不重",
+        "近5日未過熱"
+      ],
+      "closeLocation20": 0.7719298245614035,
+      "distanceToBoxHighPct": 4.391891891891892,
+      "pool": "setup",
+      "poolLabel": "轉強潛伏",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": 1.915758519287321,
+      "sopScore": 53.182662553575895,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "收在日內高檔",
+        "打底轉強"
+      ],
+      "nextTrigger": "1545",
+      "defenseLine": "1357.5",
+      "firstTarget": "1545",
+      "riskReward": 0.5308072353109309,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "1529.5~1560.5",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "1357.5",
+          "fail": "1337.1"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1545",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "1830",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 1529.5~1560.5｜守 1357.5（失守 1337.1）｜賣 T1 1545 / T2 1830"
+      },
+      "waveSummary": "買 1529.5~1560.5｜守 1357.5（失守 1337.1）｜賣 T1 1545 / T2 1830",
+      "trendType": "打底轉強"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:2887",
+      "code": "2887",
+      "name": "台新新光金",
+      "close": 23.8,
+      "open": 23.899999618530273,
+      "high": 24.149999618530273,
+      "low": 23.75,
+      "volume": 105354432,
+      "amount": 2521754086,
+      "changePct": -0.2096484008781321,
+      "hotScore": 51.88694267515926,
+      "price": 23.799999237060547,
+      "prevClose": 23.850000381469727,
+      "prevHigh": 24.200000762939453,
+      "fiveDayAgoClose": 23.799999237060547,
+      "threeDayAgoClose": 23.600000381469727,
+      "fiveDayChangePct": 0,
+      "threeDayChangePct": 0.8474527642290024,
+      "ma5": 23.720000076293946,
+      "ma10": 23.510000038146973,
+      "ma20": 23.70249996185303,
+      "ma60": 24.186666615804036,
+      "ma120": 22.66495720953004,
+      "bbMid": 23.70249996185303,
+      "bbUpper": 24.375905192034583,
+      "bbLower": 23.029094731671474,
+      "box20High": 24.549999237060547,
+      "box20Low": 22.850000381469727,
+      "box60High": 26,
+      "box60Low": 22.850000381469727,
+      "avgVol20": 93003225.75,
+      "volRatio20": 1.1328040629816543,
+      "upperWick": 0.8750017881410486,
+      "lowerWick": 0.12499821185895144,
+      "rsi14": 50.20445437866076,
+      "kdK": 74.0740060479418,
+      "kdD": 67.48966774624138,
+      "yahooSymbol": "2887.TW",
+      "source": "Yahoo historical chart",
+      "setupScore": 88,
+      "setupGrade": "A",
+      "setupTag": "轉強可盯",
+      "setupNotes": [
+        "接近/站上20MA",
+        "剛站回20MA",
+        "站上短均",
+        "短均線改善",
+        "RSI轉強未過熱",
+        "量能溫和",
+        "接近20日箱頂",
+        "箱體中上段",
+        "近5日未過熱"
+      ],
+      "closeLocation20": 0.5588232324195631,
+      "distanceToBoxHighPct": 3.1512606052193712,
+      "pool": "setup",
+      "poolLabel": "轉強潛伏",
+      "sector": "金融",
+      "sectorRank": 9,
+      "sectorAvgChangePct": -0.1895388275664592,
+      "relativeStrengthPct": -3.25842888868301,
+      "sopScore": 52.059919753658306,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "打底轉強",
+        "上影風險"
+      ],
+      "nextTrigger": "24.55",
+      "defenseLine": "23.23",
+      "firstTarget": "26.00",
+      "riskReward": 3.849188270035643,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "24.30~24.80",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "23.23",
+          "fail": "22.88"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "26.00",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "27.70",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 24.30~24.80｜守 23.23（失守 22.88）｜賣 T1 26.00 / T2 27.70"
+      },
+      "waveSummary": "買 24.30~24.80｜守 23.23（失守 22.88）｜賣 T1 26.00 / T2 27.70",
+      "trendType": "打底轉強"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:2330",
+      "code": "2330",
+      "name": "台積電",
+      "close": 2255,
+      "open": 2245,
+      "high": 2260,
+      "low": 2225,
+      "volume": 26171751,
+      "amount": 60188140377,
+      "changePct": 1.1210762331838564,
+      "hotScore": 74.18448589626932,
+      "price": 2255,
+      "prevClose": 2230,
+      "prevHigh": 2255,
+      "fiveDayAgoClose": 2265,
+      "threeDayAgoClose": 2205,
+      "fiveDayChangePct": -0.44150110375275936,
+      "threeDayChangePct": 2.2675736961451247,
+      "ma5": 2223,
+      "ma10": 2236,
+      "ma20": 2235.75,
+      "ma60": 2024.25,
+      "ma120": 1825.6837606837607,
+      "bbMid": 2235.75,
+      "bbUpper": 2318.3499394672904,
+      "bbLower": 2153.1500605327096,
+      "box20High": 2345,
+      "box20Low": 2105,
+      "box60High": 2345,
+      "box60Low": 1760,
+      "avgVol20": 36239065.25,
+      "volRatio20": 0.7221971874674665,
+      "upperWick": 0.14285714285714285,
+      "lowerWick": 0.5714285714285714,
+      "rsi14": 58.73171951008764,
+      "kdK": 27.38095238095238,
+      "kdD": 15.476190476190476,
+      "yahooSymbol": "2330.TW",
+      "source": "Yahoo historical chart",
+      "setupScore": 93,
+      "setupGrade": "A",
+      "setupTag": "轉強可盯",
+      "setupNotes": [
+        "接近/站上20MA",
+        "剛站回20MA",
+        "站上短均",
+        "短均線改善",
+        "RSI轉強未過熱",
+        "量能溫和",
+        "接近20日箱頂",
+        "箱體中上段",
+        "上影不重",
+        "近5日未過熱"
+      ],
+      "closeLocation20": 0.625,
+      "distanceToBoxHighPct": 3.9911308203991127,
+      "pool": "setup",
+      "poolLabel": "轉強潛伏",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": -1.9277042546210217,
+      "sopScore": 50.09412036761274,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "收在日內高檔",
+        "打底轉強"
+      ],
+      "nextTrigger": "2345",
+      "defenseLine": "2191",
+      "firstTarget": "2345",
+      "riskReward": 1.4070194637692457,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "2321.6~2368.4",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "2191",
+          "fail": "2158.1"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "2345",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "2585",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 2321.6~2368.4｜守 2191（失守 2158.1）｜賣 T1 2345 / T2 2585"
+      },
+      "waveSummary": "買 2321.6~2368.4｜守 2191（失守 2158.1）｜賣 T1 2345 / T2 2585",
+      "trendType": "打底轉強"
+    },
+    {
+      "exchange": "TPEX",
+      "symbol": "TPEX:3324",
+      "code": "3324",
+      "name": "雙鴻",
+      "close": 1010,
+      "open": 1035,
+      "high": 1040,
+      "low": 1005,
+      "volume": 3650879,
+      "amount": 3746808965,
+      "changePct": 1,
+      "hotScore": 59.239080982711556,
+      "price": 1010,
+      "prevClose": 1000,
+      "prevHigh": 1015,
+      "fiveDayAgoClose": 995,
+      "threeDayAgoClose": 966,
+      "fiveDayChangePct": 1.507537688442211,
+      "threeDayChangePct": 4.554865424430641,
+      "ma5": 979.4,
+      "ma10": 1010.2,
+      "ma20": 1077.1,
+      "ma60": 1036.0833333333333,
+      "ma120": 995.5982905982906,
+      "bbMid": 1077.1,
+      "bbUpper": 1237.9650365990074,
+      "bbLower": 916.2349634009925,
+      "box20High": 1305,
+      "box20Low": 936,
+      "box60High": 1305,
+      "box60Low": 875,
+      "avgVol20": 3924997,
+      "volRatio20": 0.9301609657281267,
+      "upperWick": 0.8571428571428571,
+      "lowerWick": 0.14285714285714285,
+      "rsi14": 46.09532543599213,
+      "kdK": 29.522533586394257,
+      "kdD": 19.328995615414858,
+      "yahooSymbol": "3324.TWO",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 94,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "RSI低檔",
+        "KD低檔轉折",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 22.60536398467433,
+      "pullback60Pct": 22.60536398467433,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "散熱",
+      "sectorRank": 7,
+      "sectorAvgChangePct": 4.297558428853915,
+      "relativeStrengthPct": -2.048780487804878,
+      "sopScore": 49.92299522283723,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "止跌訊號",
+        "上影風險"
+      ],
+      "nextTrigger": "1015",
+      "defenseLine": "916.2",
+      "firstTarget": "1109.4",
+      "riskReward": 1.0602352817836178,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "925.4~1020.1",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "916.2",
+          "fail": "902.5"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1077.1",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "1305",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "1109.4",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 925.4~1020.1｜守 916.2（失守 902.5）｜賣 T1 1077.1 / T2 1305 / T3 1109.4"
+      },
+      "waveSummary": "買 925.4~1020.1｜守 916.2（失守 902.5）｜賣 T1 1077.1 / T2 1305 / T3 1109.4",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TPEX",
+      "symbol": "TPEX:6187",
+      "code": "6187",
+      "name": "萬潤",
+      "close": 1140,
+      "open": 1120,
+      "high": 1170,
+      "low": 1115,
+      "volume": 2504152,
+      "amount": 2906628075,
+      "changePct": 4.587155963302752,
+      "hotScore": 73.34322524609149,
+      "price": 1140,
+      "prevClose": 1090,
+      "prevHigh": 1140,
+      "fiveDayAgoClose": 1125,
+      "threeDayAgoClose": 1115,
+      "fiveDayChangePct": 1.3333333333333335,
+      "threeDayChangePct": 2.242152466367713,
+      "ma5": 1113,
+      "ma10": 1138.5,
+      "ma20": 1157.5,
+      "ma60": 945.9583333333334,
+      "ma120": 663.7222222222222,
+      "bbMid": 1157.5,
+      "bbUpper": 1309.2728565982732,
+      "bbLower": 1005.7271434017268,
+      "box20High": 1430,
+      "box20Low": 1035,
+      "box60High": 1490,
+      "box60Low": 422,
+      "avgVol20": 3389479.65,
+      "volRatio20": 0.7388013083365171,
+      "upperWick": 0.5454545454545454,
+      "lowerWick": 0.09090909090909091,
+      "rsi14": 52.084178610301166,
+      "kdK": 22.962962962962962,
+      "kdD": 24.457836367440887,
+      "yahooSymbol": "6187.TWO",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 75,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "KD低檔",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 20.27972027972028,
+      "pullback60Pct": 23.48993288590604,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": 1.5383754754978742,
+      "sopScore": 48.63437632082743,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "止跌訊號",
+        "上影風險"
+      ],
+      "nextTrigger": "1140",
+      "defenseLine": "1005.7",
+      "firstTarget": "1192.2",
+      "riskReward": 0.3889468156341569,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "1015.8~1145.7",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "1005.7",
+          "fail": "990.6"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1157.5",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "1430",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "1192.2",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 1015.8~1145.7｜守 1005.7（失守 990.6）｜賣 T1 1157.5 / T2 1430 / T3 1192.2"
+      },
+      "waveSummary": "買 1015.8~1145.7｜守 1005.7（失守 990.6）｜賣 T1 1157.5 / T2 1430 / T3 1192.2",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:2382",
+      "code": "2382",
+      "name": "廣達",
+      "close": 316,
+      "open": 310,
+      "high": 317,
+      "low": 305.5,
+      "volume": 35813263,
+      "amount": 11380951543,
+      "changePct": 2.5974025974025974,
+      "hotScore": 78.25463860426476,
+      "price": 316,
+      "prevClose": 308,
+      "prevHigh": 312.5,
+      "fiveDayAgoClose": 306,
+      "threeDayAgoClose": 290,
+      "fiveDayChangePct": 3.2679738562091507,
+      "threeDayChangePct": 8.96551724137931,
+      "ma5": 300.8,
+      "ma10": 316.85,
+      "ma20": 322.125,
+      "ma60": 305.80833333333334,
+      "ma120": 293.13675213675214,
+      "bbMid": 322.125,
+      "bbUpper": 356.3373881072339,
+      "bbLower": 287.9126118927661,
+      "box20High": 352.5,
+      "box20Low": 288.5,
+      "box60High": 352.5,
+      "box60Low": 272,
+      "avgVol20": 24674625.3,
+      "volRatio20": 1.4514207435603894,
+      "upperWick": 0.08695652173913043,
+      "lowerWick": 0.391304347826087,
+      "rsi14": 49.86560799698561,
+      "kdK": 25.66137566137566,
+      "kdD": 13.308673190679093,
+      "yahooSymbol": "2382.TW",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 80,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "KD低檔轉折",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 10.354609929078014,
+      "pullback60Pct": 10.354609929078014,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "AI伺服器",
+      "sectorRank": 5,
+      "sectorAvgChangePct": 4.367712086907292,
+      "relativeStrengthPct": -0.4513778904022807,
+      "sopScore": 48.607283637771445,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "收在日內高檔",
+        "止跌訊號"
+      ],
+      "nextTrigger": "312.5",
+      "defenseLine": "287.9",
+      "firstTarget": "331.8",
+      "riskReward": 0.5621295201860941,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "290.8~314.1",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "287.9",
+          "fail": "283.6"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "322.1",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "352.5",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "331.8",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 290.8~314.1｜守 287.9（失守 283.6）｜賣 T1 322.1 / T2 352.5 / T3 331.8"
+      },
+      "waveSummary": "買 290.8~314.1｜守 287.9（失守 283.6）｜賣 T1 322.1 / T2 352.5 / T3 331.8",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:2449",
+      "code": "2449",
+      "name": "京元電子",
+      "close": 296,
+      "open": 292,
+      "high": 301,
+      "low": 290.5,
+      "volume": 26327415,
+      "amount": 7831615608,
+      "changePct": 3.4965034965034967,
+      "hotScore": 76.66325447376403,
+      "price": 296,
+      "prevClose": 286,
+      "prevHigh": 292.5,
+      "fiveDayAgoClose": 299.5,
+      "threeDayAgoClose": 289,
+      "fiveDayChangePct": -1.1686143572621035,
+      "threeDayChangePct": 2.422145328719723,
+      "ma5": 288.7,
+      "ma10": 294.45,
+      "ma20": 302.425,
+      "ma60": 294.175,
+      "ma120": 274.8333333333333,
+      "bbMid": 302.425,
+      "bbUpper": 343.00735453987363,
+      "bbLower": 261.8426454601264,
+      "box20High": 364.5,
+      "box20Low": 272.5,
+      "box60High": 364.5,
+      "box60Low": 255.5,
+      "avgVol20": 37257877.4,
+      "volRatio20": 0.7066268085363339,
+      "upperWick": 0.47619047619047616,
+      "lowerWick": 0.14285714285714285,
+      "rsi14": 49.85771681656567,
+      "kdK": 28.533673502763875,
+      "kdD": 14.994657456059008,
+      "yahooSymbol": "2449.TW",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 80,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "KD低檔轉折",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 18.792866941015088,
+      "pullback60Pct": 18.792866941015088,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": 0.4477230086986186,
+      "sopScore": 48.60478613527394,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "止跌訊號",
+        "上影風險"
+      ],
+      "nextTrigger": "292.5",
+      "defenseLine": "261.8",
+      "firstTarget": "311.5",
+      "riskReward": 0.4537163433400174,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "264.4~294",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "261.8",
+          "fail": "257.9"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "302.4",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "364.5",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "311.5",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 264.4~294｜守 261.8（失守 257.9）｜賣 T1 302.4 / T2 364.5 / T3 311.5"
+      },
+      "waveSummary": "買 264.4~294｜守 261.8（失守 257.9）｜賣 T1 302.4 / T2 364.5 / T3 311.5",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:1590",
+      "code": "1590",
+      "name": "亞德客-KY",
+      "close": 1410,
+      "open": 1430,
+      "high": 1450,
+      "low": 1375,
+      "volume": 1218498,
+      "amount": 1883790100,
+      "changePct": -0.7042253521126761,
+      "hotScore": 50.41507430997876,
+      "price": 1410,
+      "prevClose": 1420,
+      "prevHigh": 1450,
+      "fiveDayAgoClose": 1465,
+      "threeDayAgoClose": 1430,
+      "fiveDayChangePct": -3.754266211604096,
+      "threeDayChangePct": -1.3986013986013985,
+      "ma5": 1423,
+      "ma10": 1461,
+      "ma20": 1453.5,
+      "ma60": 1211.6666666666667,
+      "ma120": 1107.145299145299,
+      "bbMid": 1453.5,
+      "bbUpper": 1545.1024017152388,
+      "bbLower": 1361.8975982847612,
+      "box20High": 1600,
+      "box20Low": 1280,
+      "box60High": 1600,
+      "box60Low": 943,
+      "avgVol20": 1367882.7,
+      "volRatio20": 0.8907912937271595,
+      "upperWick": 0.5333333333333333,
+      "lowerWick": 0.4666666666666667,
+      "rsi14": 54.31953722395461,
+      "kdK": 12.694227328373671,
+      "kdD": 13.013832647978992,
+      "yahooSymbol": "1590.TW",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 75,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "KD低檔",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 11.875,
+      "pullback60Pct": 11.875,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": -3.753005839917554,
+      "sopScore": 46.5713991811085,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "止跌訊號",
+        "上影風險"
+      ],
+      "nextTrigger": "1450",
+      "defenseLine": "1361.9",
+      "firstTarget": "1497.1",
+      "riskReward": 1.8108243433592477,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "1375.5~1457.2",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "1361.9",
+          "fail": "1341.5"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1453.5",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "1600",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "1497.1",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 1375.5~1457.2｜守 1361.9（失守 1341.5）｜賣 T1 1453.5 / T2 1600 / T3 1497.1"
+      },
+      "waveSummary": "買 1375.5~1457.2｜守 1361.9（失守 1341.5）｜賣 T1 1453.5 / T2 1600 / T3 1497.1",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:3017",
+      "code": "3017",
+      "name": "奇鋐",
+      "close": 2545,
+      "open": 2550,
+      "high": 2610,
+      "low": 2470,
+      "volume": 5491676,
+      "amount": 13965964590,
+      "changePct": 2.004008016032064,
+      "hotScore": 72.71383075523204,
+      "price": 2545,
+      "prevClose": 2495,
+      "prevHigh": 2515,
+      "fiveDayAgoClose": 2455,
+      "threeDayAgoClose": 2390,
+      "fiveDayChangePct": 3.6659877800407332,
+      "threeDayChangePct": 6.485355648535565,
+      "ma5": 2436,
+      "ma10": 2485,
+      "ma20": 2598.25,
+      "ma60": 2237,
+      "ma120": 1843.2051282051282,
+      "bbMid": 2598.25,
+      "bbUpper": 2969.2793115105596,
+      "bbLower": 2227.2206884894404,
+      "box20High": 3010,
+      "box20Low": 2300,
+      "box60High": 3010,
+      "box60Low": 1510,
+      "avgVol20": 5424818.9,
+      "volRatio20": 1.0123243008167515,
+      "upperWick": 0.4642857142857143,
+      "lowerWick": 0.5357142857142857,
+      "rsi14": 53.70244274026524,
+      "kdK": 33.68421052631579,
+      "kdD": 24.444444444444446,
+      "yahooSymbol": "3017.TW",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 80,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "KD低檔轉折",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 15.448504983388705,
+      "pullback60Pct": 15.448504983388705,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "散熱",
+      "sectorRank": 7,
+      "sectorAvgChangePct": 4.297558428853915,
+      "relativeStrengthPct": -1.0447724717728142,
+      "sopScore": 44.458965356186624,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "止跌訊號",
+        "上影風險"
+      ],
+      "nextTrigger": "2515",
+      "defenseLine": "2227.2",
+      "firstTarget": "2676.2",
+      "riskReward": 0.41285727310678183,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "2249.5~2527.6",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "2227.2",
+          "fail": "2193.8"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "2598.3",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "3010",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "2676.2",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 2249.5~2527.6｜守 2227.2（失守 2193.8）｜賣 T1 2598.3 / T2 3010 / T3 2676.2"
+      },
+      "waveSummary": "買 2249.5~2527.6｜守 2227.2（失守 2193.8）｜賣 T1 2598.3 / T2 3010 / T3 2676.2",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:4967",
+      "code": "4967",
+      "name": "十銓",
+      "close": 270.5,
+      "open": 270,
+      "high": 275.5,
+      "low": 268,
+      "volume": 4671827,
+      "amount": 1274965167,
+      "changePct": 1.5009380863039399,
+      "hotScore": 52.56900212314225,
+      "price": 270.5,
+      "prevClose": 266.5,
+      "prevHigh": 274,
+      "fiveDayAgoClose": 276,
+      "threeDayAgoClose": 257.5,
+      "fiveDayChangePct": -1.9927536231884055,
+      "threeDayChangePct": 5.048543689320388,
+      "ma5": 266.8,
+      "ma10": 275.05,
+      "ma20": 281.45,
+      "ma60": 239.46666666666667,
+      "ma120": 210.24358974358975,
+      "bbMid": 281.45,
+      "bbUpper": 307.134431081883,
+      "bbLower": 255.76556891811694,
+      "box20High": 323,
+      "box20Low": 245.5,
+      "box60High": 323,
+      "box60Low": 170.5,
+      "avgVol20": 18043270.45,
+      "volRatio20": 0.2589235146115099,
+      "upperWick": 0.6666666666666666,
+      "lowerWick": 0.26666666666666666,
+      "rsi14": 52.164315303289,
+      "kdK": 30.798786653185033,
+      "kdD": 20.361663483503726,
+      "yahooSymbol": "4967.TW",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 80,
+      "oversoldGrade": "B",
+      "oversoldTag": "量縮等確認",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "KD低檔轉折",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 16.253869969040245,
+      "pullback60Pct": 16.253869969040245,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": -1.5478424015009382,
+      "sopScore": 42.76408435438358,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "止跌訊號",
+        "量不足需確認",
+        "上影風險"
+      ],
+      "nextTrigger": "274",
+      "defenseLine": "255.8",
+      "firstTarget": "289.9",
+      "riskReward": 1.3162028375731172,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "258.4~275.4",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "255.8",
+          "fail": "252"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "281.4",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "323",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "289.9",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 258.4~275.4｜守 255.8（失守 252）｜賣 T1 281.4 / T2 323 / T3 289.9"
+      },
+      "waveSummary": "買 258.4~275.4｜守 255.8（失守 252）｜賣 T1 281.4 / T2 323 / T3 289.9",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:2882",
+      "code": "2882",
+      "name": "國泰金",
+      "close": 79.7,
+      "open": 78.5,
+      "high": 79.80000305175781,
+      "low": 78.19999694824219,
+      "volume": 40793473,
+      "amount": 3223758814,
+      "changePct": 1.2706480797676012,
+      "hotScore": 67.28105095541405,
+      "price": 79.69999694824219,
+      "prevClose": 78.69999694824219,
+      "prevHigh": 79.0999984741211,
+      "fiveDayAgoClose": 77.9000015258789,
+      "threeDayAgoClose": 77.80000305175781,
+      "fiveDayChangePct": 2.310648763935275,
+      "threeDayChangePct": 2.4421514421026065,
+      "ma5": 78.18000030517578,
+      "ma10": 77.76000061035157,
+      "ma20": 77.42999954223633,
+      "ma60": 74.63166656494141,
+      "ma120": 74.1059825929821,
+      "bbMid": 77.42999954223633,
+      "bbUpper": 80.47637414457857,
+      "bbLower": 74.38362493989409,
+      "box20High": 80.80000305175781,
+      "box20Low": 73.69999694824219,
+      "box60High": 80.80000305175781,
+      "box60Low": 67.30000305175781,
+      "avgVol20": 34938875.3,
+      "volRatio20": 1.1675668621193425,
+      "upperWick": 0.06250357626504416,
+      "lowerWick": 0.18750119208834806,
+      "rsi14": 61.76450854216121,
+      "kdK": 69.27241536682529,
+      "kdD": 49.31883402997935,
+      "yahooSymbol": "2882.TW",
+      "source": "Yahoo historical chart",
+      "setupScore": 81,
+      "setupGrade": "A",
+      "setupTag": "轉強可盯",
+      "setupNotes": [
+        "接近/站上20MA",
+        "站上短均",
+        "短均線改善",
+        "RSI轉強未過熱",
+        "量能溫和",
+        "接近20日箱頂",
+        "箱體中上段",
+        "上影不重",
+        "近5日未過熱"
+      ],
+      "closeLocation20": 0.8450696960709726,
+      "distanceToBoxHighPct": 1.380183369680651,
+      "pool": "setup",
+      "poolLabel": "轉強潛伏",
+      "sector": "金融",
+      "sectorRank": 9,
+      "sectorAvgChangePct": -0.1895388275664592,
+      "relativeStrengthPct": -1.778132408037277,
+      "sopScore": 41.17185442211867,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "收在日內高檔",
+        "打底轉強"
+      ],
+      "nextTrigger": "80.80",
+      "defenseLine": "75.88",
+      "firstTarget": "80.80",
+      "riskReward": 0.28806548300244084,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "79.99~81.61",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "75.88",
+          "fail": "74.74"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "80.80",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "87.90",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 79.99~81.61｜守 75.88（失守 74.74）｜賣 T1 80.80 / T2 87.90"
+      },
+      "waveSummary": "買 79.99~81.61｜守 75.88（失守 74.74）｜賣 T1 80.80 / T2 87.90",
+      "trendType": "打底轉強"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:2379",
+      "code": "2379",
+      "name": "瑞昱",
+      "close": 578,
+      "open": 574,
+      "high": 578,
+      "low": 566,
+      "volume": 3738037,
+      "amount": 2143001147,
+      "changePct": 0.5217391304347827,
+      "hotScore": 61.22611464968153,
+      "price": 578,
+      "prevClose": 575,
+      "prevHigh": 582,
+      "fiveDayAgoClose": 536,
+      "threeDayAgoClose": 555,
+      "fiveDayChangePct": 7.835820895522389,
+      "threeDayChangePct": 4.1441441441441444,
+      "ma5": 567,
+      "ma10": 563.6,
+      "ma20": 555.75,
+      "ma60": 513.9583333333334,
+      "ma120": 511.61965811965814,
+      "bbMid": 555.75,
+      "bbUpper": 591.1046319454749,
+      "bbLower": 520.3953680545251,
+      "box20High": 615,
+      "box20Low": 524,
+      "box60High": 615,
+      "box60Low": 438,
+      "avgVol20": 4356463.15,
+      "volRatio20": 0.8580439846025094,
+      "upperWick": 0,
+      "lowerWick": 0.6666666666666666,
+      "rsi14": 58.37631452886017,
+      "kdK": 59.32309902145615,
+      "kdD": 43.19380306649821,
+      "yahooSymbol": "2379.TW",
+      "source": "Yahoo historical chart",
+      "setupScore": 81,
+      "setupGrade": "A",
+      "setupTag": "轉強可盯",
+      "setupNotes": [
+        "接近/站上20MA",
+        "站上短均",
+        "短均線改善",
+        "RSI轉強未過熱",
+        "量能溫和",
+        "接近20日箱頂",
+        "箱體中上段",
+        "上影不重",
+        "近5日未過熱"
+      ],
+      "closeLocation20": 0.5934065934065934,
+      "distanceToBoxHighPct": 6.401384083044983,
+      "pool": "setup",
+      "poolLabel": "轉強潛伏",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": -2.5270413573700954,
+      "sopScore": 39.70338304538578,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "收在日內高檔",
+        "打底轉強"
+      ],
+      "nextTrigger": "615",
+      "defenseLine": "544.6",
+      "firstTarget": "615",
+      "riskReward": 1.1089465008242168,
+      "waveZones": {
+        "pool": "setup",
+        "entry": {
+          "range": "608.9~621.1",
+          "style": "突破後回測"
+        },
+        "stop": {
+          "hard": "544.6",
+          "fail": "536.4"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "615",
+            "note": "第一目標（結構壓力/箱頂）"
+          },
+          {
+            "label": "T2",
+            "price": "706",
+            "note": "箱高投射（可選）"
+          }
+        ],
+        "summary": "買 608.9~621.1｜守 544.6（失守 536.4）｜賣 T1 615 / T2 706"
+      },
+      "waveSummary": "買 608.9~621.1｜守 544.6（失守 536.4）｜賣 T1 615 / T2 706",
+      "trendType": "打底轉強"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:8150",
+      "code": "8150",
+      "name": "南茂",
+      "close": 79.1,
+      "open": 77.4000015258789,
+      "high": 82.4000015258789,
+      "low": 76.30000305175781,
+      "volume": 46189894,
+      "amount": 3679241176,
+      "changePct": 4.216069675770843,
+      "hotScore": 73.49939960321603,
+      "price": 79.0999984741211,
+      "prevClose": 75.9000015258789,
+      "prevHigh": 78.5999984741211,
+      "fiveDayAgoClose": 80.9000015258789,
+      "threeDayAgoClose": 77.5999984741211,
+      "fiveDayChangePct": -2.224972827944897,
+      "threeDayChangePct": 1.9329897287307762,
+      "ma5": 77.86000061035156,
+      "ma10": 81.76000061035157,
+      "ma20": 80.04500045776368,
+      "ma60": 68.4600003560384,
+      "ma120": 60.63760695498214,
+      "bbMid": 80.04500045776368,
+      "bbUpper": 97.60443687542595,
+      "bbLower": 62.48556404010141,
+      "box20High": 103,
+      "box20Low": 64.19999694824219,
+      "box60High": 103,
+      "box60Low": 53,
+      "avgVol20": 35381214.1,
+      "volRatio20": 1.3054920577188447,
+      "upperWick": 0.5409842421695502,
+      "lowerWick": 0.18032766381627413,
+      "rsi14": 52.36352825028327,
+      "kdK": 12.58184309340391,
+      "kdD": 8.040120816910402,
+      "yahooSymbol": "8150.TW",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 72,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "KD低檔轉折",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 23.203884976581463,
+      "pullback60Pct": 23.203884976581463,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": 1.1672891879659648,
+      "sopScore": 39.35358107768324,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "止跌訊號",
+        "上影風險"
+      ],
+      "nextTrigger": "78.60",
+      "defenseLine": "62.49",
+      "firstTarget": "82.45",
+      "riskReward": 0.2014123327919913,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "63.11~78.99",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "62.49",
+          "fail": "61.55"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "80.05",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "103",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "82.45",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 63.11~78.99｜守 62.49（失守 61.55）｜賣 T1 80.05 / T2 103 / T3 82.45"
+      },
+      "waveSummary": "買 63.11~78.99｜守 62.49（失守 61.55）｜賣 T1 80.05 / T2 103 / T3 82.45",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:2892",
+      "code": "2892",
+      "name": "第一金",
+      "close": 27.55,
+      "open": 27.799999237060547,
+      "high": 27.799999237060547,
+      "low": 27.399999618530273,
+      "volume": 84889335,
+      "amount": 2339486037,
+      "changePct": -0.5415217391603727,
+      "hotScore": 52.45222929936309,
+      "price": 27.549999237060547,
+      "prevClose": 27.700000762939453,
+      "prevHigh": 28.049999237060547,
+      "fiveDayAgoClose": 29.299999237060547,
+      "threeDayAgoClose": 29,
+      "fiveDayChangePct": -5.972696401256168,
+      "threeDayChangePct": -5.0000026308257,
+      "ma5": 28.15,
+      "ma10": 28.799999809265138,
+      "ma20": 28.722499752044676,
+      "ma60": 28.80999994277954,
+      "ma120": 28.904273465148403,
+      "bbMid": 28.722499752044676,
+      "bbUpper": 29.970888612571077,
+      "bbLower": 27.474110891518276,
+      "box20High": 29.799999237060547,
+      "box20Low": 27.399999618530273,
+      "box60High": 30,
+      "box60Low": 27.399999618530273,
+      "avgVol20": 46881526.65,
+      "volRatio20": 1.810720363987976,
+      "upperWick": 0.6250005960470162,
+      "lowerWick": 0.3749994039529838,
+      "rsi14": 34.199273545437066,
+      "kdK": 7.268547459884137,
+      "kdD": 13.668644975088727,
+      "yahooSymbol": "2892.TW",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 77,
+      "oversoldGrade": "A",
+      "oversoldTag": "錯殺反彈可盯",
+      "oversoldNotes": [
+        "短線跌深",
+        "接近支撐/布林下緣",
+        "RSI低檔",
+        "KD低檔",
+        "量能未失控",
+        "疑似止跌K",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 7.550335763773458,
+      "pullback60Pct": 8.166669209798178,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "金融",
+      "sectorRank": 9,
+      "sectorAvgChangePct": -0.1895388275664592,
+      "relativeStrengthPct": -3.590302226965251,
+      "sopScore": 36.888049369540965,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "止跌訊號",
+        "上影風險"
+      ],
+      "nextTrigger": "28.15",
+      "defenseLine": "27.40",
+      "firstTarget": "29.58",
+      "riskReward": 7.3835773643473495,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "27.67~28.29",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "27.40",
+          "fail": "26.99"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "28.72",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "29.80",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "29.58",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 27.67~28.29｜守 27.40（失守 26.99）｜賣 T1 28.72 / T2 29.80 / T3 29.58"
+      },
+      "waveSummary": "買 27.67~28.29｜守 27.40（失守 26.99）｜賣 T1 28.72 / T2 29.80 / T3 29.58",
+      "trendType": "錯殺反彈"
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:6805",
+      "code": "6805",
+      "name": "富世達",
+      "close": 1795,
+      "open": 1830,
+      "high": 1845,
+      "low": 1785,
+      "volume": 988677,
+      "amount": 1791594555,
+      "changePct": -0.8287292817679558,
+      "hotScore": 46.18099787685775,
+      "price": 1795,
+      "prevClose": 1810,
+      "prevHigh": 1810,
+      "fiveDayAgoClose": 1735,
+      "threeDayAgoClose": 1770,
+      "fiveDayChangePct": 3.45821325648415,
+      "threeDayChangePct": 1.4124293785310735,
+      "ma5": 1766,
+      "ma10": 1802,
+      "ma20": 1911,
+      "ma60": 1848.4166666666667,
+      "ma120": 1668.5897435897436,
+      "bbMid": 1911,
+      "bbUpper": 2189.5246847229164,
+      "bbLower": 1632.4753152770836,
+      "box20High": 2275,
+      "box20Low": 1645,
+      "box60High": 2275,
+      "box60Low": 1460,
+      "avgVol20": 2212938.9,
+      "volRatio20": 0.4467710337596759,
+      "upperWick": 0.8333333333333334,
+      "lowerWick": 0.16666666666666666,
+      "rsi14": 45.679969091738464,
+      "kdK": 32.33270794246405,
+      "kdD": 28.528246820929752,
+      "yahooSymbol": "6805.TW",
+      "source": "Yahoo historical chart",
+      "oversoldScore": 86,
+      "oversoldGrade": "B",
+      "oversoldTag": "量縮等確認",
+      "oversoldNotes": [
+        "短線跌深",
+        "回檔幅度合理",
+        "接近支撐/布林下緣",
+        "RSI低檔",
+        "KD低檔轉折",
+        "量能未失控",
+        "中期結構未完全破壞",
+        "非熱門追高"
+      ],
+      "pullback20Pct": 21.0989010989011,
+      "pullback60Pct": 21.0989010989011,
+      "pool": "oversold",
+      "poolLabel": "錯殺反彈",
+      "sector": "未分類",
+      "sectorRank": null,
+      "sectorAvgChangePct": null,
+      "relativeStrengthPct": -3.8775097695728338,
+      "sopScore": 31.171302496560017,
+      "sopGrade": "觀察",
+      "sopFlags": [
+        "量不足需確認",
+        "上影風險"
+      ],
+      "nextTrigger": "1810",
+      "defenseLine": "1632.5",
+      "firstTarget": "1968.3",
+      "riskReward": 1.0664841485187646,
+      "waveZones": {
+        "pool": "oversold",
+        "entry": {
+          "range": "1648.8~1819",
+          "style": "分批＋轉強加碼"
+        },
+        "stop": {
+          "hard": "1632.5",
+          "fail": "1608"
+        },
+        "exits": [
+          {
+            "label": "T1",
+            "price": "1911",
+            "note": "回到20MA/中軌附近先收一趟"
+          },
+          {
+            "label": "T2",
+            "price": "2275",
+            "note": "20日箱頂/壓力區"
+          },
+          {
+            "label": "T3",
+            "price": "1968.3",
+            "note": "進一步反彈目標"
+          }
+        ],
+        "summary": "買 1648.8~1819｜守 1632.5（失守 1608）｜賣 T1 1911 / T2 2275 / T3 1968.3"
+      },
+      "waveSummary": "買 1648.8~1819｜守 1632.5（失守 1608）｜賣 T1 1911 / T2 2275 / T3 1968.3",
+      "trendType": "錯殺反彈"
     }
   ]
 }
