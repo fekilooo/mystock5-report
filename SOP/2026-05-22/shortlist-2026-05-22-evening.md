@@ -1,6 +1,6 @@
 # 今日短線觀察池
 
-產生時間：2026/5/22 16:55:48
+產生時間：2026/5/22 20:06:26
 
 市場基準資料：2026-05-22 官方盤後行情
 
@@ -13,9 +13,9 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 | 項目 | 數值 |
 |---|---:|
 | 市場狀態 | 強勢趨勢盤 |
-| 上漲家數占比 | 80.7% |
-| 中位數漲跌 | 3.06% |
-| 樣本家數 | 628 |
+| 上漲家數占比 | 80.6% |
+| 中位數漲跌 | 3.05% |
+| 樣本家數 | 629 |
 
 ### 族群強弱
 
@@ -63,7 +63,7 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 | 8 | 3714 富采 | 熱門追蹤 | 待確認 | 69.8 | 未分類 | 趨勢表態 | 81.40 | 77.33 | 相對大盤強、收在日內高檔、已表態突破 |
 | 9 | 8039 台虹 | 轉強潛伏 | 待確認 | 66.8 | 未分類 | 打底轉強 | 162.5 | 135.4 | 相對大盤強、收在日內高檔、打底轉強 |
 | 10 | 5274 信驊 | 轉強潛伏 | 待確認 | 66.2 | 矽智財/IC設計#6 | 打底轉強 | 19195 | 16285 | 相對大盤強、收在日內高檔、打底轉強 |
-| 11 | 2485 兆赫 | 轉強潛伏 | 待確認 | 65.1 | 未分類 | 打底轉強 | 76.90 | 65.72 | 收在日內高檔、打底轉強 |
+| 11 | 2485 兆赫 | 轉強潛伏 | 待確認 | 65.2 | 未分類 | 打底轉強 | 76.90 | 65.72 | 收在日內高檔、打底轉強 |
 | 12 | 2337 旺宏 | 錯殺反彈 | 待確認 | 65 | 記憶體#4 | 錯殺反彈 | 149 | 134.4 | 相對大盤強、止跌訊號、量不足需確認 |
 
 ## 熱門追蹤池
@@ -87,11 +87,11 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 | 股票 | 型態 | SOP | 族群 | 現價 | 漲跌 | 量/20日均量 | RSI | KD | 隔日觸發 | 防守 | 備註 |
 |---|---|---|---|---:|---:|---:|---:|---:|---|---|---|
 | 2455 全新 | 過熱不追 | 不追 57 | 未分類 | 425 | 9.96% | 1.32x | 68.1 | 100/83 | 425 | 403.8 | 站上20MA、短均線偏多、均線多排、量能放大、RSI偏多、KD高檔、突破前高、相對大盤強、收在日內高檔、已表態突破 |
-| 2409 友達 | 過熱不追 | 不追 57 | 面板#1 | 22.20 | 9.9% | 1.46x | 69.1 | 100/80 | 22.20 | 21.09 | 站上20MA、短均線偏多、均線多排、量能放大、RSI偏多、KD高檔、突破前高、族群前段#1、相對大盤強、收在日內高檔、已表態突破 |
 | 3042 晶技 | 過熱不追 | 不追 57 | 未分類 | 176 | 10% | 2.42x | 67.7 | 100/63 | 176 | 167.2 | 站上20MA、短均線偏多、明顯放量、RSI偏多、KD高檔、突破前高、相對大盤強、收在日內高檔、已表態突破 |
 | 4919 新唐 | 過熱不追 | 不追 57 | 矽智財/IC設計#6 | 199.5 | 9.92% | 1.72x | 69.8 | 100/72 | 199.5 | 189.5 | 站上20MA、短均線偏多、明顯放量、RSI偏多、KD高檔、突破前高、相對大盤強、收在日內高檔、已表態突破 |
 | 2356 英業達 | 過熱不追 | 不追 57 | AI伺服器#5 | 59.50 | 9.98% | 2.75x | 78.8 | 100/82 | 59.50 | 56.52 | 站上20MA、短均線偏多、均線多排、明顯放量、RSI過熱、KD高檔、突破前高、相對大盤強、收在日內高檔、已表態突破 |
 | 2327 國巨* | 過熱不追 | 不追 57 | 被動元件#2 | 629 | 9.97% | 1.3x | 90.2 | 100/96 | 629 | 597.5 | 站上20MA、短均線偏多、均線多排、量能放大、RSI過熱、KD高檔、突破前高、族群前段#2、相對大盤強、收在日內高檔、已表態突破 |
+| 3189 景碩 | 過熱不追 | 不追 57 | PCB/載板#3 | 609 | 9.93% | 0.33x | 70.7 | 100/84 | 609 | 578.5 | 站上20MA、短均線偏多、均線多排、價強量未跟、RSI偏熱、KD高檔、族群前段#3、相對大盤強、收在日內高檔、已表態突破、量不足需確認 |
 | 4958 臻鼎-KY | 過熱不追 | 不追 57 | PCB/載板#3 | 516 | 9.9% | 0.89x | 74.9 | 100/87 | 516 | 490.2 | 站上20MA、短均線偏多、均線多排、RSI偏熱、KD高檔、族群前段#3、相對大盤強、收在日內高檔、已表態突破 |
 | 3481 群創 | 過熱不追 | 不追 57 | 面板#1 | 44.65 | 9.98% | 0.66x | 79 | 100/95 | 44.65 | 42.42 | 站上20MA、短均線偏多、均線多排、價強量未跟、RSI過熱、KD高檔、族群前段#1、相對大盤強、收在日內高檔、已表態突破、量不足需確認 |
 
@@ -179,7 +179,7 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 HiStock 2026/05/22: 外資 2980、投信 1252、法人合計 3978; 3日合計 6076
 
 - [【10:09 即時新聞】日月光投控(3711)攻上漲停561元，受惠AMD先進封裝合作題材＋外資回補搭配中期多頭結構 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1J1N0FjalVXRWJkeTN1QmY1YlRDUGlwMnZiNlVPTFZLbHhjUHR5THJvelJQVGxOa1B4ZDhyTkhNaTdVekJQN296QXR3QlFfSHNPeHV4SUNnZEpxRkM2eFJFT1dlOU9oVTZ2ZmtPWGc4ekF2Tjk0Wllqc3lPQndDcUNWVjk1ZjRpTUVDYUR3?oc=5)
-- [【數報】盤中快報:3711(日月光投控)股價漲停鎖定在561.00元，委託買量402張。 - 富聯網](https://news.google.com/rss/articles/CBMikAFBVV95cUxQazJqb3hSc2xacW5jdnNzZnc1d294WjUwb3VMZXl2MVZxR05XeHh6VE1uSkJVa2ZnaFdCeUV0SmFPcVNlcnRVeDJ3UmJTWmRZT19HUVJGXzhxbVRBVEdMR3dLZTI2MUNoNjRuQU14MkZBUFJDZ1M1TlFGMnMtTk16OVVseUt6ZjBOMlc5U25pN1c?oc=5)
+- [【數報】盤中快報:3711(日月光投控)股價漲停鎖定在561.00元，委託買量402張。 - 富聯網](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmxESXktTVRLYWF4ZzFEZ2xlWkhRZW42ZC12d2NYempPd0RBUW0xa21TdVZ4NTNoNTdsekVCZFktMFFNRDJvekJ3YU50SFNXYTc0a1psYW9vZmM3WGsyckRWVmhxZmNXU2t3akhMaFY3a1ZfZjVWU1V1TmllbUwzLXF4cTQtd3ZodUxTcjZB?oc=5)
 - [【即時新聞】日月光投控爆量亮燈漲停！這「5檔概念股」資金輪動接棒上攻？ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1NjcHpQbDVtM19yVmxuUDdTS3RCOW5XSWZVa3hVOWVlci10ckJOdEFteFRGU0FxMWlLREt4VVI4V1dQSmpJTElIajE1QjRHVHJWRmVnWm5VY040N21tR2pvNWVOWTItcDZlVHl4OVFiMkZXRGRmNGN3bFBFdUxVcjVDYklRSUxBYVFadFRoaE0?oc=5)
 
 ### 6531 愛普*
@@ -188,15 +188,15 @@ HiStock 2026/05/22: 外資 687、投信 258、法人合計 962; 3日合計 683
 
 - [【10:54 即時新聞】愛普*(6531)攻上漲停963元，CoWoS／EMIB-T題材回溫＋短線超跌後技術性強彈伴隨空單回補 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjUzMFBjVnNrMTRKb2hiMnV2NklnLW5qNDNzYkZtLU9JMm8wQldPWVU5VS1ITTczNTJxanZhNU83MzdxZUVqRXpMUHo1eF9GS3VCYWl4c3FjMUtlSVoxSGctM0xvUHcxWW1mY1FzenhmLTVNNmxQZXNoQkVmaG93aG5EX2oxd0JUZ1BqZGxn?oc=5)
 - [【數報】盤中快報:6531(愛普*)股價漲停鎖定在963.00元，委託買量101張。 - 富聯網](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWlKOFlsMzFMTUkxSHdxMFFCd3A1ZE9WZGZ1NWlxNVgxNGJ0OVNRRFhLZlhoOUhjYkk0UE1ZOHVTbksxcHFDWFlCbVpXV0szS3F5UWNxNDJCeVlYTVlSVWU4bElqb1NFa1E4N0J0LXlKaXpFdXNPU2h0VlFTS2YtT2tYX05TYms?oc=5)
-- [6531 愛普* - 愛普*法說會解析影片-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE56WHU5WGNGbS1ITXdrck05anZkRXlZLTRhZ1lGUmZMVGxJRTZ2OUk1RzI3UURwRTAtSE1kQS11dGFPQUQxeVdtamFBWE50dmVZb1dOc2dEQzA?oc=5)
+- [愛普*（6531）做什麼、法說有何重點？2026年第一季EPS達4.15元，IoTRAM強勁需求推升營收年增115%，S-SiCap量產佈局加速啟動｜股市話題 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMihgVBVV95cUxPbEx6SXVjQVJLdTZSQl9qNmMxMkhGdk1zMkJnbXM4QVFmUURZc0JKYzQ2eGZJb3pyR3R2aW5QVENfTElCc2xxRGpjWmd5M21pM2pqb3hYMU1KTDNiVkg0M1JhVUFwajg5c1VSaF9BVGoxVW5qUVBfcFZyeWVCVE9hYVcycGp3dlNzQXpjYm80OHFJUmVRSzVVRFp6VEUxVy11YXo0QTl5NFlsNHpNSXVTZFA5azRiVkQweExuNzhkZnJBajlfVHBEVjJONGU5Ul9hZU5HeDUyLUZOa3pRSXFQRGw3TDRZZlVwZS1xM2trV29oMC1MWDRoRHZ4UlBUWXBESm83M2JydFl1MHRnSkI5MnNmNEdPZVNvX2tYOGZWZ2l5aHMycUFUb3VHM0p0a0R6OG1Na09yWnplc1FKTHVjcmhLSzNYMk1jOEtSQkRjVlNGQ1ZWU2p3TS1XOGZIRTZaaGt5SG1wUXVfcDc2MDJ3cm50anQxVTQ2SVpCSGI4QnVfRDhzemQ3bnpzZmFPYmlyemktM08wVjZ0c1N1cEV2ZFlXdVJ2eGlIcFczRWNteGQwZ1puZGd6NjlNbnlCNGdSRzBMS2pHSFFHMDNPNUNmRmhvb2hNZXVaU2hON2pDNWlxY01jLVIybUVHc1VlNFBJbkdaWml1S280QWxlMWhPMXJ3cXZfa2ZYXzExV09mYUl1azhuZDRmR1JxeEpzM1gyMFRZWEwwWWNPbUpBRHQ4Vm5PQ08wc0ZiS0d0NUxfTG8tdS1UaDBPc2M5eGZ1blhmT21hSTE3cEx2cGtpSnVoZlJSVTRQMVBhUWt0cmxYdVd3VXpwYmJkN1N0MDRXRU1zaDZ5TWp3?oc=5)
 
 ### 3105 穩懋
 
 HiStock 2026/05/22: 外資 3924、投信 651、法人合計 5434; 3日合計 5876
 
 - [【10:51 即時新聞】穩懋(3105)攻上漲停531元，受光通訊與低軌衛星題材加溫＋法人買盤與技術多頭結構同步轉強 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFV5SlJDVzI5S0R0QkRFcmc3WThuVkMzWXlKU01zbFU4UEctcHk4R0huUDFxWlZfM2h4eFNfRXpzZWJWME5pNWZLcnduUjNFTHVYOVhlTDFSOWd0eE5fYUtEVFlxYmRGc2hqUzZuUklldXhRcE9MVzI2NVFUdUNWTlBXN1ZXZGFUcXZsOU13?oc=5)
-- [3105 穩懋- 光通訊磷化銦1.6T 雙雄奮起！！-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JY3BlQ0VZX1RhcnFtOEZoYzFSVlM2ZHBjYk5Cb09TWUtHRHlEczJhWjItNlM2ZHNUMWI0WkhhTW4yUHVSSUtCN1g0QV8tbU81bkpXdW1VS0c?oc=5)
 - [穩懋、乙盛業績看旺- 日報 - 工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5)
+- [【數報】盤中快報:3105(穩懋)股價漲停鎖定在531.00元，委託買量1158張。 - 富聯網](https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0w1WWxwMm4zUEl6U0IyZTNjY0RXV19KSmV4YzYtTkJYRm8wcUQ1Q2FldGJpZG1fMzZsdjVRSnpmWWVpZjJwaklMZVdwOW5CU3pKRXNKdXdPemRGQ3dGTXlNdUxZNVhKaF9sbmlQMjdsZjJFVUhjZWlSdUZvN1dmSkhSa2prY21OdFoxUkhB?oc=5)
 
 ### 3714 富采
 
@@ -229,8 +229,8 @@ HiStock 2026/05/22: 外資 22863、投信 0、法人合計 23719; 3日合計 211
 HiStock 2026/05/22: 外資 36033、投信 11、法人合計 37462; 3日合計 33296
 
 - [【即時新聞】台玻股價大漲逾8% 玻璃基板概念股受市場矚目 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVVzQWNmeWQ3a3ZUY2x4OGI1WWsyVlNBSWltQllxeS1GT1RyUHhEcFcyUl9VcFUxb004WmtnNkJHRFJZb0RiaTV2dmFBNHlzcG12S3VUTlB4WC1hWG93c3o0QXpBZEdKMERaenA1LVpGTE83cXJ6OGlYNTFsbDRVUmpUaUJsaG1PM1dmODFHTXE?oc=5)
-- [1802 台玻- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手...-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jX01ycWJEaW5FdnB0S2Zwczd1R01PYm0yQjY0ZXlaSXBlMzY1MjN5THB5ZW5lNUZsOGVfVDkwbUJSSXVlck50cmc3TXU1ZmdNRHdqV1VVUWc?oc=5)
 - [【即時新聞】台玻衝刺CoPoS玻璃材料 股價盤中大漲近6%站回月線 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTBzYkd1bURudDlNVHgtY1R6M2FURXZHTVkxVU9veEhrQ1U0YUxMOWhvc2ZhVGVhMjZXdXgycHRCa0trdU85UjRiUmFTOFpJX0wyMlBaUDlqZTVPZ0lOY0dFenhZRFVxRllNRk1WczZhSll1SGFNZU1FVVVPbkp6dTYxVW95QWZ0c0xEUVVFMlQ?oc=5)
+- [1802 台玻- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手...-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jX01ycWJEaW5FdnB0S2Zwczd1R01PYm0yQjY0ZXlaSXBlMzY1MjN5THB5ZW5lNUZsOGVfVDkwbUJSSXVlck50cmc3TXU1ZmdNRHdqV1VVUWc?oc=5)
 
 ### 8996 高力
 
@@ -238,7 +238,7 @@ HiStock 2026/05/22: 外資 696、投信 37、法人合計 773; 3日合計 556
 
 - [高力看旺AI液冷需求，近3到5年為營運倍增期- 新聞 - MoneyDJ](https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEYtVU9XbzFINkFPMnRwYlFzY0tDOV9LbFYzWE1VNlEzdWVJREFaVHlVRG51QXVBNFFBN1hzd1ZhX2VFaFZPNGh2cDdJeTFPa2RqTWk3Qi1TZEp1T2pCY0VtaXNKR1JVeUFhOVprbDJ2djdpQ2JNNHAyTUhTRWhGNWhvUk5RT1ZuWWRSSXNzcmpiZw?oc=5)
 - [【10:51 即時新聞】高力(8996)股價上漲近一成站上1250，受SOFC燃料電池＋AI資料中心電力題材加持，量能與中長多頭技術結構同步轉強 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkVGa0JKMWo1aXl5dUZKUE9VOUJWTVRoanhKek94QWpTZ1E4WkR6Si1nSTY4cTVCLTNuTnd6LWlKNW5fV2JHTFRQclo2b29QS2V1OVluOWZ4YmpwNG9qYmpLLTV3Y05uZXdDREcxRzN5ampEVnNIdUxJUDRITS0ya21jbG14SGlwdGtSeGFR?oc=5)
-- [高力第1季 EPS 6.54元 跳增逾三倍 - 經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzYlNuQ3hseW5LUG5NR0pVU0NNdU95M2o2cFppMG5HbEdjRWZUMTlwRjRORERSWm9NX2RlVU9oSGk5WDc5UG9MQndwWVZYZmU0Ty1WdFhyaEh5d9IBX0FVX3lxTE4tcDE5bWxlSmpYZVo3am9wRFg0c2tfTnlMX0wyZ2dGVkhmOUpnZ1VUOTNzRElCc2p1dHJIWVQtM01vbzNBczNId1Q1Wl9Qakc0R0M4a0FOcjcwTXQ3UTBR?oc=5)
+- [8996 高力 - 很不給主力面子欸哈哈，拉上去又被賣下來，後面主力都懶得拉了-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE03WkFycDV1encxenlSYUIyWnJ1SDNHOXJUdVh2a1E1VUFiZVBDbk1aUHpSaWxBZi1tM3BSb0ZpWXhzdGJpZ0dwZkphY1k2TkltZzA0b3VmNWs?oc=5)
 
 ### 8039 台虹
 
@@ -280,7 +280,7 @@ HiStock 2026/05/22: 外資 39、投信 -112、法人合計 -58; 3日合計 -285
 
 - [6510 精測- 【即時新聞】精測最新財報公布，首季獲利3.42億元年增54.6%創歷史新高-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DWlQ0b0ZmZ0V1bDZNaXF1SW50YlB1T21IRVhaOHM3bFktWDhvazVJY0JBLWlRQ3RBUVFJRk9QM0ZNY1lBWjduZlAwcUE3N011ZndpdTl4T2M?oc=5)
 - [Factset 最新調查：精測(6510-TW)EPS預估上修至66.85元，預估目標價為4550元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY1p5U0ROSkJkWEZVdG4zSzFFSS1sZkpmc3NJZWRLOEpCTEhzbm9aTF9JczlaLTQyN0E3ZDdGMlQ1QmNYNHdhR2Zlb2pZckN6QktnZ0xRSDFINm00RGsweEd1bXZkbVY5aWRSSS1mRFV5Rm50YUE?oc=5)
-- [【即時新聞】精測4月營收5.23億元創歷史新高，年成長30.2% - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxObEhMOEhrV0xqaE1TTXBVNmg2clBETG1hZHA2QnNQQXlTQnNzdU5TZTMzc1V6ZEhJbGxNX3lyTEtjOXV3dmx5TWtNb0dpekVuT0dLNG1ZQTlwRGRVMHdzM2FnZHBFeU9kOG55el9ONmdCcEZNYnEzclg4MXNLMXRfdzJnTndkQTgzM1B1TlNaWlc?oc=5)
+- [【11:21 即時新聞】精測(6510)攻上漲停3780元，AI測試介面營收創高帶動多方回補＋短線脫離均線糾結、留意籌碼能否跟上 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2RyNXliWHFUeTdnRXR4dlV1U3V4c3l0RFd5NU1kblFtWW1MSzVqUHk4M2RYeFlNQnZqazhLRm16djh6TXhqVnZFb0hpZ0VPc2dVMnA1emxfTEJtNi02SGtLUXd0WWpHNElsNVMzdF9TVWVpNlNvRFJaWWtzYjZvQ1Roa1JzTFN2Z011UUtn?oc=5)
 
 ### 1519 華城
 

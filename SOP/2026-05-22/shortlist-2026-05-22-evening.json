@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026/5/22 16:55:48",
+  "generatedAt": "2026/5/22 20:06:26",
   "mode": "evening",
   "marketDate": "2026-05-22",
   "marketDateTwse": "20260522",
   "marketProfile": {
     "label": "強勢趨勢盤",
-    "stocks": 628,
+    "stocks": 629,
     "advancers": 507,
-    "decliners": 111,
-    "advancersPct": 80.73248407643312,
-    "avgChangePct": 3.527864663949277,
-    "medianChangePct": 3.0589170981223877,
-    "totalAmountTwd": 1384649269470
+    "decliners": 112,
+    "advancersPct": 80.60413354531002,
+    "avgChangePct": 3.520813957840522,
+    "medianChangePct": 3.048780487804878,
+    "totalAmountTwd": 1392934844468
   },
   "sectorProfile": {
     "source": "scanner/config/scanner.json sectorGroups + official TWSE/TPEx market data",
@@ -40,7 +40,7 @@
           }
         ],
         "rank": 1,
-        "relativeToMarketPct": 6.4103151146197135
+        "relativeToMarketPct": 6.4173658207284685
       },
       {
         "sector": "被動元件",
@@ -72,7 +72,7 @@
           }
         ],
         "rank": 2,
-        "relativeToMarketPct": 5.5347692220417475
+        "relativeToMarketPct": 5.5418199281505025
       },
       {
         "sector": "PCB/載板",
@@ -81,20 +81,20 @@
         "advancersPct": 100,
         "avgChangePct": 7.097838111635339,
         "medianChangePct": 7.467129213242536,
-        "totalAmountTwd": 124187880011,
-        "strengthScore": 133.1665395431201,
+        "totalAmountTwd": 127612244311,
+        "strengthScore": 133.19016580966257,
         "leaders": [
           {
             "code": "3189",
             "name": "景碩",
             "changePct": 9.927797833935017,
-            "amount": 6572193352
+            "amount": 6883833352
           },
           {
             "code": "4958",
             "name": "臻鼎-KY",
             "changePct": 9.904153354632587,
-            "amount": 26028295915
+            "amount": 26596837915
           },
           {
             "code": "6274",
@@ -104,7 +104,7 @@
           }
         ],
         "rank": 3,
-        "relativeToMarketPct": 3.5699734476860616
+        "relativeToMarketPct": 3.5770241537948166
       },
       {
         "sector": "記憶體",
@@ -136,7 +136,7 @@
           }
         ],
         "rank": 4,
-        "relativeToMarketPct": 2.10384878450465
+        "relativeToMarketPct": 2.110899490613405
       },
       {
         "sector": "AI伺服器",
@@ -145,8 +145,8 @@
         "advancersPct": 100,
         "avgChangePct": 4.367712086907292,
         "medianChangePct": 3.290959508218629,
-        "totalAmountTwd": 46683470883,
-        "strengthScore": 105.01544714519476,
+        "totalAmountTwd": 46805069667,
+        "strengthScore": 105.01770666108268,
         "leaders": [
           {
             "code": "2356",
@@ -168,7 +168,7 @@
           }
         ],
         "rank": 5,
-        "relativeToMarketPct": 0.8398474229580151
+        "relativeToMarketPct": 0.8468981290667701
       },
       {
         "sector": "矽智財/IC設計",
@@ -177,8 +177,8 @@
         "advancersPct": 83.33333333333334,
         "avgChangePct": 4.919964276722819,
         "medianChangePct": 4.8158009141501115,
-        "totalAmountTwd": 120592526804,
-        "strengthScore": 104.69561689082406,
+        "totalAmountTwd": 120838347968,
+        "strengthScore": 104.69738565899927,
         "leaders": [
           {
             "code": "4919",
@@ -190,7 +190,7 @@
             "code": "2454",
             "name": "聯發科",
             "changePct": 8.732394366197182,
-            "amount": 78623564305
+            "amount": 78869385469
           },
           {
             "code": "5274",
@@ -200,7 +200,7 @@
           }
         ],
         "rank": 6,
-        "relativeToMarketPct": 1.392099612773542
+        "relativeToMarketPct": 1.3991503188822971
       },
       {
         "sector": "散熱",
@@ -232,7 +232,7 @@
           }
         ],
         "rank": 7,
-        "relativeToMarketPct": 0.7696937649046376
+        "relativeToMarketPct": 0.7767444710133926
       },
       {
         "sector": "航運",
@@ -264,7 +264,7 @@
           }
         ],
         "rank": 8,
-        "relativeToMarketPct": 0.08474213312111667
+        "relativeToMarketPct": 0.09179283922987169
       },
       {
         "sector": "金融",
@@ -273,14 +273,14 @@
         "advancersPct": 36.36363636363637,
         "avgChangePct": -0.1895388275664592,
         "medianChangePct": -0.31201248049922004,
-        "totalAmountTwd": 21381245600,
-        "strengthScore": 33.31013227410322,
+        "totalAmountTwd": 21434494650,
+        "strengthScore": 33.312292767451666,
         "leaders": [
           {
             "code": "2883",
             "name": "凱基金",
             "changePct": 1.4018691588785046,
-            "amount": 918622140
+            "amount": 946822140
           },
           {
             "code": "2882",
@@ -296,7 +296,7 @@
           }
         ],
         "rank": 9,
-        "relativeToMarketPct": -3.717403491515736
+        "relativeToMarketPct": -3.710352785406981
       }
     ]
   },
@@ -920,7 +920,7 @@
     "success": true,
     "cdpConnected": true,
     "apiAvailable": true,
-    "chartSymbol": "TWSE_DLY:1605",
+    "chartSymbol": "TWSE_DLY:2409",
     "chartResolution": "1D"
   },
   "hotPool": [
@@ -936,7 +936,7 @@
       "volume": 31183324,
       "amount": 17204233478,
       "changePct": 10,
-      "hotScore": 99.06698564593302
+      "hotScore": 99.06847133757961
     },
     {
       "exchange": "TWSE",
@@ -950,7 +950,7 @@
       "volume": 73991747,
       "amount": 45499501469,
       "changePct": 9.965034965034965,
-      "hotScore": 98.67623604465709
+      "hotScore": 98.67834394904457
     },
     {
       "exchange": "TWSE",
@@ -964,7 +964,7 @@
       "volume": 388361570,
       "amount": 17019797092,
       "changePct": 9.975369458128078,
-      "hotScore": 98.30940988835725
+      "hotScore": 98.31210191082802
     },
     {
       "exchange": "TPEX",
@@ -978,7 +978,7 @@
       "volume": 28968844,
       "amount": 15141364042,
       "changePct": 9.937888198757763,
-      "hotScore": 96.50717703349282
+      "hotScore": 96.51273885350318
     },
     {
       "exchange": "TWSE",
@@ -989,10 +989,10 @@
       "open": 481,
       "high": 516,
       "low": 480,
-      "volume": 52148852,
-      "amount": 26028295915,
+      "volume": 53330852,
+      "amount": 26596837915,
       "changePct": 9.904153354632587,
-      "hotScore": 96.34768740031897
+      "hotScore": 96.35350318471338
     },
     {
       "exchange": "TWSE",
@@ -1006,7 +1006,7 @@
       "volume": 122964502,
       "amount": 7099658868,
       "changePct": 9.981515711645102,
-      "hotScore": 96.14035087719299
+      "hotScore": 96.14649681528661
     },
     {
       "exchange": "TWSE",
@@ -1020,7 +1020,7 @@
       "volume": 76568242,
       "amount": 6063800555,
       "changePct": 10,
-      "hotScore": 95.59011164274322
+      "hotScore": 95.59713375796179
     },
     {
       "exchange": "TWSE",
@@ -1034,7 +1034,7 @@
       "volume": 31527773,
       "amount": 5394811160,
       "changePct": 10,
-      "hotScore": 95
+      "hotScore": 95.0079617834395
     },
     {
       "exchange": "TWSE",
@@ -1048,7 +1048,7 @@
       "volume": 42517850,
       "amount": 8281134833,
       "changePct": 9.917355371900827,
-      "hotScore": 94.8883572567783
+      "hotScore": 94.89649681528662
     },
     {
       "exchange": "TWSE",
@@ -1059,10 +1059,10 @@
       "open": 919,
       "high": 963,
       "low": 906,
-      "volume": 7730956,
-      "amount": 7302388626,
+      "volume": 8159956,
+      "amount": 7696639626,
       "changePct": 9.931506849315069,
-      "hotScore": 94.69696969696969
+      "hotScore": 94.88057324840764
     },
     {
       "exchange": "TWSE",
@@ -1073,10 +1073,24 @@
       "open": 398.5,
       "high": 425,
       "low": 398.5,
-      "volume": 15355098,
-      "amount": 6409758623,
+      "volume": 15989098,
+      "amount": 6662407623,
       "changePct": 9.961190168175937,
-      "hotScore": 94.62519936204146
+      "hotScore": 94.80891719745223
+    },
+    {
+      "exchange": "TWSE",
+      "symbol": "TWSE:3189",
+      "code": "3189",
+      "name": "景碩",
+      "close": 609,
+      "open": 588,
+      "high": 609,
+      "low": 588,
+      "volume": 11454728,
+      "amount": 6883833352,
+      "changePct": 9.927797833935017,
+      "hotScore": 94.38694267515923
     },
     {
       "exchange": "TWSE",
@@ -1090,7 +1104,7 @@
       "volume": 394425774,
       "amount": 8576715690,
       "changePct": 9.900990099009901,
-      "hotScore": 94.33811802232854
+      "hotScore": 94.34713375796179
     },
     {
       "exchange": "TWSE",
@@ -1104,21 +1118,7 @@
       "volume": 193146658,
       "amount": 23713688822,
       "changePct": 9.649122807017543,
-      "hotScore": 94.30622009569379
-    },
-    {
-      "exchange": "TWSE",
-      "symbol": "TWSE:3189",
-      "code": "3189",
-      "name": "景碩",
-      "close": 609,
-      "open": 588,
-      "high": 609,
-      "low": 588,
-      "volume": 10924728,
-      "amount": 6572193352,
-      "changePct": 9.927797833935017,
-      "hotScore": 93.85167464114832
+      "hotScore": 94.31528662420382
     },
     {
       "exchange": "TWSE",
@@ -1129,10 +1129,10 @@
       "open": 3765,
       "high": 3880,
       "low": 3675,
-      "volume": 20774466,
-      "amount": 78623564305,
+      "volume": 20839466,
+      "amount": 78869385469,
       "changePct": 8.732394366197182,
-      "hotScore": 93.33061033959623
+      "hotScore": 93.33967686810627
     },
     {
       "exchange": "TWSE",
@@ -1146,7 +1146,7 @@
       "volume": 134951031,
       "amount": 4401510123,
       "changePct": 9.966777408637874,
-      "hotScore": 92.91068580542264
+      "hotScore": 92.921974522293
     },
     {
       "exchange": "TWSE",
@@ -1160,7 +1160,7 @@
       "volume": 6220520,
       "amount": 4993077789,
       "changePct": 9.920634920634921,
-      "hotScore": 92.01754385964912
+      "hotScore": 92.03025477707007
     },
     {
       "exchange": "TWSE",
@@ -1174,7 +1174,7 @@
       "volume": 99747807,
       "amount": 27213061480,
       "changePct": 7.751937984496124,
-      "hotScore": 91.77094834989573
+      "hotScore": 91.78160215580597
     },
     {
       "exchange": "TWSE",
@@ -1188,7 +1188,7 @@
       "volume": 125407590,
       "amount": 8676078603,
       "changePct": 8.29493087557604,
-      "hotScore": 91.52445507708667
+      "hotScore": 91.53750884642606
     },
     {
       "exchange": "TWSE",
@@ -1202,7 +1202,7 @@
       "volume": 54500942,
       "amount": 6620964660,
       "changePct": 9.734513274336283,
-      "hotScore": 91.48325358851675
+      "hotScore": 91.32165605095541
     },
     {
       "exchange": "TWSE",
@@ -1216,7 +1216,7 @@
       "volume": 19577157,
       "amount": 4681799260,
       "changePct": 9.865470852017937,
-      "hotScore": 90.30303030303031
+      "hotScore": 90.31847133757962
     },
     {
       "exchange": "TWSE",
@@ -1230,7 +1230,7 @@
       "volume": 11024695,
       "amount": 3172668011,
       "changePct": 9.962406015037594,
-      "hotScore": 90.17543859649123
+      "hotScore": 90.19108280254778
     },
     {
       "exchange": "TWSE",
@@ -1241,10 +1241,10 @@
       "open": 932,
       "high": 986,
       "low": 931,
-      "volume": 39403962,
-      "amount": 37898338637,
+      "volume": 42132962,
+      "amount": 40442520937,
       "changePct": 7.18232044198895,
-      "hotScore": 90.09728867623605
+      "hotScore": 90.10842501447597
     },
     {
       "exchange": "TWSE",
@@ -1258,7 +1258,7 @@
       "volume": 218295235,
       "amount": 13789563114,
       "changePct": 7.952622673434857,
-      "hotScore": 90.01906941266209
+      "hotScore": 90.03150096926059
     },
     {
       "exchange": "TPEX",
@@ -1272,7 +1272,7 @@
       "volume": 355918,
       "amount": 6057615110,
       "changePct": 8.150851581508515,
-      "hotScore": 89.585326953748
+      "hotScore": 89.60191082802548
     }
   ],
   "setupPool": [
@@ -1288,7 +1288,7 @@
       "volume": 217908491,
       "amount": 13789563114,
       "changePct": 7.952624169690131,
-      "hotScore": 90.01906941266209,
+      "hotScore": 90.03150096926059,
       "price": 63.79999923706055,
       "prevClose": 59.099998474121094,
       "prevHigh": 61.20000076293945,
@@ -1339,8 +1339,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 4.893707071567744,
-      "sopScore": 80.95474186546595,
+      "relativeStrengthPct": 4.903843681885253,
+      "sopScore": 80.98289911634792,
       "sopGrade": "待確認",
       "sopFlags": [
         "相對大盤強",
@@ -1415,7 +1415,7 @@
       "volume": 60942350,
       "amount": 4068362077,
       "changePct": 4.212175728407831,
-      "hotScore": 77.80223285486443,
+      "hotScore": 77.74628450106157,
       "price": 66.80000305175781,
       "prevClose": 64.0999984741211,
       "prevHigh": 65.69999694824219,
@@ -1465,8 +1465,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 1.1532586302854435,
-      "sopScore": 70.56460730634845,
+      "relativeStrengthPct": 1.163395240602953,
+      "sopScore": 70.59276455723042,
       "sopGrade": "待確認",
       "sopFlags": [
         "收在日內高檔",
@@ -1540,7 +1540,7 @@
       "volume": 125173985,
       "amount": 8676078603,
       "changePct": 8.294933413900992,
-      "hotScore": 91.52445507708667,
+      "hotScore": 91.53750884642606,
       "price": 70.5,
       "prevClose": 65.0999984741211,
       "prevHigh": 67.5999984741211,
@@ -1591,7 +1591,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 5.236016315778604,
+      "relativeStrengthPct": 5.246152926096114,
       "sopScore": 70.37320612499197,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -1641,16 +1641,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "1802 台玻- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jX01ycWJEaW5FdnB0S2Zwczd1R01PYm0yQjY0ZXlaSXBlMzY1MjN5THB5ZW5lNUZsOGVfVDkwbUJSSXVlck50cmc3TXU1ZmdNRHdqV1VVUWc?oc=5",
-            "pubDate": "Sun, 17 May 2026 23:21:29 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "【即時新聞】台玻衝刺CoPoS玻璃材料 股價盤中大漲近6%站回月線 - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTBzYkd1bURudDlNVHgtY1R6M2FURXZHTVkxVU9veEhrQ1U0YUxMOWhvc2ZhVGVhMjZXdXgycHRCa0trdU85UjRiUmFTOFpJX0wyMlBaUDlqZTVPZ0lOY0dFenhZRFVxRllNRk1WczZhSll1SGFNZU1FVVVPbkp6dTYxVW95QWZ0c0xEUVVFMlQ?oc=5",
             "pubDate": "Fri, 22 May 2026 05:53:33 GMT",
             "source": "CMoney投資網誌"
+          },
+          {
+            "title": "1802 台玻- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手...-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jX01ycWJEaW5FdnB0S2Zwczd1R01PYm0yQjY0ZXlaSXBlMzY1MjN5THB5ZW5lNUZsOGVfVDkwbUJSSXVlck50cmc3TXU1ZmdNRHdqV1VVUWc?oc=5",
+            "pubDate": "Sun, 17 May 2026 23:21:29 GMT",
+            "source": "CMoney"
           }
         ]
       }
@@ -1665,9 +1665,9 @@
       "high": 1170,
       "low": 1110,
       "volume": 3287727,
-      "amount": 3793226080,
+      "amount": 4187276080,
       "changePct": 9.859154929577464,
-      "hotScore": 88.61244019138755,
+      "hotScore": 89.4187898089172,
       "price": 1170,
       "prevClose": 1065,
       "prevHigh": 1075,
@@ -1717,7 +1717,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.800237831455076,
+      "relativeStrengthPct": 6.810374441772586,
       "sopScore": 70.31235022439108,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -1773,10 +1773,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "高力第1季 EPS 6.54元 跳增逾三倍 - 經濟日報",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzYlNuQ3hseW5LUG5NR0pVU0NNdU95M2o2cFppMG5HbEdjRWZUMTlwRjRORERSWm9NX2RlVU9oSGk5WDc5UG9MQndwWVZYZmU0Ty1WdFhyaEh5d9IBX0FVX3lxTE4tcDE5bWxlSmpYZVo3am9wRFg0c2tfTnlMX0wyZ2dGVkhmOUpnZ1VUOTNzRElCc2p1dHJIWVQtM01vbzNBczNId1Q1Wl9Qakc0R0M4a0FOcjcwTXQ3UTBR?oc=5",
-            "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-            "source": "經濟日報"
+            "title": "8996 高力 - 很不給主力面子欸哈哈，拉上去又被賣下來，後面主力都懶得拉了-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03WkFycDV1encxenlSYUIyWnJ1SDNHOXJUdVh2a1E1VUFiZVBDbk1aUHpSaWxBZi1tM3BSb0ZpWXhzdGJpZ0dwZkphY1k2TkltZzA0b3VmNWs?oc=5",
+            "pubDate": "Tue, 19 May 2026 11:07:23 GMT",
+            "source": "CMoney"
           }
         ]
       }
@@ -1793,7 +1793,7 @@
       "volume": 21845832,
       "amount": 3245845704,
       "changePct": 8.633093525179856,
-      "hotScore": 84.61271756466265,
+      "hotScore": 84.63514261977292,
       "price": 151,
       "prevClose": 139,
       "prevHigh": 139,
@@ -1843,7 +1843,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 5.574176427057468,
+      "relativeStrengthPct": 5.584313037374978,
       "sopScore": 66.8375299760192,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -1919,7 +1919,7 @@
       "volume": 355174,
       "amount": 6057615110,
       "changePct": 8.150851581508515,
-      "hotScore": 89.585326953748,
+      "hotScore": 89.60191082802548,
       "price": 17780,
       "prevClose": 16440,
       "prevHigh": 16825,
@@ -1970,7 +1970,7 @@
       "sector": "矽智財/IC設計",
       "sectorRank": 6,
       "sectorAvgChangePct": 4.919964276722819,
-      "relativeStrengthPct": 5.091934483386128,
+      "relativeStrengthPct": 5.102071093703637,
       "sopScore": 66.20610367892976,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -1996,7 +1996,7 @@
       "volume": 36786051,
       "amount": 2663671825,
       "changePct": 4.285714285714286,
-      "hotScore": 75.84201144572661,
+      "hotScore": 75.87813787935556,
       "price": 73,
       "prevClose": 70,
       "prevHigh": 72.19999694824219,
@@ -2046,8 +2046,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 1.226797187591898,
-      "sopScore": 65.1477756146661,
+      "relativeStrengthPct": 1.2369337979094075,
+      "sopScore": 65.17593286554808,
       "sopGrade": "待確認",
       "sopFlags": [
         "收在日內高檔",
@@ -2071,7 +2071,7 @@
       "volume": 5600890,
       "amount": 2324781115,
       "changePct": 9.960681520314548,
-      "hotScore": 87.32057416267943,
+      "hotScore": 87.3407643312102,
       "price": 419.5,
       "prevClose": 381.5,
       "prevHigh": 381.5,
@@ -2120,7 +2120,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.90176442219216,
+      "relativeStrengthPct": 6.91190103250967,
       "sopScore": 63.25,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -2146,7 +2146,7 @@
       "volume": 2165696,
       "amount": 1626595967,
       "changePct": 1.0810810810810811,
-      "hotScore": 54.9298245614035,
+      "hotScore": 54.99309978768577,
       "price": 748,
       "prevClose": 740,
       "prevHigh": 741,
@@ -2196,8 +2196,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -1.9778360170413065,
-      "sopScore": 61.86712217488526,
+      "relativeStrengthPct": -1.967699406723797,
+      "sopScore": 61.89527942576723,
       "sopGrade": "待確認",
       "sopFlags": [
         "打底轉強",
@@ -2221,7 +2221,7 @@
       "volume": 3031931,
       "amount": 15188295575,
       "changePct": 6.7164179104477615,
-      "hotScore": 88.09409888357257,
+      "hotScore": 88.10858755168175,
       "price": 5005,
       "prevClose": 4690,
       "prevHigh": 4785,
@@ -2270,8 +2270,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 3.657500812325374,
-      "sopScore": 59.52083558979271,
+      "relativeStrengthPct": 3.6676374226428834,
+      "sopScore": 59.54899284067468,
       "sopGrade": "待確認",
       "sopFlags": [
         "相對大盤強",
@@ -2296,7 +2296,7 @@
       "volume": 70108281,
       "amount": 10098281418,
       "changePct": 3.214285714285714,
-      "hotScore": 78.5057048214943,
+      "hotScore": 78.53625673689369,
       "price": 144.5,
       "prevClose": 140,
       "prevHigh": 141.5,
@@ -2347,8 +2347,8 @@
       "sector": "AI伺服器",
       "sectorRank": 5,
       "sectorAvgChangePct": 4.367712086907292,
-      "relativeStrengthPct": 0.1553686161633263,
-      "sopScore": 59.04269060045368,
+      "relativeStrengthPct": 0.16550522648083588,
+      "sopScore": 59.07084785133566,
       "sopGrade": "待確認",
       "sopFlags": [
         "收在日內高檔",
@@ -2372,7 +2372,7 @@
       "volume": 67897644,
       "amount": 5627996562,
       "changePct": 4.140530963760088,
-      "hotScore": 78.44275063981306,
+      "hotScore": 78.47189305288106,
       "price": 83,
       "prevClose": 79.69999694824219,
       "prevHigh": 79.9000015258789,
@@ -2421,8 +2421,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 1.0816138656377001,
-      "sopScore": 57.43625911283411,
+      "relativeStrengthPct": 1.0917504759552097,
+      "sopScore": 57.464416363716076,
       "sopGrade": "觀察",
       "sopFlags": [
         "打底轉強"
@@ -2445,7 +2445,7 @@
       "volume": 20944224,
       "amount": 1823406390,
       "changePct": 0.8187098809850145,
-      "hotScore": 51.79425837320575,
+      "hotScore": 51.76919208850152,
       "price": 86.19999694824219,
       "prevClose": 85.5,
       "prevHigh": 85.9000015258789,
@@ -2495,8 +2495,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -2.2402072171373733,
-      "sopScore": 56.638313285729524,
+      "relativeStrengthPct": -2.2300706068198637,
+      "sopScore": 56.66647053661149,
       "sopGrade": "觀察",
       "sopFlags": [
         "打底轉強",
@@ -2520,7 +2520,7 @@
       "volume": 45215670,
       "amount": 1604190697,
       "changePct": 0.5665744115072885,
-      "hotScore": 55.23923444976079,
+      "hotScore": 55.30616676317314,
       "price": 35.5,
       "prevClose": 35.29999923706055,
       "prevHigh": 35.45000076293945,
@@ -2570,8 +2570,8 @@
       "sector": "航空",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -2.4923426866150993,
-      "sopScore": 56.550966432875825,
+      "relativeStrengthPct": -2.4822060762975897,
+      "sopScore": 56.57912368375779,
       "sopGrade": "觀察",
       "sopFlags": [
         "收在日內高檔",
@@ -2595,7 +2595,7 @@
       "volume": 22327092,
       "amount": 1685057196,
       "changePct": 8.869809460514501,
-      "hotScore": 78.64309210526315,
+      "hotScore": 78.67535828025478,
       "price": 76.0999984741211,
       "prevClose": 69.9000015258789,
       "prevHigh": 69.9000015258789,
@@ -2645,7 +2645,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 5.810892362392114,
+      "relativeStrengthPct": 5.821028972709623,
       "sopScore": 55,
       "sopGrade": "觀察",
       "sopFlags": [
@@ -2671,7 +2671,7 @@
       "volume": 1855835,
       "amount": 2715422015,
       "changePct": 4.964539007092199,
-      "hotScore": 77.22647527910686,
+      "hotScore": 77.25955414012739,
       "price": 1480,
       "prevClose": 1410,
       "prevHigh": 1455,
@@ -2720,8 +2720,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 1.9056219089698114,
-      "sopScore": 53.15450530269392,
+      "relativeStrengthPct": 1.915758519287321,
+      "sopScore": 53.182662553575895,
       "sopGrade": "觀察",
       "sopFlags": [
         "收在日內高檔",
@@ -2745,7 +2745,7 @@
       "volume": 105354432,
       "amount": 2521754086,
       "changePct": -0.2096484008781321,
-      "hotScore": 51.824162679425854,
+      "hotScore": 51.88694267515926,
       "price": 23.799999237060547,
       "prevClose": 23.850000381469727,
       "prevHigh": 24.200000762939453,
@@ -2795,8 +2795,8 @@
       "sector": "金融",
       "sectorRank": 9,
       "sectorAvgChangePct": -0.1895388275664592,
-      "relativeStrengthPct": -3.2685654990005197,
-      "sopScore": 52.03176250277633,
+      "relativeStrengthPct": -3.25842888868301,
+      "sopScore": 52.059919753658306,
       "sopGrade": "觀察",
       "sopFlags": [
         "打底轉強",
@@ -2818,9 +2818,9 @@
       "high": 2260,
       "low": 2225,
       "volume": 26171751,
-      "amount": 58929815840,
+      "amount": 60188140377,
       "changePct": 1.1210762331838564,
-      "hotScore": 74.14559125085441,
+      "hotScore": 74.18448589626932,
       "price": 2255,
       "prevClose": 2230,
       "prevHigh": 2255,
@@ -2871,8 +2871,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -1.9378408649385312,
-      "sopScore": 50.065963116730764,
+      "relativeStrengthPct": -1.9277042546210217,
+      "sopScore": 50.09412036761274,
       "sopGrade": "觀察",
       "sopFlags": [
         "收在日內高檔",
@@ -2896,7 +2896,7 @@
       "volume": 40793473,
       "amount": 3223758814,
       "changePct": 1.2706480797676012,
-      "hotScore": 67.22986443381184,
+      "hotScore": 67.28105095541405,
       "price": 79.69999694824219,
       "prevClose": 78.69999694824219,
       "prevHigh": 79.0999984741211,
@@ -2946,8 +2946,8 @@
       "sector": "金融",
       "sectorRank": 9,
       "sectorAvgChangePct": -0.1895388275664592,
-      "relativeStrengthPct": -1.7882690183547865,
-      "sopScore": 41.1436971712367,
+      "relativeStrengthPct": -1.778132408037277,
+      "sopScore": 41.17185442211867,
       "sopGrade": "觀察",
       "sopFlags": [
         "收在日內高檔",
@@ -2971,7 +2971,7 @@
       "volume": 3738037,
       "amount": 2143001147,
       "changePct": 0.5217391304347827,
-      "hotScore": 61.25199362041467,
+      "hotScore": 61.22611464968153,
       "price": 578,
       "prevClose": 575,
       "prevHigh": 582,
@@ -3021,8 +3021,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -2.537177967687605,
-      "sopScore": 39.67522579450381,
+      "relativeStrengthPct": -2.5270413573700954,
+      "sopScore": 39.70338304538578,
       "sopGrade": "觀察",
       "sopFlags": [
         "收在日內高檔",
@@ -3048,7 +3048,7 @@
       "volume": 112650396,
       "amount": 16848938310,
       "changePct": 6.028368794326241,
-      "hotScore": 86.40350877192982,
+      "hotScore": 86.41985138004246,
       "price": 149.5,
       "prevClose": 141,
       "prevHigh": 149,
@@ -3097,8 +3097,8 @@
       "sector": "記憶體",
       "sectorRank": 4,
       "sectorAvgChangePct": 5.631713448453927,
-      "relativeStrengthPct": 2.969451696203853,
-      "sopScore": 64.9845880450107,
+      "relativeStrengthPct": 2.9795883065213626,
+      "sopScore": 65.01274529589267,
       "sopGrade": "待確認",
       "sopFlags": [
         "相對大盤強",
@@ -3149,7 +3149,7 @@
           {
             "title": "Factset 最新調查：旺宏(2337-TW)EPS預估上修至13.63元，預估目標價為183元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DTHJVOTdHdWpSTnpTcW1ZV2p1UDB2WlptbEQ3czdSYWZTZGNmM0g3T2ZFbF8zOGhjbXhaLW1DeVVIZ3J4Ym14TlIwRnhtOUhUcDZ1bDNWaDJRV2IyellYakVscTJaQ1N5ZlNsN3VTaXhub0FLLWc?oc=5",
-            "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+            "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
           },
           {
@@ -3173,7 +3173,7 @@
       "volume": 6013222,
       "amount": 2513013044,
       "changePct": 9.895833333333332,
-      "hotScore": 86.27591706539074,
+      "hotScore": 86.29777070063695,
       "price": 422,
       "prevClose": 384,
       "prevHigh": 389,
@@ -3222,7 +3222,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.8369162352109445,
+      "relativeStrengthPct": 6.847052845528454,
       "sopScore": 61.25,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -3298,7 +3298,7 @@
       "volume": 5641331,
       "amount": 7536327845,
       "changePct": 3.501945525291829,
-      "hotScore": 75.58612440191388,
+      "hotScore": 75.52813163481953,
       "price": 1330,
       "prevClose": 1285,
       "prevHigh": 1305,
@@ -3347,8 +3347,8 @@
       "sector": "PCB/載板",
       "sectorRank": 3,
       "sectorAvgChangePct": 7.097838111635339,
-      "relativeStrengthPct": 0.44302842716944113,
-      "sopScore": 61.09174563102623,
+      "relativeStrengthPct": 0.4531650374869507,
+      "sopScore": 61.119902881908196,
       "sopGrade": "待確認",
       "sopFlags": [
         "族群前段#3",
@@ -3423,7 +3423,7 @@
       "volume": 695476,
       "amount": 2356373840,
       "changePct": 1.6417910447761193,
-      "hotScore": 62.10526315789474,
+      "hotScore": 62.15764331210191,
       "price": 3405,
       "prevClose": 3350,
       "prevHigh": 3495,
@@ -3473,8 +3473,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -1.4171260533462684,
-      "sopScore": 60.42464985181592,
+      "relativeStrengthPct": -1.4069894430287588,
+      "sopScore": 60.45280710269789,
       "sopGrade": "待確認",
       "sopFlags": [
         "止跌訊號",
@@ -3528,8 +3528,8 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "【即時新聞】精測4月營收5.23億元創歷史新高，年成長30.2% - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObEhMOEhrV0xqaE1TTXBVNmg2clBETG1hZHA2QnNQQXlTQnNzdU5TZTMzc1V6ZEhJbGxNX3lyTEtjOXV3dmx5TWtNb0dpekVuT0dLNG1ZQTlwRGRVMHdzM2FnZHBFeU9kOG55el9ONmdCcEZNYnEzclg4MXNLMXRfdzJnTndkQTgzM1B1TlNaWlc?oc=5",
+            "title": "【11:21 即時新聞】精測(6510)攻上漲停3780元，AI測試介面營收創高帶動多方回補＋短線脫離均線糾結、留意籌碼能否跟上 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2RyNXliWHFUeTdnRXR4dlV1U3V4c3l0RFd5NU1kblFtWW1MSzVqUHk4M2RYeFlNQnZqazhLRm16djh6TXhqVnZFb0hpZ0VPc2dVMnA1emxfTEJtNi02SGtLUXd0WWpHNElsNVMzdF9TVWVpNlNvRFJaWWtzYjZvQ1Roa1JzTFN2Z011UUtn?oc=5",
             "pubDate": "Mon, 04 May 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
           }
@@ -3548,7 +3548,7 @@
       "volume": 1835534,
       "amount": 1511412786,
       "changePct": 3.25,
-      "hotScore": 64.15470494417863,
+      "hotScore": 64.20744064852346,
       "price": 826,
       "prevClose": 800,
       "prevHigh": 804,
@@ -3597,8 +3597,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 0.19108290187761234,
-      "sopScore": 58.707151067444386,
+      "relativeStrengthPct": 0.2012195121951219,
+      "sopScore": 58.73530831832636,
       "sopGrade": "待確認",
       "sopFlags": [
         "收在日內高檔",
@@ -3673,7 +3673,7 @@
       "volume": 13202552,
       "amount": 2294063055,
       "changePct": 6.402439024390244,
-      "hotScore": 77.09054103790946,
+      "hotScore": 77.12212150906417,
       "price": 174.5,
       "prevClose": 164,
       "prevHigh": 168,
@@ -3722,8 +3722,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 3.343521926267856,
-      "sopScore": 56.64867201741072,
+      "relativeStrengthPct": 3.3536585365853657,
+      "sopScore": 56.67682926829268,
       "sopGrade": "觀察",
       "sopFlags": [
         "相對大盤強",
@@ -3747,7 +3747,7 @@
       "volume": 542118,
       "amount": 1534121825,
       "changePct": 4.444444444444445,
-      "hotScore": 66.41216678058782,
+      "hotScore": 66.45746132848043,
       "price": 2820,
       "prevClose": 2700,
       "prevHigh": 2725,
@@ -3797,8 +3797,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 1.385527346322057,
-      "sopScore": 56.209798184227935,
+      "relativeStrengthPct": 1.3956639566395665,
+      "sopScore": 56.23795543510991,
       "sopGrade": "觀察",
       "sopFlags": [
         "止跌訊號",
@@ -3822,7 +3822,7 @@
       "volume": 2245689,
       "amount": 6159463505,
       "changePct": 6.066536203522505,
-      "hotScore": 79.96810207336523,
+      "hotScore": 79.98938428874735,
       "price": 2710,
       "prevClose": 2555,
       "prevHigh": 2660,
@@ -3871,8 +3871,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 3.007619105400117,
-      "sopScore": 55.71560862611143,
+      "relativeStrengthPct": 3.0177557157176267,
+      "sopScore": 55.74376587699341,
       "sopGrade": "觀察",
       "sopFlags": [
         "相對大盤強",
@@ -3897,7 +3897,7 @@
       "volume": 28211175,
       "amount": 3006654925,
       "changePct": 5.41871921182266,
-      "hotScore": 77.91467304625199,
+      "hotScore": 77.94585987261146,
       "price": 107,
       "prevClose": 101.5,
       "prevHigh": 105,
@@ -3946,8 +3946,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 2.3598021137002725,
-      "sopScore": 53.91611698250075,
+      "relativeStrengthPct": 2.369938724017782,
+      "sopScore": 53.94427423338273,
       "sopGrade": "觀察",
       "sopFlags": [
         "相對大盤強",
@@ -3972,7 +3972,7 @@
       "volume": 503121,
       "amount": 1850859660,
       "changePct": 1.969057665260197,
-      "hotScore": 56.674641148325364,
+      "hotScore": 56.642540050183364,
       "price": 3625,
       "prevClose": 3555,
       "prevHigh": 3660,
@@ -4021,8 +4021,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -1.0898594328621907,
-      "sopScore": 53.70378221148105,
+      "relativeStrengthPct": -1.079722822544681,
+      "sopScore": 53.731939462363016,
       "sopGrade": "觀察",
       "sopFlags": [
         "止跌訊號",
@@ -4047,7 +4047,7 @@
       "volume": 3650879,
       "amount": 3746808965,
       "changePct": 1,
-      "hotScore": 59.18774208247893,
+      "hotScore": 59.239080982711556,
       "price": 1010,
       "prevClose": 1000,
       "prevHigh": 1015,
@@ -4097,8 +4097,8 @@
       "sector": "散熱",
       "sectorRank": 7,
       "sectorAvgChangePct": 4.297558428853915,
-      "relativeStrengthPct": -2.0589170981223877,
-      "sopScore": 49.894837971955255,
+      "relativeStrengthPct": -2.048780487804878,
+      "sopScore": 49.92299522283723,
       "sopGrade": "觀察",
       "sopFlags": [
         "止跌訊號",
@@ -4120,9 +4120,9 @@
       "high": 1170,
       "low": 1115,
       "volume": 2504152,
-      "amount": 2875660155,
+      "amount": 2906628075,
       "changePct": 4.587155963302752,
-      "hotScore": 73.30940988835725,
+      "hotScore": 73.34322524609149,
       "price": 1140,
       "prevClose": 1090,
       "prevHigh": 1140,
@@ -4171,8 +4171,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 1.5282388651803647,
-      "sopScore": 48.60621906994545,
+      "relativeStrengthPct": 1.5383754754978742,
+      "sopScore": 48.63437632082743,
       "sopGrade": "觀察",
       "sopFlags": [
         "止跌訊號",
@@ -4194,9 +4194,9 @@
       "high": 317,
       "low": 305.5,
       "volume": 35813263,
-      "amount": 11259352759,
+      "amount": 11380951543,
       "changePct": 2.5974025974025974,
-      "hotScore": 78.22134387351778,
+      "hotScore": 78.25463860426476,
       "price": 316,
       "prevClose": 308,
       "prevHigh": 312.5,
@@ -4245,8 +4245,8 @@
       "sector": "AI伺服器",
       "sectorRank": 5,
       "sectorAvgChangePct": 4.367712086907292,
-      "relativeStrengthPct": -0.4615145007197903,
-      "sopScore": 48.57912638688947,
+      "relativeStrengthPct": -0.4513778904022807,
+      "sopScore": 48.607283637771445,
       "sopGrade": "觀察",
       "sopFlags": [
         "收在日內高檔",
@@ -4270,7 +4270,7 @@
       "volume": 26327415,
       "amount": 7831615608,
       "changePct": 3.4965034965034967,
-      "hotScore": 76.72134882661199,
+      "hotScore": 76.66325447376403,
       "price": 296,
       "prevClose": 286,
       "prevHigh": 292.5,
@@ -4319,8 +4319,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 0.437586398381109,
-      "sopScore": 48.57662888439197,
+      "relativeStrengthPct": 0.4477230086986186,
+      "sopScore": 48.60478613527394,
       "sopGrade": "觀察",
       "sopFlags": [
         "止跌訊號",
@@ -4342,9 +4342,9 @@
       "high": 1450,
       "low": 1375,
       "volume": 1218498,
-      "amount": 1707164980,
+      "amount": 1883790100,
       "changePct": -0.7042253521126761,
-      "hotScore": 49.29186602870813,
+      "hotScore": 50.41507430997876,
       "price": 1410,
       "prevClose": 1420,
       "prevHigh": 1450,
@@ -4393,8 +4393,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -3.7631424502350637,
-      "sopScore": 46.54324193022653,
+      "relativeStrengthPct": -3.753005839917554,
+      "sopScore": 46.5713991811085,
       "sopGrade": "觀察",
       "sopFlags": [
         "止跌訊號",
@@ -4418,7 +4418,7 @@
       "volume": 5491676,
       "amount": 13965964590,
       "changePct": 2.004008016032064,
-      "hotScore": 72.67771701982228,
+      "hotScore": 72.71383075523204,
       "price": 2545,
       "prevClose": 2495,
       "prevHigh": 2515,
@@ -4467,8 +4467,8 @@
       "sector": "散熱",
       "sectorRank": 7,
       "sectorAvgChangePct": 4.297558428853915,
-      "relativeStrengthPct": -1.0549090820903237,
-      "sopScore": 44.430808105304656,
+      "relativeStrengthPct": -1.0447724717728142,
+      "sopScore": 44.458965356186624,
       "sopGrade": "觀察",
       "sopFlags": [
         "止跌訊號",
@@ -4492,7 +4492,7 @@
       "volume": 4671827,
       "amount": 1274965167,
       "changePct": 1.5009380863039399,
-      "hotScore": 52.50398724082935,
+      "hotScore": 52.56900212314225,
       "price": 270.5,
       "prevClose": 266.5,
       "prevHigh": 274,
@@ -4541,8 +4541,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -1.5579790118184478,
-      "sopScore": 42.73592710350161,
+      "relativeStrengthPct": -1.5478424015009382,
+      "sopScore": 42.76408435438358,
       "sopGrade": "觀察",
       "sopFlags": [
         "止跌訊號",
@@ -4567,7 +4567,7 @@
       "volume": 46189894,
       "amount": 3679241176,
       "changePct": 4.216069675770843,
-      "hotScore": 73.46576202055061,
+      "hotScore": 73.49939960321603,
       "price": 79.0999984741211,
       "prevClose": 75.9000015258789,
       "prevHigh": 78.5999984741211,
@@ -4615,8 +4615,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 1.1571525776484552,
-      "sopScore": 39.32542382680126,
+      "relativeStrengthPct": 1.1672891879659648,
+      "sopScore": 39.35358107768324,
       "sopGrade": "觀察",
       "sopFlags": [
         "止跌訊號",
@@ -4640,7 +4640,7 @@
       "volume": 84889335,
       "amount": 2339486037,
       "changePct": -0.5415217391603727,
-      "hotScore": 52.386363636363676,
+      "hotScore": 52.45222929936309,
       "price": 27.549999237060547,
       "prevClose": 27.700000762939453,
       "prevHigh": 28.049999237060547,
@@ -4689,8 +4689,8 @@
       "sector": "金融",
       "sectorRank": 9,
       "sectorAvgChangePct": -0.1895388275664592,
-      "relativeStrengthPct": -3.6004388372827605,
-      "sopScore": 36.859892118659,
+      "relativeStrengthPct": -3.590302226965251,
+      "sopScore": 36.888049369540965,
       "sopGrade": "觀察",
       "sopFlags": [
         "止跌訊號",
@@ -4714,7 +4714,7 @@
       "volume": 988677,
       "amount": 1791594555,
       "changePct": -0.8287292817679558,
-      "hotScore": 46.196172248803826,
+      "hotScore": 46.18099787685775,
       "price": 1795,
       "prevClose": 1810,
       "prevHigh": 1810,
@@ -4763,8 +4763,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -3.8876463798903433,
-      "sopScore": 31.14314524567805,
+      "relativeStrengthPct": -3.8775097695728338,
+      "sopScore": 31.171302496560017,
       "sopGrade": "觀察",
       "sopFlags": [
         "量不足需確認",
@@ -4790,7 +4790,7 @@
       "volume": 31183324,
       "amount": 17204233478,
       "changePct": 10,
-      "hotScore": 99.06698564593302,
+      "hotScore": 99.06847133757961,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:3711",
@@ -4849,7 +4849,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.941082901877612,
+      "relativeStrengthPct": 6.951219512195122,
       "sopScore": 74.99999999999997,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -4900,7 +4900,7 @@
           },
           {
             "title": "【數報】盤中快報:3711(日月光投控)股價漲停鎖定在561.00元，委託買量402張。 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQazJqb3hSc2xacW5jdnNzZnc1d294WjUwb3VMZXl2MVZxR05XeHh6VE1uSkJVa2ZnaFdCeUV0SmFPcVNlcnRVeDJ3UmJTWmRZT19HUVJGXzhxbVRBVEdMR3dLZTI2MUNoNjRuQU14MkZBUFJDZ1M1TlFGMnMtTk16OVVseUt6ZjBOMlc5U25pN1c?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmxESXktTVRLYWF4ZzFEZ2xlWkhRZW42ZC12d2NYempPd0RBUW0xa21TdVZ4NTNoNTdsekVCZFktMFFNRDJvekJ3YU50SFNXYTc0a1psYW9vZmM3WGsyckRWVmhxZmNXU2t3akhMaFY3a1ZfZjVWU1V1TmllbUwzLXF4cTQtd3ZodUxTcjZB?oc=5",
             "pubDate": "Fri, 22 May 2026 02:10:00 GMT",
             "source": "富聯網"
           },
@@ -4923,9 +4923,9 @@
       "high": 963,
       "low": 906,
       "volume": 7730956,
-      "amount": 7302388626,
+      "amount": 7696639626,
       "changePct": 9.931506849315069,
-      "hotScore": 94.69696969696969,
+      "hotScore": 94.88057324840764,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:6531",
@@ -4983,7 +4983,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.872589751192681,
+      "relativeStrengthPct": 6.882726361510191,
       "sopScore": 71.25,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -5038,10 +5038,10 @@
             "source": "富聯網"
           },
           {
-            "title": "6531 愛普* - 愛普*法說會解析影片-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56WHU5WGNGbS1ITXdrck05anZkRXlZLTRhZ1lGUmZMVGxJRTZ2OUk1RzI3UURwRTAtSE1kQS11dGFPQUQxeVdtamFBWE50dmVZb1dOc2dEQzA?oc=5",
-            "pubDate": "Thu, 21 May 2026 12:01:57 GMT",
-            "source": "CMoney"
+            "title": "愛普*（6531）做什麼、法說有何重點？2026年第一季EPS達4.15元，IoTRAM強勁需求推升營收年增115%，S-SiCap量產佈局加速啟動｜股市話題 - sinotrade.com.tw",
+            "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxPbEx6SXVjQVJLdTZSQl9qNmMxMkhGdk1zMkJnbXM4QVFmUURZc0JKYzQ2eGZJb3pyR3R2aW5QVENfTElCc2xxRGpjWmd5M21pM2pqb3hYMU1KTDNiVkg0M1JhVUFwajg5c1VSaF9BVGoxVW5qUVBfcFZyeWVCVE9hYVcycGp3dlNzQXpjYm80OHFJUmVRSzVVRFp6VEUxVy11YXo0QTl5NFlsNHpNSXVTZFA5azRiVkQweExuNzhkZnJBajlfVHBEVjJONGU5Ul9hZU5HeDUyLUZOa3pRSXFQRGw3TDRZZlVwZS1xM2trV29oMC1MWDRoRHZ4UlBUWXBESm83M2JydFl1MHRnSkI5MnNmNEdPZVNvX2tYOGZWZ2l5aHMycUFUb3VHM0p0a0R6OG1Na09yWnplc1FKTHVjcmhLSzNYMk1jOEtSQkRjVlNGQ1ZWU2p3TS1XOGZIRTZaaGt5SG1wUXVfcDc2MDJ3cm50anQxVTQ2SVpCSGI4QnVfRDhzemQ3bnpzZmFPYmlyemktM08wVjZ0c1N1cEV2ZFlXdVJ2eGlIcFczRWNteGQwZ1puZGd6NjlNbnlCNGdSRzBMS2pHSFFHMDNPNUNmRmhvb2hNZXVaU2hON2pDNWlxY01jLVIybUVHc1VlNFBJbkdaWml1S280QWxlMWhPMXJ3cXZfa2ZYXzExV09mYUl1azhuZDRmR1JxeEpzM1gyMFRZWEwwWWNPbUpBRHQ4Vm5PQ08wc0ZiS0d0NUxfTG8tdS1UaDBPc2M5eGZ1blhmT21hSTE3cEx2cGtpSnVoZlJSVTRQMVBhUWt0cmxYdVd3VXpwYmJkN1N0MDRXRU1zaDZ5TWp3?oc=5",
+            "pubDate": "Wed, 13 May 2026 00:41:12 GMT",
+            "source": "sinotrade.com.tw"
           }
         ]
       }
@@ -5058,7 +5058,7 @@
       "volume": 28968844,
       "amount": 15141364042,
       "changePct": 9.937888198757763,
-      "hotScore": 96.50717703349282,
+      "hotScore": 96.51273885350318,
       "quote": {
         "success": true,
         "symbol": "TPEX:3105",
@@ -5117,7 +5117,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.8789711006353755,
+      "relativeStrengthPct": 6.889107710952885,
       "sopScore": 70.50000000000001,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -5167,16 +5167,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "3105 穩懋- 光通訊磷化銦1.6T 雙雄奮起！！-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JY3BlQ0VZX1RhcnFtOEZoYzFSVlM2ZHBjYk5Cb09TWUtHRHlEczJhWjItNlM2ZHNUMWI0WkhhTW4yUHVSSUtCN1g0QV8tbU81bkpXdW1VS0c?oc=5",
-            "pubDate": "Thu, 21 May 2026 22:32:55 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "穩懋、乙盛業績看旺- 日報 - 工商時報",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5",
             "pubDate": "Thu, 21 May 2026 19:00:00 GMT",
             "source": "工商時報"
+          },
+          {
+            "title": "【數報】盤中快報:3105(穩懋)股價漲停鎖定在531.00元，委託買量1158張。 - 富聯網",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0w1WWxwMm4zUEl6U0IyZTNjY0RXV19KSmV4YzYtTkJYRm8wcUQ1Q2FldGJpZG1fMzZsdjVRSnpmWWVpZjJwaklMZVdwOW5CU3pKRXNKdXdPemRGQ3dGTXlNdUxZNVhKaF9sbmlQMjdsZjJFVUhjZWlSdUZvN1dmSkhSa2prY21OdFoxUkhB?oc=5",
+            "pubDate": "Fri, 22 May 2026 02:58:00 GMT",
+            "source": "富聯網"
           }
         ]
       }
@@ -5193,7 +5193,7 @@
       "volume": 76568242,
       "amount": 6063800555,
       "changePct": 10.000000000000007,
-      "hotScore": 95.59011164274322,
+      "hotScore": 95.59713375796179,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:3714",
@@ -5254,7 +5254,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.9410829018776194,
+      "relativeStrengthPct": 6.951219512195129,
       "sopScore": 69.75000000000003,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -5312,7 +5312,7 @@
           {
             "title": "富采（3714）做什麼、法說會重點有哪些？Q1毛利率強彈逾13個百分點，Micro LED下半年產能到位拚營收翻倍｜股市話題 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQeXU4a2VuX001cDVGRkR4UVVGNnlzNDBzVjN2QlFNazdCNWVCX2REekY5OW8wWTlxbjk2OVRRMXJwV1RFeFVJV3F1SURhRVFTSWN6am9tNEtNUm43Vm1uOU0yRDVaUGJmNWJ6Yi1STGZiT25laTJKc0NqNFpibU9XUjBJQno2S3Ezc3ZNZTVNNzJYdy1Jb21kcElBbmljN3FlNXkzbFlxSkNkc3JlUDNYR1BzZGNsQnl3R3lmMlZfa2ZvU2FnelRPaVhfaXU5N1VYOGdUWllaS1RuSk9ndUhIZEFWUEVlc1h4aGN2RS1FS1J6aGF0MHhQSnp5MlRUQVJSOGZJVGVGdmFRemVONThlUWdqMGRLS1ZjVDRsVEh4SGVyU2gyS05VZ2dtcm10YkJSSkNraHlqcTV5YXdDRGhOc3kzQkdBZ2FtTGNFSzNsWjJCeVBrQ1JZRjJheDNZXzBaVXFuRnF3czdIcEo0eDRjOG1SbFlGbThDam9tXzYtaG5yVk9yTVFPWmhBVl91RWxiSVpPdm5fOXQ0RlpPaERzMllKXzhzeHBmSlhvcTVtRkNyQUtjQ0lsTVRkcWVrcWtmVWRER2lFOEkyTGN3OVhhRGt4Zkp3VWlaSVd6UXdYdV9MamlRSGI3OXBOQUQ4cEFpY0hKYTQzRzJTcmRyWmppMVR1YkMtdw?oc=5",
-            "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
+            "pubDate": "Fri, 08 May 2026 10:45:29 GMT",
             "source": "sinotrade.com.tw"
           }
         ]
@@ -5328,9 +5328,9 @@
       "high": 425,
       "low": 398.5,
       "volume": 15355098,
-      "amount": 6409758623,
+      "amount": 6662407623,
       "changePct": 9.961190168175937,
-      "hotScore": 94.62519936204146,
+      "hotScore": 94.80891719745223,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:2455",
@@ -5392,7 +5392,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.90227307005355,
+      "relativeStrengthPct": 6.912409680371059,
       "sopScore": 57,
       "sopGrade": "不追",
       "sopFlags": [
@@ -5408,95 +5408,6 @@
     },
     {
       "exchange": "TWSE",
-      "symbol": "TWSE:2409",
-      "code": "2409",
-      "name": "友達",
-      "close": 22.2,
-      "open": 20.85,
-      "high": 22.2,
-      "low": 20.55,
-      "volume": 394425774,
-      "amount": 8576715690,
-      "changePct": 9.900990099009901,
-      "hotScore": 94.33811802232854,
-      "quote": {
-        "success": true,
-        "symbol": "TWSE_DLY:2409",
-        "time": 1779411600,
-        "open": 20.85,
-        "high": 22.2,
-        "low": 20.55,
-        "close": 22.2,
-        "last": 22.2,
-        "volume": 394425774,
-        "description": "AUO Corporation",
-        "exchange": "TWSE",
-        "type": "stock"
-      },
-      "price": 22.2,
-      "prevClose": 20.2,
-      "prevHigh": 20.45,
-      "fiveDayAgoClose": 19.05,
-      "threeDayAgoClose": 19.15,
-      "fiveDayChangePct": 16.535433070866134,
-      "threeDayChangePct": 15.92689295039165,
-      "ma5": 19.91,
-      "ma10": 19.79,
-      "ma20": 18.659999999999997,
-      "ma60": 17.33666666666667,
-      "ma120": 15.283333333333331,
-      "bbMid": 18.659999999999997,
-      "bbUpper": 21.40510473388539,
-      "bbLower": 15.914895266114604,
-      "box20High": 22.2,
-      "box20Low": 16.6,
-      "box60High": 22.2,
-      "box60Low": 14,
-      "avgVol20": 270017380.3,
-      "volRatio20": 1.4607421698624634,
-      "upperWick": 0,
-      "lowerWick": 0.1818181818181824,
-      "rsi14": 69.12353273870266,
-      "kdK": 71.2994350282486,
-      "kdD": 56.810852165725045,
-      "rsi": 69.12,
-      "k": 100,
-      "d": 80.08,
-      "source": "TradingView",
-      "scanScore": 64,
-      "grade": "C",
-      "tag": "過熱不追",
-      "notes": [
-        "站上20MA",
-        "短均線偏多",
-        "均線多排",
-        "量能放大",
-        "RSI偏多",
-        "KD高檔",
-        "突破前高"
-      ],
-      "pool": "hot",
-      "poolLabel": "熱門追蹤",
-      "sector": "面板",
-      "sectorRank": 1,
-      "sectorAvgChangePct": 9.93817977856899,
-      "relativeStrengthPct": 6.842073000887513,
-      "sopScore": 57,
-      "sopGrade": "不追",
-      "sopFlags": [
-        "族群前段#1",
-        "相對大盤強",
-        "收在日內高檔",
-        "已表態突破"
-      ],
-      "nextTrigger": "22.20",
-      "defenseLine": "21.09",
-      "firstTarget": "23.86",
-      "riskReward": 1.5,
-      "trendType": "趨勢表態"
-    },
-    {
-      "exchange": "TWSE",
       "symbol": "TWSE:3042",
       "code": "3042",
       "name": "晶技",
@@ -5507,7 +5418,7 @@
       "volume": 31527773,
       "amount": 5394811160,
       "changePct": 10,
-      "hotScore": 95,
+      "hotScore": 95.0079617834395,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:3042",
@@ -5568,7 +5479,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.941082901877612,
+      "relativeStrengthPct": 6.951219512195122,
       "sopScore": 57,
       "sopGrade": "不追",
       "sopFlags": [
@@ -5594,7 +5505,7 @@
       "volume": 42517850,
       "amount": 8281134833,
       "changePct": 9.917355371900827,
-      "hotScore": 94.8883572567783,
+      "hotScore": 94.89649681528662,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:4919",
@@ -5655,7 +5566,7 @@
       "sector": "矽智財/IC設計",
       "sectorRank": 6,
       "sectorAvgChangePct": 4.919964276722819,
-      "relativeStrengthPct": 6.8584382737784395,
+      "relativeStrengthPct": 6.868574884095949,
       "sopScore": 57,
       "sopGrade": "不追",
       "sopFlags": [
@@ -5681,7 +5592,7 @@
       "volume": 122964502,
       "amount": 7099658868,
       "changePct": 9.981515711645098,
-      "hotScore": 96.14035087719299,
+      "hotScore": 96.14649681528661,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:2356",
@@ -5743,7 +5654,7 @@
       "sector": "AI伺服器",
       "sectorRank": 5,
       "sectorAvgChangePct": 4.367712086907292,
-      "relativeStrengthPct": 6.922598613522711,
+      "relativeStrengthPct": 6.93273522384022,
       "sopScore": 57,
       "sopGrade": "不追",
       "sopFlags": [
@@ -5769,7 +5680,7 @@
       "volume": 73991747,
       "amount": 45499501469,
       "changePct": 9.965034965034965,
-      "hotScore": 98.67623604465709,
+      "hotScore": 98.67834394904457,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:2327",
@@ -5831,7 +5742,7 @@
       "sector": "被動元件",
       "sectorRank": 2,
       "sectorAvgChangePct": 9.062633885991024,
-      "relativeStrengthPct": 6.906117866912577,
+      "relativeStrengthPct": 6.916254477230087,
       "sopScore": 57,
       "sopGrade": "不追",
       "sopFlags": [
@@ -5848,6 +5759,95 @@
     },
     {
       "exchange": "TWSE",
+      "symbol": "TWSE:3189",
+      "code": "3189",
+      "name": "景碩",
+      "close": 609,
+      "open": 588,
+      "high": 609,
+      "low": 588,
+      "volume": 10924728,
+      "amount": 6883833352,
+      "changePct": 9.927797833935017,
+      "hotScore": 94.38694267515923,
+      "quote": {
+        "success": true,
+        "symbol": "TWSE_DLY:3189",
+        "time": 1779411600,
+        "open": 588,
+        "high": 609,
+        "low": 588,
+        "close": 609,
+        "last": 609,
+        "volume": 10924728,
+        "description": "Kinsus Interconnect Technology Corp.",
+        "exchange": "TWSE",
+        "type": "stock"
+      },
+      "price": 609,
+      "prevClose": 554,
+      "prevHigh": 554,
+      "fiveDayAgoClose": 486,
+      "threeDayAgoClose": 513,
+      "fiveDayChangePct": 25.308641975308642,
+      "threeDayChangePct": 18.71345029239766,
+      "ma5": 537,
+      "ma10": 518.75,
+      "ma20": 513.175,
+      "ma60": 405.075,
+      "ma120": 290.15880003750004,
+      "bbMid": 513.175,
+      "bbUpper": 573.0016454015265,
+      "bbLower": 453.3483545984734,
+      "box20High": 609,
+      "box20Low": 445.5,
+      "box60High": 609,
+      "box60Low": 262.5,
+      "avgVol20": 32740263.2,
+      "volRatio20": 0.33367868588179217,
+      "upperWick": 0,
+      "lowerWick": 0,
+      "rsi14": 70.71648004135675,
+      "kdK": 87.3015873015873,
+      "kdD": 76.83715461493239,
+      "rsi": 70.72,
+      "k": 100,
+      "d": 84.31,
+      "source": "TradingView",
+      "scanScore": 37,
+      "grade": "C",
+      "tag": "過熱不追",
+      "notes": [
+        "站上20MA",
+        "短均線偏多",
+        "均線多排",
+        "價強量未跟",
+        "RSI偏熱",
+        "KD高檔"
+      ],
+      "pool": "hot",
+      "poolLabel": "熱門追蹤",
+      "sector": "PCB/載板",
+      "sectorRank": 3,
+      "sectorAvgChangePct": 7.097838111635339,
+      "relativeStrengthPct": 6.879017346130139,
+      "sopScore": 57,
+      "sopGrade": "不追",
+      "sopFlags": [
+        "族群前段#3",
+        "相對大盤強",
+        "收在日內高檔",
+        "已表態突破",
+        "量不足需確認"
+      ],
+      "nextTrigger": "609",
+      "defenseLine": "578.5",
+      "firstTarget": "654.7",
+      "riskReward": 1.5,
+      "trendType": "趨勢表態"
+    },
+    {
+      "exchange": "TWSE",
       "symbol": "TWSE:4958",
       "code": "4958",
       "name": "臻鼎-KY",
@@ -5856,9 +5856,9 @@
       "high": 516,
       "low": 480,
       "volume": 52148852,
-      "amount": 26028295915,
+      "amount": 26596837915,
       "changePct": 9.904153354632587,
-      "hotScore": 96.34768740031897,
+      "hotScore": 96.35350318471338,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:4958",
@@ -5918,7 +5918,7 @@
       "sector": "PCB/載板",
       "sectorRank": 3,
       "sectorAvgChangePct": 7.097838111635339,
-      "relativeStrengthPct": 6.8452362565102,
+      "relativeStrengthPct": 6.855372866827709,
       "sopScore": 57,
       "sopGrade": "不追",
       "sopFlags": [
@@ -5945,7 +5945,7 @@
       "volume": 388361570,
       "amount": 17019797092,
       "changePct": 9.975369458128071,
-      "hotScore": 98.30940988835725,
+      "hotScore": 98.31210191082802,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:3481",
@@ -6006,7 +6006,7 @@
       "sector": "面板",
       "sectorRank": 1,
       "sectorAvgChangePct": 9.93817977856899,
-      "relativeStrengthPct": 6.9164523600056835,
+      "relativeStrengthPct": 6.926588970323193,
       "sopScore": 57,
       "sopGrade": "不追",
       "sopFlags": [
@@ -6036,7 +6036,7 @@
       "volume": 217908491,
       "amount": 13789563114,
       "changePct": 7.952624169690131,
-      "hotScore": 90.01906941266209,
+      "hotScore": 90.03150096926059,
       "price": 63.79999923706055,
       "prevClose": 59.099998474121094,
       "prevHigh": 61.20000076293945,
@@ -6087,8 +6087,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 4.893707071567744,
-      "sopScore": 80.95474186546595,
+      "relativeStrengthPct": 4.903843681885253,
+      "sopScore": 80.98289911634792,
       "sopGrade": "待確認",
       "sopFlags": [
         "相對大盤強",
@@ -6163,7 +6163,7 @@
       "volume": 31183324,
       "amount": 17204233478,
       "changePct": 10,
-      "hotScore": 99.06698564593302,
+      "hotScore": 99.06847133757961,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:3711",
@@ -6222,7 +6222,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.941082901877612,
+      "relativeStrengthPct": 6.951219512195122,
       "sopScore": 74.99999999999997,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -6273,7 +6273,7 @@
           },
           {
             "title": "【數報】盤中快報:3711(日月光投控)股價漲停鎖定在561.00元，委託買量402張。 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQazJqb3hSc2xacW5jdnNzZnc1d294WjUwb3VMZXl2MVZxR05XeHh6VE1uSkJVa2ZnaFdCeUV0SmFPcVNlcnRVeDJ3UmJTWmRZT19HUVJGXzhxbVRBVEdMR3dLZTI2MUNoNjRuQU14MkZBUFJDZ1M1TlFGMnMtTk16OVVseUt6ZjBOMlc5U25pN1c?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmxESXktTVRLYWF4ZzFEZ2xlWkhRZW42ZC12d2NYempPd0RBUW0xa21TdVZ4NTNoNTdsekVCZFktMFFNRDJvekJ3YU50SFNXYTc0a1psYW9vZmM3WGsyckRWVmhxZmNXU2t3akhMaFY3a1ZfZjVWU1V1TmllbUwzLXF4cTQtd3ZodUxTcjZB?oc=5",
             "pubDate": "Fri, 22 May 2026 02:10:00 GMT",
             "source": "富聯網"
           },
@@ -6296,9 +6296,9 @@
       "high": 963,
       "low": 906,
       "volume": 7730956,
-      "amount": 7302388626,
+      "amount": 7696639626,
       "changePct": 9.931506849315069,
-      "hotScore": 94.69696969696969,
+      "hotScore": 94.88057324840764,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:6531",
@@ -6356,7 +6356,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.872589751192681,
+      "relativeStrengthPct": 6.882726361510191,
       "sopScore": 71.25,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -6411,10 +6411,10 @@
             "source": "富聯網"
           },
           {
-            "title": "6531 愛普* - 愛普*法說會解析影片-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56WHU5WGNGbS1ITXdrck05anZkRXlZLTRhZ1lGUmZMVGxJRTZ2OUk1RzI3UURwRTAtSE1kQS11dGFPQUQxeVdtamFBWE50dmVZb1dOc2dEQzA?oc=5",
-            "pubDate": "Thu, 21 May 2026 12:01:57 GMT",
-            "source": "CMoney"
+            "title": "愛普*（6531）做什麼、法說有何重點？2026年第一季EPS達4.15元，IoTRAM強勁需求推升營收年增115%，S-SiCap量產佈局加速啟動｜股市話題 - sinotrade.com.tw",
+            "link": "https://news.google.com/rss/articles/CBMihgVBVV95cUxPbEx6SXVjQVJLdTZSQl9qNmMxMkhGdk1zMkJnbXM4QVFmUURZc0JKYzQ2eGZJb3pyR3R2aW5QVENfTElCc2xxRGpjWmd5M21pM2pqb3hYMU1KTDNiVkg0M1JhVUFwajg5c1VSaF9BVGoxVW5qUVBfcFZyeWVCVE9hYVcycGp3dlNzQXpjYm80OHFJUmVRSzVVRFp6VEUxVy11YXo0QTl5NFlsNHpNSXVTZFA5azRiVkQweExuNzhkZnJBajlfVHBEVjJONGU5Ul9hZU5HeDUyLUZOa3pRSXFQRGw3TDRZZlVwZS1xM2trV29oMC1MWDRoRHZ4UlBUWXBESm83M2JydFl1MHRnSkI5MnNmNEdPZVNvX2tYOGZWZ2l5aHMycUFUb3VHM0p0a0R6OG1Na09yWnplc1FKTHVjcmhLSzNYMk1jOEtSQkRjVlNGQ1ZWU2p3TS1XOGZIRTZaaGt5SG1wUXVfcDc2MDJ3cm50anQxVTQ2SVpCSGI4QnVfRDhzemQ3bnpzZmFPYmlyemktM08wVjZ0c1N1cEV2ZFlXdVJ2eGlIcFczRWNteGQwZ1puZGd6NjlNbnlCNGdSRzBMS2pHSFFHMDNPNUNmRmhvb2hNZXVaU2hON2pDNWlxY01jLVIybUVHc1VlNFBJbkdaWml1S280QWxlMWhPMXJ3cXZfa2ZYXzExV09mYUl1azhuZDRmR1JxeEpzM1gyMFRZWEwwWWNPbUpBRHQ4Vm5PQ08wc0ZiS0d0NUxfTG8tdS1UaDBPc2M5eGZ1blhmT21hSTE3cEx2cGtpSnVoZlJSVTRQMVBhUWt0cmxYdVd3VXpwYmJkN1N0MDRXRU1zaDZ5TWp3?oc=5",
+            "pubDate": "Wed, 13 May 2026 00:41:12 GMT",
+            "source": "sinotrade.com.tw"
           }
         ]
       }
@@ -6431,7 +6431,7 @@
       "volume": 60942350,
       "amount": 4068362077,
       "changePct": 4.212175728407831,
-      "hotScore": 77.80223285486443,
+      "hotScore": 77.74628450106157,
       "price": 66.80000305175781,
       "prevClose": 64.0999984741211,
       "prevHigh": 65.69999694824219,
@@ -6481,8 +6481,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 1.1532586302854435,
-      "sopScore": 70.56460730634845,
+      "relativeStrengthPct": 1.163395240602953,
+      "sopScore": 70.59276455723042,
       "sopGrade": "待確認",
       "sopFlags": [
         "收在日內高檔",
@@ -6556,7 +6556,7 @@
       "volume": 28968844,
       "amount": 15141364042,
       "changePct": 9.937888198757763,
-      "hotScore": 96.50717703349282,
+      "hotScore": 96.51273885350318,
       "quote": {
         "success": true,
         "symbol": "TPEX:3105",
@@ -6615,7 +6615,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.8789711006353755,
+      "relativeStrengthPct": 6.889107710952885,
       "sopScore": 70.50000000000001,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -6665,16 +6665,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "3105 穩懋- 光通訊磷化銦1.6T 雙雄奮起！！-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JY3BlQ0VZX1RhcnFtOEZoYzFSVlM2ZHBjYk5Cb09TWUtHRHlEczJhWjItNlM2ZHNUMWI0WkhhTW4yUHVSSUtCN1g0QV8tbU81bkpXdW1VS0c?oc=5",
-            "pubDate": "Thu, 21 May 2026 22:32:55 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "穩懋、乙盛業績看旺- 日報 - 工商時報",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QdnV2ckdWUk9malhJUVhUbWs5QjBhYXRXX3VIUGN5cEtPa0gwbUF6UmFhSTNROG9FUWU1YzIxWnFnZHBpZXFKYkc2YlhXLXdlSmdXUG1FZVhzSUNBYTJJ?oc=5",
             "pubDate": "Thu, 21 May 2026 19:00:00 GMT",
             "source": "工商時報"
+          },
+          {
+            "title": "【數報】盤中快報:3105(穩懋)股價漲停鎖定在531.00元，委託買量1158張。 - 富聯網",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0w1WWxwMm4zUEl6U0IyZTNjY0RXV19KSmV4YzYtTkJYRm8wcUQ1Q2FldGJpZG1fMzZsdjVRSnpmWWVpZjJwaklMZVdwOW5CU3pKRXNKdXdPemRGQ3dGTXlNdUxZNVhKaF9sbmlQMjdsZjJFVUhjZWlSdUZvN1dmSkhSa2prY21OdFoxUkhB?oc=5",
+            "pubDate": "Fri, 22 May 2026 02:58:00 GMT",
+            "source": "富聯網"
           }
         ]
       }
@@ -6691,7 +6691,7 @@
       "volume": 125173985,
       "amount": 8676078603,
       "changePct": 8.294933413900992,
-      "hotScore": 91.52445507708667,
+      "hotScore": 91.53750884642606,
       "price": 70.5,
       "prevClose": 65.0999984741211,
       "prevHigh": 67.5999984741211,
@@ -6742,7 +6742,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 5.236016315778604,
+      "relativeStrengthPct": 5.246152926096114,
       "sopScore": 70.37320612499197,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -6792,16 +6792,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "1802 台玻- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jX01ycWJEaW5FdnB0S2Zwczd1R01PYm0yQjY0ZXlaSXBlMzY1MjN5THB5ZW5lNUZsOGVfVDkwbUJSSXVlck50cmc3TXU1ZmdNRHdqV1VVUWc?oc=5",
-            "pubDate": "Sun, 17 May 2026 23:21:29 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "【即時新聞】台玻衝刺CoPoS玻璃材料 股價盤中大漲近6%站回月線 - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTBzYkd1bURudDlNVHgtY1R6M2FURXZHTVkxVU9veEhrQ1U0YUxMOWhvc2ZhVGVhMjZXdXgycHRCa0trdU85UjRiUmFTOFpJX0wyMlBaUDlqZTVPZ0lOY0dFenhZRFVxRllNRk1WczZhSll1SGFNZU1FVVVPbkp6dTYxVW95QWZ0c0xEUVVFMlQ?oc=5",
             "pubDate": "Fri, 22 May 2026 05:53:33 GMT",
             "source": "CMoney投資網誌"
+          },
+          {
+            "title": "1802 台玻- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手...-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jX01ycWJEaW5FdnB0S2Zwczd1R01PYm0yQjY0ZXlaSXBlMzY1MjN5THB5ZW5lNUZsOGVfVDkwbUJSSXVlck50cmc3TXU1ZmdNRHdqV1VVUWc?oc=5",
+            "pubDate": "Sun, 17 May 2026 23:21:29 GMT",
+            "source": "CMoney"
           }
         ]
       }
@@ -6816,9 +6816,9 @@
       "high": 1170,
       "low": 1110,
       "volume": 3287727,
-      "amount": 3793226080,
+      "amount": 4187276080,
       "changePct": 9.859154929577464,
-      "hotScore": 88.61244019138755,
+      "hotScore": 89.4187898089172,
       "price": 1170,
       "prevClose": 1065,
       "prevHigh": 1075,
@@ -6868,7 +6868,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.800237831455076,
+      "relativeStrengthPct": 6.810374441772586,
       "sopScore": 70.31235022439108,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -6924,10 +6924,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "高力第1季 EPS 6.54元 跳增逾三倍 - 經濟日報",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzYlNuQ3hseW5LUG5NR0pVU0NNdU95M2o2cFppMG5HbEdjRWZUMTlwRjRORERSWm9NX2RlVU9oSGk5WDc5UG9MQndwWVZYZmU0Ty1WdFhyaEh5d9IBX0FVX3lxTE4tcDE5bWxlSmpYZVo3am9wRFg0c2tfTnlMX0wyZ2dGVkhmOUpnZ1VUOTNzRElCc2p1dHJIWVQtM01vbzNBczNId1Q1Wl9Qakc0R0M4a0FOcjcwTXQ3UTBR?oc=5",
-            "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-            "source": "經濟日報"
+            "title": "8996 高力 - 很不給主力面子欸哈哈，拉上去又被賣下來，後面主力都懶得拉了-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03WkFycDV1encxenlSYUIyWnJ1SDNHOXJUdVh2a1E1VUFiZVBDbk1aUHpSaWxBZi1tM3BSb0ZpWXhzdGJpZ0dwZkphY1k2TkltZzA0b3VmNWs?oc=5",
+            "pubDate": "Tue, 19 May 2026 11:07:23 GMT",
+            "source": "CMoney"
           }
         ]
       }
@@ -6944,7 +6944,7 @@
       "volume": 76568242,
       "amount": 6063800555,
       "changePct": 10.000000000000007,
-      "hotScore": 95.59011164274322,
+      "hotScore": 95.59713375796179,
       "quote": {
         "success": true,
         "symbol": "TWSE_DLY:3714",
@@ -7005,7 +7005,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.9410829018776194,
+      "relativeStrengthPct": 6.951219512195129,
       "sopScore": 69.75000000000003,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -7063,7 +7063,7 @@
           {
             "title": "富采（3714）做什麼、法說會重點有哪些？Q1毛利率強彈逾13個百分點，Micro LED下半年產能到位拚營收翻倍｜股市話題 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQeXU4a2VuX001cDVGRkR4UVVGNnlzNDBzVjN2QlFNazdCNWVCX2REekY5OW8wWTlxbjk2OVRRMXJwV1RFeFVJV3F1SURhRVFTSWN6am9tNEtNUm43Vm1uOU0yRDVaUGJmNWJ6Yi1STGZiT25laTJKc0NqNFpibU9XUjBJQno2S3Ezc3ZNZTVNNzJYdy1Jb21kcElBbmljN3FlNXkzbFlxSkNkc3JlUDNYR1BzZGNsQnl3R3lmMlZfa2ZvU2FnelRPaVhfaXU5N1VYOGdUWllaS1RuSk9ndUhIZEFWUEVlc1h4aGN2RS1FS1J6aGF0MHhQSnp5MlRUQVJSOGZJVGVGdmFRemVONThlUWdqMGRLS1ZjVDRsVEh4SGVyU2gyS05VZ2dtcm10YkJSSkNraHlqcTV5YXdDRGhOc3kzQkdBZ2FtTGNFSzNsWjJCeVBrQ1JZRjJheDNZXzBaVXFuRnF3czdIcEo0eDRjOG1SbFlGbThDam9tXzYtaG5yVk9yTVFPWmhBVl91RWxiSVpPdm5fOXQ0RlpPaERzMllKXzhzeHBmSlhvcTVtRkNyQUtjQ0lsTVRkcWVrcWtmVWRER2lFOEkyTGN3OVhhRGt4Zkp3VWlaSVd6UXdYdV9MamlRSGI3OXBOQUQ4cEFpY0hKYTQzRzJTcmRyWmppMVR1YkMtdw?oc=5",
-            "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
+            "pubDate": "Fri, 08 May 2026 10:45:29 GMT",
             "source": "sinotrade.com.tw"
           }
         ]
@@ -7081,7 +7081,7 @@
       "volume": 21845832,
       "amount": 3245845704,
       "changePct": 8.633093525179856,
-      "hotScore": 84.61271756466265,
+      "hotScore": 84.63514261977292,
       "price": 151,
       "prevClose": 139,
       "prevHigh": 139,
@@ -7131,7 +7131,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 5.574176427057468,
+      "relativeStrengthPct": 5.584313037374978,
       "sopScore": 66.8375299760192,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -7207,7 +7207,7 @@
       "volume": 355174,
       "amount": 6057615110,
       "changePct": 8.150851581508515,
-      "hotScore": 89.585326953748,
+      "hotScore": 89.60191082802548,
       "price": 17780,
       "prevClose": 16440,
       "prevHigh": 16825,
@@ -7258,7 +7258,7 @@
       "sector": "矽智財/IC設計",
       "sectorRank": 6,
       "sectorAvgChangePct": 4.919964276722819,
-      "relativeStrengthPct": 5.091934483386128,
+      "relativeStrengthPct": 5.102071093703637,
       "sopScore": 66.20610367892976,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -7284,7 +7284,7 @@
       "volume": 36786051,
       "amount": 2663671825,
       "changePct": 4.285714285714286,
-      "hotScore": 75.84201144572661,
+      "hotScore": 75.87813787935556,
       "price": 73,
       "prevClose": 70,
       "prevHigh": 72.19999694824219,
@@ -7334,8 +7334,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 1.226797187591898,
-      "sopScore": 65.1477756146661,
+      "relativeStrengthPct": 1.2369337979094075,
+      "sopScore": 65.17593286554808,
       "sopGrade": "待確認",
       "sopFlags": [
         "收在日內高檔",
@@ -7359,7 +7359,7 @@
       "volume": 112650396,
       "amount": 16848938310,
       "changePct": 6.028368794326241,
-      "hotScore": 86.40350877192982,
+      "hotScore": 86.41985138004246,
       "price": 149.5,
       "prevClose": 141,
       "prevHigh": 149,
@@ -7408,8 +7408,8 @@
       "sector": "記憶體",
       "sectorRank": 4,
       "sectorAvgChangePct": 5.631713448453927,
-      "relativeStrengthPct": 2.969451696203853,
-      "sopScore": 64.9845880450107,
+      "relativeStrengthPct": 2.9795883065213626,
+      "sopScore": 65.01274529589267,
       "sopGrade": "待確認",
       "sopFlags": [
         "相對大盤強",
@@ -7460,7 +7460,7 @@
           {
             "title": "Factset 最新調查：旺宏(2337-TW)EPS預估上修至13.63元，預估目標價為183元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DTHJVOTdHdWpSTnpTcW1ZV2p1UDB2WlptbEQ3czdSYWZTZGNmM0g3T2ZFbF8zOGhjbXhaLW1DeVVIZ3J4Ym14TlIwRnhtOUhUcDZ1bDNWaDJRV2IyellYakVscTJaQ1N5ZlNsN3VTaXhub0FLLWc?oc=5",
-            "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+            "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
           },
           {
@@ -7484,7 +7484,7 @@
       "volume": 5600890,
       "amount": 2324781115,
       "changePct": 9.960681520314548,
-      "hotScore": 87.32057416267943,
+      "hotScore": 87.3407643312102,
       "price": 419.5,
       "prevClose": 381.5,
       "prevHigh": 381.5,
@@ -7533,7 +7533,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.90176442219216,
+      "relativeStrengthPct": 6.91190103250967,
       "sopScore": 63.25,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -7559,7 +7559,7 @@
       "volume": 2165696,
       "amount": 1626595967,
       "changePct": 1.0810810810810811,
-      "hotScore": 54.9298245614035,
+      "hotScore": 54.99309978768577,
       "price": 748,
       "prevClose": 740,
       "prevHigh": 741,
@@ -7609,8 +7609,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -1.9778360170413065,
-      "sopScore": 61.86712217488526,
+      "relativeStrengthPct": -1.967699406723797,
+      "sopScore": 61.89527942576723,
       "sopGrade": "待確認",
       "sopFlags": [
         "打底轉強",
@@ -7634,7 +7634,7 @@
       "volume": 6013222,
       "amount": 2513013044,
       "changePct": 9.895833333333332,
-      "hotScore": 86.27591706539074,
+      "hotScore": 86.29777070063695,
       "price": 422,
       "prevClose": 384,
       "prevHigh": 389,
@@ -7683,7 +7683,7 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 6.8369162352109445,
+      "relativeStrengthPct": 6.847052845528454,
       "sopScore": 61.25,
       "sopGrade": "待確認",
       "sopFlags": [
@@ -7759,7 +7759,7 @@
       "volume": 5641331,
       "amount": 7536327845,
       "changePct": 3.501945525291829,
-      "hotScore": 75.58612440191388,
+      "hotScore": 75.52813163481953,
       "price": 1330,
       "prevClose": 1285,
       "prevHigh": 1305,
@@ -7808,8 +7808,8 @@
       "sector": "PCB/載板",
       "sectorRank": 3,
       "sectorAvgChangePct": 7.097838111635339,
-      "relativeStrengthPct": 0.44302842716944113,
-      "sopScore": 61.09174563102623,
+      "relativeStrengthPct": 0.4531650374869507,
+      "sopScore": 61.119902881908196,
       "sopGrade": "待確認",
       "sopFlags": [
         "族群前段#3",
@@ -7884,7 +7884,7 @@
       "volume": 695476,
       "amount": 2356373840,
       "changePct": 1.6417910447761193,
-      "hotScore": 62.10526315789474,
+      "hotScore": 62.15764331210191,
       "price": 3405,
       "prevClose": 3350,
       "prevHigh": 3495,
@@ -7934,8 +7934,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": -1.4171260533462684,
-      "sopScore": 60.42464985181592,
+      "relativeStrengthPct": -1.4069894430287588,
+      "sopScore": 60.45280710269789,
       "sopGrade": "待確認",
       "sopFlags": [
         "止跌訊號",
@@ -7989,8 +7989,8 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "【即時新聞】精測4月營收5.23億元創歷史新高，年成長30.2% - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObEhMOEhrV0xqaE1TTXBVNmg2clBETG1hZHA2QnNQQXlTQnNzdU5TZTMzc1V6ZEhJbGxNX3lyTEtjOXV3dmx5TWtNb0dpekVuT0dLNG1ZQTlwRGRVMHdzM2FnZHBFeU9kOG55el9ONmdCcEZNYnEzclg4MXNLMXRfdzJnTndkQTgzM1B1TlNaWlc?oc=5",
+            "title": "【11:21 即時新聞】精測(6510)攻上漲停3780元，AI測試介面營收創高帶動多方回補＋短線脫離均線糾結、留意籌碼能否跟上 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2RyNXliWHFUeTdnRXR4dlV1U3V4c3l0RFd5NU1kblFtWW1MSzVqUHk4M2RYeFlNQnZqazhLRm16djh6TXhqVnZFb0hpZ0VPc2dVMnA1emxfTEJtNi02SGtLUXd0WWpHNElsNVMzdF9TVWVpNlNvRFJaWWtzYjZvQ1Roa1JzTFN2Z011UUtn?oc=5",
             "pubDate": "Mon, 04 May 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
           }
@@ -8009,7 +8009,7 @@
       "volume": 3031931,
       "amount": 15188295575,
       "changePct": 6.7164179104477615,
-      "hotScore": 88.09409888357257,
+      "hotScore": 88.10858755168175,
       "price": 5005,
       "prevClose": 4690,
       "prevHigh": 4785,
@@ -8058,8 +8058,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 3.657500812325374,
-      "sopScore": 59.52083558979271,
+      "relativeStrengthPct": 3.6676374226428834,
+      "sopScore": 59.54899284067468,
       "sopGrade": "待確認",
       "sopFlags": [
         "相對大盤強",
@@ -8084,7 +8084,7 @@
       "volume": 70108281,
       "amount": 10098281418,
       "changePct": 3.214285714285714,
-      "hotScore": 78.5057048214943,
+      "hotScore": 78.53625673689369,
       "price": 144.5,
       "prevClose": 140,
       "prevHigh": 141.5,
@@ -8135,8 +8135,8 @@
       "sector": "AI伺服器",
       "sectorRank": 5,
       "sectorAvgChangePct": 4.367712086907292,
-      "relativeStrengthPct": 0.1553686161633263,
-      "sopScore": 59.04269060045368,
+      "relativeStrengthPct": 0.16550522648083588,
+      "sopScore": 59.07084785133566,
       "sopGrade": "待確認",
       "sopFlags": [
         "收在日內高檔",
@@ -8160,7 +8160,7 @@
       "volume": 1835534,
       "amount": 1511412786,
       "changePct": 3.25,
-      "hotScore": 64.15470494417863,
+      "hotScore": 64.20744064852346,
       "price": 826,
       "prevClose": 800,
       "prevHigh": 804,
@@ -8209,8 +8209,8 @@
       "sector": "未分類",
       "sectorRank": null,
       "sectorAvgChangePct": null,
-      "relativeStrengthPct": 0.19108290187761234,
-      "sopScore": 58.707151067444386,
+      "relativeStrengthPct": 0.2012195121951219,
+      "sopScore": 58.73530831832636,
       "sopGrade": "待確認",
       "sopFlags": [
         "收在日內高檔",
