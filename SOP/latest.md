@@ -1,6 +1,6 @@
 # 今日短線觀察池
 
-產生時間：2026/5/23 14:18:18
+產生時間：2026/5/23 15:10:41
 
 市場基準資料：2026-05-22 官方盤後行情
 
@@ -323,87 +323,115 @@ HiStock 2026/05/22: 外資 8218、投信 -92、法人合計 8406; 3日合計 100
 
 ### 2485 兆赫
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2485）
+HiStock 2026/05/22: 外資 6169、投信 -4、法人合計 6655; 3日合計 4623
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2485%20%E5%85%86%E8%B5%AB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [【12:43 即時新聞】兆赫(2485)股價上漲逾6%，衛星與通訊題材買盤迴流＋回測支撐後技術面短線轉強 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWduY2VWRWk4SDltX0lENDdJZm90R2NwdmpfYWF2QzdTc19CS2FNTU5OcHllUXc3UnNSVUxYSFZKSnpwcjhaNi1XMWFLRGZ5UVJhamV5YzNsclU0VUV0WXViRHJReHZZaTRySWlFdlNMR0tuZmhMazI5TU43Z3NSUzA3VDdNRmJ5TzNRX1V3?oc=5)
+- [【數報】盤中快報:2485(兆赫)股價急拉至74.50元，拉抬幅度達到5.77%。 - 富聯網](https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0hqejYtTHFSMlVreDBWWFpxajBkdGlsZTRKdTViZnE1MW9MaUNjV3JQQmxkZ05fNU93cGJFaGprZ0pwUktoOS0xbDVkdVBueDN0MHR6UVBTcGM0U0drbm0zcG51dlgwUkVBc0FyX0wzajVjdy1qbGtfYjlHVTNWNzFBS2tJZ0ZkRHlncE5B?oc=5)
+- [【即時新聞】兆赫3月營收月增63.7%年增200%，首季10.45億元創2023年第3季以來新高 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wUHUzRDlCN0RrWUdMU0NhTVViN3pId2VKZ040dnJaRi12TTRzTjRzVWZyeVliWV9jSEttT0pfRDNkU2QtdGsxYk1Fc3hQbGtVSXZCWEQ3OWY?oc=5)
 
 ### 3030 德律
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3030）
+HiStock 2026/05/22: 外資 392、投信 0、法人合計 542; 3日合計 -33
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3030%20%E5%BE%B7%E5%BE%8B%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [【12:25 即時新聞】德律(3030)亮燈漲停至381.5元，AI伺服器＋半導體檢測雙引擎推升評價、短線量能回補搶價強攻 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYy04cVBOVzJLeUM3c1BWZHR2U1RaUXhKOEdtNG81Q3FjTTZTYmRhZ3ZRTVdES0duakozeEg5SS15UEhhcXNTM1hWM2d0MC1ZVWtGM2VnM3ktZmM2Y1NWejA5WlYxdEVqczlUZnpIWjhFbWxNRU13Y28tVk9meEZRNVE4M252SUtMQ0NxeTZB?oc=5)
+- [德律衝半導體比重- 日報 - 工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NN1hGTmlEa2tGQzk2ZW1RTlhTcXBoOVVYOVBrZDNTejRDWlY3X1lKSFdPQW9TOUJXVHdSVU5oZjNIU1NiY2RkQzJhSUtuTENNWFJHd2docTVkM2JVUXFZ?oc=5)
+- [德律（3030）— AI時代被重新評價的隱形檢測王者 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE93bWtYc0tsXzVLa2tGSmNtbl8wUjdVUzlVeFFQZlVhS1VMSTNfempwSXdJdWJEV0tBV2QtbTF2Q0sxZlhqYm9qT0tnMWNHYkx1Q3VwYVdEcmI?oc=5)
 
 ### 3293 鈊象
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3293）
+HiStock 2026/05/22: 外資 162、投信 464、法人合計 637; 3日合計 966
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3293%20%E9%88%8A%E8%B1%A1%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [3293 鈊象 - 外豬就是這付操作，買完隔天馬上砸盤~-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JTXpSeENLYm5FZVhBaE1FV1g0VDRWeTBwV1VNd1J6c1JnRU5mZ1dCWTNSUU53YTFsNE5lQjdDZi01QmRPd1FNNnRXWVFKREZVVmNteDRXYUQ?oc=5)
+- [鈊象第1季 EPS 11.18元 拓海外版圖 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE55WnhFandQSnF3eU1DU0RlNHpWRGt1aGFEZ0RCRlBYcUMybXU3ZVNqY3R0NlM4QWdfY2tRd3daeWJPR0xjZ2xrTlZNVE8zSXBw0gFWQVVfeXFMTjJqRFEwQXZyWEptU3ZITnBhYjk0UU9xOURiQ2dzOTVQNTBFSmlrVVA0aTlhMGNCWGpXejBwVm1VNFJXSTd1T1Y0VXVSVmp5T2pZYzIyenc?oc=5)
+- [【即時新聞】鈊象(3293)股價跌至703元，投信連續賣超壓抑短線動能 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3RaSEotWXplV1BLRWdkS1UtM1N2MmlPQ2E4RjF6V05tRzI2eThxWkM1X1ctaGZleHk4UnMzbUN3ZlBnNU9pRk03WkhlVE9jelFoNDdDX014RWdBcVZleVpYUWMycEIybFVONEhQekRSYWx5cVFkWFk5bExRRmFIemVsOWRnaVZPaGRMMk5fY1g?oc=5)
 
 ### 5274 信驊
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=5274）
+HiStock 2026/05/22: 外資 77、投信 -36、法人合計 41; 3日合計 94
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=5274%20%E4%BF%A1%E9%A9%8A%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [三大法人買賣超 – 外資買超(5274)信驊、(8028)昇陽半導體，投信買超(2330)台積電、(2327)國巨*，法人合計賣超434.5億元 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMi5gRBVV95cUxPd1FNRnJUSnVuTlJmYk4wRW9xOE5vUXQwMW1mX2ZYVWhURFJ5WmNSbGdseG5yTlRtcDZFdmpQVERZVzYtNkUtOGIxTWRQYXZMUmp1bVNfZTNacm4yNmtHM21GOTlIaUM5QUpDRWFEdTFtQmRpdXVTelFmS21JYnpHc0dodU5ub2pWRU1nNG41N2RsaktZOXZBOVMtTmxHWGk2OEY3ZkFZME5SRXFEelNCSEFPQk5tbmxRb1NJeXlyMGwyWFFrM2Jwb3pZaUtDalR2QlhxZVp2aDNvRjVZVnNNWjZrMUx1ei04Ymk5ZEx5WmphbDdMVldJejJBV0V6TGlvQ2ZZeFFsUmtOZ2F6Ym9iNnNsY1NKTlVoSFE2TFNPY0xFalJFcFFpREpjYXRBWjU3dE9PdmoxcnR6bk0xcDhBbzBKUVJkXzFNSmxNMGNQSzVGcXRSbE5xQkRIYTlockVoa0FuYkpDQTRZZkphTS04OFk4S1d1cmZZVmNHNEQ1bkpXcXNsc0dBdERlcFZsS2hneGViLXFwNFdwT2ppVFRkVEFGTkVuLVFjM25kRDVPVTJsOGxvR0xLaG1YZDE0UXNzb184RDFLaVM0WXh4YVJ0MWdvRUd5aEFPcW5qVnl2OHlreTVIZ0xoWm9FaHVmdFNubHFYQnVRVVJRZU9ETzJpUjZrZ1ItNVBLN0JJWEYzTWlwSDZuN3ozV3RnaHRCUTR1QzFMUHplSGR1VDlGWmxKb21tbTBMNDhYQXVGR1BFdTBwU3p4WFVoVzhsY2k2Vy1teGxUV21TVHZQME5oNUkyQTRxUHdnQQ?oc=5)
+- [【即時新聞】信驊最新營收年增63%連創高，股價飆破萬二還能追嗎？ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRkhrV0poWlFuVHZ4UjFsT2R2eUliSlh5eW9iRlVkT3NNTlVLVm4zbVU3WW1PYTNSa1ZUVWRSMG4xUmVzVUota0VrYWlIVGdXTzdENWlJN01DMzdkS1I1Q0J1Wm0wbDFGTlhjLUY4aFB2dF9pWjRvM1pNY2xqTUFXYjZkTjRBODNYb3pFV0otbXI?oc=5)
+- [【即時新聞】信驊今日股價創台股史上新高，外資目標價上看7,500元帶動高價股行情最新 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE16VUpmVHNsTjVEUFZheXZBZDAxWnljeTJRX0NMSFVUOVRCeVJTUlJ1dXpXeFlrYVhFVnltZU1EZ015eDRWS3o4cE5OZmdaXzBoSnVNRk9YOHE?oc=5)
 
 ### 3231 緯創
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3231）
+HiStock 2026/05/22: 外資 32968、投信 -202、法人合計 33721; 3日合計 57192
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3231%20%E7%B7%AF%E5%89%B5%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [【即時新聞】緯創(3231)爆量急跌逾5%！資金輪動，這「2檔概念股」逆勢狂飆！ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGN2dzdwN0RYZ3ktOV85RTZOSVRBNjVhYUFrZ1BrQ3pmUGhUd3VkOFJtdmVPeExyRmRUSnRYTklmMGxmaUYwZ3EtY2JZTVktNzVVaEtVWEZOeERYVlZLRVlfLVRqUG51dld2alVjTnE3TjBlUV84NEYzZ2hESzgyb1hHMktvTVNmdTNyaXgxOVA?oc=5)
+- [Factset 最新調查：緯創(3231-TW)EPS預估上修至13.34元，預估目標價為190元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE5pV1loT0kzRktNZFVZaWNnVGZfenN1TkprTkxtTE5DYm9HWE1uNDZ3QjZtU2ROWEE4anB2Q1RGejFhSFBlMGtwMGZBdzJYMUZWNXNUMFBFMmVXTi1XbVpJeVAxSU80OEtEN1IxZzc4ckxKM3g5bFE?oc=5)
+- [緯創2月營收「遠優市場預期」！網喊「股價委屈了」...分析師看法出爐 - Yahoo股市](https://news.google.com/rss/articles/CBMixANBVV95cUxQWFNjX0RqcGl0VS1kWlNDWE94TFh4NDZOZ2pzbEE2cEs0Wm5TYWdXUGl3X1F3ZVZaRHFfcENTNkVYYlVYaWotSmM0NTBBQUk3bnV5dUxuWkM2dHFjekh0elg2aThnZC1DSDBid2pCVENZZ0Rqa01LVm1CVThtTWdFWDJkYUs0TFctRWFCZFFlNXhYRVAzd3FyX2dPSGZPNlZ0Wi1FRldfMHQ3UW5MRU91X0xYOUlJd1lwaVlXMW9hSDlycjBhX2d3c010LUlKaGl3ejF1U1ZIYzNZR2ZjSy1zMmtSLTBnaGZEX2huMGhKa3B6U3dHY2swMklGdGdSR0lHRDY5bENZbERfWjFHT1J5bnRQS3BBWHNKQjJGTUxkOXpsVE9pQXNSOVRLT0pZV0lRVzJLZkM0R3lNS3BMUDNITGtJWjF4SURfQmVEak01SDVpWE05d20wLXUtZHpHSFhWRlhwM2Zkc3NtdV9EZU5oZ04tUlE5OFkwWFlIdDVnTGdGc1FtdGVaVW9FQnNPeDd0WDFCX3hMR1h3VlZPR3NYNXVORzlfYlpQWGtnMWtFbktFX095aTl4YXMyeHM5eWZ4b0VBSw?oc=5)
 
 ### 8112 至上
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=8112）
+HiStock 2026/05/22: 外資 3681、投信 -3、法人合計 3482; 3日合計 3219
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=8112%20%E8%87%B3%E4%B8%8A%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [8112 至上 - 各位至上高手 今天外資拉上86去撞上面的套牢區後 放手滾出3...-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoaVdtRUxyYWpsbXNGVjFKTGY4UVNVbU9ncnNfUk9aclQ2eGEwTDgtdENhdkZkRF9mQ2lIbkVfOFY0LVMxOHY0RV9sX3ZhZWh0OTZhbjdPcXQ?oc=5)
+- [【即時新聞】至上最新首季大賺3.91元，獲利挑戰一股本還能追嗎？ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmVSeXFsVGRBTUVrTUlmRl9Fb0txeTNZWGFVaTIxb2sxbjhuWUVoVTAzMkgzUWlpN1FUOUxfSjFJTXNlUGYyNFBLdFV3MEVocXk4YmZjRjRZdkw2VzZsNjJ0V1otR25hNm5tVW9jVHVMb29fdmpRYXVMbFBtRXYwSlVjSnlEYTRKQlloWWhXUEk?oc=5)
+- [營收速報 - 至上(8112)4月營收350.61億元年增率高達55.96％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE0zRGI3MUhxZ0RBcmdfbTVjRVNxSlVlZEsxT2N0bklndWdkRW9HNERSNHhhMXFqWGEtb1cxblQ3WlVKU1FwZ3I4UGQ0MWV3Q2R6a1JHUmZQQTY5d3paUU1PYkZvcWVZMV96dUp2YW9IVzVPdkpERkE?oc=5)
 
 ### 2618 長榮航
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2618）
+HiStock 2026/05/22: 外資 -9328、投信 10954、法人合計 1644; 3日合計 7422
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2618%20%E9%95%B7%E6%A6%AE%E8%88%AA%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [Factset 最新調查：長榮航(2618-TW)EPS預估上修至3.84元，預估目標價為40.5元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTFAwdF9kbTduLWlBYVVzUTM3c0VIS1dZWEtFMG0zenZaT0h6eU1LZWlHSkQ4bGRCeHhDLU82d29IdjY3aVNvaHBVQVo5UllXS190VDBBal9CcU5LZnB4dzA3X09NOUl6eWlSUUlxOTJiM0F2SVJFb3c?oc=5)
+- [【即時新聞】長榮航4月合併營收219.69億元年增18.89%創歷史新高 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3RSaVZwQTBJN0xWdFJsUFFVRHZDNmFSek5xNEFTd3ZwZjI0MHB6OEpYbDJuOHU1R1VxdXlzLTFrSU5MTE92dVJJWmRmSFhZYzBJSTdkalYyMjJxaTh6MmtXWEwzSS1ZWmJtb2NnUk5LQ2poTUczYWRBUTNYSWF3T3NUTVRPMHpQQVozUFR0Zm0?oc=5)
+- [【即時新聞】長榮航(2618)遭外資重砍逾5萬張，股價一日跌近4％ - CMoney](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZ2VkRHlEYWpwSUV6d0FNTldkZEp5Smo5SU5OUndXbE9DZ1pPeDNzWUVpRVp2NUhVRFZXTkdKTjJ0QUtXS0Rkaml6N2V4MUVORmhJc1QybFViYVdGdGpPRTJsbUpWanM?oc=5)
 
 ### 1717 長興
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=1717）
+HiStock 2026/05/22: 外資 23654、投信 540、法人合計 24337; 3日合計 47961
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=1717%20%E9%95%B7%E8%88%88%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [【12:52 即時新聞】長興(1717)亮燈漲停至79.9元，受益營收連二月走強與半導體封裝材料成長題材帶動、壓回後技術面短線轉強吸引資金迴流 - CMoney投資網誌](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUXRXRFBCM0NqS3YyckpKd1NBOWMyZ19sRmlCYXZ3V3BiY2wyT3FkN2t2VkM5N2ZzYlVBZ0tWNVRZdk9hTnRLZnBfV2VwQ3ZNMTM0ZTdZUVVqM21fY1pXdTEzdkpweHR0RUNaQzlQcWdfVHVYNmM1VVRFNjk4RWZneGo5YkhNZzFUcXJTczRuRGhoYkpHVHlxOVJCNG9iWXd3Q2lObzN1SVBGQVlLVV83MDlBUGFJUVpNbk9XdTZUMkU3MEhkS2tObDlxeV9ac0E?oc=5)
+- [1717 長興 - 下週會突破箱型整理嗎？-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2eG5OV0ZwRWNjbnhlNVdnR1piUVVyMk11cTlVdWdzeUFZMzkzQXJ4UXo0MGVfUVdTbHZJSC1EWXJlaFNMalVIaHNZSjluY1BKbnRnMVY1bG0?oc=5)
+- [【數報】盤中快報:1717(長興)股價漲停鎖定在79.90元，委託買量9張。 - 富聯網](https://news.google.com/rss/articles/CBMihwFBVV95cUxPalpxVjVfeFRXWWc0RG1Cdkk5YjVQN1p0dEhwVFg0dWxlQVFDa2hBVkc5MFhBQnNPbWVKUV9tdXNJLUlEN09oQ1YyR3pKeTU1S2FMeHlTNm5XU05yVFdkUjZmWXJkMkFTLW01V0hwSTBiVFBWNXJqRVQ2UHA2cWRTcFVUS1FjeFU?oc=5)
 
 ### 2383 台光電
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2383）
+HiStock 2026/05/22: 外資 271、投信 231、法人合計 504; 3日合計 1029
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2383%20%E5%8F%B0%E5%85%89%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [2383 台光電- 【最新消息】真的有520行情嗎？「10檔概念股」搶先關注！-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE55MDNkaFljUWdPMk9iQ2htTmY5MFI2V213TlMzUkdGeXpfcGROT2JnRXFDWk1DLWhnZm1YSDlrUk9LWkt4Ym40MmVWUXhtbDRlcXVZYVFRWDE?oc=5)
+- [Factset 最新調查：台光電(2383-TW)EPS預估上修至83.94元，預估目標價為5115元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE1SWmtQMHdlRXVuNjhITFNjT0E1bThycVBtUEJYSTZmNVRqNnFXejhmNmlaMVhpaWJtdXBsR182ZWpxZnRQYzl6dnJsNTBkYlNRc2lIcFZDUlM2Y1B4c0xHb053VXJpQ0hNaHZQYzAxXzk1bnN1dmc?oc=5)
+- [【即時新聞】台光電(2383)列注意股大跌7.61%！多空激烈交戰，散戶還能追嗎？ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxPTXU4X0xUWjlISlB3dHhKSFFnR1hHOVlkTkpVVVFYZ0s4U3dRaGRVbzlZWTFNSmhjdFB4YjBFcmNIM1FUNWxEUUtwcGhjMzd2ajFleDRzQkJhcmJ2cHRmcVRmaW5ENWFtNXVXVVNiTGVzY0xNNUpMMzJJdmlMM3l6OVlQMm9VVEY5MDBQVl9PbGM?oc=5)
 
 ### 5269 祥碩
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=5269）
+HiStock 2026/05/22: 外資 215、投信 143、法人合計 418; 3日合計 974
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=5269%20%E7%A5%A5%E7%A2%A9%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [5269 祥碩- 祥碩法說會解析影片-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yY2ZZTnF6aS14S0p0UkZ2aWlxeHE4WHRXdF9hS19LTzNOc3JnbGJacmJNRllpZ2c5UHJNdHFMVGtTUllpTWFaVHNPTkFHbnJta1pFWW93c1I?oc=5)
+- [【11:35 即時新聞】祥碩(5269)股價大漲逼近漲停，Q1獲利創高與法說會題材發酵＋均線多頭與法人買盤支撐 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUthMkNSMjNZbC1zZEJreUFRTjQ2dFRHdXZFVVFXY0JNTVJnelU2a0xNX1VxSlBlWkRJTndLZWhOelZTdHd5anRZSEtSeGhnX2xjWElSM1liay1pWmRQRG5tTEJrcVpFZU0xSXBXSGlTTFJxQjhxaVhUODZiTmV1eWNlOThjbTg1N0Y0UnZR?oc=5)
+- [祥碩營收年增80%卻遭市場冷落？誰在默默布局「連接霸主」的下一波行情？【豐學PRIME盤後精選】 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMipwRBVV95cUxQZTJTX2ZRNWtUQmlpUHdydEE3VVJpUk5MZ2NLRTJQVTN4V0lpdXNtT20xSUtxUDYtcWZzeHhjcTNRazZmTmtZMnNBX0FZRVAtZFNrTDh6emMtUHRyZndqdk1GWE13U0JNTUdyZlhfeWdEN3pidFFyaVRUZzk5eVFzMUFYSFhGbS1ldVpHR0U5TFBFUFVLS19BcG5zNkJlNnl3TzZFUWdGeTBFaENmQVZhckV6cDNDalI4aXZLQmpEWkYyRE9yMWV5V2VfVF9vTUtoYXo5UmZZTTBObXVzTU10S1RiTUpDNS1qUF9zQ2VlSmp3Tzlvc1JlcnA4UExKd3NQb0t0dmg4V3V4dHBfeEZwODA1Rkc5LUdEbEZDenNzYkpxU0hkNXl6amlBNkFiTXNuN0VMX2xEVkJGSFgycHM2SFQtOGpLdEl6cnJJQXFhaWVaRnR2c0ZyaHg4WFY2Ykd1ckEzX0JGdlpQTXY0dFNnTW5Ca3dkczlkdm15WHBBdGpfcXc1OUl3dFZJQkRiUnNMZXZmOUdFMGdUakdQd3ZlMmVfWG9pcS1ZamExTXBKU0x5cTZmQjBWaU9RNXRId1VFSXBPT1hoNnZ3ZW9LMzFGZllTaTRObkdjYzdsVFNleHZKXzlnNkpTMlJIQVZpYlBTOXVaOVR0Mk5aYmFHR3l3YXJVaFNrWnlhdmJvR09JdUhGZmxPNV9SNTN6aG5CeHFwZ29wdWxfbw?oc=5)
 
 ### 2887 台新新光金
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2887）
+HiStock 2026/05/22: 外資 -28739、投信 29606、法人合計 550; 3日合計 26523
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2887%20%E5%8F%B0%E6%96%B0%E6%96%B0%E5%85%89%E9%87%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [2887 台新新光金- 5/19 外資買賣超-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tRldObEw4MUZ3WURrZ09SbS1Dd002N3FMWDZjb0VlRWVIaE5JUGlEMjVzXzlBdk10SHRWVHJQOHRQYUJYQy14bzJldDFRcGtJb1FmbHVnZXQ?oc=5)
+- [營收速報 - 台新新光金(2887)3月營收129.38億元年增率高達1118.75％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTFBwUURONjVYb1BXQ083dzFxTGVGLTVPM1VRZV94RENXTTVNR25HMGtSSGZDQVVYUlY3WU5xdEdZUGRSdURoUE1KRVQwZXFUa2hJNHF2Q1lyMk1aSGFaMnJTV2d3NHo4cTFLQW43NE5TdVFuS0gxckE?oc=5)
+- [【即時新聞】台新新光金(2887)獲利飆 454% 股價創高，這「5 檔金控股」買盤點火！ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXp1VDlSR19kUFdxNkx5QmRrdEdZVjRwREhhMWtqazBVLUZwWFlXQXJCeFVSVk16SFFTQ1N5OV9pVEhIcTc3UlpIV1pNemhwZzd1R0plVFF1b1A2Q3Zkb3k0YVdEa19ZMmdlNm8yVmxGLVBGSTdZc0lEeE5IM1JocWM2a256N01UVDY0QVN4QmE?oc=5)
 
 ### 2330 台積電
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2330）
+HiStock 2026/05/22: 外資 733、投信 -465、法人合計 456; 3日合計 -7494
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2330%20%E5%8F%B0%E7%A9%8D%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [台積電（2330）、0050回檔新手崩潰！網安撫：反而是加碼機會 - UDN](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UaTZQSjladFJEVlkwalBleFNuaGZUOXZJcnMtS0dRZW9wcFpraUZpTjl2MXZES2FTMGtqLVRLVHppTjlKYU80XzR2Si1FemxxMERj0gFYQVVfeXFMTXJaZEtUZHlvRXRybUdEb2hndHVPRE9WMHo1bHFuSkNQY0pLOTVfc3hXOFMxZXBTVmNwZ3pzR1VmelJvTkpPczFNRF9ISUxfSnFJOTF2V1dGaA?oc=5)
+- [【即時新聞】台積電(2330)列入AI相關族群 市場持續追蹤 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFJJU2Z1dzY1em5ULVRBZEt6VzVuNFJ3d1ZKc1prX3EzQVlCa2p4bHY4OTZFUXBab0tyMndmVVY3TEhFbm5ESEJCREFkbkEwa0RsN2MxUDJNazJvRzUwelhTbjMwZi1FbFJBeW4ydXA5NkVhNElRZ0ZmUXBMSUxwbzlpdE42c0VuR0xfdVBLcDI?oc=5)
+- [2330 台積電 - 【最新消息】台積電點名智慧眼鏡，「8檔概念股」搶先關注！-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE84cGtmNW0zeXhLLXVUTGxNUUJEdmVFS2VQMTFxY3F2LTBKTGxtR05UWDc2WWJyaWtNVHQtOFZTd2tCS3J1cXBWemZvSVFwYUdCM0RseXUzY3Q?oc=5)
 
 ### 2882 國泰金
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2882）
+HiStock 2026/05/22: 外資 27782、投信 -22137、法人合計 5782; 3日合計 7799
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2882%20%E5%9C%8B%E6%B3%B0%E9%87%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [【即時新聞】國泰金(2882)公布5月信心調查 樂觀指數升至45.5創史上新高 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQd2stdFdmMGVnSU8wdEowbzRnN1VOWWZ4NFhnZnB4NTNuQTNkdHJXNHN6Y05ENUZDdjV6VGV6OHZCWFNCQjA2di1yOF9ocDRwaUV2NnBtYjNsUXpaeExka1dENW9WOW55R1g3UTBvVUNqNHFIblZNTkhyb2ZqX0Qyd0R0ZkNpSUpHQXV6UkFrb3U?oc=5)
+- [營收速報 - 國泰金(2882)4月營收305.15億元年增率高達153.91％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE5UQ3c3enY4Y2RQNG1VSEpIWkJPWFVSM1VhLV9BM3FXX2NzYy1JR2NVR1VkM2lVSVZlT2tEa2VIS0JDLUdRdlNPTHkxWXJtOHlnb0VuM3doS3laT3d2NTZXWXFxZndXQXVtZHN3S2xVZ0RYX3lkNmc?oc=5)
+- [金融股漲不停！國泰金市值衝台股第六、台新新光金連4漲近11% 引網論戰：重返榮耀vs.最後一棒 - Yahoo股市](https://news.google.com/rss/articles/CBMi5wNBVV95cUxQMVh0MUxXQ0FXQU1CYUtJTmVmMmpMOGV0bHQ1eGowNHRGYzlmVnFneHUxWHh6YTcyRzZsWDJMRjlrOW1uTjFFQzU5bmxhak9jTHF3M3VjMW1LbW5pVXVIRWJFMER6T3VqbUliR2docVQtVVRHaVk3TkItR2dGYjQwUEdUekJNVFFwSlRCQmFnSG5DWE8tQmlFSElKNUJmRmZBSXRUR1FIeTVaWnRmYnBBOGI1ZXZVN1Vrc0FPaXFjQlRmV2s5eENHc3lLLUdrQzNQdHlNZWw2bm42blFyZXpkaGFId2pNamtBNTY5WXRFYzltc3k3dm9BOUtEeDAwcm5uTUJZSDdJWm1BUWFwQ2p0TVhSUU95TXBNUWhPMUJKVXRLZTBSVFNGU1JENVFzemJ2UUx1NzQyWHNLWTdnc2pZUlhzTFpQRHo4VDNnTWlLWmIzVWpQVjYwdkR0NHFldVc2YUhZTUhzaWFCdjVocVZJdGp1N2p1NXFSWnAwd0JUSDFvTEhCcXNyc2dnamtRa1Foc3AtVTZnWlY0Y1p5dUx3MjNucWtCTnZZYmVlSTNuZE5oQy02M29pU19zckxTOWc5U3N4SkVuUklmbjF1Z1VINW1pNWl3TXh6Mll0Wjh4ZTREVEtSYk80?oc=5)
 
 ### 2379 瑞昱
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2379）
+HiStock 2026/05/22: 外資 -41、投信 -23、法人合計 -104; 3日合計 944
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2379%20%E7%91%9E%E6%98%B1%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [Factset 最新調查：瑞昱(2379-TW)EPS預估上修至32.55元，預估目標價為600元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE8xOW90OEM4R1B5SU9rY1h4WXpmMHUxTkhMb0c5eXlNSm51R3BUNEVHLUw5M0w2bXQtR1BiQXJJOXVtUU82ZEdYSWh2YU1hUUV6aU9Lc2FYYUdUejBYVDdISGJYWk5BM0tnWURqSkFvejAyOFVFUmc?oc=5)
+- [【即時新聞】瑞昱最新營收衝破127億，外資轉向調節小心這檔高檔拉回！ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSE5lemx3eEVId0RZc0NDZDhvTjgzVzlmbXVSZ3RtdjlDZEEtTjJxeFJqT0Q5eHkwdHQ0NGNjUzZXLVQ4aGMtN2Z6SXNYXzFLY2VfMUk5d0l1SGN5YkpyRnp6MmNtSVBYY2ppb2RmWFliMFhOLWN5a1NpM2lXOExJRXNQN0lqUW1IOWJRRFktUTI?oc=5)
+- [長期投資6526 達發或2379 瑞昱 取決於投資者投資風格 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE03T0ZNX1lDUE1KUXM2cGJpNW9OX2xuNTNLZ29hTWRMT1VzcmJhVS12c05Oa0RRRUxUbHJNVEtLUTQtaXdLakFDVzlmSV9zNjlZSm1wUWVzTDc?oc=5)
 
 ## 錯殺池 A/B級法人與新聞補充
 
@@ -449,92 +477,122 @@ HiStock 2026/05/22: 外資 -29、投信 -38、法人合計 -7; 3日合計 -380
 
 ### 3715 定穎投控
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3715）
+HiStock 2026/05/22: 外資 1907、投信 -211、法人合計 2426; 3日合計 2751
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3715%20%E5%AE%9A%E7%A9%8E%E6%8A%95%E6%8E%A7%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [定穎投控(3715) 個股概覽 | 個股 - 股市 - CMoney](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QRjZZdlJZUHVibGtQaDd4MWNxdVQtMnZXTDhyN096bDlUVzFUZkw1ZmVkTUtkWElRaHI1ZUduNnFqQjFMdjVPQlkzTGhtU0JhdDFV?oc=5)
+- [定穎投控喊到 250 元，EPS 4.76 元到底撐不撐得住？-陳柏宇 - CMoney投資網誌](https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2hYeEl3aEduUlN0S21DRzlLMTBPb3dOOEFhZVRlNWtJcTVWV1VEcXRsdzRlcmlrZWpJWHVVT2V0dlNTT2JPcGFkanEwLXphOHBVZERwRDlaTi0tZnhWZ1ZqRlRfZ2NjbmgwOFVIUTlCaXdCRHh2azlna1didDE5Ug?oc=5)
+- [營收速報 - 定穎投控(3715)4月營收20.66億元年增率高達31.22％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE5qS3g3a01fV0RCblpZaE1fX09FNEVGSF9kaXl2SGlkTHRDMzcweXl4NTJRblFRT2otaHRGaVlIamt4cEFnMTlkbTlGUjNEZmpDRm1hbTNVeldxUlpsRVB0a21LZW1XN1ViNHJxZFItTWRRZ3VNMGc?oc=5)
 
 ### 3081 聯亞
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3081）
+HiStock 2026/05/22: 外資 1、投信 346、法人合計 384; 3日合計 338
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3081%20%E8%81%AF%E4%BA%9E%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [【即時新聞】聯亞光通訊訂單能見度高 受惠OCS市場擴張 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmhucDBwMmtkRFZHSXRMbXVPazdvcFpIMlBPQVp2Z2w2b1VFLU5RSzlaUEI5UzFtR3EtaGxPZlJWdWxWWW92T0oxOWd6bnN4cFE0MVQ3Uzh2RDFmRWR6d1hZWlFPTGNVelZFczFNR3ZnU3NIdktDbzdWd3FKeFFKY1Fnc25ybmg3a2VqMFA1blM?oc=5)
+- [營收速報 - 聯亞(3081)4月營收3.95億元年增率高達115.38％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTFBzYkZZaS0zUmtMLWVPQ1hoaGRUakFiRTJWcmpWR1k5a1BrUDNHR3NpOHE5TTBVRHJHU2J4MFpaRG9odVYzRlRuekMzNTY1ZHh6ZXFndVRnODEwSnk0YWtmU1BscGUwb19VdkpRQWVuQVpjZG13ekE?oc=5)
+- [【05/19券商評等報告彙整】聯亞(3081) 今日僅1家券商發布績效評等報告，評價為看多，目標價為3,300元。 - CMoney](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qNW5xQ0k5bDR6bGRkN1VtMjNZQVNJclp1ZEVJeWFrcXk3Z01Zc0MzSzJFX296T2xQYXFfVUFTU0lBb0oxcDRIcXVfalk4X0FFWmlLUkZHdWRKdExiY3JIb0hMcDRfTVk?oc=5)
 
 ### 3131 弘塑
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3131）
+HiStock 2026/05/22: 外資 11、投信 -9、法人合計 6; 3日合計 -9
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3131%20%E5%BC%98%E5%A1%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [Factset 最新調查：弘塑(3131-TW)EPS預估下修至67.09元，預估目標價為3495元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE1yTGxTZWw0T0tndTJraW4tLTd6SUFvQmYtR0d1Z1dwQmdnZE1xbUFTVXVFX090Vkc1Qy0wMzJVMk4yakFkcGFldWtLSjRmR2N6Z0NiVTZ2d1hkdFlRcXpZX3NtYTlwUW5TbHNEanA4Q0Jlb1VqclE?oc=5)
+- [【即時新聞】弘塑首季EPS 16.11元年增81.57%，訂單動能強勁交機量逾200台 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxNSGtRMjJlZUl0UFFaeW41SnF5Ti1pZjZmb1JkaUxQXzc3NlVQSmFIanJOV2tScFlsX25NT3o5UlZVN2dHSHVZNTFwcUM5V1gxcE02eHNvRkExNUtQMUN0Y3J4cGx2YjJ2VWZmVGh0RjZZbWxmX19ubjFnT2FoOHdWeDYwcFNBbGxjQ0ZMSU1JY3c?oc=5)
+- [獨／弘塑前總經理遭控營業秘密外流 法院今裁250萬交保並限制出境 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6cTVDMXI5aXpCOTgwRVZFOFRnc3ZHLTdVLTBzakpUVGd6bkxFc0hRazJOdTdwSWNlZTN5WVd4dkJBSHpCdWJkRE1xcGJWeWdi0gFWQVVfeXFMTzVnX1kzVWlNRTFTV2tpOS1sNFk5SFM1UVJYRG1lV3pHVVRadEVKYWM0clVzbE52OFBIa2kxd1hCMm9FbjRlN244Q2MtYXp4YjZTSW5sT2c?oc=5)
 
 ### 1815 富喬
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=1815）
+HiStock 2026/05/22: 外資 4926、投信 -96、法人合計 5945; 3日合計 5435
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=1815%20%E5%AF%8C%E5%96%AC%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [1815 富喬- 杜金龍最新上節目直播影片-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE41UWthNWIyX3dFVmZ6SzBSbHBlOFRFZmoxVWo1SnVlVjhMVExZdEZneGxwSE5Vc1h1N1hlY0FUaHdFcFpqRGNPSmJobkhHZ3RDYXhVb0FpTzc?oc=5)
+- [【即時新聞】富喬(1815) 4月營收創歷史新高，年成長53.2%受高階薄布需求帶動 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxONURFU1RDTC10LVdUYVVKaTNKZEd1S2p2aDZ4VXVqQXhVNUZiV2NReW13Q2lOS1RvVXFRSy0wVUd4VmlPUHlTdGxBc1BOVHZtVjdINDF0bkFCay1HYTEtUU82dU8zWG8wN3dLUC1CREMzZWl0alMybTlzbmFDSjdCLUdNZlFxX3M4RjdrTmN0LTc?oc=5)
+- [富喬Q1淨利創新高EPS0.79元 去年股利擬配發1元含股票及現金各半 - Yahoo股市](https://news.google.com/rss/articles/CBMiigNBVV95cUxNZDYyQ19HS0NYOTk0UXJxeEJxTk5hNFh0eElZQTNuV0RhU1JZZGh1RDh4eXZTdWxkU1FNVkcwQ0VSNGRUeDZkeml2ZjE2dHFlVmN6VUtkTTBLczFWRVdLd1pmdGVzb2psOHczUS03ejZQVEI3bzFTcUdSU1ZXcTE5X1hCQ29pQUF2ZmRKX1NBTmRjeHMxSVRrYUtBNGd4cENRUGwxcjdtODRzdDNUZ0JXVWdUdE54bVltX0U2eTliS2o2ZDFWSnFLSnc0WGlvQUxiLUZiclc5clRMNU1HcEdFRExBbGdHTzlkTmM0NmF5QjVjcEI3bjVfUGYzMGhOYlJxSDU0WGRjZlEzMmlvRGdoU2pRVEdCRU5iNXV5WVJ0TFI1dFNySS1KWE1SVnpOSHVkSHU0ZWJzTTFIcFZkOURWbGF6aW9FWjJSOWt6SXJLUldqTS1DWWpnWTNFbmhMa1dINFdBOUliVHlRUFhZQ25TT1Z5cHRVQ3lYclNwQmxsZVJkeWhsWTdjME93?oc=5)
 
 ### 3529 力旺
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3529）
+HiStock 2026/05/22: 外資 -32、投信 31、法人合計 0; 3日合計 228
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3529%20%E5%8A%9B%E6%97%BA%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [力旺 (3529)：打入輝達 Vera Rubin，台積 3nm 權利金爆發 - CMoney投資網誌](https://news.google.com/rss/articles/CBMifkFVX3lxTFAxSFJ1LWROQ1FGOW1rLXIwcnRlMHNJUTlDeHlnLUJKajFKQ3pYUU9wbUlpU3A4ZU8xMWFQVXh3c0wtM2RrTHJmZTFGeG5vOVViYkZJNTdZOVgzLUg1TGplLXZXVXRRYTZwd0JvMXQ1OC1WTkRiM3NiRm1XaWVzZw?oc=5)
+- [Factset 最新調查：力旺(3529-TW)EPS預估下修至36.74元，預估目標價為4155元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTFBYdWgtTGZtdEEyamJSb0NveGpFWE1reGh0RzBLZDY5TkhNcjMxZUVXTG5LUDJqNnVvMDNGZ3V2UUNJZW1iTFg2VnZWa0haMlZtYWg4Z0VLUldaWVJucm1PdUNkVnlYNXVDU0dTTGxnQWtRMlE5OVE?oc=5)
+- [【數報】注意股:力旺(3529)因近日漲跌幅過大，今(05/20)日列為注意股 - 富聯網](https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2VITlloQlA1Ri1YMTJyZHpzNld3YlpFc3pWU1E1UzBKeVp6WVJzUG9uUTYtcHVfMUVQdlRfbG54MGRoUUppSGVXdU9LeU9INTJvZnliYWNFSnlMellGcGF2MW1EV3phV1lxUC1iNFE1SW9ESS1jM1pUZE9ESDV5VlgyS29lQWRmMlFHY3lR?oc=5)
 
 ### 6187 萬潤
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=6187）
+HiStock 2026/05/22: 外資 -189、投信 -7、法人合計 -198; 3日合計 -444
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=6187%20%E8%90%AC%E6%BD%A4%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [萬潤(6187) 個股概覽 | 個股 - 股市 - CMoney](https://news.google.com/rss/articles/CBMiU0FVX3lxTE55azFMWWF4VjBuYmVnTFAxeTI5SDRXenJOZXVReU9VLU4wRzVfUDNOVHdYU3hGMC1DZFE5NXd3WjV0WTBoOVMwREZTc043bU5ZczBJ?oc=5)
+- [【即時新聞】萬潤(6187)爆賣壓大跌逾9%，這「9檔概念股」同步遭遇獲利調節！ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxONmVuTnlhVHhBSExKRHJGVl9KcG9NVG1RSUhfR2RQbFM5cEozblJtNjBhdXA3NWVHanJncG1tRENVTzF0TnhYajlNSWltbUVWb1RwYjJJSUFxNnZ6M3VCRkNxU1dqZGIzUERTRE0wOEdfelNrSE9sRDRyRWk4NUM0a3d0Um5OLU5ZNHlFUHBrVjU?oc=5)
+- [【05/20 申報轉讓】萬潤(6187)經理人黃景德於20日申報轉讓萬潤股票20張-CMoney 小編 - CMoney投資網誌](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcGk3ZGNzcnk4R0JmZDZwXzJrQ2RmME5VZ2tWdHlMdTI5OGdOZlcyeGdFcGU1Wl93a2w0eG1EdWlBYlpYem5aTml3bXczWU9QTHo0ZlBFTmcwRzNMZXc5aExJOWpfc1N1Y1haZ1lRN0FIRmlsUkVJZWhqTkdIcVQwdjJ4ZE94N3Zyc1E?oc=5)
 
 ### 3324 雙鴻
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3324）
+HiStock 2026/05/22: 外資 -762、投信 -11、法人合計 -809; 3日合計 -1324
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3324%20%E9%9B%99%E9%B4%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [雙鴻(3324) 個股概覽 | 個股 - 股市 - CMoney](https://news.google.com/rss/articles/CBMiU0FVX3lxTE83V2haRldfZ1JUQWx2VXZtR2ZMQ1VfaGtpbjhXcWUzSGtoTkZHOWhuYUNaZ2hkYkJEb1hNekF1NFJKeGRmTGJFa1ZIV3hkd2c4azQ0?oc=5)
+- [Factset 最新調查：雙鴻(3324-TW)EPS預估上修至57.97元，預估目標價為1400元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE1wTzZ6OXhhaWZDTmp2WFNlU2JuenM3cTlCTjBFczg4WktVcXplOWJTc2tWbWJtUlV3akpISDRRN1NxOFRIS21tV3M1dDN0M2tNS1F1dFdVUkR3VERHZ0ZFTmtBLUxSSUl5N1o2cjEyWHNFeHowQWc?oc=5)
+- [【即時新聞】雙鴻AI ASIC散熱大單湧入 上調全年營收年增目標至七成 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeThkbFVpejR2eE9seklBUndRaGJHR0dwMG1fMVRFSjN5MktGVk9MakU0a2lRN0QySDhXc2FSVFVsSkdjOFE3MnhwMExjQmhiYklDU05PMlNwamxtRHd2emhZSkJEQjVQZ0JPMVZJc2djanpQMkdNM04tUXpjTXYyUGVrYkdrZDdpa2kyOUIycS0?oc=5)
 
 ### 2382 廣達
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2382）
+HiStock 2026/05/22: 外資 -3588、投信 12272、法人合計 7980; 3日合計 15510
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2382%20%E5%BB%A3%E9%81%94%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [【即時新聞】廣達昨日強漲6.2%收308元 收復季線與半年線 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxNSjhNY2xjTW84bnkxU0I0MnpWdUtXcVVrNzUwNnAxZ0tMT2QzZEY3R3dKQ1VEU1hFaVB0blRieV9ETFJQTnBodEJyUnFWamxQdTJPWDlDWnl0SXhLVnlQams1RVFUNnZUdF9pdS01X3FlMzBmanQ1MV9pMGNyUmozcGhOR0N5UW9nemZxUXNKQW8?oc=5)
+- [Factset 最新調查：廣達(2382-TW)目標價調升至385元，幅度約4.05%｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE40X2kybXlZUWd3czYzQTZySHJQeVgwWW00VVVFa2lfWGdWZVU0UkxuNjNONXNNMVpjWTNaODBaNFdMbHBVZEpBWjBacm9lYjNjNWNob0ZGNUNaWW5kNkN6YlE4WThkR2VmQWpUZEhTWm5FRTZjN3c?oc=5)
+- [300元廣達還能追？財經專家曝股價上不去原因：已經偏貴 但長線仍看好「聰明錢還在進場」 - Yahoo股市](https://news.google.com/rss/articles/CBMiiARBVV95cUxNUVM3dDFDRkdoTFpicFd0LXlaSmg0Yzk5d1VJLUZ4RkFqX3c3ZExEOHh6WHZ2QUJ3cWg5aklhUWdyczhkcjdjeG9TdUdCTFJ0QmdOMXQ4ZlVGRnp3dGo1bmh3R3lyR1JoLXlPamFHTmc5Mnp1d29JQkZIVG9CZkRHRDkxU3dlSG1Cck8ydzhIMlhFWWI5Q2ZYQlJ3ODdTdkQ5MWFld2djeFRwR0k4Wnl1VFZ4aEEybmx0UTVUYlFBeXhJbnZkd0FudWpSLXZPUGk3RXQ0WF90RnpyZnlENHVlRk0xVnhiRXBEYnN1WXdlcm1OX09fakdqVERBZ0pRY2RGN2h4ZXZ5Z1plM3o5TEFDaURwVUFCd29NUzU1WG0yVzh1bnBpOUg0OV9IdEZNWk14S2hhZ3RUM0xPTnNDVTdCV2xpTlFPQ0ZFWXRjdzdGMW1fcWRaZGtSOEl3WHo1WDVGRVdFc1dwVnhRMkdsZUQtTFAzWEJ0SHdyNW9QMUN1aUNJbTI0b1ZDX2wwbnVOcEdkY1ZQZHY1OVFtU0x6d2ZYbUFMbGd5SGkzU1NVZDZVUFZRYVg0OWFsTldfUGdmZlhLVE0xWHk2ZXdzX1ZPMUl6WVBVVWVZVjZlWmRpVGFmeGZqdExheDVHMERTTGctaGNYSkRhUVczY0J2ajhBZ3RRaFNHYU1qeTRB?oc=5)
 
 ### 1590 亞德客-KY
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=1590）
+HiStock 2026/05/22: 外資 -34、投信 0、法人合計 -10; 3日合計 135
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=1590%20%E4%BA%9E%E5%BE%B7%E5%AE%A2-KY%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [Factset 最新調查：亞德客-KY(1590-TW)EPS預估上修至55.3元，預估目標價為1802.5元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UZ1g1VUtscHVra2tpSkFXdjQtTUhKTWZ3dVFVZ0hVZ2V2blVSNzhrY0Zia2NNb2RFUTdzZEVtTXMtVGl5eFNyMGFIUlZhQ2U4QVhydHU5dU1QN1dnYUFrZHgxRUF5anZsUlYxbE1xT2pTLUtNeVE?oc=5)
+- [【即時新聞】亞德客-KY 第一季毛利率47.97%優於預期，全年EPS上修至58元 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1RkQUg2NE1vcURhc1Z6bHoydndMU1RKV1RvTm8zdW5rU2Z1Umo1ai1pbmN4RzNLdEdOaTY0NnN3LWNyem9WeW1JeHF6OXpDMkpSSkozNXJ6THpHYWZVZnAwN2h0WnliRlY4WDE0UkF1QTdpN3R4STd2YndsbWcyb1JPR1RKUm9kQ185RklFZ0w?oc=5)
+- [亞德客-KY 3月、Q1營收雙創歷史新高 4月出貨動能看俏 - news.cnyes.com](https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0d0lnWHY5alJZQ25YeUgzN1o4UGt0YzNQVHA4aUZSUEVEOW9NMlJCZ2JEQjJXMEZBdmZtRnRETElsM1NVNFlnMHR0Zkt4c1k?oc=5)
 
 ### 2449 京元電子
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2449）
+HiStock 2026/05/22: 外資 1265、投信 -2870、法人合計 -1349; 3日合計 -11704
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2449%20%E4%BA%AC%E5%85%83%E9%9B%BB%E5%AD%90%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [京元電子（2449）漲多之後，真正該先看的不是還會不會漲-蘇宛真 - CMoney投資網誌](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSTJ1dWdabUhGbWFLTlZnaWhPeEdHcl8tb2RoZVAzRzY3OTQ2aXhUYXNMOS1xa1FIVWtlMFJyZk1nVUdGOWtVMENETTcwRkdhYXVDOVFucS1TVlp3ai1zc2g4a3RQMDdyNFJ1UGxDNWlUSjZPX2EyY0Z2dHM5SXctdFVn?oc=5)
+- [2449 京元電子 - 各位朋友晚安，我是老葉。 上週五記憶體 IC 設計才在「汰...-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTmNIU1ZQSm9YTVR0ZWk4VkRvOW42eVpBNEZxZWY4N1c5b2ttdzhzRHVDZ2RyZkJJUFpzV3lFU3FLU1BWdjhDVUwzWXVNTkI0WE1kWm0yalA?oc=5)
+- [Factset 最新調查：京元電子(2449-TW)EPS預估下修至9.77元，預估目標價為370元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE9TY2J1cEVwanBrXzkzRlBfaVEwWVF1Qk9fNW00aEpNeVhVVnprY0sxQkFESC1hMkwyRE1OU2Jrbkp4bEx5WlBDUzhrN3NubTJONTYzTHBlRGM0R3MwbE9pWnFfbzV0QWVsb1E3RVllLW5KcHNhVlE?oc=5)
 
 ### 3017 奇鋐
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=3017）
+HiStock 2026/05/22: 外資 -84、投信 134、法人合計 66; 3日合計 -639
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=3017%20%E5%A5%87%E9%8B%90%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [奇鋐（3017）做什麼、法說有何重點？首季EPS創歷史新高達20.17元，散熱需求爆發推升全年展望樂觀｜股市話題 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMi3ARBVV95cUxQdHlvTlZESG90aUtIb2RUZllhaEJhQjcxNkg5dHpMcUNTWUtscXJTMnNRZHdMd2pENTQ2ZGlkQ3AyZHZ0V0NRU3lZb0lRampmMGJoNV9BVEt0dWZsQ0Z1TVlEOHNFRkYyWkZSODJRYVI3ZEdxMC1XUFdnRWV0RkJZaW1heEZuNjIxek1iNDdzVXNzYm4xaWR3UDgxZUwtWGpkOXZLSTdMYnctRk1ZaS1MSU1SZUlGXzlwb0hXRTF6V3hheHBYVlFHN3VfUzhZQ1R0ZXExZW9sTDd3bnRodFhPc1RFR0ZTbVR3UDJxZVF5b1RkV2wyUVB0b0FiY2JVVDhXT1lhNGY5UzNNVWZQWUpPOHFyZ3BxSzE5S0l2NEJaUHVqYmRrNDd0ajdpZENRMlBkZ3IwdHpWb3dxMktXOW1ULS1McGRfNUktaHVmSVVZbzZLZnpJUnZkc1IxSDFkNzEwcVhadFB4NDJXU0NUWVpFbUI0dkZLTUt2UGdHaDZQdDNqa1VWaE9tWUdCdzdlYnVlYXh6eDB0dTJERDRzOXVBRXZDR09Pam55bGtGVWdZc3ZQYnF0N2lzMk4xVEtrczR3N3dQMS1KeDdvRFhOXzJWakUzZEJ0ZWFlSEZyUjh0RjFZUGtkVzJGV0FVLXBUX0FVWTBFTlBTdjJ6UksweTZGM2UxendFODcxdG5mSmNmOVlReGp5a1psTVdfRmh1bkxYOVFqZ19xSzk2cnpaa3J5U2F6RzM2VlVZLWgyODM4MnBmS1BlbVl3SndLRnNHZi12OF9ubmtfclgxcTlq?oc=5)
+- [大摩出手！「散熱大廠」Q1每股大賺20.17元 目標價喊上3333元 - Yahoo股市](https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUy1jc3czRk5wUDZpeGsyUzVaZ2hQZDBURC0wU2hFbmhvSkFZUE12N3dJRXY2c0ZqU2JSR0cybU1WcVI2YWJzMnBhMGRzdUVGTkw4Q09KWk9jWVl2QWhmOFE5YTlHM2xaa05ERkU4a3p5WUFHMGxiV0V5TG9ObHQzVlN3R0FiSU1hRzJyM280UkNJV05KczNrUk5waUFaZzZOQXBaSVhLWEVoWTVLVl9UM0ZzZThIbkV3ai1Yck80T05jdjZPUzB4czVoblpVT3FTa0tZbmVncm1rSmtDbGdULVkzVzdPV0t6azdfcVVvUGRIUjRHYU1fcG5WTUZQelAzVEx5Z0NTbDEzRWh0LU9aLWJ4X0JxOWUtTE92RDlxS0xsZDhlTDBNME01Ny1ZckZISGJ4ZkxmMDZvSWNmWGhvWUk0STI4WGlrd3dGOUN3VGl2dw?oc=5)
+- [【即時新聞】奇鋐受惠AI伺服器液冷趨勢，法人預期今明年營收獲利高速成長 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3VaamRMYW5FZUxmT040NDd6T2hrak9nOHM2aEsxVFZtdzNuaDd4a2puOVpRN3plSGZCTmcyeWdSZHUwRGNjOHBmaGNnckxxMWVhczVwYkpSYVZiZjdHcERPZ3dLUkg4aENqa0N0RmdRa2kyVDdKODFUblZvWFZ2dC1HSWx3Z3dkUFc5LUNPU3Y?oc=5)
 
 ### 2892 第一金
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=2892）
+HiStock 2026/05/22: 外資 -69439、投信 2462、法人合計 -66862; 3日合計 -269567
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=2892%20%E7%AC%AC%E4%B8%80%E9%87%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [【即時新聞】第一金最新營收暴增逾四成，法人狂掃8582張還能追嗎？ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3dhSThCb1dIYUlNelV0VHhJODNkOGs5MmhTc21NeUtnUW1NNDk0d3luM3lYZmFzR3M5QUhEelBVZjk2cU40dEptX3poUlJwc0VrVFcxa0h2MVZva2VOd0piS3F1cTBIbGc2dzF2NENJYUpQbGVwb0VMV0djRS05eWs3TUM5dHdVZzN3TVFxY1I?oc=5)
+- [第一金大跌原因？遭傳「公民併」爆量跌近半根停板急澄清…金融股兩樣情，中信金股價衝近30年新高 - 今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmZ1N25nRFRLSWNrcHlTVVE0S0tFSkpkVUJGaC1UbzhSYXhuZy1JLTl0b3NJX3g1T21Dd0Z6YTVxX2VXUjgxbUx0bjVVRVRPNzl1Ri1hSzF3RURDSzB6TkJXQ19lcEpReFNId3lfOTFpWVN4eVVUSEF3eHdkSXN6VA?oc=5)
+- [第一金爆量跌近半根停板 澄清「公民併」傳聞 急發三點聲明「護盤」 - news.cnyes.com](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pRFd3bVVGSU1ZcXd2RjVZTHI0cDY2TUF6UUtCdC1PLWlod1NueVpyZ19yZml2NHZqR1JPOWhjR1Fic09ENjNKTWpYa0R1aGM?oc=5)
 
 ### 4967 十銓
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=4967）
+HiStock 2026/05/22: 外資 -432、投信 0、法人合計 -447; 3日合計 -1070
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=4967%20%E5%8D%81%E9%8A%93%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [十銓 (4967) 做什麼、法說重點有哪些？Q1單季大賺EPS 27元創歷史新高，記憶體超級景氣浪潮延燒至2027年底｜股市話題 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMi_ARBVV95cUxPcVEwSHZEOWlyTTg4NmFxbDlkd1Zuc1FxWDcyamRPTktrRXYxZFFPbHZTOGVlQTVNWTBLXzRpN0FOS2hDLW1qWGc1akVpMExaN2VEb1ZOWWowU3hheFVJZWNZVmVYc2pZRGlWVi1iYktRYnE3MGU0NHJoQi1YUk9GM0QwSUpLaDltZ3BIaUtyYUcyUjU0NW0wUE4tOWR4UVVtR3c0Z19sZDFPLUxTLTJkTTVRdVRNdDZiQ3dKQUdLRzlYczNVcHp3cVhlcTVuU0ZKY0RuZnZLdjhGVnN3MVltTzRXUGFwLUFuNkdmWWdmcl9RTWRTdFZQeFhaOGx6cWlfUWI5cFRZbWVJN1hJUXpQWlVwWkdJekFqUk5SczdHRHQ2amExVEtkaFZSRDFjRjB3SjlDMzFINmJRMV95VzY5Zl83bG5ZcHpQVlNwX3Y4QUFFODk5bWpjX0RJTjZBWjhYaEhQZDllREc3X1ZnWmZRdVVfTTltTmdfYWZtRndaekN1dHJWMnE1cktXcDNBZFFFSXVtenlrMFNBUWV4ZHd5bTh1TmU0MEZ2cS1iZ1hGWXVGU2FPbTdzTFpnZ1g1ZW1iV2JFOG9uNGNsbjZSZVd6NFFVMlZXQWxlR0pLUk4xei1sSlM0NkxLSkt2VEgwYTZYanZ4aTNCcm5nWGMwOGlrVnpEYXhpSk5CQVJfa1h0Wm5WZWItcHpmd2pNelluS2VXdjB5enNlSkdkUUdCWWR3YjUyOTloanRXRnd2Vk1HaVZlMVRNTi16d2dNLVJ2OThZZW92eUJGZ09MZVZYaERJVDJuWVk0OHU2aTVrVXh3ZkhaTklxMnZjUDhaS2E?oc=5)
+- [【即時新聞】十銓(4967)狂賺27元卻爆賣壓，買盤逆勢轉進這「4檔概念股」！ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2dudXdyeXFRME9ySVI3Q3U1cDB5cWl0RzYyYlRFNEVISlNGT0FUb05SdGJqOEJUWFpPbWhQWV8tZEtNdUJDZ0VITTVHNFVYc0pLVl9sYnFOd1Y3QXZkYl9rbF83UUxzZXNrY0FvTU1EeVMydi1aa25fRlh5U0lHYzVGaHBaaWNHTDEya1hIOHQ?oc=5)
+- [4967 十銓- 【即時新聞】十銓一月營收年增112%創同期新高- 股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yUG02N1dsZW11Y2NKYnVwTHFyMlhsUXNPUEVSMUV1dnIyZkI2elQ2X1JRZ3V2VjVZdmlnT0x1cjNfTER1Umt4ZVFIeFptUndXMElTTThBdG4?oc=5)
 
 ### 8150 南茂
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=8150）
+HiStock 2026/05/22: 外資 -17100、投信 -6、法人合計 -15725; 3日合計 -18687
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=8150%20%E5%8D%97%E8%8C%82%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [保瑞、南茂題材全開！法人卻同步降溫：夢很大、獲利還要等 - Yahoo股市](https://news.google.com/rss/articles/CBMi9AJBVV95cUxNMmtPVDFfUnZoX2YtSVZueHFVZElhdVRqZXVIdjRwQU5HLUlDU1ZiTUxfS0VSek52Qkd4WC1aSDFUM09qeFM0VkxlRXJTUEcwNlpXaWV3MUNJbEZ5NWRTeVlsUzRodElWT1VZZi1PZTBST0xzb0U5N29SSzNFNnQ5TVJGWTROdHNDeDVUeElOc1FNamdHNWRuVHIwM21Bd1MySk5LMHZseFdXd0ZBdmo1RHdXMnVwQk12cGZxTDlpMlZrRXhoQjNrRUVOWnlUZVRDSlpPc01vaVhtNEFqX1BtTzhSODROTHlKajhwMUdGdWpmZUtveTdfMmszVGF2LU5vaHptZlVvZUtocGpuam1LNTVxWlRQdkZxVmV3ejQteXM5ZHRHTUdvdVpYTHpBdTZxbDQwdXFVYmZVd25fUTBJMGZCb3JaMXdlR2duUGJoTGpTZ3V0WjQzbjBrVXM2bFJSUUd4QllCUDJnRm05X3Vodm5QX24?oc=5)
+- [【即時新聞】最新南茂營收飆增逾三成，投信狂掃逾萬張還能追嗎？ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQU0trVWZGRnJjU1FjMWNEdFlRUVBsbkpZNHk4UlBneG9zYkRRMVM1djlRdy15ak9XX2xGTUZWYW5DRm5OblQwREhfMlpmSlp0QmktYlBvWnQzZF9YVmFwbFJocFI1N0kwc2FvTlVfcHM2anZLS3NCQm5SQktkcWVGS3pWRXhpM0JrY0twRHU2MW0?oc=5)
+- [【即時新聞】南茂(8150)飆漲34％列注意股！這「5檔概念股」買盤接棒狂飆？ - CMoney](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaX0psQkVOSWY1aFpXQkxDQVVrU0lqQy1lOUp5WXhLNWNnc2thLUl2bnp5Qi1ENk1BVEwzak5ocHNHaWpIU3Y0VkU5RE1OaUdlWDlMWThpTUNweWxTVklvczlrX3BLYmc?oc=5)
 
 ### 6805 富世達
 
-HiStock: 查無可解析資料（來源：https://histock.tw/stock/chips.aspx?no=6805）
+HiStock 2026/05/22: 外資 -174、投信 85、法人合計 -95; 3日合計 -96
 
-- 無 Google News RSS 結果（來源：https://news.google.com/rss/search?q=6805%20%E5%AF%8C%E4%B8%96%E9%81%94%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
+- [【即時新聞】富世達最新營收狂增95%，飆破兩千卻殺跌停小心拉回！ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbEE5emk5aWVvMW5tMnlvUF85U2tOM1VLMlEwWmJudXZrZTd1TjNmejdKS0dnQmN0YmRXTTNFOW1BMkkwdWphRGkzcnRHSEVqMXBNVVh6ZUpBRWVGOXM3SHdwajhyR1RrYUs2QkpQdlZoak1peHZFbEE4anB3b2t0cU1JNjBZVXlOUEEtRmoyM0E?oc=5)
+- [營收速報 - 富世達(6805)1月營收14.04億元年增率高達115.76％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTFBuQTFPQ19kWkkxUlZzQmFWQnl0bDExdnNMSDJsTEpTdXhuclVjWmVLVUF5WXljZEp0VVRpck5QcU4zV3IzbzNIblllbTFMQzdybHpSTHJ5LWw3QXZGc2pqTklXY3NEUVdaVG5NMkRfcE1Rd3Etd1E?oc=5)
+- [【即時新聞】富世達3月EPS達5.46元，年增185.2%挹注基本面強勁 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEFCMGlRYkExNHh3S2NsN0FIWU01TWNmU2JYM0F0TnZSaFZva1B2ZXJMQXJtUVNEdDMyaW5hVFVIMGdINlpsUFRZUkR0SzFfeHcwT1RxZlg1WnJJNnZ1UVI2LVJZOHAtOHJMSGlPenljdFZRMWZTWTVVdS1fYVd2STRIaXh2RkhpSDRUM2xxaVI?oc=5)
 
 > 提醒：這是短線觀察清單，不是買賣建議。隔日盤中只做確認：有沒有過觸發價、量能是否配合、是否跌破防守價。
