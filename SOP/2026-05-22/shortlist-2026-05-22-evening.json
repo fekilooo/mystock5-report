@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026/5/23 15:10:41",
+  "generatedAt": "2026/5/24 09:16:13",
   "mode": "evening",
   "marketDate": "2026-05-22",
   "marketDateTwse": "20260522",
@@ -1589,7 +1589,7 @@
     "success": true,
     "cdpConnected": true,
     "apiAvailable": true,
-    "chartSymbol": "TWSE_DLY:3189",
+    "chartSymbol": "TWSE_DLY:2324",
     "chartResolution": "1D"
   },
   "hotPool": [
@@ -2032,6 +2032,8 @@
       "defenseLine": "57.38",
       "firstTarget": "78.90",
       "riskReward": 2.3516592560336367,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -2101,6 +2103,12 @@
         "url": "https://news.google.com/rss/search?q=6770%20%E5%8A%9B%E7%A9%8D%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "力積電(6770) 個股概覽 | 個股 - 股市 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fa28td2RpOUpneE9TVGlKUVdfU1J6WHpPenV3WHl5dnBJUmN4MW1ZeXVYMkpiV2dfRU44SnFSb1ozRlV4cThTTHFsLWJ3WEJHcnhZ?oc=5",
+            "pubDate": "Sat, 23 May 2026 15:27:40 GMT",
+            "source": "CMoney"
+          },
+          {
             "title": "【Follow法人】外資狂掃761億元史上第四大！ 敲進力積電華邦電逾14萬張 續補緯創3萬張 - Yahoo股市",
             "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOWkhYRUVrMzA5Nk5XOHBhdE8wVW4wLXN2VWdEem1jZnhLLUdxeTYtMy1FOFhmcWI5a1BTWnlLaWszVmg1WHdpNFFqNXYyVFZFdjBvOWpCQ241bHZTWUhNOFhkREpSSW56MUZDYnVmNHVCU3ZIck5iZmlGTDRrdmVyRzRrTzdjM1Noc282TTdYVURsajVTWElMZnREcHQ4R3dja0owdk9fV0ZleEI5NkJxeWRrd003X3p4WnNRWW5RemV1TnlvZ05zVXpKSlNqMUZNMnlDb0xTSWsyZkd2d1BaRUY0R1RDd2g0Smxyd2lHZnQtMVRrdXlrSzRjSXg5RWVWMm84cFh5cHd1aDBtMExXRUw1NGo0dWhFT2ZyM1hteXJobUVMU2FTVmJlWXR0TjcyUHdCZDluZnNCM01NU3B6dUluZU1vNUg2VWU1RTA5V0hralk4dG1iRE14WGhqNkt6R3Y5YnJ1ZGgxRktQaGJQbGFPdy1JMnlIMkZoUTdKN3AtekVQdmIwdkFVZGw4RnlZallUSE90SG5NT3M4NlpMbU9iZ01jQmpKRlJfdTIxMVRRdU9VMDF3blMyczFVdTV5d3BhV2tGaTc3VkJVbUkzUFlSenVxdC1KYWQxcmdKY0NXOC1TREhnOXFlaldVemwxX1hvVFlPTUowUQ?oc=5",
             "pubDate": "Fri, 22 May 2026 08:33:18 GMT",
@@ -2111,12 +2119,6 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2lnMzJPVDFHRkc1SGNSM1NXei1BQ2ctUHpjRzhzM1NsZWMwa3pkMUNnVDNKU18xajRTRFZXc19lUEJkVmxqV2tocldQNlJxZHp3aXJ3U0drSW9nOE9KOTdyV1lFSk55aEhBaTRUNndZRzdPTkxIcHhXZ1kzcTBaVWI5Q25ZRlE?oc=5",
             "pubDate": "Fri, 22 May 2026 03:06:31 GMT",
             "source": "CMoney投資網誌"
-          },
-          {
-            "title": "6770 力積電 - 【力積電(6770)盤後解析】外資主力聯手，價量齊揚 力積...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlM3dUYTRTT0FDbGFXZFpnbzVwYzBVbUl6Wm5USzFOV3BOdVdZSGVTM0l2ZnpaWHRRVHFNaWZ3WnlvY0dfVUxWYWkyWC1SSzJ0aVFHRVVRUjM?oc=5",
-            "pubDate": "Thu, 21 May 2026 22:29:28 GMT",
-            "source": "CMoney"
           }
         ]
       }
@@ -2206,6 +2208,8 @@
       "defenseLine": "60.48",
       "firstTarget": "82.50",
       "riskReward": 2.4844509149119096,
+      "executionPlan": "可盤中執行",
+      "executionNote": "過觸發且量能配合，再依防守控風險",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -2277,6 +2281,12 @@
         "url": "https://news.google.com/rss/search?q=2367%20%E7%87%BF%E8%8F%AF%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "2367 燿華- 黃仁勛點名：燿華正式打入SpaceX 衛星計畫供應鏈！-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10SEZzNm5iLWRKaENpRFl0UlZtUjFBZEtvT3FSYXN4bW9XbExHaUpmQmlYLWxadW53SjE0ME80bkNuenFGT01NNUI3VjlYOVJ3eHFaclFvazU?oc=5",
+            "pubDate": "Sat, 23 May 2026 02:41:14 GMT",
+            "source": "CMoney"
+          },
+          {
             "title": "Q1虧損擴大至2.35億元！燿華營運拉警報 法人點名「2大翻身關鍵」 - Yahoo股市",
             "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNODVfelF5eHFsME43bjhFTUxhS2xkc3dqUXpjQUZFeUw4cHZ3XzdQQ1pjV3Qyb3BhQktqMWlhbHZXTkppNHFBcWZLUy01ZHhNU2tCbWdEWXB2NFp5eHFSS1FnS3Z3LWltRzE5aTI4dDFXVU9VR3Z3Yzl2SXk2WlhjU2hIckVKMDhoVkMwV1pDSVgycWZBMDBuZVFlUy1vUDhJNHJQTDM4akI4SzVlYTRmZW5rRmNfbWdldGxZOFdmcmRpZjFqR3YzQ0NHV0Y3WFktQ1JOcXVnYTJMcHFFQWZ1VWt4LVRnRk1MQWtfaFdsXzdBUDNlbW5jblJKSGl3X01LVE5QekdRdEhBRS00Q1VsMjMzZ0tHNE1TN29CTGl5Xy1zTHRtbG4zVFZxZ0RZTWktZVNiR1Qzb1NMbUJwSnhGc05HSHN4VnRJS1hzcEVOcUl1WXFUQjNtVlBTc2NBOTRCdXR6YWk0UWdoQnlGamxIMmJHZzdmdzMtcXRKRA?oc=5",
             "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
@@ -2287,12 +2297,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uUk55QzEzSDlHc1hVNGR3SUlGZ2FoUnByVkJEQkZPNlo0TENoeVhHTlBHdThsTGFtZXlSR1BVZ1l1d2NGcVRsN29XeUE2Z2J3eG1VZWREVFI?oc=5",
             "pubDate": "Mon, 18 May 2026 00:40:16 GMT",
             "source": "自由時報"
-          },
-          {
-            "title": "2367 燿華- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBna013UlpfRnA1NlViSHRoM0RyT1VsNTJ3N2RFaXlWcHlEM1hwdUtMRl9ud3dESnhtSlB2bHRmS1hlaDVHWGtmX0dPSllkem1oRXNzVnNUMUc?oc=5",
-            "pubDate": "Mon, 18 May 2026 18:37:29 GMT",
-            "source": "CMoney"
           }
         ]
       }
@@ -2384,6 +2388,8 @@
       "defenseLine": "66.32",
       "firstTarget": "76.90",
       "riskReward": 1.529856489999357,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -2455,9 +2461,9 @@
         "url": "https://news.google.com/rss/search?q=1802%20%E5%8F%B0%E7%8E%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "【即時新聞】台玻股價大漲逾8% 玻璃基板概念股受市場矚目 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVVzQWNmeWQ3a3ZUY2x4OGI1WWsyVlNBSWltQllxeS1GT1RyUHhEcFcyUl9VcFUxb004WmtnNkJHRFJZb0RiaTV2dmFBNHlzcG12S3VUTlB4WC1hWG93c3o0QXpBZEdKMERaenA1LVpGTE83cXJ6OGlYNTFsbDRVUmpUaUJsaG1PM1dmODFHTXE?oc=5",
-            "pubDate": "Fri, 22 May 2026 08:53:25 GMT",
+            "title": "【即時新聞】台玻獲外資買超37,462張，今日收盤價上漲至70.5元 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWlDSW9qN1lUVFpxYU83MFh3SThzZjZmTVM4RldqWTl1QUtQZEtUaktSY0Q1amFobzloOTBGWFFUREN5bkhJT2JGVXcxTEg0RFUybmE0QXdQRGZpMmx5Nnc1cDBDRnY0dFFfTks4Q2lQNU53SUtfbDgxSEdzQmhOZE9MYzY5b1l5ejJidzVVMkU?oc=5",
+            "pubDate": "Sat, 23 May 2026 11:16:41 GMT",
             "source": "CMoney投資網誌"
           },
           {
@@ -2467,10 +2473,10 @@
             "source": "CMoney"
           },
           {
-            "title": "台玻（1802）股價創高該獲利了結？網勸「分批出場」：別執著賣在最高點 - UDN",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03SGNMTXRqZ0ZHWEhSOTB0NW8ybF9qWlVDaUpqQVBFZjZ5WjJFYU5ScXhwNmZhcG9RTjRTNXVSZ2hrVzVieG9EY19Oc3JvYnlWS0HSAVdBVV95cUxQRHJDRmJRZUZFTGw2RWhtSk5Ma3NpbF9ud0FsaUlWdVhMUjQwYjZjNHlwWnM5UUhSMmU3WTZEOS1TVVFsSWpyTzZOc0NjS2x1SW9MdVFMaXc?oc=5",
-            "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
-            "source": "UDN"
+            "title": "【即時新聞】台玻股價大漲逾8% 玻璃基板概念股受市場矚目 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVVzQWNmeWQ3a3ZUY2x4OGI1WWsyVlNBSWltQllxeS1GT1RyUHhEcFcyUl9VcFUxb004WmtnNkJHRFJZb0RiaTV2dmFBNHlzcG12S3VUTlB4WC1hWG93c3o0QXpBZEdKMERaenA1LVpGTE83cXJ6OGlYNTFsbDRVUmpUaUJsaG1PM1dmODFHTXE?oc=5",
+            "pubDate": "Fri, 22 May 2026 08:53:25 GMT",
+            "source": "CMoney投資網誌"
           }
         ]
       }
@@ -2561,6 +2567,8 @@
       "defenseLine": "1078.2",
       "firstTarget": "1310",
       "riskReward": 1.524988017951286,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -2635,9 +2643,9 @@
             "source": "MoneyDJ"
           },
           {
-            "title": "【05/22券商評等報告彙整】高力(8996) 今日僅1家券商發布績效評等報告，評價為中立，目標價為1,100元。 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HWUZncmRRMDkzd2phREc4M3M0NlBMZGNOZXc5RktkYkY2UFBZLUxCY1Y4c3JMSXBTQVg0eFl1NjlBd1BndlRHcU1GSlNaZkt5aUl2MEFMb2RCT0Y0SGZiX1VJSGZTLUU?oc=5",
-            "pubDate": "Fri, 22 May 2026 10:50:04 GMT",
+            "title": "8996 高力- 高力新聞-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90Y29MRnNNVDRyZnZLT2RNby1lUnJJNHY2Wm1PbTM3NjhLa0N4Ql9qZTlGRTRsRlAtRHJybERZNm4yUkc4UXRabExfcmRKdjNiWFBGN3ZXRlE?oc=5",
+            "pubDate": "Thu, 07 May 2026 09:59:50 GMT",
             "source": "CMoney"
           },
           {
@@ -2735,6 +2743,8 @@
       "defenseLine": "135.4",
       "firstTarget": "170.5",
       "riskReward": 1.2470023980815357,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -2816,9 +2826,9 @@
             "source": "CMoney"
           },
           {
-            "title": "【數報】盤中快報:8039(台虹)股價漲停鎖定在139.00元，委託買量250張。 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMkJHc3FyMnF2clVUOElpaTJyQ1A1c3V2RTE5VzFMWl9jbDZqZEZrX1JwVGtLSmdjMl94RTlONnowV2tBanZvQk9RVXhGaGM2cVc3c0ZqaWsycldQQk9xdHVNNTNZRndfNFVielRTV0NjbEYwNG5ZRktSbnViSDBmT1BKRk4xMlhuZms5QmdmSGk?oc=5",
-            "pubDate": "Thu, 21 May 2026 03:55:00 GMT",
+            "title": "【數報】盤中快報:8039(台虹)股價急跌至128.50元，壓低幅度達到5.22%。 - 富聯網",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDVTX2syRHBKVlVLVVBFWUtlZmJBZC14Y2RzdmFiejVRekplZmI3aDBaeG0xc3pUekxmQ1BaZ21ZVGJCV3g0S2drZ1BFbFh2aE5GRmtYanJ2bkZvTVA3ODVRN2ZlRFZ3SjFJS3oxd2JydG1xbk42YVFGdG40Q05vYUQ4WGtlUHVHal9SelVR?oc=5",
+            "pubDate": "Wed, 20 May 2026 01:29:00 GMT",
             "source": "富聯網"
           }
         ]
@@ -2909,6 +2919,8 @@
       "defenseLine": "65.72",
       "firstTarget": "86.90",
       "riskReward": 1.9103115630417549,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -2984,16 +2996,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "【數報】盤中快報:2485(兆赫)股價急拉至74.50元，拉抬幅度達到5.77%。 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0hqejYtTHFSMlVreDBWWFpxajBkdGlsZTRKdTViZnE1MW9MaUNjV3JQQmxkZ05fNU93cGJFaGprZ0pwUktoOS0xbDVkdVBueDN0MHR6UVBTcGM0U0drbm0zcG51dlgwUkVBc0FyX0wzajVjdy1qbGtfYjlHVTNWNzFBS2tJZ0ZkRHlncE5B?oc=5",
-            "pubDate": "Wed, 20 May 2026 01:18:00 GMT",
-            "source": "富聯網"
-          },
-          {
             "title": "【即時新聞】兆赫3月營收月增63.7%年增200%，首季10.45億元創2023年第3季以來新高 - CMoney",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wUHUzRDlCN0RrWUdMU0NhTVViN3pId2VKZ040dnJaRi12TTRzTjRzVWZyeVliWV9jSEttT0pfRDNkU2QtdGsxYk1Fc3hQbGtVSXZCWEQ3OWY?oc=5",
             "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
             "source": "CMoney"
+          },
+          {
+            "title": "Q1 營收年增 149% 兆赫(2485)轉機確立 低軌衛星＋DOCSIS 4.0 雙引擎啟動 - 理財周刊",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1feHMtdHl4dmNUY1BqbEE5d3UydllxRExnVzUwcEhDd0ZpcUxJUjR3b1ZrRjV4bGZfUWJjSFhZajNKTzZHN3FPVlB2M0FBc0hldFk4NEp3YXpWVloyY2pGaUh3R3ctSHBzZ1BoUkZEbw?oc=5",
+            "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+            "source": "理財周刊"
           }
         ]
       }
@@ -3083,6 +3095,8 @@
       "defenseLine": "370.7",
       "firstTarget": "435.5",
       "riskReward": 0.3280974449411474,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -3154,6 +3168,12 @@
         "url": "https://news.google.com/rss/search?q=3030%20%E5%BE%B7%E5%BE%8B%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "德律(3030) 個股概覽 | 個股 - 股市 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vbWVsY3lRcjZOMy1JWXozeDRrTjByeWs1OHdZRG9xS0Vqd3gzOTJKYm9oWFdZNXBZUm5JMEtfU2ZienAwNjR5aTZjYkZzamw1Mksw?oc=5",
+            "pubDate": "Sat, 23 May 2026 05:07:11 GMT",
+            "source": "CMoney"
+          },
+          {
             "title": "【12:25 即時新聞】德律(3030)亮燈漲停至381.5元，AI伺服器＋半導體檢測雙引擎推升評價、短線量能回補搶價強攻 - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYy04cVBOVzJLeUM3c1BWZHR2U1RaUXhKOEdtNG81Q3FjTTZTYmRhZ3ZRTVdES0duakozeEg5SS15UEhhcXNTM1hWM2d0MC1ZVWtGM2VnM3ktZmM2Y1NWejA5WlYxdEVqczlUZnpIWjhFbWxNRU13Y28tVk9meEZRNVE4M252SUtMQ0NxeTZB?oc=5",
             "pubDate": "Thu, 21 May 2026 04:28:54 GMT",
@@ -3164,12 +3184,6 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NN1hGTmlEa2tGQzk2ZW1RTlhTcXBoOVVYOVBrZDNTejRDWlY3X1lKSFdPQW9TOUJXVHdSVU5oZjNIU1NiY2RkQzJhSUtuTENNWFJHd2docTVkM2JVUXFZ?oc=5",
             "pubDate": "Thu, 21 May 2026 19:00:00 GMT",
             "source": "工商時報"
-          },
-          {
-            "title": "德律（3030）— AI時代被重新評價的隱形檢測王者 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93bWtYc0tsXzVLa2tGSmNtbl8wUjdVUzlVeFFQZlVhS1VMSTNfempwSXdJdWJEV0tBV2QtbTF2Q0sxZlhqYm9qT0tnMWNHYkx1Q3VwYVdEcmI?oc=5",
-            "pubDate": "Thu, 21 May 2026 14:40:19 GMT",
-            "source": "CMoney"
           }
         ]
       }
@@ -3260,6 +3274,8 @@
       "defenseLine": "721.5",
       "firstTarget": "805",
       "riskReward": 2.15297450424929,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -3332,9 +3348,9 @@
         "url": "https://news.google.com/rss/search?q=3293%20%E9%88%8A%E8%B1%A1%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "3293 鈊象 - 外豬就是這付操作，買完隔天馬上砸盤~-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JTXpSeENLYm5FZVhBaE1FV1g0VDRWeTBwV1VNd1J6c1JnRU5mZ1dCWTNSUU53YTFsNE5lQjdDZi01QmRPd1FNNnRXWVFKREZVVmNteDRXYUQ?oc=5",
-            "pubDate": "Tue, 19 May 2026 11:43:20 GMT",
+            "title": "3293 鈊象- 鈊象千張大戶持股連續兩周增加-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81NnRmX0VCNGNpSF9URVhtOXI3VEo2OFhnS0JDR1J3RWg1ZWJXTE9CUUljSG5jZXZSdDd1TUQ5OGF2UURNYkgtb0c4UHR6UXVzYzZBbUNWZlo?oc=5",
+            "pubDate": "Fri, 22 May 2026 22:22:15 GMT",
             "source": "CMoney"
           },
           {
@@ -3439,6 +3455,8 @@
       "defenseLine": "16285",
       "firstTarget": "19195",
       "riskReward": 0.9464882943143813,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -3510,9 +3528,15 @@
         "url": "https://news.google.com/rss/search?q=5274%20%E4%BF%A1%E9%A9%8A%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "三大法人買賣超 – 外資買超(5274)信驊、(8028)昇陽半導體，投信買超(2330)台積電、(2327)國巨*，法人合計賣超434.5億元 - sinotrade.com.tw",
-            "link": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPd1FNRnJUSnVuTlJmYk4wRW9xOE5vUXQwMW1mX2ZYVWhURFJ5WmNSbGdseG5yTlRtcDZFdmpQVERZVzYtNkUtOGIxTWRQYXZMUmp1bVNfZTNacm4yNmtHM21GOTlIaUM5QUpDRWFEdTFtQmRpdXVTelFmS21JYnpHc0dodU5ub2pWRU1nNG41N2RsaktZOXZBOVMtTmxHWGk2OEY3ZkFZME5SRXFEelNCSEFPQk5tbmxRb1NJeXlyMGwyWFFrM2Jwb3pZaUtDalR2QlhxZVp2aDNvRjVZVnNNWjZrMUx1ei04Ymk5ZEx5WmphbDdMVldJejJBV0V6TGlvQ2ZZeFFsUmtOZ2F6Ym9iNnNsY1NKTlVoSFE2TFNPY0xFalJFcFFpREpjYXRBWjU3dE9PdmoxcnR6bk0xcDhBbzBKUVJkXzFNSmxNMGNQSzVGcXRSbE5xQkRIYTlockVoa0FuYkpDQTRZZkphTS04OFk4S1d1cmZZVmNHNEQ1bkpXcXNsc0dBdERlcFZsS2hneGViLXFwNFdwT2ppVFRkVEFGTkVuLVFjM25kRDVPVTJsOGxvR0xLaG1YZDE0UXNzb184RDFLaVM0WXh4YVJ0MWdvRUd5aEFPcW5qVnl2OHlreTVIZ0xoWm9FaHVmdFNubHFYQnVRVVJRZU9ETzJpUjZrZ1ItNVBLN0JJWEYzTWlwSDZuN3ozV3RnaHRCUTR1QzFMUHplSGR1VDlGWmxKb21tbTBMNDhYQXVGR1BFdTBwU3p4WFVoVzhsY2k2Vy1teGxUV21TVHZQME5oNUkyQTRxUHdnQQ?oc=5",
-            "pubDate": "Mon, 18 May 2026 08:49:34 GMT",
+            "title": "信驊(5274)- - 券商分點進出買賣統計-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZnRsekNyMEt2aGREZ2h5WF8zS2RUNGVVcGpxWVFwRHY4RHNoREVSZFpqNlAxTllPTkppOEJMenNwM0VRODRMMlFNOVZBeXNFaGRiQWh1LWhlaktfQWs2ZVNqaDhES3VSUUE?oc=5",
+            "pubDate": "Sat, 23 May 2026 10:39:28 GMT",
+            "source": "CMoney"
+          },
+          {
+            "title": "Factset 最新調查：信驊(5274-TW)EPS預估上修至177.58元，預估目標價為17160元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zdlBIVHgzV2tnYzY1TC1BNEFYVGlSQjN0Wmppd3Rldk5SNEt4dmhZZElFQmFjYjJqbU9SaEFQTGJweVIzMU40aDUzWUs5UVA3NU9mSUJfZ1FtT1JfcG9tdU5HakthajdHY1RTUFJuOUlnTGlXS1E?oc=5",
+            "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
           },
           {
@@ -3520,12 +3544,6 @@
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRkhrV0poWlFuVHZ4UjFsT2R2eUliSlh5eW9iRlVkT3NNTlVLVm4zbVU3WW1PYTNSa1ZUVWRSMG4xUmVzVUota0VrYWlIVGdXTzdENWlJN01DMzdkS1I1Q0J1Wm0wbDFGTlhjLUY4aFB2dF9pWjRvM1pNY2xqTUFXYjZkTjRBODNYb3pFV0otbXI?oc=5",
             "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
-          },
-          {
-            "title": "【即時新聞】信驊今日股價創台股史上新高，外資目標價上看7,500元帶動高價股行情最新 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16VUpmVHNsTjVEUFZheXZBZDAxWnljeTJRX0NMSFVUOVRCeVJTUlJ1dXpXeFlrYVhFVnltZU1EZ015eDRWS3o4cE5OZmdaXzBoSnVNRk9YOHE?oc=5",
-            "pubDate": "Sat, 29 Nov 2025 08:00:00 GMT",
-            "source": "CMoney"
           }
         ]
       }
@@ -3616,6 +3634,8 @@
       "defenseLine": "137.3",
       "firstTarget": "149",
       "riskReward": 0.6291066685306872,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -3700,9 +3720,9 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "緯創2月營收「遠優市場預期」！網喊「股價委屈了」...分析師看法出爐 - Yahoo股市",
-            "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQWFNjX0RqcGl0VS1kWlNDWE94TFh4NDZOZ2pzbEE2cEs0Wm5TYWdXUGl3X1F3ZVZaRHFfcENTNkVYYlVYaWotSmM0NTBBQUk3bnV5dUxuWkM2dHFjekh0elg2aThnZC1DSDBid2pCVENZZ0Rqa01LVm1CVThtTWdFWDJkYUs0TFctRWFCZFFlNXhYRVAzd3FyX2dPSGZPNlZ0Wi1FRldfMHQ3UW5MRU91X0xYOUlJd1lwaVlXMW9hSDlycjBhX2d3c010LUlKaGl3ejF1U1ZIYzNZR2ZjSy1zMmtSLTBnaGZEX2huMGhKa3B6U3dHY2swMklGdGdSR0lHRDY5bENZbERfWjFHT1J5bnRQS3BBWHNKQjJGTUxkOXpsVE9pQXNSOVRLT0pZV0lRVzJLZkM0R3lNS3BMUDNITGtJWjF4SURfQmVEak01SDVpWE05d20wLXUtZHpHSFhWRlhwM2Zkc3NtdV9EZU5oZ04tUlE5OFkwWFlIdDVnTGdGc1FtdGVaVW9FQnNPeDd0WDFCX3hMR1h3VlZPR3NYNXVORzlfYlpQWGtnMWtFbktFX095aTl4YXMyeHM5eWZ4b0VBSw?oc=5",
-            "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
+            "title": "緯創復活了？盤中勁揚近5% 分析師示警：反彈恐不易延續 - Yahoo股市",
+            "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxObWxpNzdpeHFuQ3RUQVFQZTF2SDJ6eVBTT0lGYTF6YXNfMEhfWm5YMUJsTmluSTI4SkxCb0dHNFItdDFORDJ5OVJhRDJ1bHVoZ3RRZVlibWZYSlpOMnVja3NSb2hHaHhDNDYxWnVNQk5oOTltU0dIcFBfeDU4SHFqV2Z2alY3aXlfdm5ra0ZEZXFvalRGS1lLTzBuUFQxdTNfdGstei1CbkE1ZUdfQjVvbjNVSVBhWTdPMU1Zb1E1V2Z3Y3RsclFfNGhjU0s4RjhpRDBORHNyczR4YVdZWjlidGs0c19pR2tleExtZ2JDaDYxUW5ZVjdXdFV1aHN5ajJiWmhFbnFwWmNWb20zYjVOVDhfYS1xMDBsNno2c04zUTlJaV9waHVPbHRYWkNwUkZFeVhfLVNldDVfU0FVRUhDcy00VXl1NHFwTFlwbG5CWDEzeWlXOHJIZERHczUwdy1Md1Z5Y3dLRnFKdFBZOVUyLTVUYmhnbGs4bklRcHFR?oc=5",
+            "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
             "source": "Yahoo股市"
           }
         ]
@@ -3794,6 +3814,8 @@
       "defenseLine": "83.04",
       "firstTarget": "97.90",
       "riskReward": 3.6971546432497675,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、離觸發仍遠",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -3868,20 +3890,20 @@
           {
             "title": "8112 至上 - 各位至上高手 今天外資拉上86去撞上面的套牢區後 放手滾出3...-股市爆料同學會 - CMoney",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoaVdtRUxyYWpsbXNGVjFKTGY4UVNVbU9ncnNfUk9aclQ2eGEwTDgtdENhdkZkRF9mQ2lIbkVfOFY0LVMxOHY0RV9sX3ZhZWh0OTZhbjdPcXQ?oc=5",
-            "pubDate": "Fri, 22 May 2026 23:33:03 GMT",
+            "pubDate": "Sat, 23 May 2026 22:15:05 GMT",
             "source": "CMoney"
-          },
-          {
-            "title": "【即時新聞】至上最新首季大賺3.91元，獲利挑戰一股本還能追嗎？ - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmVSeXFsVGRBTUVrTUlmRl9Fb0txeTNZWGFVaTIxb2sxbjhuWUVoVTAzMkgzUWlpN1FUOUxfSjFJTXNlUGYyNFBLdFV3MEVocXk4YmZjRjRZdkw2VzZsNjJ0V1otR25hNm5tVW9jVHVMb29fdmpRYXVMbFBtRXYwSlVjSnlEYTRKQlloWWhXUEk?oc=5",
-            "pubDate": "Wed, 20 May 2026 05:20:45 GMT",
-            "source": "CMoney投資網誌"
           },
           {
             "title": "營收速報 - 至上(8112)4月營收350.61億元年增率高達55.96％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zRGI3MUhxZ0RBcmdfbTVjRVNxSlVlZEsxT2N0bklndWdkRW9HNERSNHhhMXFqWGEtb1cxblQ3WlVKU1FwZ3I4UGQ0MWV3Q2R6a1JHUmZQQTY5d3paUU1PYkZvcWVZMV96dUp2YW9IVzVPdkpERkE?oc=5",
             "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
+          },
+          {
+            "title": "【即時新聞】至上最新首季大賺3.91元，獲利挑戰一股本還能追嗎？ - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmVSeXFsVGRBTUVrTUlmRl9Fb0txeTNZWGFVaTIxb2sxbjhuWUVoVTAzMkgzUWlpN1FUOUxfSjFJTXNlUGYyNFBLdFV3MEVocXk4YmZjRjRZdkw2VzZsNjJ0V1otR25hNm5tVW9jVHVMb29fdmpRYXVMbFBtRXYwSlVjSnlEYTRKQlloWWhXUEk?oc=5",
+            "pubDate": "Wed, 20 May 2026 05:20:45 GMT",
+            "source": "CMoney投資網誌"
           }
         ]
       }
@@ -3972,6 +3994,8 @@
       "defenseLine": "33.78",
       "firstTarget": "38.40",
       "riskReward": 1.689042356100088,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -4044,16 +4068,16 @@
         "url": "https://news.google.com/rss/search?q=2618%20%E9%95%B7%E6%A6%AE%E8%88%AA%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "【即時新聞】長榮航首季EPS 1.53元 法人估全年3.6元 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaE1vZ2cwZjM5aEs3OVhxRXRtbkZ2cDdFWlZ6Umh5emNKM1duMnQwWklQaFVvTjNDQ3NDVEZUb1hhS1g5dnVFUkczQjUxTVl6S21hTktsUDlEZWprTDFNYWtWSlZKdDNCNnVUd292VGhxbTd6aWRTX2FCWWdpa2lXX21yQzEtNzhVSXQtSW5INXI?oc=5",
+            "pubDate": "Sat, 23 May 2026 11:22:17 GMT",
+            "source": "CMoney投資網誌"
+          },
+          {
             "title": "Factset 最新調查：長榮航(2618-TW)EPS預估上修至3.84元，預估目標價為40.5元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwdF9kbTduLWlBYVVzUTM3c0VIS1dZWEtFMG0zenZaT0h6eU1LZWlHSkQ4bGRCeHhDLU82d29IdjY3aVNvaHBVQVo5UllXS190VDBBal9CcU5LZnB4dzA3X09NOUl6eWlSUUlxOTJiM0F2SVJFb3c?oc=5",
             "pubDate": "Wed, 20 May 2026 17:10:00 GMT",
             "source": "sinotrade.com.tw"
-          },
-          {
-            "title": "【即時新聞】長榮航4月合併營收219.69億元年增18.89%創歷史新高 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3RSaVZwQTBJN0xWdFJsUFFVRHZDNmFSek5xNEFTd3ZwZjI0MHB6OEpYbDJuOHU1R1VxdXlzLTFrSU5MTE92dVJJWmRmSFhZYzBJSTdkalYyMjJxaTh6MmtXWEwzSS1ZWmJtb2NnUk5LQ2poTUczYWRBUTNYSWF3T3NUTVRPMHpQQVozUFR0Zm0?oc=5",
-            "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-            "source": "CMoney投資網誌"
           },
           {
             "title": "【即時新聞】長榮航(2618)遭外資重砍逾5萬張，股價一日跌近4％ - CMoney",
@@ -4147,6 +4171,8 @@
       "defenseLine": "76.99",
       "firstTarget": "88.80",
       "riskReward": 0.9656532033294616,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -4219,14 +4245,14 @@
         "items": [
           {
             "title": "【12:52 即時新聞】長興(1717)亮燈漲停至79.9元，受益營收連二月走強與半導體封裝材料成長題材帶動、壓回後技術面短線轉強吸引資金迴流 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUXRXRFBCM0NqS3YyckpKd1NBOWMyZ19sRmlCYXZ3V3BiY2wyT3FkN2t2VkM5N2ZzYlVBZ0tWNVRZdk9hTnRLZnBfV2VwQ3ZNMTM0ZTdZUVVqM21fY1pXdTEzdkpweHR0RUNaQzlQcWdfVHVYNmM1VVRFNjk4RWZneGo5YkhNZzFUcXJTczRuRGhoYkpHVHlxOVJCNG9iWXd3Q2lObzN1SVBGQVlLVV83MDlBUGFJUVpNbk9XdTZUMkU3MEhkS2tObDlxeV9ac0E?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYm51TW5ZWHYtS2dPaTh1Mm1uQi1yWVZ4SHRURHhsMGRzek1sb1FqaklGdDlNbms2anlXbmxocGp5OEdXSzZpaF9mWnlzWGcxWWNSTkNqQmxGcXlvQWhCdVRPckRfNUJRWWdPWDBsWlZMZndROVk2cFpNbUw4ZEcwNTFFdUhOWnl3V05JNGNB?oc=5",
             "pubDate": "Thu, 21 May 2026 04:52:36 GMT",
             "source": "CMoney投資網誌"
           },
           {
-            "title": "1717 長興 - 下週會突破箱型整理嗎？-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2eG5OV0ZwRWNjbnhlNVdnR1piUVVyMk11cTlVdWdzeUFZMzkzQXJ4UXo0MGVfUVdTbHZJSC1EWXJlaFNMalVIaHNZSjluY1BKbnRnMVY1bG0?oc=5",
-            "pubDate": "Thu, 21 May 2026 19:23:52 GMT",
+            "title": "1717 長興 - 我剛剛替長興股票求得一首籤 看起來不錯喔 大家要有信心-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92UnhSVm9KNUpSajBmUzVZaVFHWWZSdlEzNEJmeHRKeDUzdGh1U041NnFmU3BkdlNlX1NvRU8zZUt2cjhhUnBSMko5UVVQcUNjV1VaZFNhX2s?oc=5",
+            "pubDate": "Wed, 20 May 2026 06:51:13 GMT",
             "source": "CMoney"
           },
           {
@@ -4323,6 +4349,8 @@
       "defenseLine": "4610.7",
       "firstTarget": "5215",
       "riskReward": 0.5325286234135082,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -4396,9 +4424,9 @@
         "url": "https://news.google.com/rss/search?q=2383%20%E5%8F%B0%E5%85%89%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "2383 台光電- 【最新消息】真的有520行情嗎？「10檔概念股」搶先關注！-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55MDNkaFljUWdPMk9iQ2htTmY5MFI2V213TlMzUkdGeXpfcGROT2JnRXFDWk1DLWhnZm1YSDlrUk9LWkt4Ym40MmVWUXhtbDRlcXVZYVFRWDE?oc=5",
-            "pubDate": "Mon, 18 May 2026 12:00:32 GMT",
+            "title": "台光電受惠AI供應鏈強勢上涨 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZWUF0cmd1M29TVm5GQ2pKZDZ5czZnQXVOYnhKYnkyc1hQcU15Q0pWYzF2eFNHQ1dRZ19CS0Q2NTNyeFM5dFNpenFxT0RqNjZrYW1xX0EtaHE?oc=5",
+            "pubDate": "Fri, 22 May 2026 19:20:43 GMT",
             "source": "CMoney"
           },
           {
@@ -4500,6 +4528,8 @@
       "defenseLine": "1357.5",
       "firstTarget": "1545",
       "riskReward": 0.5308072353109309,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "離觸發仍遠",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -4585,10 +4615,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "祥碩營收年增80%卻遭市場冷落？誰在默默布局「連接霸主」的下一波行情？【豐學PRIME盤後精選】 - sinotrade.com.tw",
-            "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQZTJTX2ZRNWtUQmlpUHdydEE3VVJpUk5MZ2NLRTJQVTN4V0lpdXNtT20xSUtxUDYtcWZzeHhjcTNRazZmTmtZMnNBX0FZRVAtZFNrTDh6emMtUHRyZndqdk1GWE13U0JNTUdyZlhfeWdEN3pidFFyaVRUZzk5eVFzMUFYSFhGbS1ldVpHR0U5TFBFUFVLS19BcG5zNkJlNnl3TzZFUWdGeTBFaENmQVZhckV6cDNDalI4aXZLQmpEWkYyRE9yMWV5V2VfVF9vTUtoYXo5UmZZTTBObXVzTU10S1RiTUpDNS1qUF9zQ2VlSmp3Tzlvc1JlcnA4UExKd3NQb0t0dmg4V3V4dHBfeEZwODA1Rkc5LUdEbEZDenNzYkpxU0hkNXl6amlBNkFiTXNuN0VMX2xEVkJGSFgycHM2SFQtOGpLdEl6cnJJQXFhaWVaRnR2c0ZyaHg4WFY2Ykd1ckEzX0JGdlpQTXY0dFNnTW5Ca3dkczlkdm15WHBBdGpfcXc1OUl3dFZJQkRiUnNMZXZmOUdFMGdUakdQd3ZlMmVfWG9pcS1ZamExTXBKU0x5cTZmQjBWaU9RNXRId1VFSXBPT1hoNnZ3ZW9LMzFGZllTaTRObkdjYzdsVFNleHZKXzlnNkpTMlJIQVZpYlBTOXVaOVR0Mk5aYmFHR3l3YXJVaFNrWnlhdmJvR09JdUhGZmxPNV9SNTN6aG5CeHFwZ29wdWxfbw?oc=5",
-            "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-            "source": "sinotrade.com.tw"
+            "title": "5269 祥碩- 近期陸股在炒作pcie packet switch晶片概念股-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DUnJsdG03Q2cwQVJfOGNlOWhYRXVEeDQtTkV2d19XbzhlV25yMWgyY1JZNEdrNG1CemEzSkJXLWw5Y0tjSXV0YTRjNldzTGR1SzFBWC1CQmI?oc=5",
+            "pubDate": "Fri, 22 May 2026 22:54:10 GMT",
+            "source": "CMoney"
           }
         ]
       }
@@ -4679,6 +4709,8 @@
       "defenseLine": "23.23",
       "firstTarget": "26.00",
       "riskReward": 3.849188270035643,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -4750,22 +4782,22 @@
         "url": "https://news.google.com/rss/search?q=2887%20%E5%8F%B0%E6%96%B0%E6%96%B0%E5%85%89%E9%87%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "2887 台新新光金- 5/19 外資買賣超-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tRldObEw4MUZ3WURrZ09SbS1Dd002N3FMWDZjb0VlRWVIaE5JUGlEMjVzXzlBdk10SHRWVHJQOHRQYUJYQy14bzJldDFRcGtJb1FmbHVnZXQ?oc=5",
-            "pubDate": "Tue, 19 May 2026 09:11:21 GMT",
+            "title": "台新新光金：接受真正考驗時，就看得出投資人的耐心跟持久力了！ - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xbHJ6a2tiYzFkN3lMNHpubl9xd2R2MDBCR0tBel96c0dIakw4LU1UNjlhbHd5SlE2NEJHTXMtbmNqRjFyQ0FYLTlHZGhGbFBlZzJicl9lWTc?oc=5",
+            "pubDate": "Sun, 10 May 2026 19:18:21 GMT",
             "source": "CMoney"
           },
           {
-            "title": "營收速報 - 台新新光金(2887)3月營收129.38億元年增率高達1118.75％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwUURONjVYb1BXQ083dzFxTGVGLTVPM1VRZV94RENXTTVNR25HMGtSSGZDQVVYUlY3WU5xdEdZUGRSdURoUE1KRVQwZXFUa2hJNHF2Q1lyMk1aSGFaMnJTV2d3NHo4cTFLQW43NE5TdVFuS0gxckE?oc=5",
-            "pubDate": "Tue, 14 Apr 2026 07:00:00 GMT",
-            "source": "sinotrade.com.tw"
+            "title": "台新新金光血流不止！最大尾兇手是「它」 6天倒貨近28萬張 - 自由財經",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GcUw3am5IXzMwVFctaWpObENzS0t4U00zUjhvLWNENHVCQ3FXeWFMMmYzVHA3ZEZ6NFIzVFQwdUpZenc3SHgtTGJZei1IUWNWS1lreEN5NmxNejlvcWJV0gFkQVVfeXFMTV9DT1ExbUhySGl4OXpKOGdIVzFWTjNwSGV2cGg5YmZtZ29Iel9RM0puX2dzQmxVWk5pLTIwa3Y4TDNVOTFhVW9nS1kwR2pXdERBWUY3bFAtRF9CNnE3X0c5VGMwcw?oc=5",
+            "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
+            "source": "自由財經"
           },
           {
-            "title": "【即時新聞】台新新光金(2887)獲利飆 454% 股價創高，這「5 檔金控股」買盤點火！ - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXp1VDlSR19kUFdxNkx5QmRrdEdZVjRwREhhMWtqazBVLUZwWFlXQXJCeFVSVk16SFFTQ1N5OV9pVEhIcTc3UlpIV1pNemhwZzd1R0plVFF1b1A2Q3Zkb3k0YVdEa19ZMmdlNm8yVmxGLVBGSTdZc0lEeE5IM1JocWM2a256N01UVDY0QVN4QmE?oc=5",
-            "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
-            "source": "CMoney投資網誌"
+            "title": "台新新光金前4月賺進288億元、年增381％　EPS 1.12元 - ETtoday財經雲",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMaW4zeTNvN0M2dHpxM1hCTHd0eklMaHpCaEkxTzBtUFUxaHdDVUF3ck1mNlhHcW50ZzUyOXVVQkxtYTZ3ZnJldmtlWVJFXzBydVHSAW5BVV95cUxPekJwTXkyTGI0dEZNeEhoUWlST0s0SjZpQXo2azBGSzJLOFdyandOelJEQ2Ntb2xkZ2VjeDB3N19DejIxU0d2dlhUMy1sZzVxR1F1ODJHMUtIVzdzRjU2eTZxeFpLajZPUmRpSGxCUQ?oc=5",
+            "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
+            "source": "ETtoday財經雲"
           }
         ]
       }
@@ -4856,6 +4888,8 @@
       "defenseLine": "70.21",
       "firstTarget": "84.80",
       "riskReward": 1.4763789620085905,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "離觸發仍遠",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -4981,6 +5015,8 @@
       "defenseLine": "2191",
       "firstTarget": "2345",
       "riskReward": 1.4070194637692457,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "量能需補、離觸發仍遠",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -5056,21 +5092,21 @@
         "url": "https://news.google.com/rss/search?q=2330%20%E5%8F%B0%E7%A9%8D%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "【即時新聞】台積電(2330)收漲25元至2255元 帶動台股四大紀錄改寫 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUtzVE1Ld01JdnNxakstSlBlQVlHa2c1ZVh4aXNuMFdmM1NNX01FRWg3bmVXaUFBSHJ5dUU5QjI4TjlZS25KUk1RTmtvOGhOUDVLTVN2NGFLYmx6NmszVmZ3dkdrWTExZEhvTGotSmFpZjM3bDdwT0d4RVJ4QlpTSzNMbTVCT3ZXWWd5WnVzeUc?oc=5",
+            "pubDate": "Sat, 23 May 2026 10:25:36 GMT",
+            "source": "CMoney投資網誌"
+          },
+          {
             "title": "台積電（2330）、0050回檔新手崩潰！網安撫：反而是加碼機會 - UDN",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UaTZQSjladFJEVlkwalBleFNuaGZUOXZJcnMtS0dRZW9wcFpraUZpTjl2MXZES2FTMGtqLVRLVHppTjlKYU80XzR2Si1FemxxMERj0gFYQVVfeXFMTXJaZEtUZHlvRXRybUdEb2hndHVPRE9WMHo1bHFuSkNQY0pLOTVfc3hXOFMxZXBTVmNwZ3pzR1VmelJvTkpPczFNRF9ISUxfSnFJOTF2V1dGaA?oc=5",
             "pubDate": "Wed, 20 May 2026 01:00:55 GMT",
             "source": "UDN"
           },
           {
-            "title": "【即時新聞】台積電(2330)列入AI相關族群 市場持續追蹤 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFJJU2Z1dzY1em5ULVRBZEt6VzVuNFJ3d1ZKc1prX3EzQVlCa2p4bHY4OTZFUXBab0tyMndmVVY3TEhFbm5ESEJCREFkbkEwa0RsN2MxUDJNazJvRzUwelhTbjMwZi1FbFJBeW4ydXA5NkVhNElRZ0ZmUXBMSUxwbzlpdE42c0VuR0xfdVBLcDI?oc=5",
-            "pubDate": "Wed, 20 May 2026 06:14:37 GMT",
-            "source": "CMoney投資網誌"
-          },
-          {
-            "title": "2330 台積電 - 【最新消息】台積電點名智慧眼鏡，「8檔概念股」搶先關注！-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84cGtmNW0zeXhLLXVUTGxNUUJEdmVFS2VQMTFxY3F2LTBKTGxtR05UWDc2WWJyaWtNVHQtOFZTd2tCS3J1cXBWemZvSVFwYUdCM0RseXUzY3Q?oc=5",
-            "pubDate": "Wed, 20 May 2026 17:15:00 GMT",
+            "title": "2330 台積電 - \"根據台積電（TSMC）最新2026年的第一季財報顯示，海外...-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UY05TQVNKbFpLUlBLajF5amtXbEU1RDZKaG5mNjFMU0JmdUlwcXhYTU50dW9SSDdLbVVhUUZVaXppS3lBa1Jocm41ZlJUTWRZemdpaVJZSVQ?oc=5",
+            "pubDate": "Fri, 22 May 2026 15:26:40 GMT",
             "source": "CMoney"
           }
         ]
@@ -5162,6 +5198,8 @@
       "defenseLine": "75.88",
       "firstTarget": "80.80",
       "riskReward": 0.28806548300244084,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "等待條件轉強",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -5341,6 +5379,8 @@
       "defenseLine": "544.6",
       "firstTarget": "615",
       "riskReward": 1.1089465008242168,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "離觸發仍遠",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -5521,6 +5561,8 @@
       "defenseLine": "134.4",
       "firstTarget": "160.1",
       "riskReward": 0.7053711951532411,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -5596,9 +5638,9 @@
         "url": "https://news.google.com/rss/search?q=2337%20%E6%97%BA%E5%AE%8F%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "【即時新聞】旺宏(2337)記憶體股價同步走弱 三星勞資和解消息降溫轉單預期 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU253cFUyQl8waVk4dFFaNkh6dXJnaXVqdjBCS3R4bUtmZnVIdG5kdngwYzdhSUFfeFdvVEtDd2lZQzNXYy1jNVp3T0dJaGtWYTJpaFE0eUN4SG9CUXg4RTA3TDl6VjU5cm45S3Qta0p2X3E3d0w3U0VHT2pBUG44LUNGTW1kX3hpZXNHQ2hPWDE?oc=5",
-            "pubDate": "Mon, 18 May 2026 08:52:04 GMT",
+            "title": "【即時新聞】旺宏(2337)記憶體族群急殺重挫 盤中跌逾9%拖累台股大盤 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa2lPWi1TSlBmOWxQZjNTalN5NHM4ZVNrN0hHYVhocTdyb3BWajFUY0RyLUU0T1puUk04N1o4LUxMNGFyVjZJZURQY3BRQkxKZW5lenZmdjE0NG5TOWdzWjhNcUVMVkRpMmt6MzlKSTVtcHJaSHBsbUhTQ20yOEJQTExvUDBSYlA4eG02R1NHUFU?oc=5",
+            "pubDate": "Tue, 19 May 2026 05:53:57 GMT",
             "source": "CMoney投資網誌"
           },
           {
@@ -5608,10 +5650,10 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "2337 旺宏- 【05/20 產業即時新聞】電子上游-IC-製造盤中疲軟，記憶體權值股領跌，特定利基股逆勢撐盤-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OekV6N3ZfZDRFbXIwNHZ1TGpYejQ4cTJJSl9rOHJKNHVmaWNoUlBXWmYzT0dyNGdIMlNhcm9NbW1LLXg1UGs3bFBRbERDMTFBemgwSEVqQUk?oc=5",
-            "pubDate": "Tue, 19 May 2026 10:31:30 GMT",
-            "source": "CMoney"
+            "title": "終結連10季虧損！旺宏受惠三星退場爆349億成交額台積電開高拉回顯疲態仍吸「453億成交額」居冠 - Yahoo股市",
+            "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxOOTJMdklkOFRyaWR5c3Y0dzNWamhjRmJ0UW9SWDdNbXRQaGx4anRBZlpXOXd6dWlRZjNqR3NkVHR6VlJ5UHJ1TWVNRW5DeHdvZlBpVXJqa3VjeHBxUlJLemtoS2FvVFFBSTZpMkx1LWZzZEdVQ1FXQ1g5X094UGVRV2JscmRzcHBFYWVFTnk0c2JvbkxKbWd4VzIzZHo0cnpvbVExUl9ZRXlrRUhyZ1RKY2tqclRJSngtMkhYRXF2TG5HbGxKZXlfVFFDaVY0ZG5DM0xrcG9VNnBLZGRYU3lDUVNCNlVMcml6VVNNZEhpa3ZRbnBkRkdabFBObmRpeHRzdmxFYzFhY0oyRjQ2dDB2bkVNU0VkbVZwZUNRWFlDdUpVQ2RoVTBaNXZGXzNkTFB0RGxxX2I3MWRHZzFPNGJZZmVVZlVkUTl3cHBHemZoT0F4dkVpVWRHM0hUYllSWllTd3o4SnFFMVJRYmRHWDZsaUFnSktDYmgySFpOZWZZMWVpU2NmVzd1enppZ1lfdXU3cGVPMi02cXA2enJqWldvS3pwMFh6MlBtYWN5RmxJbkhPc2ZYVllla0ozdHFBT2hyRGpCVzZEbktoRFpSLW5MRGZWRjJPbE1MYmFpWGVuQjV3ZmJpMWlyS2E2V3U1OGkzTHotRms5dzRYczhONnctZ1IwaVQxUm4tWEVfNUEyZnBveTBJcWhaX3o2X2dBMmd5eExFMjVjQQ?oc=5",
+            "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+            "source": "Yahoo股市"
           }
         ]
       }
@@ -5701,6 +5743,8 @@
       "defenseLine": "358.3",
       "firstTarget": "431.7",
       "riskReward": 0.15179522192939834,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -5776,15 +5820,9 @@
         "url": "https://news.google.com/rss/search?q=8021%20%E5%B0%96%E9%BB%9E%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "【即時新聞】尖點(8021)列注意股急殺跌停！這「3檔概念股」同步爆賣壓！ - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkt0VWdOY0VEcUl3WDFGb01pR2pzRDNzRFZYOEk0ZktPU2tfdlg3MlVjaTgxelg2LTN1ZHNCc05FLWNHblFaSUlUNmtzbkdNc2Y3bEtTaW9FSm8xcDluQ2dlMkJIZWxtbzRHNk5OQ2t6anBTSncycWx5MkJoV2pWUWdtRnBRRjVpZ2pPci16eWc?oc=5",
-            "pubDate": "Mon, 18 May 2026 03:43:29 GMT",
-            "source": "CMoney投資網誌"
-          },
-          {
-            "title": "【即時新聞】尖點(8021)最新營收飆63％，爆量殺跌停遭法人提款？ - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCSkJ0WkVicWdhTHlxTGtYZ1ZEclNBVUtJc09hWmdZM2JiTDRYQ3VGWXFTQkh6ZEtZSmFxQUI0aGVlOGxPRjBhdldWZ0RQeEk2S0UxdDBBTzFxdGRJZTk2aDFnY0JnZmM?oc=5",
-            "pubDate": "Wed, 20 May 2026 17:58:51 GMT",
+            "title": "尖點(8021) 個股概覽 | 個股 - 股市 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VY0puQW5kN2ZTek0xbncwYkRhWjZzZlJWTlBnY1Y1NU4wSmhIZVNXSWo4Wm5GcVhMenlfa25rVVRLcHlwUG9YTTZCWWdka2FRVThR?oc=5",
+            "pubDate": "Sat, 23 May 2026 12:04:57 GMT",
             "source": "CMoney"
           },
           {
@@ -5792,6 +5830,12 @@
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFNfeS02X3hjdWlFNUxZYWJpQnh1ODIxc1NQb1h6elJOTUZtN3g2UzdsOFFMMmVzeUFiTnd5VGVNYkpnNW8yel83N2ZrbmNmaGZKR2V4Ri1wZDJ5WUVDWmRNYnhpQXFDR1hpRkZjTlJaTF9KbHVBbGpsZUc5aU1pZ2s3OGZRbml0TG42LVM4ZDE?oc=5",
             "pubDate": "Wed, 20 May 2026 07:51:42 GMT",
             "source": "CMoney投資網誌"
+          },
+          {
+            "title": "營收速報 - 尖點(8021)4月營收5.25億元年增率高達63.18％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtR3JrME5tcEZxb2VoTG9DNHNTNlEzNXA2Sk9iNWkycVV2RkZRT2tFTUxSb1ZiSTNRR3dMTWIwREdoaE50UjFmcHJxNWJZM0s4Tk9FWUJLU0xfMGJoSVVkdkNENnZqbUdiRUNsZTJSUkhyRUhPNVE?oc=5",
+            "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
+            "source": "sinotrade.com.tw"
           }
         ]
       }
@@ -5881,6 +5925,8 @@
       "defenseLine": "1229.4",
       "firstTarget": "1408",
       "riskReward": 0.7757208208288308,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -5957,16 +6003,16 @@
         "url": "https://news.google.com/rss/search?q=2368%20%E9%87%91%E5%83%8F%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "全年無淡季 法人大幅調高金像電獲利預估及目標價 - UDN",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KeUFDNkNUOUszb19GTUUyN0N3Qi1DZkFScmI4QmEzZGFXNFNKZTZxS3h4bmVfS3ZkM2M4d2dZVkh4clZLS2pRMWVkR3AzQUYy0gFWQVVfeXFMT19VWktBUFN3ME92Nnp4TnNUWTZxTEhmblFuWG50bnRtT0pOOVppWTNHYkVwd2kydzZtMFNBOGpORkozWUxzZTc3d29rLWU0endNc3N5Qmc?oc=5",
-            "pubDate": "Tue, 19 May 2026 06:04:21 GMT",
-            "source": "UDN"
-          },
-          {
             "title": "金像電(2368) 個股概覽 | 個股 - 股市 - CMoney",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FMlZZMGJhZ0gxaU9KcFR5cTNfdm9VcUVpUUlIR1g3bjFXelotNDBWN3ZzUXEwZ2FvRzhoZFFVdGE5d0RnRmg5aGFFR2pxQjBjN3BV?oc=5",
             "pubDate": "Tue, 19 May 2026 04:27:58 GMT",
             "source": "CMoney"
+          },
+          {
+            "title": "奇鋐、金像電目標價法人狂升- 日報 - 工商時報",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43b2ZBeVlFd1hLQklkRnhBX3l2b0JjMlF0ekVGd3dudjItT2xmMEFTR1JjenE5TjV2Q25qX3hTZlBlemhVc0JZd0xacjVCR2ZodlpGMllXTnRlVzdpRzdB?oc=5",
+            "pubDate": "Sun, 17 May 2026 19:00:00 GMT",
+            "source": "工商時報"
           },
           {
             "title": "00981A大砍！金像電(2368)重挫跌停成「綠」 像電 - 理財周刊",
@@ -6062,6 +6108,8 @@
       "defenseLine": "3283.1",
       "firstTarget": "3767.5",
       "riskReward": 2.974187394222214,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -6241,6 +6289,8 @@
       "defenseLine": "774.7",
       "firstTarget": "891",
       "riskReward": 1.2652203294227482,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -6324,13 +6374,13 @@
           {
             "title": "【即時新聞】華城最新狂攬150億訂單，外資單日倒貨千張還能追嗎？ - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTJBVTF4UlZKZzg3UTdSeUxZb1J2UHlLemxYNDVoU0l4a0drX21FT2lSWjZSWnZvcTgyZVZuWFprcm8tYXpvSDh0VGRjaEQxdFRCS3JaTkpRT2NpeGZXS1ByUE9ZbDFfcXVfVzJoZVpYZFlqMTZSWV9YcUF3cE1FR0NLenZJZElkLVVLaEEwRW4?oc=5",
-            "pubDate": "Fri, 15 May 2026 02:50:50 GMT",
+            "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
           },
           {
-            "title": "1519 華城 - 全力加碼！越跌越買，上看-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfemRtVVU3SEc4WWhjOVZiQUE3alY2YlZxRWU2Rmt0V1NUd3Jpb2JTX0UwTml6aV9ZYkd6dzNKTHVDMFpBTzIycjdWRkJhQ2tkUHEwZV94YUM?oc=5",
-            "pubDate": "Mon, 18 May 2026 23:05:36 GMT",
+            "title": "1519 華城 - 狀態非常棒！持續加碼，瘋狂洗盤狀態，上看-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qRjRUZU5GaU1CR1YySFhLd2dQUkNrOGVTOXVFRUNpcTFWVWNXUjVBRFdqRlJYMzVMODRWQUFhWXhSSHdkc2duWDFMeFlRTVdCT0hCZE1TakU?oc=5",
+            "pubDate": "Tue, 19 May 2026 15:06:41 GMT",
             "source": "CMoney"
           }
         ]
@@ -6420,6 +6470,8 @@
       "defenseLine": "161.2",
       "firstTarget": "182.9",
       "riskReward": 0.6341204135369658,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -6495,12 +6547,6 @@
         "url": "https://news.google.com/rss/search?q=3715%20%E5%AE%9A%E7%A9%8E%E6%8A%95%E6%8E%A7%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "定穎投控(3715) 個股概覽 | 個股 - 股市 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QRjZZdlJZUHVibGtQaDd4MWNxdVQtMnZXTDhyN096bDlUVzFUZkw1ZmVkTUtkWElRaHI1ZUduNnFqQjFMdjVPQlkzTGhtU0JhdDFV?oc=5",
-            "pubDate": "Fri, 22 May 2026 13:45:07 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "定穎投控喊到 250 元，EPS 4.76 元到底撐不撐得住？-陳柏宇 - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2hYeEl3aEduUlN0S21DRzlLMTBPb3dOOEFhZVRlNWtJcTVWV1VEcXRsdzRlcmlrZWpJWHVVT2V0dlNTT2JPcGFkanEwLXphOHBVZERwRDlaTi0tZnhWZ1ZqRlRfZ2NjbmgwOFVIUTlCaXdCRHh2azlna1didDE5Ug?oc=5",
             "pubDate": "Fri, 22 May 2026 00:04:01 GMT",
@@ -6511,6 +6557,12 @@
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qS3g3a01fV0RCblpZaE1fX09FNEVGSF9kaXl2SGlkTHRDMzcweXl4NTJRblFRT2otaHRGaVlIamt4cEFnMTlkbTlGUjNEZmpDRm1hbTNVeldxUlpsRVB0a21LZW1XN1ViNHJxZFItTWRRZ3VNMGc?oc=5",
             "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
+          },
+          {
+            "title": "大摩參訪PCB泰國廠 定穎投控&楠梓電 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ubUVFWHdLcmNRWWxUWGtvZ0VpeEJ4UmR2M05reG1DQjMwcks1dHp4eWx1NTFSZUNlQW10blFmVC1XT0hTVnY1d0dvRVo2Z29OM1UwVVFnUVk?oc=5",
+            "pubDate": "Wed, 06 May 2026 12:34:07 GMT",
+            "source": "CMoney"
           }
         ]
       }
@@ -6601,6 +6653,8 @@
       "defenseLine": "2384.2",
       "firstTarget": "2768.6",
       "riskReward": 0.17998812259198232,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -6677,6 +6731,12 @@
         "url": "https://news.google.com/rss/search?q=3081%20%E8%81%AF%E4%BA%9E%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "3081 聯亞- 你相信光嗎？-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rSm43UW8zVy15TFduTDlmeUs1eEdfLVBpT3NJQVlZZGYtbVNRLWctWWxEemFtNjg3Q25uM3p2clRyS1ZmNkFVTURmYzhtLTBpdUFlLXV6R1c?oc=5",
+            "pubDate": "Fri, 22 May 2026 20:11:57 GMT",
+            "source": "CMoney"
+          },
+          {
             "title": "【即時新聞】聯亞光通訊訂單能見度高 受惠OCS市場擴張 - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmhucDBwMmtkRFZHSXRMbXVPazdvcFpIMlBPQVp2Z2w2b1VFLU5RSzlaUEI5UzFtR3EtaGxPZlJWdWxWWW92T0oxOWd6bnN4cFE0MVQ3Uzh2RDFmRWR6d1hZWlFPTGNVelZFczFNR3ZnU3NIdktDbzdWd3FKeFFKY1Fnc25ybmg3a2VqMFA1blM?oc=5",
             "pubDate": "Thu, 21 May 2026 12:59:59 GMT",
@@ -6687,12 +6747,6 @@
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzYkZZaS0zUmtMLWVPQ1hoaGRUakFiRTJWcmpWR1k5a1BrUDNHR3NpOHE5TTBVRHJHU2J4MFpaRG9odVYzRlRuekMzNTY1ZHh6ZXFndVRnODEwSnk0YWtmU1BscGUwb19VdkpRQWVuQVpjZG13ekE?oc=5",
             "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
-          },
-          {
-            "title": "【05/19券商評等報告彙整】聯亞(3081) 今日僅1家券商發布績效評等報告，評價為看多，目標價為3,300元。 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qNW5xQ0k5bDR6bGRkN1VtMjNZQVNJclp1ZEVJeWFrcXk3Z01Zc0MzSzJFX296T2xQYXFfVUFTU0lBb0oxcDRIcXVfalk4X0FFWmlLUkZHdWRKdExiY3JIb0hMcDRfTVk?oc=5",
-            "pubDate": "Tue, 19 May 2026 10:50:03 GMT",
-            "source": "CMoney"
           }
         ]
       }
@@ -6783,6 +6837,8 @@
       "defenseLine": "2577.7",
       "firstTarget": "3009.9",
       "riskReward": 0.7838581151679263,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -6857,22 +6913,22 @@
         "url": "https://news.google.com/rss/search?q=3131%20%E5%BC%98%E5%A1%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "弘塑(3131) 個股概覽 | 個股 - 股市 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16SHBmQWtpUWt5RmRTVVNrV1llUjlQMWVDRm5UTElCWnU3VmdDMUJqb25qeVlhM0dzM2htd2l1ejNGcXBYTjYtemJRNUF2Yk1wT2RB?oc=5",
+            "pubDate": "Sat, 23 May 2026 08:31:15 GMT",
+            "source": "CMoney"
+          },
+          {
             "title": "Factset 最新調查：弘塑(3131-TW)EPS預估下修至67.09元，預估目標價為3495元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yTGxTZWw0T0tndTJraW4tLTd6SUFvQmYtR0d1Z1dwQmdnZE1xbUFTVXVFX090Vkc1Qy0wMzJVMk4yakFkcGFldWtLSjRmR2N6Z0NiVTZ2d1hkdFlRcXpZX3NtYTlwUW5TbHNEanA4Q0Jlb1VqclE?oc=5",
             "pubDate": "Mon, 04 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "【即時新聞】弘塑首季EPS 16.11元年增81.57%，訂單動能強勁交機量逾200台 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSGtRMjJlZUl0UFFaeW41SnF5Ti1pZjZmb1JkaUxQXzc3NlVQSmFIanJOV2tScFlsX25NT3o5UlZVN2dHSHVZNTFwcUM5V1gxcE02eHNvRkExNUtQMUN0Y3J4cGx2YjJ2VWZmVGh0RjZZbWxmX19ubjFnT2FoOHdWeDYwcFNBbGxjQ0ZMSU1JY3c?oc=5",
-            "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+            "title": "【11:05 即時新聞】弘塑(3131)股價勁揚6.53%至3100元，先進封裝訂單動能帶動買盤迴流＋短線乖離收斂吸引技術性回補 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW1WMERvWXIyblB4MkVMdXozX0NIbEFSTVVPSlpsT3hBYWxVdk1wc1FNRTlzX3hQUmdiMHpuenM4eEFVUWFQY1NZSHNvODhuZlJCWm0yNVFuM0QzMnFTVmEtR05MNV93cFpyN2NZZU0xUUliMzhzYjBqcEhGbWNPQkNnaGJCZzEyblg5RkxR?oc=5",
+            "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
-          },
-          {
-            "title": "獨／弘塑前總經理遭控營業秘密外流 法院今裁250萬交保並限制出境 - UDN",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6cTVDMXI5aXpCOTgwRVZFOFRnc3ZHLTdVLTBzakpUVGd6bkxFc0hRazJOdTdwSWNlZTN5WVd4dkJBSHpCdWJkRE1xcGJWeWdi0gFWQVVfeXFMTzVnX1kzVWlNRTFTV2tpOS1sNFk5SFM1UVJYRG1lV3pHVVRadEVKYWM0clVzbE52OFBIa2kxd1hCMm9FbjRlN244Q2MtYXp4YjZTSW5sT2c?oc=5",
-            "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
-            "source": "UDN"
           }
         ]
       }
@@ -6962,6 +7018,8 @@
       "defenseLine": "99.18",
       "firstTarget": "110.8",
       "riskReward": 0.4831753747950318,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "等待條件轉強",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -7143,6 +7201,8 @@
       "defenseLine": "3223.1",
       "firstTarget": "4087",
       "riskReward": 1.1496046731100817,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -7227,10 +7287,10 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "【數報】注意股:力旺(3529)因近日漲跌幅過大，今(05/20)日列為注意股 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2VITlloQlA1Ri1YMTJyZHpzNld3YlpFc3pWU1E1UzBKeVp6WVJzUG9uUTYtcHVfMUVQdlRfbG54MGRoUUppSGVXdU9LeU9INTJvZnliYWNFSnlMellGcGF2MW1EV3phV1lxUC1iNFE1SW9ESS1jM1pUZE9ESDV5VlgyS29lQWRmMlFHY3lR?oc=5",
-            "pubDate": "Wed, 20 May 2026 00:35:00 GMT",
-            "source": "富聯網"
+            "title": "3529 力旺- 力旺展望佳，法人樂觀-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80Q0ZUZldIS2MyVkoxb204ejZJM0NRRUd0SDVIMXlHWl95RW9DaVB1REdMX3hDTWdiOF9mZmZoME1uTjRFeWoyYVR5X0FJLXlwYjVXMWFYLTE?oc=5",
+            "pubDate": "Wed, 29 Apr 2026 10:57:51 GMT",
+            "source": "CMoney"
           }
         ]
       }
@@ -7319,6 +7379,8 @@
       "defenseLine": "1005.7",
       "firstTarget": "1192.2",
       "riskReward": 0.3889468156341569,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -7396,7 +7458,7 @@
           {
             "title": "萬潤(6187) 個股概覽 | 個股 - 股市 - CMoney",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55azFMWWF4VjBuYmVnTFAxeTI5SDRXenJOZXVReU9VLU4wRzVfUDNOVHdYU3hGMC1DZFE5NXd3WjV0WTBoOVMwREZTc043bU5ZczBJ?oc=5",
-            "pubDate": "Fri, 22 May 2026 09:20:02 GMT",
+            "pubDate": "Fri, 22 May 2026 17:26:37 GMT",
             "source": "CMoney"
           },
           {
@@ -7406,9 +7468,9 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "【05/20 申報轉讓】萬潤(6187)經理人黃景德於20日申報轉讓萬潤股票20張-CMoney 小編 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcGk3ZGNzcnk4R0JmZDZwXzJrQ2RmME5VZ2tWdHlMdTI5OGdOZlcyeGdFcGU1Wl93a2w0eG1EdWlBYlpYem5aTml3bXczWU9QTHo0ZlBFTmcwRzNMZXc5aExJOWpfc1N1Y1haZ1lRN0FIRmlsUkVJZWhqTkdIcVQwdjJ4ZE94N3Zyc1E?oc=5",
-            "pubDate": "Wed, 20 May 2026 13:10:11 GMT",
+            "title": "【即時新聞】萬潤(6187)獲ETF砸8億建倉，這「5檔概念股」買盤接棒引爆！ - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVZYdmFlY0VRZFBTWUlFN2RWaFViWm9NNWhBZUNvd2k2RUowa3BIU1ZScmRhNjU3MHIxMnFsaTQ2dnJ2LWxfb0Iwd0xEU1VOQ2RlSWRLc1lINEhINVlTTlA1SFdiZk5UdWxJeEdieUV4Q2M1OENlR2RPLS1LX1dXVlJFX0pjdFlMWmZ0eDl0Zng?oc=5",
+            "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
           }
         ]
@@ -7499,6 +7561,8 @@
       "defenseLine": "916.2",
       "firstTarget": "1109.4",
       "riskReward": 1.0602352817836178,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -7571,10 +7635,10 @@
         "url": "https://news.google.com/rss/search?q=3324%20%E9%9B%99%E9%B4%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "雙鴻(3324) 個股概覽 | 個股 - 股市 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83V2haRldfZ1JUQWx2VXZtR2ZMQ1VfaGtpbjhXcWUzSGtoTkZHOWhuYUNaZ2hkYkJEb1hNekF1NFJKeGRmTGJFa1ZIV3hkd2c4azQ0?oc=5",
-            "pubDate": "Fri, 22 May 2026 20:42:02 GMT",
-            "source": "CMoney"
+            "title": "【即時新聞】雙鴻上調2026營收成長目標至七成，受惠ASIC伺服器散熱訂單 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdHh5UkJfblhZSHJnX05QQ2o1YTF0NlJwWkpQYlV4NnFDX2xhNmd4VzVjdUJCQWRPUVFTYTg5UzRqaXdSc05ucXRYbGJXZG5Ud3dsQXkxbVJVaUVvcmNwdDR0UURyeW9BUjJKa0hnRkpTYXIwOXRDZHVEZm1MbWtrWU82TGFDVVowdE5EYm9Mcnc?oc=5",
+            "pubDate": "Sat, 23 May 2026 11:23:17 GMT",
+            "source": "CMoney投資網誌"
           },
           {
             "title": "Factset 最新調查：雙鴻(3324-TW)EPS預估上修至57.97元，預估目標價為1400元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
@@ -7583,10 +7647,10 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "【即時新聞】雙鴻AI ASIC散熱大單湧入 上調全年營收年增目標至七成 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeThkbFVpejR2eE9seklBUndRaGJHR0dwMG1fMVRFSjN5MktGVk9MakU0a2lRN0QySDhXc2FSVFVsSkdjOFE3MnhwMExjQmhiYklDU05PMlNwamxtRHd2emhZSkJEQjVQZ0JPMVZJc2djanpQMkdNM04tUXpjTXYyUGVrYkdrZDdpa2kyOUIycS0?oc=5",
-            "pubDate": "Thu, 21 May 2026 13:01:13 GMT",
-            "source": "CMoney投資網誌"
+            "title": "《價值型投資 最新產業研究報告》奇鋐（3017-TW）與雙鴻（3324-TW）散熱升級主線，液冷成為AI伺服器標準配備。 - news.cnyes.com",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1NUxjN1d2d3U2d3ZMaEZDLTBORGtBbEdTc3ozek5ydVotRXdLeXFyaUhBTnFIcWFzdzU2SWw3cGpiMmJZWU9WQm5NbXpxTGM?oc=5",
+            "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
+            "source": "news.cnyes.com"
           }
         ]
       }
@@ -7675,6 +7739,8 @@
       "defenseLine": "287.9",
       "firstTarget": "331.8",
       "riskReward": 0.5621295201860941,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "等待條件轉強",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -7758,7 +7824,7 @@
           {
             "title": "Factset 最新調查：廣達(2382-TW)目標價調升至385元，幅度約4.05%｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40X2kybXlZUWd3czYzQTZySHJQeVgwWW00VVVFa2lfWGdWZVU0UkxuNjNONXNNMVpjWTNaODBaNFdMbHBVZEpBWjBacm9lYjNjNWNob0ZGNUNaWW5kNkN6YlE4WThkR2VmQWpUZEhTWm5FRTZjN3c?oc=5",
-            "pubDate": "Thu, 14 May 2026 09:10:00 GMT",
+            "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
           },
           {
@@ -7855,6 +7921,8 @@
       "defenseLine": "1361.9",
       "firstTarget": "1497.1",
       "riskReward": 1.8108243433592477,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -7945,10 +8013,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "亞德客-KY 3月、Q1營收雙創歷史新高 4月出貨動能看俏 - news.cnyes.com",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0d0lnWHY5alJZQ25YeUgzN1o4UGt0YzNQVHA4aUZSUEVEOW9NMlJCZ2JEQjJXMEZBdmZtRnRETElsM1NVNFlnMHR0Zkt4c1k?oc=5",
-            "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
-            "source": "news.cnyes.com"
+            "title": "亞德客-KY Q1獲利拚高；看好氣動景氣領先上行- 新聞 - MoneyDJ",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYS1HeE5HaFdqVFNta1NGMjdlVGN5bU9sQlRMUGRyQ3hYczFwSzk3YkVqQU0xR3l5SkdubGljcWZ4UlZ3UVV0WDBKdkNoRHBXYjZxUE1TQXZyalhwSTdUd0stNl9qZEJhNldBNEQwNXZ2X21Rdmc3WURyM2xnMU9MeC00VDhycWt6bkwxYi16Y3NHdw?oc=5",
+            "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+            "source": "MoneyDJ"
           }
         ]
       }
@@ -8038,6 +8106,8 @@
       "defenseLine": "261.8",
       "firstTarget": "311.5",
       "riskReward": 0.4537163433400174,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -8117,16 +8187,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "2449 京元電子 - 各位朋友晚安，我是老葉。 上週五記憶體 IC 設計才在「汰...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTmNIU1ZQSm9YTVR0ZWk4VkRvOW42eVpBNEZxZWY4N1c5b2ttdzhzRHVDZ2RyZkJJUFpzV3lFU3FLU1BWdjhDVUwzWXVNTkI0WE1kWm0yalA?oc=5",
-            "pubDate": "Sun, 17 May 2026 23:00:48 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "Factset 最新調查：京元電子(2449-TW)EPS預估下修至9.77元，預估目標價為370元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TY2J1cEVwanBrXzkzRlBfaVEwWVF1Qk9fNW00aEpNeVhVVnprY0sxQkFESC1hMkwyRE1OU2Jrbkp4bEx5WlBDUzhrN3NubTJONTYzTHBlRGM0R3MwbE9pWnFfbzV0QWVsb1E3RVllLW5KcHNhVlE?oc=5",
             "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
+          },
+          {
+            "title": "京元電(2449)做什麼的？股價連噴3天衝354元還能買？目標價曝光！和力成(6239)比較：誰能複製日月光(3711)翻倍漲勢 - 今周刊",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdG82Vk9Xa0RudWpXTUl6bEJ4ckhJRGlmdEtaSWdtN0RKRWhBbFRJbjZOUGRFODUtWHFlZHcxR05sTEt5UmQ4R1huSUVSdzYzYW1zYjFhTm5DaHkwbVN1bW1EcE5IRXdTQUVxS2lPM280NjhjaHp6ei1TSXBvd3Y2aA?oc=5",
+            "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+            "source": "今周刊"
           }
         ]
       }
@@ -8215,6 +8285,8 @@
       "defenseLine": "2227.2",
       "firstTarget": "2676.2",
       "riskReward": 0.41285727310678183,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -8297,16 +8369,16 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "大摩出手！「散熱大廠」Q1每股大賺20.17元 目標價喊上3333元 - Yahoo股市",
-            "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUy1jc3czRk5wUDZpeGsyUzVaZ2hQZDBURC0wU2hFbmhvSkFZUE12N3dJRXY2c0ZqU2JSR0cybU1WcVI2YWJzMnBhMGRzdUVGTkw4Q09KWk9jWVl2QWhmOFE5YTlHM2xaa05ERkU4a3p5WUFHMGxiV0V5TG9ObHQzVlN3R0FiSU1hRzJyM280UkNJV05KczNrUk5waUFaZzZOQXBaSVhLWEVoWTVLVl9UM0ZzZThIbkV3ai1Yck80T05jdjZPUzB4czVoblpVT3FTa0tZbmVncm1rSmtDbGdULVkzVzdPV0t6azdfcVVvUGRIUjRHYU1fcG5WTUZQelAzVEx5Z0NTbDEzRWh0LU9aLWJ4X0JxOWUtTE92RDlxS0xsZDhlTDBNME01Ny1ZckZISGJ4ZkxmMDZvSWNmWGhvWUk0STI4WGlrd3dGOUN3VGl2dw?oc=5",
-            "pubDate": "Sat, 16 May 2026 00:30:54 GMT",
-            "source": "Yahoo股市"
+            "title": "3017 奇鋐 - 跟著外資就對了 空下去喔😍-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtX2tSTWx1WDdxRWkyUk5PNEFiOFJkMjVYbmxYX3hla0tjeVdfeUlCTVlkb3hqSmo5Nk5UMFRpZW5hRUVTSi15UnFpVFllNzhJVXRVdnFJajA?oc=5",
+            "pubDate": "Sat, 23 May 2026 01:33:37 GMT",
+            "source": "CMoney"
           },
           {
-            "title": "【即時新聞】奇鋐受惠AI伺服器液冷趨勢，法人預期今明年營收獲利高速成長 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3VaamRMYW5FZUxmT040NDd6T2hrak9nOHM2aEsxVFZtdzNuaDd4a2puOVpRN3plSGZCTmcyeWdSZHUwRGNjOHBmaGNnckxxMWVhczVwYkpSYVZiZjdHcERPZ3dLUkg4aENqa0N0RmdRa2kyVDdKODFUblZvWFZ2dC1HSWx3Z3dkUFc5LUNPU3Y?oc=5",
-            "pubDate": "Tue, 19 May 2026 22:59:34 GMT",
-            "source": "CMoney投資網誌"
+            "title": "奇鋐新平台/ASIC專案H2出貨放量，水冷產能放大 - 台視全球資訊網",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnlBT1lLZ0JZWnJiUms3SXpENnFPd3FlajFieXQ4encxRDk1X0hndXNWZy01WHVBZ0xoaDl0Qlh0TkhnVV96X1BPUm9BNWo3REY4Rm90LTNuREtOVkxJMlpTOTVaOEE1cmQwempxbTFQQmZfck5halh5Z0RnWFdjUkxteFR4M1B1MzRLR0lqLVhkZw?oc=5",
+            "pubDate": "Fri, 22 May 2026 04:53:05 GMT",
+            "source": "台視全球資訊網"
           }
         ]
       }
@@ -8395,6 +8467,8 @@
       "defenseLine": "27.40",
       "firstTarget": "29.58",
       "riskReward": 7.3835773643473495,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -8574,6 +8648,8 @@
       "defenseLine": "255.8",
       "firstTarget": "289.9",
       "riskReward": 1.3162028375731172,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -8752,6 +8828,8 @@
       "defenseLine": "62.49",
       "firstTarget": "82.45",
       "riskReward": 0.2014123327919913,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -8835,10 +8913,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "【即時新聞】南茂(8150)飆漲34％列注意股！這「5檔概念股」買盤接棒狂飆？ - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaX0psQkVOSWY1aFpXQkxDQVVrU0lqQy1lOUp5WXhLNWNnc2thLUl2bnp5Qi1ENk1BVEwzak5ocHNHaWpIU3Y0VkU5RE1OaUdlWDlMWThpTUNweWxTVklvczlrX3BLYmc?oc=5",
-            "pubDate": "Mon, 11 May 2026 03:45:09 GMT",
-            "source": "CMoney"
+            "title": "瑤姐押南茂不是巧合？SpaceX「Terafab」千億計畫浮出檯面| 財經 - Newtalk新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPdS1uN3REYzVZZmFtQ3B1UnZTMVNYS1BGakZ4VGNEakVJRjdQZU5VVHBQem50ZF9WTkd2ek5Wd2UyVWRuN2lkVGh3S2VsdGFQYW1jQzhyc09Wa3M?oc=5",
+            "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+            "source": "Newtalk新聞"
           }
         ]
       }
@@ -8927,6 +9005,8 @@
       "defenseLine": "1632.5",
       "firstTarget": "1968.3",
       "riskReward": 1.0664841485187646,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -9007,7 +9087,7 @@
           {
             "title": "營收速報 - 富世達(6805)1月營收14.04億元年增率高達115.76％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuQTFPQ19kWkkxUlZzQmFWQnl0bDExdnNMSDJsTEpTdXhuclVjWmVLVUF5WXljZEp0VVRpck5QcU4zV3IzbzNIblllbTFMQzdybHpSTHJ5LWw3QXZGc2pqTklXY3NEUVdaVG5NMkRfcE1Rd3Etd1E?oc=5",
-            "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT",
+            "pubDate": "Sun, 08 Feb 2026 08:00:00 GMT",
             "source": "sinotrade.com.tw"
           },
           {
@@ -9116,6 +9196,8 @@
       "defenseLine": "532.9",
       "firstTarget": "603.1",
       "riskReward": 1.499999999999998,
+      "executionPlan": "可盤中執行",
+      "executionNote": "過觸發且量能配合，再依防守控風險",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -9182,9 +9264,9 @@
         "url": "https://news.google.com/rss/search?q=3711%20%E6%97%A5%E6%9C%88%E5%85%89%E6%8A%95%E6%8E%A7%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "【即時新聞】日月光投控今日鎖漲停收561元，外資連二買助攻 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRUo1RDhsWWU5cU5aaWJ1S1dveTFvbzZpZ0tuMzhxaXc0VHA1MjUxVVRrb1NjMGduWk9raW5oNl91YUhLTTczYm1TaXMyRHU5ZmZtMXZPcjZMTWdzS0pxVjBkYVVhTnpFc1VRZWNZMWloTzFQSG9nUTBGMXlXckJtZFhQc3JxVGpzZGVDSlhZcUQ?oc=5",
-            "pubDate": "Fri, 22 May 2026 14:23:32 GMT",
+            "title": "【10:09 即時新聞】日月光投控(3711)攻上漲停561元，受惠AMD先進封裝合作題材＋外資回補搭配中期多頭結構 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1J1N0FjalVXRWJkeTN1QmY1YlRDUGlwMnZiNlVPTFZLbHhjUHR5THJvelJQVGxOa1B4ZDhyTkhNaTdVekJQN296QXR3QlFfSHNPeHV4SUNnZEpxRkM2eFJFT1dlOU9oVTZ2ZmtPWGc4ekF2Tjk0Wllqc3lPQndDcUNWVjk1ZjRpTUVDYUR3?oc=5",
+            "pubDate": "Fri, 22 May 2026 02:09:27 GMT",
             "source": "CMoney投資網誌"
           },
           {
@@ -9295,6 +9377,8 @@
       "defenseLine": "943.7",
       "firstTarget": "1006.3",
       "riskReward": 2.250000000000003,
+      "executionPlan": "只等回測",
+      "executionNote": "不追突破，等回測買入區",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -9366,10 +9450,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "愛普、力積電 大摩按讚 - 經濟日報",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02UGo1dFZqMkVfYlJMTW5qZG93M3RVaUlrYVlsSzZaODlONFc0TWZFM1BFdnFyOTVkTzZRaUNHcUdBbFM2aE5oSUlNMU9uY3pqeDVkOS1CaTU4QdIBX0FVX3lxTE9LdkdSTXA4ZTQyTXBwZUxEOC1nd0xuLW1mT3BqZml1amZIdENJa2Q3Y0x0b0hTSjZmQmNSV2Z6blk0TmFNRGYyS0lsVjJISXd6VkFVS05ueVVyeV9FNmZV?oc=5",
-            "pubDate": "Fri, 22 May 2026 15:39:59 GMT",
-            "source": "經濟日報"
+            "title": "【即時新聞】愛普*獲大摩優於大盤評級，目標價1555元 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iay01UkZPQ09ZSXV3WWFGWi1RSHR1NDZoRjNhQU1mQnFPdUplV1FYZjBaZlJMc1hPNDJCdkY2MGpUOVVwQk1BRGN3d1pSeDBmbWpjVzRaYzdtakFoNnJnNzFoRXJacGc?oc=5",
+            "pubDate": "Sat, 23 May 2026 10:31:01 GMT",
+            "source": "CMoney"
           },
           {
             "title": "愛普*（6531）做什麼、法說有何重點？2026年第一季EPS達4.15元，IoTRAM強勁需求推升營收年增115%，S-SiCap量產佈局加速啟動｜股市話題 - sinotrade.com.tw",
@@ -9475,6 +9559,8 @@
       "defenseLine": "504.4",
       "firstTarget": "570.8",
       "riskReward": 1.500000000000001,
+      "executionPlan": "可盤中執行",
+      "executionNote": "過觸發且量能配合，再依防守控風險",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -9546,9 +9632,9 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "3105 穩懋 - https://youtu.be/Mi2bSiH0DcA?s...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01MW1SLXl1WkM1LU0yUDZmRjROc2lBLXgtMm12ZW1QRmtjc04tV1Rla1pkSV85VFljLXNkOUNVdlFPU3dHWmMxQ1EwX09QNzNpTWlPMVVQZzE?oc=5",
-            "pubDate": "Thu, 21 May 2026 20:17:23 GMT",
+            "title": "3105 穩懋- 光通訊磷化銦1.6T 雙雄奮起！！-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JY3BlQ0VZX1RhcnFtOEZoYzFSVlM2ZHBjYk5Cb09TWUtHRHlEczJhWjItNlM2ZHNUMWI0WkhhTW4yUHVSSUtCN1g0QV8tbU81bkpXdW1VS0c?oc=5",
+            "pubDate": "Thu, 21 May 2026 22:32:55 GMT",
             "source": "CMoney"
           },
           {
@@ -9657,6 +9743,8 @@
       "defenseLine": "77.33",
       "firstTarget": "87.51",
       "riskReward": 1.5000000000000018,
+      "executionPlan": "可盤中執行",
+      "executionNote": "過觸發且量能配合，再依防守控風險",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -9724,7 +9812,7 @@
           {
             "title": "富采(3714) 個股概覽 | 個股 - 股市 - CMoney",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wbkItZHFHNVhKYTNDc1BKa3pfSms2MUdNVmVGNEV4Xy0zTktvZjFLdE42elRLM1UxckVMOWRUbjNoX21ONm5tTUd0c2RCYmZMWnE4?oc=5",
-            "pubDate": "Fri, 22 May 2026 13:34:21 GMT",
+            "pubDate": "Sun, 24 May 2026 00:18:52 GMT",
             "source": "CMoney"
           },
           {
@@ -9841,6 +9929,8 @@
       "defenseLine": "403.8",
       "firstTarget": "456.9",
       "riskReward": 1.5,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "過熱不追高",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -9976,6 +10066,8 @@
       "defenseLine": "167.2",
       "firstTarget": "189.2",
       "riskReward": 1.5,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "過熱不追高",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -10112,6 +10204,8 @@
       "defenseLine": "189.5",
       "firstTarget": "214.5",
       "riskReward": 1.5,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "過熱不追高",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -10249,6 +10343,8 @@
       "defenseLine": "56.52",
       "firstTarget": "63.96",
       "riskReward": 1.500000000000001,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "過熱不追高",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -10383,6 +10479,8 @@
       "defenseLine": "597.5",
       "firstTarget": "676.2",
       "riskReward": 1.5,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "過熱不追高",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -10515,6 +10613,8 @@
       "defenseLine": "578.5",
       "firstTarget": "654.7",
       "riskReward": 1.5,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "過熱不追高、量能需補",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -10649,6 +10749,8 @@
       "defenseLine": "490.2",
       "firstTarget": "554.7",
       "riskReward": 1.500000000000001,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "過熱不追高",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -10786,6 +10888,8 @@
       "defenseLine": "42.42",
       "firstTarget": "48.00",
       "riskReward": 1.5,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "過熱不追高、量能需補",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -10909,6 +11013,8 @@
       "defenseLine": "57.38",
       "firstTarget": "78.90",
       "riskReward": 2.3516592560336367,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -10978,6 +11084,12 @@
         "url": "https://news.google.com/rss/search?q=6770%20%E5%8A%9B%E7%A9%8D%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "力積電(6770) 個股概覽 | 個股 - 股市 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fa28td2RpOUpneE9TVGlKUVdfU1J6WHpPenV3WHl5dnBJUmN4MW1ZeXVYMkpiV2dfRU44SnFSb1ozRlV4cThTTHFsLWJ3WEJHcnhZ?oc=5",
+            "pubDate": "Sat, 23 May 2026 15:27:40 GMT",
+            "source": "CMoney"
+          },
+          {
             "title": "【Follow法人】外資狂掃761億元史上第四大！ 敲進力積電華邦電逾14萬張 續補緯創3萬張 - Yahoo股市",
             "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOWkhYRUVrMzA5Nk5XOHBhdE8wVW4wLXN2VWdEem1jZnhLLUdxeTYtMy1FOFhmcWI5a1BTWnlLaWszVmg1WHdpNFFqNXYyVFZFdjBvOWpCQ241bHZTWUhNOFhkREpSSW56MUZDYnVmNHVCU3ZIck5iZmlGTDRrdmVyRzRrTzdjM1Noc282TTdYVURsajVTWElMZnREcHQ4R3dja0owdk9fV0ZleEI5NkJxeWRrd003X3p4WnNRWW5RemV1TnlvZ05zVXpKSlNqMUZNMnlDb0xTSWsyZkd2d1BaRUY0R1RDd2g0Smxyd2lHZnQtMVRrdXlrSzRjSXg5RWVWMm84cFh5cHd1aDBtMExXRUw1NGo0dWhFT2ZyM1hteXJobUVMU2FTVmJlWXR0TjcyUHdCZDluZnNCM01NU3B6dUluZU1vNUg2VWU1RTA5V0hralk4dG1iRE14WGhqNkt6R3Y5YnJ1ZGgxRktQaGJQbGFPdy1JMnlIMkZoUTdKN3AtekVQdmIwdkFVZGw4RnlZallUSE90SG5NT3M4NlpMbU9iZ01jQmpKRlJfdTIxMVRRdU9VMDF3blMyczFVdTV5d3BhV2tGaTc3VkJVbUkzUFlSenVxdC1KYWQxcmdKY0NXOC1TREhnOXFlaldVemwxX1hvVFlPTUowUQ?oc=5",
             "pubDate": "Fri, 22 May 2026 08:33:18 GMT",
@@ -10988,12 +11100,6 @@
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2lnMzJPVDFHRkc1SGNSM1NXei1BQ2ctUHpjRzhzM1NsZWMwa3pkMUNnVDNKU18xajRTRFZXc19lUEJkVmxqV2tocldQNlJxZHp3aXJ3U0drSW9nOE9KOTdyV1lFSk55aEhBaTRUNndZRzdPTkxIcHhXZ1kzcTBaVWI5Q25ZRlE?oc=5",
             "pubDate": "Fri, 22 May 2026 03:06:31 GMT",
             "source": "CMoney投資網誌"
-          },
-          {
-            "title": "6770 力積電 - 【力積電(6770)盤後解析】外資主力聯手，價量齊揚 力積...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlM3dUYTRTT0FDbGFXZFpnbzVwYzBVbUl6Wm5USzFOV3BOdVdZSGVTM0l2ZnpaWHRRVHFNaWZ3WnlvY0dfVUxWYWkyWC1SSzJ0aVFHRVVRUjM?oc=5",
-            "pubDate": "Thu, 21 May 2026 22:29:28 GMT",
-            "source": "CMoney"
           }
         ]
       }
@@ -11093,6 +11199,8 @@
       "defenseLine": "532.9",
       "firstTarget": "603.1",
       "riskReward": 1.499999999999998,
+      "executionPlan": "可盤中執行",
+      "executionNote": "過觸發且量能配合，再依防守控風險",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -11159,9 +11267,9 @@
         "url": "https://news.google.com/rss/search?q=3711%20%E6%97%A5%E6%9C%88%E5%85%89%E6%8A%95%E6%8E%A7%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "【即時新聞】日月光投控今日鎖漲停收561元，外資連二買助攻 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRUo1RDhsWWU5cU5aaWJ1S1dveTFvbzZpZ0tuMzhxaXc0VHA1MjUxVVRrb1NjMGduWk9raW5oNl91YUhLTTczYm1TaXMyRHU5ZmZtMXZPcjZMTWdzS0pxVjBkYVVhTnpFc1VRZWNZMWloTzFQSG9nUTBGMXlXckJtZFhQc3JxVGpzZGVDSlhZcUQ?oc=5",
-            "pubDate": "Fri, 22 May 2026 14:23:32 GMT",
+            "title": "【10:09 即時新聞】日月光投控(3711)攻上漲停561元，受惠AMD先進封裝合作題材＋外資回補搭配中期多頭結構 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1J1N0FjalVXRWJkeTN1QmY1YlRDUGlwMnZiNlVPTFZLbHhjUHR5THJvelJQVGxOa1B4ZDhyTkhNaTdVekJQN296QXR3QlFfSHNPeHV4SUNnZEpxRkM2eFJFT1dlOU9oVTZ2ZmtPWGc4ekF2Tjk0Wllqc3lPQndDcUNWVjk1ZjRpTUVDYUR3?oc=5",
+            "pubDate": "Fri, 22 May 2026 02:09:27 GMT",
             "source": "CMoney投資網誌"
           },
           {
@@ -11264,6 +11372,8 @@
       "defenseLine": "60.48",
       "firstTarget": "82.50",
       "riskReward": 2.4844509149119096,
+      "executionPlan": "可盤中執行",
+      "executionNote": "過觸發且量能配合，再依防守控風險",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -11335,6 +11445,12 @@
         "url": "https://news.google.com/rss/search?q=2367%20%E7%87%BF%E8%8F%AF%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "2367 燿華- 黃仁勛點名：燿華正式打入SpaceX 衛星計畫供應鏈！-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10SEZzNm5iLWRKaENpRFl0UlZtUjFBZEtvT3FSYXN4bW9XbExHaUpmQmlYLWxadW53SjE0ME80bkNuenFGT01NNUI3VjlYOVJ3eHFaclFvazU?oc=5",
+            "pubDate": "Sat, 23 May 2026 02:41:14 GMT",
+            "source": "CMoney"
+          },
+          {
             "title": "Q1虧損擴大至2.35億元！燿華營運拉警報 法人點名「2大翻身關鍵」 - Yahoo股市",
             "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNODVfelF5eHFsME43bjhFTUxhS2xkc3dqUXpjQUZFeUw4cHZ3XzdQQ1pjV3Qyb3BhQktqMWlhbHZXTkppNHFBcWZLUy01ZHhNU2tCbWdEWXB2NFp5eHFSS1FnS3Z3LWltRzE5aTI4dDFXVU9VR3Z3Yzl2SXk2WlhjU2hIckVKMDhoVkMwV1pDSVgycWZBMDBuZVFlUy1vUDhJNHJQTDM4akI4SzVlYTRmZW5rRmNfbWdldGxZOFdmcmRpZjFqR3YzQ0NHV0Y3WFktQ1JOcXVnYTJMcHFFQWZ1VWt4LVRnRk1MQWtfaFdsXzdBUDNlbW5jblJKSGl3X01LVE5QekdRdEhBRS00Q1VsMjMzZ0tHNE1TN29CTGl5Xy1zTHRtbG4zVFZxZ0RZTWktZVNiR1Qzb1NMbUJwSnhGc05HSHN4VnRJS1hzcEVOcUl1WXFUQjNtVlBTc2NBOTRCdXR6YWk0UWdoQnlGamxIMmJHZzdmdzMtcXRKRA?oc=5",
             "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
@@ -11345,12 +11461,6 @@
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uUk55QzEzSDlHc1hVNGR3SUlGZ2FoUnByVkJEQkZPNlo0TENoeVhHTlBHdThsTGFtZXlSR1BVZ1l1d2NGcVRsN29XeUE2Z2J3eG1VZWREVFI?oc=5",
             "pubDate": "Mon, 18 May 2026 00:40:16 GMT",
             "source": "自由時報"
-          },
-          {
-            "title": "2367 燿華- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBna013UlpfRnA1NlViSHRoM0RyT1VsNTJ3N2RFaXlWcHlEM1hwdUtMRl9ud3dESnhtSlB2bHRmS1hlaDVHWGtmX0dPSllkem1oRXNzVnNUMUc?oc=5",
-            "pubDate": "Mon, 18 May 2026 18:37:29 GMT",
-            "source": "CMoney"
           }
         ]
       }
@@ -11448,6 +11558,8 @@
       "defenseLine": "943.7",
       "firstTarget": "1006.3",
       "riskReward": 2.250000000000003,
+      "executionPlan": "只等回測",
+      "executionNote": "不追突破，等回測買入區",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -11519,10 +11631,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "愛普、力積電 大摩按讚 - 經濟日報",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02UGo1dFZqMkVfYlJMTW5qZG93M3RVaUlrYVlsSzZaODlONFc0TWZFM1BFdnFyOTVkTzZRaUNHcUdBbFM2aE5oSUlNMU9uY3pqeDVkOS1CaTU4QdIBX0FVX3lxTE9LdkdSTXA4ZTQyTXBwZUxEOC1nd0xuLW1mT3BqZml1amZIdENJa2Q3Y0x0b0hTSjZmQmNSV2Z6blk0TmFNRGYyS0lsVjJISXd6VkFVS05ueVVyeV9FNmZV?oc=5",
-            "pubDate": "Fri, 22 May 2026 15:39:59 GMT",
-            "source": "經濟日報"
+            "title": "【即時新聞】愛普*獲大摩優於大盤評級，目標價1555元 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iay01UkZPQ09ZSXV3WWFGWi1RSHR1NDZoRjNhQU1mQnFPdUplV1FYZjBaZlJMc1hPNDJCdkY2MGpUOVVwQk1BRGN3d1pSeDBmbWpjVzRaYzdtakFoNnJnNzFoRXJacGc?oc=5",
+            "pubDate": "Sat, 23 May 2026 10:31:01 GMT",
+            "source": "CMoney"
           },
           {
             "title": "愛普*（6531）做什麼、法說有何重點？2026年第一季EPS達4.15元，IoTRAM強勁需求推升營收年增115%，S-SiCap量產佈局加速啟動｜股市話題 - sinotrade.com.tw",
@@ -11620,6 +11732,8 @@
       "defenseLine": "66.32",
       "firstTarget": "76.90",
       "riskReward": 1.529856489999357,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -11691,9 +11805,9 @@
         "url": "https://news.google.com/rss/search?q=1802%20%E5%8F%B0%E7%8E%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "【即時新聞】台玻股價大漲逾8% 玻璃基板概念股受市場矚目 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVVzQWNmeWQ3a3ZUY2x4OGI1WWsyVlNBSWltQllxeS1GT1RyUHhEcFcyUl9VcFUxb004WmtnNkJHRFJZb0RiaTV2dmFBNHlzcG12S3VUTlB4WC1hWG93c3o0QXpBZEdKMERaenA1LVpGTE83cXJ6OGlYNTFsbDRVUmpUaUJsaG1PM1dmODFHTXE?oc=5",
-            "pubDate": "Fri, 22 May 2026 08:53:25 GMT",
+            "title": "【即時新聞】台玻獲外資買超37,462張，今日收盤價上漲至70.5元 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWlDSW9qN1lUVFpxYU83MFh3SThzZjZmTVM4RldqWTl1QUtQZEtUaktSY0Q1amFobzloOTBGWFFUREN5bkhJT2JGVXcxTEg0RFUybmE0QXdQRGZpMmx5Nnc1cDBDRnY0dFFfTks4Q2lQNU53SUtfbDgxSEdzQmhOZE9MYzY5b1l5ejJidzVVMkU?oc=5",
+            "pubDate": "Sat, 23 May 2026 11:16:41 GMT",
             "source": "CMoney投資網誌"
           },
           {
@@ -11703,10 +11817,10 @@
             "source": "CMoney"
           },
           {
-            "title": "台玻（1802）股價創高該獲利了結？網勸「分批出場」：別執著賣在最高點 - UDN",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03SGNMTXRqZ0ZHWEhSOTB0NW8ybF9qWlVDaUpqQVBFZjZ5WjJFYU5ScXhwNmZhcG9RTjRTNXVSZ2hrVzVieG9EY19Oc3JvYnlWS0HSAVdBVV95cUxQRHJDRmJRZUZFTGw2RWhtSk5Ma3NpbF9ud0FsaUlWdVhMUjQwYjZjNHlwWnM5UUhSMmU3WTZEOS1TVVFsSWpyTzZOc0NjS2x1SW9MdVFMaXc?oc=5",
-            "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
-            "source": "UDN"
+            "title": "【即時新聞】台玻股價大漲逾8% 玻璃基板概念股受市場矚目 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVVzQWNmeWQ3a3ZUY2x4OGI1WWsyVlNBSWltQllxeS1GT1RyUHhEcFcyUl9VcFUxb004WmtnNkJHRFJZb0RiaTV2dmFBNHlzcG12S3VUTlB4WC1hWG93c3o0QXpBZEdKMERaenA1LVpGTE83cXJ6OGlYNTFsbDRVUmpUaUJsaG1PM1dmODFHTXE?oc=5",
+            "pubDate": "Fri, 22 May 2026 08:53:25 GMT",
+            "source": "CMoney投資網誌"
           }
         ]
       }
@@ -11806,6 +11920,8 @@
       "defenseLine": "504.4",
       "firstTarget": "570.8",
       "riskReward": 1.500000000000001,
+      "executionPlan": "可盤中執行",
+      "executionNote": "過觸發且量能配合，再依防守控風險",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -11877,9 +11993,9 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "3105 穩懋 - https://youtu.be/Mi2bSiH0DcA?s...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01MW1SLXl1WkM1LU0yUDZmRjROc2lBLXgtMm12ZW1QRmtjc04tV1Rla1pkSV85VFljLXNkOUNVdlFPU3dHWmMxQ1EwX09QNzNpTWlPMVVQZzE?oc=5",
-            "pubDate": "Thu, 21 May 2026 20:17:23 GMT",
+            "title": "3105 穩懋- 光通訊磷化銦1.6T 雙雄奮起！！-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JY3BlQ0VZX1RhcnFtOEZoYzFSVlM2ZHBjYk5Cb09TWUtHRHlEczJhWjItNlM2ZHNUMWI0WkhhTW4yUHVSSUtCN1g0QV8tbU81bkpXdW1VS0c?oc=5",
+            "pubDate": "Thu, 21 May 2026 22:32:55 GMT",
             "source": "CMoney"
           },
           {
@@ -11988,6 +12104,8 @@
       "defenseLine": "77.33",
       "firstTarget": "87.51",
       "riskReward": 1.5000000000000018,
+      "executionPlan": "可盤中執行",
+      "executionNote": "過觸發且量能配合，再依防守控風險",
       "waveZones": {
         "pool": "hot",
         "entry": {
@@ -12055,7 +12173,7 @@
           {
             "title": "富采(3714) 個股概覽 | 個股 - 股市 - CMoney",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wbkItZHFHNVhKYTNDc1BKa3pfSms2MUdNVmVGNEV4Xy0zTktvZjFLdE42elRLM1UxckVMOWRUbjNoX21ONm5tTUd0c2RCYmZMWnE4?oc=5",
-            "pubDate": "Fri, 22 May 2026 13:34:21 GMT",
+            "pubDate": "Sun, 24 May 2026 00:18:52 GMT",
             "source": "CMoney"
           },
           {
@@ -12159,6 +12277,8 @@
       "defenseLine": "1078.2",
       "firstTarget": "1310",
       "riskReward": 1.524988017951286,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -12233,9 +12353,9 @@
             "source": "MoneyDJ"
           },
           {
-            "title": "【05/22券商評等報告彙整】高力(8996) 今日僅1家券商發布績效評等報告，評價為中立，目標價為1,100元。 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HWUZncmRRMDkzd2phREc4M3M0NlBMZGNOZXc5RktkYkY2UFBZLUxCY1Y4c3JMSXBTQVg0eFl1NjlBd1BndlRHcU1GSlNaZkt5aUl2MEFMb2RCT0Y0SGZiX1VJSGZTLUU?oc=5",
-            "pubDate": "Fri, 22 May 2026 10:50:04 GMT",
+            "title": "8996 高力- 高力新聞-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90Y29MRnNNVDRyZnZLT2RNby1lUnJJNHY2Wm1PbTM3NjhLa0N4Ql9qZTlGRTRsRlAtRHJybERZNm4yUkc4UXRabExfcmRKdjNiWFBGN3ZXRlE?oc=5",
+            "pubDate": "Thu, 07 May 2026 09:59:50 GMT",
             "source": "CMoney"
           },
           {
@@ -12333,6 +12453,8 @@
       "defenseLine": "135.4",
       "firstTarget": "170.5",
       "riskReward": 1.2470023980815357,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -12414,9 +12536,9 @@
             "source": "CMoney"
           },
           {
-            "title": "【數報】盤中快報:8039(台虹)股價漲停鎖定在139.00元，委託買量250張。 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMkJHc3FyMnF2clVUOElpaTJyQ1A1c3V2RTE5VzFMWl9jbDZqZEZrX1JwVGtLSmdjMl94RTlONnowV2tBanZvQk9RVXhGaGM2cVc3c0ZqaWsycldQQk9xdHVNNTNZRndfNFVielRTV0NjbEYwNG5ZRktSbnViSDBmT1BKRk4xMlhuZms5QmdmSGk?oc=5",
-            "pubDate": "Thu, 21 May 2026 03:55:00 GMT",
+            "title": "【數報】盤中快報:8039(台虹)股價急跌至128.50元，壓低幅度達到5.22%。 - 富聯網",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDVTX2syRHBKVlVLVVBFWUtlZmJBZC14Y2RzdmFiejVRekplZmI3aDBaeG0xc3pUekxmQ1BaZ21ZVGJCV3g0S2drZ1BFbFh2aE5GRmtYanJ2bkZvTVA3ODVRN2ZlRFZ3SjFJS3oxd2JydG1xbk42YVFGdG40Q05vYUQ4WGtlUHVHal9SelVR?oc=5",
+            "pubDate": "Wed, 20 May 2026 01:29:00 GMT",
             "source": "富聯網"
           }
         ]
@@ -12507,6 +12629,8 @@
       "defenseLine": "134.4",
       "firstTarget": "160.1",
       "riskReward": 0.7053711951532411,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -12582,9 +12706,9 @@
         "url": "https://news.google.com/rss/search?q=2337%20%E6%97%BA%E5%AE%8F%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "【即時新聞】旺宏(2337)記憶體股價同步走弱 三星勞資和解消息降溫轉單預期 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU253cFUyQl8waVk4dFFaNkh6dXJnaXVqdjBCS3R4bUtmZnVIdG5kdngwYzdhSUFfeFdvVEtDd2lZQzNXYy1jNVp3T0dJaGtWYTJpaFE0eUN4SG9CUXg4RTA3TDl6VjU5cm45S3Qta0p2X3E3d0w3U0VHT2pBUG44LUNGTW1kX3hpZXNHQ2hPWDE?oc=5",
-            "pubDate": "Mon, 18 May 2026 08:52:04 GMT",
+            "title": "【即時新聞】旺宏(2337)記憶體族群急殺重挫 盤中跌逾9%拖累台股大盤 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa2lPWi1TSlBmOWxQZjNTalN5NHM4ZVNrN0hHYVhocTdyb3BWajFUY0RyLUU0T1puUk04N1o4LUxMNGFyVjZJZURQY3BRQkxKZW5lenZmdjE0NG5TOWdzWjhNcUVMVkRpMmt6MzlKSTVtcHJaSHBsbUhTQ20yOEJQTExvUDBSYlA4eG02R1NHUFU?oc=5",
+            "pubDate": "Tue, 19 May 2026 05:53:57 GMT",
             "source": "CMoney投資網誌"
           },
           {
@@ -12594,10 +12718,10 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "2337 旺宏- 【05/20 產業即時新聞】電子上游-IC-製造盤中疲軟，記憶體權值股領跌，特定利基股逆勢撐盤-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OekV6N3ZfZDRFbXIwNHZ1TGpYejQ4cTJJSl9rOHJKNHVmaWNoUlBXWmYzT0dyNGdIMlNhcm9NbW1LLXg1UGs3bFBRbERDMTFBemgwSEVqQUk?oc=5",
-            "pubDate": "Tue, 19 May 2026 10:31:30 GMT",
-            "source": "CMoney"
+            "title": "終結連10季虧損！旺宏受惠三星退場爆349億成交額台積電開高拉回顯疲態仍吸「453億成交額」居冠 - Yahoo股市",
+            "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxOOTJMdklkOFRyaWR5c3Y0dzNWamhjRmJ0UW9SWDdNbXRQaGx4anRBZlpXOXd6dWlRZjNqR3NkVHR6VlJ5UHJ1TWVNRW5DeHdvZlBpVXJqa3VjeHBxUlJLemtoS2FvVFFBSTZpMkx1LWZzZEdVQ1FXQ1g5X094UGVRV2JscmRzcHBFYWVFTnk0c2JvbkxKbWd4VzIzZHo0cnpvbVExUl9ZRXlrRUhyZ1RKY2tqclRJSngtMkhYRXF2TG5HbGxKZXlfVFFDaVY0ZG5DM0xrcG9VNnBLZGRYU3lDUVNCNlVMcml6VVNNZEhpa3ZRbnBkRkdabFBObmRpeHRzdmxFYzFhY0oyRjQ2dDB2bkVNU0VkbVZwZUNRWFlDdUpVQ2RoVTBaNXZGXzNkTFB0RGxxX2I3MWRHZzFPNGJZZmVVZlVkUTl3cHBHemZoT0F4dkVpVWRHM0hUYllSWllTd3o4SnFFMVJRYmRHWDZsaUFnSktDYmgySFpOZWZZMWVpU2NmVzd1enppZ1lfdXU3cGVPMi02cXA2enJqWldvS3pwMFh6MlBtYWN5RmxJbkhPc2ZYVllla0ozdHFBT2hyRGpCVzZEbktoRFpSLW5MRGZWRjJPbE1MYmFpWGVuQjV3ZmJpMWlyS2E2V3U1OGkzTHotRms5dzRYczhONnctZ1IwaVQxUm4tWEVfNUEyZnBveTBJcWhaX3o2X2dBMmd5eExFMjVjQQ?oc=5",
+            "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+            "source": "Yahoo股市"
           }
         ]
       }
@@ -12687,6 +12811,8 @@
       "defenseLine": "65.72",
       "firstTarget": "86.90",
       "riskReward": 1.9103115630417549,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -12762,16 +12888,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "【數報】盤中快報:2485(兆赫)股價急拉至74.50元，拉抬幅度達到5.77%。 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0hqejYtTHFSMlVreDBWWFpxajBkdGlsZTRKdTViZnE1MW9MaUNjV3JQQmxkZ05fNU93cGJFaGprZ0pwUktoOS0xbDVkdVBueDN0MHR6UVBTcGM0U0drbm0zcG51dlgwUkVBc0FyX0wzajVjdy1qbGtfYjlHVTNWNzFBS2tJZ0ZkRHlncE5B?oc=5",
-            "pubDate": "Wed, 20 May 2026 01:18:00 GMT",
-            "source": "富聯網"
-          },
-          {
             "title": "【即時新聞】兆赫3月營收月增63.7%年增200%，首季10.45億元創2023年第3季以來新高 - CMoney",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wUHUzRDlCN0RrWUdMU0NhTVViN3pId2VKZ040dnJaRi12TTRzTjRzVWZyeVliWV9jSEttT0pfRDNkU2QtdGsxYk1Fc3hQbGtVSXZCWEQ3OWY?oc=5",
             "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
             "source": "CMoney"
+          },
+          {
+            "title": "Q1 營收年增 149% 兆赫(2485)轉機確立 低軌衛星＋DOCSIS 4.0 雙引擎啟動 - 理財周刊",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1feHMtdHl4dmNUY1BqbEE5d3UydllxRExnVzUwcEhDd0ZpcUxJUjR3b1ZrRjV4bGZfUWJjSFhZajNKTzZHN3FPVlB2M0FBc0hldFk4NEp3YXpWVloyY2pGaUh3R3ctSHBzZ1BoUkZEbw?oc=5",
+            "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+            "source": "理財周刊"
           }
         ]
       }
@@ -12861,6 +12987,8 @@
       "defenseLine": "370.7",
       "firstTarget": "435.5",
       "riskReward": 0.3280974449411474,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -12932,6 +13060,12 @@
         "url": "https://news.google.com/rss/search?q=3030%20%E5%BE%B7%E5%BE%8B%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "德律(3030) 個股概覽 | 個股 - 股市 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vbWVsY3lRcjZOMy1JWXozeDRrTjByeWs1OHdZRG9xS0Vqd3gzOTJKYm9oWFdZNXBZUm5JMEtfU2ZienAwNjR5aTZjYkZzamw1Mksw?oc=5",
+            "pubDate": "Sat, 23 May 2026 05:07:11 GMT",
+            "source": "CMoney"
+          },
+          {
             "title": "【12:25 即時新聞】德律(3030)亮燈漲停至381.5元，AI伺服器＋半導體檢測雙引擎推升評價、短線量能回補搶價強攻 - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYy04cVBOVzJLeUM3c1BWZHR2U1RaUXhKOEdtNG81Q3FjTTZTYmRhZ3ZRTVdES0duakozeEg5SS15UEhhcXNTM1hWM2d0MC1ZVWtGM2VnM3ktZmM2Y1NWejA5WlYxdEVqczlUZnpIWjhFbWxNRU13Y28tVk9meEZRNVE4M252SUtMQ0NxeTZB?oc=5",
             "pubDate": "Thu, 21 May 2026 04:28:54 GMT",
@@ -12942,12 +13076,6 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NN1hGTmlEa2tGQzk2ZW1RTlhTcXBoOVVYOVBrZDNTejRDWlY3X1lKSFdPQW9TOUJXVHdSVU5oZjNIU1NiY2RkQzJhSUtuTENNWFJHd2docTVkM2JVUXFZ?oc=5",
             "pubDate": "Thu, 21 May 2026 19:00:00 GMT",
             "source": "工商時報"
-          },
-          {
-            "title": "德律（3030）— AI時代被重新評價的隱形檢測王者 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93bWtYc0tsXzVLa2tGSmNtbl8wUjdVUzlVeFFQZlVhS1VMSTNfempwSXdJdWJEV0tBV2QtbTF2Q0sxZlhqYm9qT0tnMWNHYkx1Q3VwYVdEcmI?oc=5",
-            "pubDate": "Thu, 21 May 2026 14:40:19 GMT",
-            "source": "CMoney"
           }
         ]
       }
@@ -13038,6 +13166,8 @@
       "defenseLine": "721.5",
       "firstTarget": "805",
       "riskReward": 2.15297450424929,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -13110,9 +13240,9 @@
         "url": "https://news.google.com/rss/search?q=3293%20%E9%88%8A%E8%B1%A1%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "3293 鈊象 - 外豬就是這付操作，買完隔天馬上砸盤~-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JTXpSeENLYm5FZVhBaE1FV1g0VDRWeTBwV1VNd1J6c1JnRU5mZ1dCWTNSUU53YTFsNE5lQjdDZi01QmRPd1FNNnRXWVFKREZVVmNteDRXYUQ?oc=5",
-            "pubDate": "Tue, 19 May 2026 11:43:20 GMT",
+            "title": "3293 鈊象- 鈊象千張大戶持股連續兩周增加-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81NnRmX0VCNGNpSF9URVhtOXI3VEo2OFhnS0JDR1J3RWg1ZWJXTE9CUUljSG5jZXZSdDd1TUQ5OGF2UURNYkgtb0c4UHR6UXVzYzZBbUNWZlo?oc=5",
+            "pubDate": "Fri, 22 May 2026 22:22:15 GMT",
             "source": "CMoney"
           },
           {
@@ -13217,6 +13347,8 @@
       "defenseLine": "16285",
       "firstTarget": "19195",
       "riskReward": 0.9464882943143813,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -13288,9 +13420,15 @@
         "url": "https://news.google.com/rss/search?q=5274%20%E4%BF%A1%E9%A9%8A%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "三大法人買賣超 – 外資買超(5274)信驊、(8028)昇陽半導體，投信買超(2330)台積電、(2327)國巨*，法人合計賣超434.5億元 - sinotrade.com.tw",
-            "link": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPd1FNRnJUSnVuTlJmYk4wRW9xOE5vUXQwMW1mX2ZYVWhURFJ5WmNSbGdseG5yTlRtcDZFdmpQVERZVzYtNkUtOGIxTWRQYXZMUmp1bVNfZTNacm4yNmtHM21GOTlIaUM5QUpDRWFEdTFtQmRpdXVTelFmS21JYnpHc0dodU5ub2pWRU1nNG41N2RsaktZOXZBOVMtTmxHWGk2OEY3ZkFZME5SRXFEelNCSEFPQk5tbmxRb1NJeXlyMGwyWFFrM2Jwb3pZaUtDalR2QlhxZVp2aDNvRjVZVnNNWjZrMUx1ei04Ymk5ZEx5WmphbDdMVldJejJBV0V6TGlvQ2ZZeFFsUmtOZ2F6Ym9iNnNsY1NKTlVoSFE2TFNPY0xFalJFcFFpREpjYXRBWjU3dE9PdmoxcnR6bk0xcDhBbzBKUVJkXzFNSmxNMGNQSzVGcXRSbE5xQkRIYTlockVoa0FuYkpDQTRZZkphTS04OFk4S1d1cmZZVmNHNEQ1bkpXcXNsc0dBdERlcFZsS2hneGViLXFwNFdwT2ppVFRkVEFGTkVuLVFjM25kRDVPVTJsOGxvR0xLaG1YZDE0UXNzb184RDFLaVM0WXh4YVJ0MWdvRUd5aEFPcW5qVnl2OHlreTVIZ0xoWm9FaHVmdFNubHFYQnVRVVJRZU9ETzJpUjZrZ1ItNVBLN0JJWEYzTWlwSDZuN3ozV3RnaHRCUTR1QzFMUHplSGR1VDlGWmxKb21tbTBMNDhYQXVGR1BFdTBwU3p4WFVoVzhsY2k2Vy1teGxUV21TVHZQME5oNUkyQTRxUHdnQQ?oc=5",
-            "pubDate": "Mon, 18 May 2026 08:49:34 GMT",
+            "title": "信驊(5274)- - 券商分點進出買賣統計-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZnRsekNyMEt2aGREZ2h5WF8zS2RUNGVVcGpxWVFwRHY4RHNoREVSZFpqNlAxTllPTkppOEJMenNwM0VRODRMMlFNOVZBeXNFaGRiQWh1LWhlaktfQWs2ZVNqaDhES3VSUUE?oc=5",
+            "pubDate": "Sat, 23 May 2026 10:39:28 GMT",
+            "source": "CMoney"
+          },
+          {
+            "title": "Factset 最新調查：信驊(5274-TW)EPS預估上修至177.58元，預估目標價為17160元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zdlBIVHgzV2tnYzY1TC1BNEFYVGlSQjN0Wmppd3Rldk5SNEt4dmhZZElFQmFjYjJqbU9SaEFQTGJweVIzMU40aDUzWUs5UVA3NU9mSUJfZ1FtT1JfcG9tdU5HakthajdHY1RTUFJuOUlnTGlXS1E?oc=5",
+            "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
           },
           {
@@ -13298,12 +13436,6 @@
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRkhrV0poWlFuVHZ4UjFsT2R2eUliSlh5eW9iRlVkT3NNTlVLVm4zbVU3WW1PYTNSa1ZUVWRSMG4xUmVzVUota0VrYWlIVGdXTzdENWlJN01DMzdkS1I1Q0J1Wm0wbDFGTlhjLUY4aFB2dF9pWjRvM1pNY2xqTUFXYjZkTjRBODNYb3pFV0otbXI?oc=5",
             "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
-          },
-          {
-            "title": "【即時新聞】信驊今日股價創台股史上新高，外資目標價上看7,500元帶動高價股行情最新 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16VUpmVHNsTjVEUFZheXZBZDAxWnljeTJRX0NMSFVUOVRCeVJTUlJ1dXpXeFlrYVhFVnltZU1EZ015eDRWS3o4cE5OZmdaXzBoSnVNRk9YOHE?oc=5",
-            "pubDate": "Sat, 29 Nov 2025 08:00:00 GMT",
-            "source": "CMoney"
           }
         ]
       }
@@ -13393,6 +13525,8 @@
       "defenseLine": "358.3",
       "firstTarget": "431.7",
       "riskReward": 0.15179522192939834,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -13468,15 +13602,9 @@
         "url": "https://news.google.com/rss/search?q=8021%20%E5%B0%96%E9%BB%9E%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "【即時新聞】尖點(8021)列注意股急殺跌停！這「3檔概念股」同步爆賣壓！ - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkt0VWdOY0VEcUl3WDFGb01pR2pzRDNzRFZYOEk0ZktPU2tfdlg3MlVjaTgxelg2LTN1ZHNCc05FLWNHblFaSUlUNmtzbkdNc2Y3bEtTaW9FSm8xcDluQ2dlMkJIZWxtbzRHNk5OQ2t6anBTSncycWx5MkJoV2pWUWdtRnBRRjVpZ2pPci16eWc?oc=5",
-            "pubDate": "Mon, 18 May 2026 03:43:29 GMT",
-            "source": "CMoney投資網誌"
-          },
-          {
-            "title": "【即時新聞】尖點(8021)最新營收飆63％，爆量殺跌停遭法人提款？ - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCSkJ0WkVicWdhTHlxTGtYZ1ZEclNBVUtJc09hWmdZM2JiTDRYQ3VGWXFTQkh6ZEtZSmFxQUI0aGVlOGxPRjBhdldWZ0RQeEk2S0UxdDBBTzFxdGRJZTk2aDFnY0JnZmM?oc=5",
-            "pubDate": "Wed, 20 May 2026 17:58:51 GMT",
+            "title": "尖點(8021) 個股概覽 | 個股 - 股市 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VY0puQW5kN2ZTek0xbncwYkRhWjZzZlJWTlBnY1Y1NU4wSmhIZVNXSWo4Wm5GcVhMenlfa25rVVRLcHlwUG9YTTZCWWdka2FRVThR?oc=5",
+            "pubDate": "Sat, 23 May 2026 12:04:57 GMT",
             "source": "CMoney"
           },
           {
@@ -13484,6 +13612,12 @@
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFNfeS02X3hjdWlFNUxZYWJpQnh1ODIxc1NQb1h6elJOTUZtN3g2UzdsOFFMMmVzeUFiTnd5VGVNYkpnNW8yel83N2ZrbmNmaGZKR2V4Ri1wZDJ5WUVDWmRNYnhpQXFDR1hpRkZjTlJaTF9KbHVBbGpsZUc5aU1pZ2s3OGZRbml0TG42LVM4ZDE?oc=5",
             "pubDate": "Wed, 20 May 2026 07:51:42 GMT",
             "source": "CMoney投資網誌"
+          },
+          {
+            "title": "營收速報 - 尖點(8021)4月營收5.25億元年增率高達63.18％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtR3JrME5tcEZxb2VoTG9DNHNTNlEzNXA2Sk9iNWkycVV2RkZRT2tFTUxSb1ZiSTNRR3dMTWIwREdoaE50UjFmcHJxNWJZM0s4Tk9FWUJLU0xfMGJoSVVkdkNENnZqbUdiRUNsZTJSUkhyRUhPNVE?oc=5",
+            "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
+            "source": "sinotrade.com.tw"
           }
         ]
       }
@@ -13573,6 +13707,8 @@
       "defenseLine": "1229.4",
       "firstTarget": "1408",
       "riskReward": 0.7757208208288308,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -13649,16 +13785,16 @@
         "url": "https://news.google.com/rss/search?q=2368%20%E9%87%91%E5%83%8F%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "全年無淡季 法人大幅調高金像電獲利預估及目標價 - UDN",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KeUFDNkNUOUszb19GTUUyN0N3Qi1DZkFScmI4QmEzZGFXNFNKZTZxS3h4bmVfS3ZkM2M4d2dZVkh4clZLS2pRMWVkR3AzQUYy0gFWQVVfeXFMT19VWktBUFN3ME92Nnp4TnNUWTZxTEhmblFuWG50bnRtT0pOOVppWTNHYkVwd2kydzZtMFNBOGpORkozWUxzZTc3d29rLWU0endNc3N5Qmc?oc=5",
-            "pubDate": "Tue, 19 May 2026 06:04:21 GMT",
-            "source": "UDN"
-          },
-          {
             "title": "金像電(2368) 個股概覽 | 個股 - 股市 - CMoney",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FMlZZMGJhZ0gxaU9KcFR5cTNfdm9VcUVpUUlIR1g3bjFXelotNDBWN3ZzUXEwZ2FvRzhoZFFVdGE5d0RnRmg5aGFFR2pxQjBjN3BV?oc=5",
             "pubDate": "Tue, 19 May 2026 04:27:58 GMT",
             "source": "CMoney"
+          },
+          {
+            "title": "奇鋐、金像電目標價法人狂升- 日報 - 工商時報",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43b2ZBeVlFd1hLQklkRnhBX3l2b0JjMlF0ekVGd3dudjItT2xmMEFTR1JjenE5TjV2Q25qX3hTZlBlemhVc0JZd0xacjVCR2ZodlpGMllXTnRlVzdpRzdB?oc=5",
+            "pubDate": "Sun, 17 May 2026 19:00:00 GMT",
+            "source": "工商時報"
           },
           {
             "title": "00981A大砍！金像電(2368)重挫跌停成「綠」 像電 - 理財周刊",
@@ -13754,6 +13890,8 @@
       "defenseLine": "3283.1",
       "firstTarget": "3767.5",
       "riskReward": 2.974187394222214,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -13934,6 +14072,8 @@
       "defenseLine": "137.3",
       "firstTarget": "149",
       "riskReward": 0.6291066685306872,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -14018,9 +14158,9 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "緯創2月營收「遠優市場預期」！網喊「股價委屈了」...分析師看法出爐 - Yahoo股市",
-            "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQWFNjX0RqcGl0VS1kWlNDWE94TFh4NDZOZ2pzbEE2cEs0Wm5TYWdXUGl3X1F3ZVZaRHFfcENTNkVYYlVYaWotSmM0NTBBQUk3bnV5dUxuWkM2dHFjekh0elg2aThnZC1DSDBid2pCVENZZ0Rqa01LVm1CVThtTWdFWDJkYUs0TFctRWFCZFFlNXhYRVAzd3FyX2dPSGZPNlZ0Wi1FRldfMHQ3UW5MRU91X0xYOUlJd1lwaVlXMW9hSDlycjBhX2d3c010LUlKaGl3ejF1U1ZIYzNZR2ZjSy1zMmtSLTBnaGZEX2huMGhKa3B6U3dHY2swMklGdGdSR0lHRDY5bENZbERfWjFHT1J5bnRQS3BBWHNKQjJGTUxkOXpsVE9pQXNSOVRLT0pZV0lRVzJLZkM0R3lNS3BMUDNITGtJWjF4SURfQmVEak01SDVpWE05d20wLXUtZHpHSFhWRlhwM2Zkc3NtdV9EZU5oZ04tUlE5OFkwWFlIdDVnTGdGc1FtdGVaVW9FQnNPeDd0WDFCX3hMR1h3VlZPR3NYNXVORzlfYlpQWGtnMWtFbktFX095aTl4YXMyeHM5eWZ4b0VBSw?oc=5",
-            "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
+            "title": "緯創復活了？盤中勁揚近5% 分析師示警：反彈恐不易延續 - Yahoo股市",
+            "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxObWxpNzdpeHFuQ3RUQVFQZTF2SDJ6eVBTT0lGYTF6YXNfMEhfWm5YMUJsTmluSTI4SkxCb0dHNFItdDFORDJ5OVJhRDJ1bHVoZ3RRZVlibWZYSlpOMnVja3NSb2hHaHhDNDYxWnVNQk5oOTltU0dIcFBfeDU4SHFqV2Z2alY3aXlfdm5ra0ZEZXFvalRGS1lLTzBuUFQxdTNfdGstei1CbkE1ZUdfQjVvbjNVSVBhWTdPMU1Zb1E1V2Z3Y3RsclFfNGhjU0s4RjhpRDBORHNyczR4YVdZWjlidGs0c19pR2tleExtZ2JDaDYxUW5ZVjdXdFV1aHN5ajJiWmhFbnFwWmNWb20zYjVOVDhfYS1xMDBsNno2c04zUTlJaV9waHVPbHRYWkNwUkZFeVhfLVNldDVfU0FVRUhDcy00VXl1NHFwTFlwbG5CWDEzeWlXOHJIZERHczUwdy1Md1Z5Y3dLRnFKdFBZOVUyLTVUYmhnbGs4bklRcHFR?oc=5",
+            "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
             "source": "Yahoo股市"
           }
         ]
@@ -14111,6 +14251,8 @@
       "defenseLine": "774.7",
       "firstTarget": "891",
       "riskReward": 1.2652203294227482,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -14194,13 +14336,13 @@
           {
             "title": "【即時新聞】華城最新狂攬150億訂單，外資單日倒貨千張還能追嗎？ - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTJBVTF4UlZKZzg3UTdSeUxZb1J2UHlLemxYNDVoU0l4a0drX21FT2lSWjZSWnZvcTgyZVZuWFprcm8tYXpvSDh0VGRjaEQxdFRCS3JaTkpRT2NpeGZXS1ByUE9ZbDFfcXVfVzJoZVpYZFlqMTZSWV9YcUF3cE1FR0NLenZJZElkLVVLaEEwRW4?oc=5",
-            "pubDate": "Fri, 15 May 2026 02:50:50 GMT",
+            "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
           },
           {
-            "title": "1519 華城 - 全力加碼！越跌越買，上看-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfemRtVVU3SEc4WWhjOVZiQUE3alY2YlZxRWU2Rmt0V1NUd3Jpb2JTX0UwTml6aV9ZYkd6dzNKTHVDMFpBTzIycjdWRkJhQ2tkUHEwZV94YUM?oc=5",
-            "pubDate": "Mon, 18 May 2026 23:05:36 GMT",
+            "title": "1519 華城 - 狀態非常棒！持續加碼，瘋狂洗盤狀態，上看-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qRjRUZU5GaU1CR1YySFhLd2dQUkNrOGVTOXVFRUNpcTFWVWNXUjVBRFdqRlJYMzVMODRWQUFhWXhSSHdkc2duWDFMeFlRTVdCT0hCZE1TakU?oc=5",
+            "pubDate": "Tue, 19 May 2026 15:06:41 GMT",
             "source": "CMoney"
           }
         ]
@@ -14292,6 +14434,8 @@
       "defenseLine": "83.04",
       "firstTarget": "97.90",
       "riskReward": 3.6971546432497675,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、離觸發仍遠",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -14366,20 +14510,20 @@
           {
             "title": "8112 至上 - 各位至上高手 今天外資拉上86去撞上面的套牢區後 放手滾出3...-股市爆料同學會 - CMoney",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoaVdtRUxyYWpsbXNGVjFKTGY4UVNVbU9ncnNfUk9aclQ2eGEwTDgtdENhdkZkRF9mQ2lIbkVfOFY0LVMxOHY0RV9sX3ZhZWh0OTZhbjdPcXQ?oc=5",
-            "pubDate": "Fri, 22 May 2026 23:33:03 GMT",
+            "pubDate": "Sat, 23 May 2026 22:15:05 GMT",
             "source": "CMoney"
-          },
-          {
-            "title": "【即時新聞】至上最新首季大賺3.91元，獲利挑戰一股本還能追嗎？ - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmVSeXFsVGRBTUVrTUlmRl9Fb0txeTNZWGFVaTIxb2sxbjhuWUVoVTAzMkgzUWlpN1FUOUxfSjFJTXNlUGYyNFBLdFV3MEVocXk4YmZjRjRZdkw2VzZsNjJ0V1otR25hNm5tVW9jVHVMb29fdmpRYXVMbFBtRXYwSlVjSnlEYTRKQlloWWhXUEk?oc=5",
-            "pubDate": "Wed, 20 May 2026 05:20:45 GMT",
-            "source": "CMoney投資網誌"
           },
           {
             "title": "營收速報 - 至上(8112)4月營收350.61億元年增率高達55.96％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zRGI3MUhxZ0RBcmdfbTVjRVNxSlVlZEsxT2N0bklndWdkRW9HNERSNHhhMXFqWGEtb1cxblQ3WlVKU1FwZ3I4UGQ0MWV3Q2R6a1JHUmZQQTY5d3paUU1PYkZvcWVZMV96dUp2YW9IVzVPdkpERkE?oc=5",
             "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
+          },
+          {
+            "title": "【即時新聞】至上最新首季大賺3.91元，獲利挑戰一股本還能追嗎？ - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmVSeXFsVGRBTUVrTUlmRl9Fb0txeTNZWGFVaTIxb2sxbjhuWUVoVTAzMkgzUWlpN1FUOUxfSjFJTXNlUGYyNFBLdFV3MEVocXk4YmZjRjRZdkw2VzZsNjJ0V1otR25hNm5tVW9jVHVMb29fdmpRYXVMbFBtRXYwSlVjSnlEYTRKQlloWWhXUEk?oc=5",
+            "pubDate": "Wed, 20 May 2026 05:20:45 GMT",
+            "source": "CMoney投資網誌"
           }
         ]
       }
@@ -14470,6 +14614,8 @@
       "defenseLine": "33.78",
       "firstTarget": "38.40",
       "riskReward": 1.689042356100088,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -14542,16 +14688,16 @@
         "url": "https://news.google.com/rss/search?q=2618%20%E9%95%B7%E6%A6%AE%E8%88%AA%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "【即時新聞】長榮航首季EPS 1.53元 法人估全年3.6元 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaE1vZ2cwZjM5aEs3OVhxRXRtbkZ2cDdFWlZ6Umh5emNKM1duMnQwWklQaFVvTjNDQ3NDVEZUb1hhS1g5dnVFUkczQjUxTVl6S21hTktsUDlEZWprTDFNYWtWSlZKdDNCNnVUd292VGhxbTd6aWRTX2FCWWdpa2lXX21yQzEtNzhVSXQtSW5INXI?oc=5",
+            "pubDate": "Sat, 23 May 2026 11:22:17 GMT",
+            "source": "CMoney投資網誌"
+          },
+          {
             "title": "Factset 最新調查：長榮航(2618-TW)EPS預估上修至3.84元，預估目標價為40.5元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwdF9kbTduLWlBYVVzUTM3c0VIS1dZWEtFMG0zenZaT0h6eU1LZWlHSkQ4bGRCeHhDLU82d29IdjY3aVNvaHBVQVo5UllXS190VDBBal9CcU5LZnB4dzA3X09NOUl6eWlSUUlxOTJiM0F2SVJFb3c?oc=5",
             "pubDate": "Wed, 20 May 2026 17:10:00 GMT",
             "source": "sinotrade.com.tw"
-          },
-          {
-            "title": "【即時新聞】長榮航4月合併營收219.69億元年增18.89%創歷史新高 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3RSaVZwQTBJN0xWdFJsUFFVRHZDNmFSek5xNEFTd3ZwZjI0MHB6OEpYbDJuOHU1R1VxdXlzLTFrSU5MTE92dVJJWmRmSFhZYzBJSTdkalYyMjJxaTh6MmtXWEwzSS1ZWmJtb2NnUk5LQ2poTUczYWRBUTNYSWF3T3NUTVRPMHpQQVozUFR0Zm0?oc=5",
-            "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
-            "source": "CMoney投資網誌"
           },
           {
             "title": "【即時新聞】長榮航(2618)遭外資重砍逾5萬張，股價一日跌近4％ - CMoney",
@@ -14645,6 +14791,8 @@
       "defenseLine": "76.99",
       "firstTarget": "88.80",
       "riskReward": 0.9656532033294616,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -14717,14 +14865,14 @@
         "items": [
           {
             "title": "【12:52 即時新聞】長興(1717)亮燈漲停至79.9元，受益營收連二月走強與半導體封裝材料成長題材帶動、壓回後技術面短線轉強吸引資金迴流 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUXRXRFBCM0NqS3YyckpKd1NBOWMyZ19sRmlCYXZ3V3BiY2wyT3FkN2t2VkM5N2ZzYlVBZ0tWNVRZdk9hTnRLZnBfV2VwQ3ZNMTM0ZTdZUVVqM21fY1pXdTEzdkpweHR0RUNaQzlQcWdfVHVYNmM1VVRFNjk4RWZneGo5YkhNZzFUcXJTczRuRGhoYkpHVHlxOVJCNG9iWXd3Q2lObzN1SVBGQVlLVV83MDlBUGFJUVpNbk9XdTZUMkU3MEhkS2tObDlxeV9ac0E?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYm51TW5ZWHYtS2dPaTh1Mm1uQi1yWVZ4SHRURHhsMGRzek1sb1FqaklGdDlNbms2anlXbmxocGp5OEdXSzZpaF9mWnlzWGcxWWNSTkNqQmxGcXlvQWhCdVRPckRfNUJRWWdPWDBsWlZMZndROVk2cFpNbUw4ZEcwNTFFdUhOWnl3V05JNGNB?oc=5",
             "pubDate": "Thu, 21 May 2026 04:52:36 GMT",
             "source": "CMoney投資網誌"
           },
           {
-            "title": "1717 長興 - 下週會突破箱型整理嗎？-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2eG5OV0ZwRWNjbnhlNVdnR1piUVVyMk11cTlVdWdzeUFZMzkzQXJ4UXo0MGVfUVdTbHZJSC1EWXJlaFNMalVIaHNZSjluY1BKbnRnMVY1bG0?oc=5",
-            "pubDate": "Thu, 21 May 2026 19:23:52 GMT",
+            "title": "1717 長興 - 我剛剛替長興股票求得一首籤 看起來不錯喔 大家要有信心-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92UnhSVm9KNUpSajBmUzVZaVFHWWZSdlEzNEJmeHRKeDUzdGh1U041NnFmU3BkdlNlX1NvRU8zZUt2cjhhUnBSMko5UVVQcUNjV1VaZFNhX2s?oc=5",
+            "pubDate": "Wed, 20 May 2026 06:51:13 GMT",
             "source": "CMoney"
           },
           {
@@ -14821,6 +14969,8 @@
       "defenseLine": "4610.7",
       "firstTarget": "5215",
       "riskReward": 0.5325286234135082,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -14894,9 +15044,9 @@
         "url": "https://news.google.com/rss/search?q=2383%20%E5%8F%B0%E5%85%89%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "2383 台光電- 【最新消息】真的有520行情嗎？「10檔概念股」搶先關注！-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55MDNkaFljUWdPMk9iQ2htTmY5MFI2V213TlMzUkdGeXpfcGROT2JnRXFDWk1DLWhnZm1YSDlrUk9LWkt4Ym40MmVWUXhtbDRlcXVZYVFRWDE?oc=5",
-            "pubDate": "Mon, 18 May 2026 12:00:32 GMT",
+            "title": "台光電受惠AI供應鏈強勢上涨 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZWUF0cmd1M29TVm5GQ2pKZDZ5czZnQXVOYnhKYnkyc1hQcU15Q0pWYzF2eFNHQ1dRZ19CS0Q2NTNyeFM5dFNpenFxT0RqNjZrYW1xX0EtaHE?oc=5",
+            "pubDate": "Fri, 22 May 2026 19:20:43 GMT",
             "source": "CMoney"
           },
           {
@@ -14998,6 +15148,8 @@
       "defenseLine": "161.2",
       "firstTarget": "182.9",
       "riskReward": 0.6341204135369658,
+      "executionPlan": "只等回測",
+      "executionNote": "等回測不破或量縮確認",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -15073,12 +15225,6 @@
         "url": "https://news.google.com/rss/search?q=3715%20%E5%AE%9A%E7%A9%8E%E6%8A%95%E6%8E%A7%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "定穎投控(3715) 個股概覽 | 個股 - 股市 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QRjZZdlJZUHVibGtQaDd4MWNxdVQtMnZXTDhyN096bDlUVzFUZkw1ZmVkTUtkWElRaHI1ZUduNnFqQjFMdjVPQlkzTGhtU0JhdDFV?oc=5",
-            "pubDate": "Fri, 22 May 2026 13:45:07 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "定穎投控喊到 250 元，EPS 4.76 元到底撐不撐得住？-陳柏宇 - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2hYeEl3aEduUlN0S21DRzlLMTBPb3dOOEFhZVRlNWtJcTVWV1VEcXRsdzRlcmlrZWpJWHVVT2V0dlNTT2JPcGFkanEwLXphOHBVZERwRDlaTi0tZnhWZ1ZqRlRfZ2NjbmgwOFVIUTlCaXdCRHh2azlna1didDE5Ug?oc=5",
             "pubDate": "Fri, 22 May 2026 00:04:01 GMT",
@@ -15089,6 +15235,12 @@
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qS3g3a01fV0RCblpZaE1fX09FNEVGSF9kaXl2SGlkTHRDMzcweXl4NTJRblFRT2otaHRGaVlIamt4cEFnMTlkbTlGUjNEZmpDRm1hbTNVeldxUlpsRVB0a21LZW1XN1ViNHJxZFItTWRRZ3VNMGc?oc=5",
             "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
+          },
+          {
+            "title": "大摩參訪PCB泰國廠 定穎投控&楠梓電 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ubUVFWHdLcmNRWWxUWGtvZ0VpeEJ4UmR2M05reG1DQjMwcks1dHp4eWx1NTFSZUNlQW10blFmVC1XT0hTVnY1d0dvRVo2Z29OM1UwVVFnUVk?oc=5",
+            "pubDate": "Wed, 06 May 2026 12:34:07 GMT",
+            "source": "CMoney"
           }
         ]
       }
@@ -15179,6 +15331,8 @@
       "defenseLine": "2384.2",
       "firstTarget": "2768.6",
       "riskReward": 0.17998812259198232,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -15255,6 +15409,12 @@
         "url": "https://news.google.com/rss/search?q=3081%20%E8%81%AF%E4%BA%9E%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "3081 聯亞- 你相信光嗎？-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rSm43UW8zVy15TFduTDlmeUs1eEdfLVBpT3NJQVlZZGYtbVNRLWctWWxEemFtNjg3Q25uM3p2clRyS1ZmNkFVTURmYzhtLTBpdUFlLXV6R1c?oc=5",
+            "pubDate": "Fri, 22 May 2026 20:11:57 GMT",
+            "source": "CMoney"
+          },
+          {
             "title": "【即時新聞】聯亞光通訊訂單能見度高 受惠OCS市場擴張 - CMoney投資網誌",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmhucDBwMmtkRFZHSXRMbXVPazdvcFpIMlBPQVp2Z2w2b1VFLU5RSzlaUEI5UzFtR3EtaGxPZlJWdWxWWW92T0oxOWd6bnN4cFE0MVQ3Uzh2RDFmRWR6d1hZWlFPTGNVelZFczFNR3ZnU3NIdktDbzdWd3FKeFFKY1Fnc25ybmg3a2VqMFA1blM?oc=5",
             "pubDate": "Thu, 21 May 2026 12:59:59 GMT",
@@ -15265,12 +15425,6 @@
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzYkZZaS0zUmtMLWVPQ1hoaGRUakFiRTJWcmpWR1k5a1BrUDNHR3NpOHE5TTBVRHJHU2J4MFpaRG9odVYzRlRuekMzNTY1ZHh6ZXFndVRnODEwSnk0YWtmU1BscGUwb19VdkpRQWVuQVpjZG13ekE?oc=5",
             "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
-          },
-          {
-            "title": "【05/19券商評等報告彙整】聯亞(3081) 今日僅1家券商發布績效評等報告，評價為看多，目標價為3,300元。 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qNW5xQ0k5bDR6bGRkN1VtMjNZQVNJclp1ZEVJeWFrcXk3Z01Zc0MzSzJFX296T2xQYXFfVUFTU0lBb0oxcDRIcXVfalk4X0FFWmlLUkZHdWRKdExiY3JIb0hMcDRfTVk?oc=5",
-            "pubDate": "Tue, 19 May 2026 10:50:03 GMT",
-            "source": "CMoney"
           }
         ]
       }
@@ -15361,6 +15515,8 @@
       "defenseLine": "2577.7",
       "firstTarget": "3009.9",
       "riskReward": 0.7838581151679263,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -15435,22 +15591,22 @@
         "url": "https://news.google.com/rss/search?q=3131%20%E5%BC%98%E5%A1%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "弘塑(3131) 個股概覽 | 個股 - 股市 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16SHBmQWtpUWt5RmRTVVNrV1llUjlQMWVDRm5UTElCWnU3VmdDMUJqb25qeVlhM0dzM2htd2l1ejNGcXBYTjYtemJRNUF2Yk1wT2RB?oc=5",
+            "pubDate": "Sat, 23 May 2026 08:31:15 GMT",
+            "source": "CMoney"
+          },
+          {
             "title": "Factset 最新調查：弘塑(3131-TW)EPS預估下修至67.09元，預估目標價為3495元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yTGxTZWw0T0tndTJraW4tLTd6SUFvQmYtR0d1Z1dwQmdnZE1xbUFTVXVFX090Vkc1Qy0wMzJVMk4yakFkcGFldWtLSjRmR2N6Z0NiVTZ2d1hkdFlRcXpZX3NtYTlwUW5TbHNEanA4Q0Jlb1VqclE?oc=5",
             "pubDate": "Mon, 04 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "【即時新聞】弘塑首季EPS 16.11元年增81.57%，訂單動能強勁交機量逾200台 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSGtRMjJlZUl0UFFaeW41SnF5Ti1pZjZmb1JkaUxQXzc3NlVQSmFIanJOV2tScFlsX25NT3o5UlZVN2dHSHVZNTFwcUM5V1gxcE02eHNvRkExNUtQMUN0Y3J4cGx2YjJ2VWZmVGh0RjZZbWxmX19ubjFnT2FoOHdWeDYwcFNBbGxjQ0ZMSU1JY3c?oc=5",
-            "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+            "title": "【11:05 即時新聞】弘塑(3131)股價勁揚6.53%至3100元，先進封裝訂單動能帶動買盤迴流＋短線乖離收斂吸引技術性回補 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW1WMERvWXIyblB4MkVMdXozX0NIbEFSTVVPSlpsT3hBYWxVdk1wc1FNRTlzX3hQUmdiMHpuenM4eEFVUWFQY1NZSHNvODhuZlJCWm0yNVFuM0QzMnFTVmEtR05MNV93cFpyN2NZZU0xUUliMzhzYjBqcEhGbWNPQkNnaGJCZzEyblg5RkxR?oc=5",
+            "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
-          },
-          {
-            "title": "獨／弘塑前總經理遭控營業秘密外流 法院今裁250萬交保並限制出境 - UDN",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6cTVDMXI5aXpCOTgwRVZFOFRnc3ZHLTdVLTBzakpUVGd6bkxFc0hRazJOdTdwSWNlZTN5WVd4dkJBSHpCdWJkRE1xcGJWeWdi0gFWQVVfeXFMTzVnX1kzVWlNRTFTV2tpOS1sNFk5SFM1UVJYRG1lV3pHVVRadEVKYWM0clVzbE52OFBIa2kxd1hCMm9FbjRlN244Q2MtYXp4YjZTSW5sT2c?oc=5",
-            "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
-            "source": "UDN"
           }
         ]
       }
@@ -15539,6 +15695,8 @@
       "defenseLine": "1357.5",
       "firstTarget": "1545",
       "riskReward": 0.5308072353109309,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "離觸發仍遠",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -15624,10 +15782,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "祥碩營收年增80%卻遭市場冷落？誰在默默布局「連接霸主」的下一波行情？【豐學PRIME盤後精選】 - sinotrade.com.tw",
-            "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQZTJTX2ZRNWtUQmlpUHdydEE3VVJpUk5MZ2NLRTJQVTN4V0lpdXNtT20xSUtxUDYtcWZzeHhjcTNRazZmTmtZMnNBX0FZRVAtZFNrTDh6emMtUHRyZndqdk1GWE13U0JNTUdyZlhfeWdEN3pidFFyaVRUZzk5eVFzMUFYSFhGbS1ldVpHR0U5TFBFUFVLS19BcG5zNkJlNnl3TzZFUWdGeTBFaENmQVZhckV6cDNDalI4aXZLQmpEWkYyRE9yMWV5V2VfVF9vTUtoYXo5UmZZTTBObXVzTU10S1RiTUpDNS1qUF9zQ2VlSmp3Tzlvc1JlcnA4UExKd3NQb0t0dmg4V3V4dHBfeEZwODA1Rkc5LUdEbEZDenNzYkpxU0hkNXl6amlBNkFiTXNuN0VMX2xEVkJGSFgycHM2SFQtOGpLdEl6cnJJQXFhaWVaRnR2c0ZyaHg4WFY2Ykd1ckEzX0JGdlpQTXY0dFNnTW5Ca3dkczlkdm15WHBBdGpfcXc1OUl3dFZJQkRiUnNMZXZmOUdFMGdUakdQd3ZlMmVfWG9pcS1ZamExTXBKU0x5cTZmQjBWaU9RNXRId1VFSXBPT1hoNnZ3ZW9LMzFGZllTaTRObkdjYzdsVFNleHZKXzlnNkpTMlJIQVZpYlBTOXVaOVR0Mk5aYmFHR3l3YXJVaFNrWnlhdmJvR09JdUhGZmxPNV9SNTN6aG5CeHFwZ29wdWxfbw?oc=5",
-            "pubDate": "Mon, 12 Jan 2026 08:00:00 GMT",
-            "source": "sinotrade.com.tw"
+            "title": "5269 祥碩- 近期陸股在炒作pcie packet switch晶片概念股-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DUnJsdG03Q2cwQVJfOGNlOWhYRXVEeDQtTkV2d19XbzhlV25yMWgyY1JZNEdrNG1CemEzSkJXLWw5Y0tjSXV0YTRjNldzTGR1SzFBWC1CQmI?oc=5",
+            "pubDate": "Fri, 22 May 2026 22:54:10 GMT",
+            "source": "CMoney"
           }
         ]
       }
@@ -15717,6 +15875,8 @@
       "defenseLine": "99.18",
       "firstTarget": "110.8",
       "riskReward": 0.4831753747950318,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "等待條件轉強",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -15899,6 +16059,8 @@
       "defenseLine": "23.23",
       "firstTarget": "26.00",
       "riskReward": 3.849188270035643,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -15970,22 +16132,22 @@
         "url": "https://news.google.com/rss/search?q=2887%20%E5%8F%B0%E6%96%B0%E6%96%B0%E5%85%89%E9%87%91%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "2887 台新新光金- 5/19 外資買賣超-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tRldObEw4MUZ3WURrZ09SbS1Dd002N3FMWDZjb0VlRWVIaE5JUGlEMjVzXzlBdk10SHRWVHJQOHRQYUJYQy14bzJldDFRcGtJb1FmbHVnZXQ?oc=5",
-            "pubDate": "Tue, 19 May 2026 09:11:21 GMT",
+            "title": "台新新光金：接受真正考驗時，就看得出投資人的耐心跟持久力了！ - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xbHJ6a2tiYzFkN3lMNHpubl9xd2R2MDBCR0tBel96c0dIakw4LU1UNjlhbHd5SlE2NEJHTXMtbmNqRjFyQ0FYLTlHZGhGbFBlZzJicl9lWTc?oc=5",
+            "pubDate": "Sun, 10 May 2026 19:18:21 GMT",
             "source": "CMoney"
           },
           {
-            "title": "營收速報 - 台新新光金(2887)3月營收129.38億元年增率高達1118.75％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwUURONjVYb1BXQ083dzFxTGVGLTVPM1VRZV94RENXTTVNR25HMGtSSGZDQVVYUlY3WU5xdEdZUGRSdURoUE1KRVQwZXFUa2hJNHF2Q1lyMk1aSGFaMnJTV2d3NHo4cTFLQW43NE5TdVFuS0gxckE?oc=5",
-            "pubDate": "Tue, 14 Apr 2026 07:00:00 GMT",
-            "source": "sinotrade.com.tw"
+            "title": "台新新金光血流不止！最大尾兇手是「它」 6天倒貨近28萬張 - 自由財經",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GcUw3am5IXzMwVFctaWpObENzS0t4U00zUjhvLWNENHVCQ3FXeWFMMmYzVHA3ZEZ6NFIzVFQwdUpZenc3SHgtTGJZei1IUWNWS1lreEN5NmxNejlvcWJV0gFkQVVfeXFMTV9DT1ExbUhySGl4OXpKOGdIVzFWTjNwSGV2cGg5YmZtZ29Iel9RM0puX2dzQmxVWk5pLTIwa3Y4TDNVOTFhVW9nS1kwR2pXdERBWUY3bFAtRF9CNnE3X0c5VGMwcw?oc=5",
+            "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
+            "source": "自由財經"
           },
           {
-            "title": "【即時新聞】台新新光金(2887)獲利飆 454% 股價創高，這「5 檔金控股」買盤點火！ - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWXp1VDlSR19kUFdxNkx5QmRrdEdZVjRwREhhMWtqazBVLUZwWFlXQXJCeFVSVk16SFFTQ1N5OV9pVEhIcTc3UlpIV1pNemhwZzd1R0plVFF1b1A2Q3Zkb3k0YVdEa19ZMmdlNm8yVmxGLVBGSTdZc0lEeE5IM1JocWM2a256N01UVDY0QVN4QmE?oc=5",
-            "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
-            "source": "CMoney投資網誌"
+            "title": "台新新光金前4月賺進288億元、年增381％　EPS 1.12元 - ETtoday財經雲",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMaW4zeTNvN0M2dHpxM1hCTHd0eklMaHpCaEkxTzBtUFUxaHdDVUF3ck1mNlhHcW50ZzUyOXVVQkxtYTZ3ZnJldmtlWVJFXzBydVHSAW5BVV95cUxPekJwTXkyTGI0dEZNeEhoUWlST0s0SjZpQXo2azBGSzJLOFdyandOelJEQ2Ntb2xkZ2VjeDB3N19DejIxU0d2dlhUMy1sZzVxR1F1ODJHMUtIVzdzRjU2eTZxeFpLajZPUmRpSGxCUQ?oc=5",
+            "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
+            "source": "ETtoday財經雲"
           }
         ]
       }
@@ -16075,6 +16237,8 @@
       "defenseLine": "3223.1",
       "firstTarget": "4087",
       "riskReward": 1.1496046731100817,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -16159,10 +16323,10 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "【數報】注意股:力旺(3529)因近日漲跌幅過大，今(05/20)日列為注意股 - 富聯網",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2VITlloQlA1Ri1YMTJyZHpzNld3YlpFc3pWU1E1UzBKeVp6WVJzUG9uUTYtcHVfMUVQdlRfbG54MGRoUUppSGVXdU9LeU9INTJvZnliYWNFSnlMellGcGF2MW1EV3phV1lxUC1iNFE1SW9ESS1jM1pUZE9ESDV5VlgyS29lQWRmMlFHY3lR?oc=5",
-            "pubDate": "Wed, 20 May 2026 00:35:00 GMT",
-            "source": "富聯網"
+            "title": "3529 力旺- 力旺展望佳，法人樂觀-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80Q0ZUZldIS2MyVkoxb204ejZJM0NRRUd0SDVIMXlHWl95RW9DaVB1REdMX3hDTWdiOF9mZmZoME1uTjRFeWoyYVR5X0FJLXlwYjVXMWFYLTE?oc=5",
+            "pubDate": "Wed, 29 Apr 2026 10:57:51 GMT",
+            "source": "CMoney"
           }
         ]
       }
@@ -16251,6 +16415,8 @@
       "defenseLine": "1005.7",
       "firstTarget": "1192.2",
       "riskReward": 0.3889468156341569,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -16328,7 +16494,7 @@
           {
             "title": "萬潤(6187) 個股概覽 | 個股 - 股市 - CMoney",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55azFMWWF4VjBuYmVnTFAxeTI5SDRXenJOZXVReU9VLU4wRzVfUDNOVHdYU3hGMC1DZFE5NXd3WjV0WTBoOVMwREZTc043bU5ZczBJ?oc=5",
-            "pubDate": "Fri, 22 May 2026 09:20:02 GMT",
+            "pubDate": "Fri, 22 May 2026 17:26:37 GMT",
             "source": "CMoney"
           },
           {
@@ -16338,9 +16504,9 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "【05/20 申報轉讓】萬潤(6187)經理人黃景德於20日申報轉讓萬潤股票20張-CMoney 小編 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcGk3ZGNzcnk4R0JmZDZwXzJrQ2RmME5VZ2tWdHlMdTI5OGdOZlcyeGdFcGU1Wl93a2w0eG1EdWlBYlpYem5aTml3bXczWU9QTHo0ZlBFTmcwRzNMZXc5aExJOWpfc1N1Y1haZ1lRN0FIRmlsUkVJZWhqTkdIcVQwdjJ4ZE94N3Zyc1E?oc=5",
-            "pubDate": "Wed, 20 May 2026 13:10:11 GMT",
+            "title": "【即時新聞】萬潤(6187)獲ETF砸8億建倉，這「5檔概念股」買盤接棒引爆！ - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVZYdmFlY0VRZFBTWUlFN2RWaFViWm9NNWhBZUNvd2k2RUowa3BIU1ZScmRhNjU3MHIxMnFsaTQ2dnJ2LWxfb0Iwd0xEU1VOQ2RlSWRLc1lINEhINVlTTlA1SFdiZk5UdWxJeEdieUV4Q2M1OENlR2RPLS1LX1dXVlJFX0pjdFlMWmZ0eDl0Zng?oc=5",
+            "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
             "source": "CMoney投資網誌"
           }
         ]
@@ -16431,6 +16597,8 @@
       "defenseLine": "916.2",
       "firstTarget": "1109.4",
       "riskReward": 1.0602352817836178,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -16503,10 +16671,10 @@
         "url": "https://news.google.com/rss/search?q=3324%20%E9%9B%99%E9%B4%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
-            "title": "雙鴻(3324) 個股概覽 | 個股 - 股市 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83V2haRldfZ1JUQWx2VXZtR2ZMQ1VfaGtpbjhXcWUzSGtoTkZHOWhuYUNaZ2hkYkJEb1hNekF1NFJKeGRmTGJFa1ZIV3hkd2c4azQ0?oc=5",
-            "pubDate": "Fri, 22 May 2026 20:42:02 GMT",
-            "source": "CMoney"
+            "title": "【即時新聞】雙鴻上調2026營收成長目標至七成，受惠ASIC伺服器散熱訂單 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdHh5UkJfblhZSHJnX05QQ2o1YTF0NlJwWkpQYlV4NnFDX2xhNmd4VzVjdUJCQWRPUVFTYTg5UzRqaXdSc05ucXRYbGJXZG5Ud3dsQXkxbVJVaUVvcmNwdDR0UURyeW9BUjJKa0hnRkpTYXIwOXRDZHVEZm1MbWtrWU82TGFDVVowdE5EYm9Mcnc?oc=5",
+            "pubDate": "Sat, 23 May 2026 11:23:17 GMT",
+            "source": "CMoney投資網誌"
           },
           {
             "title": "Factset 最新調查：雙鴻(3324-TW)EPS預估上修至57.97元，預估目標價為1400元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
@@ -16515,10 +16683,10 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "【即時新聞】雙鴻AI ASIC散熱大單湧入 上調全年營收年增目標至七成 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeThkbFVpejR2eE9seklBUndRaGJHR0dwMG1fMVRFSjN5MktGVk9MakU0a2lRN0QySDhXc2FSVFVsSkdjOFE3MnhwMExjQmhiYklDU05PMlNwamxtRHd2emhZSkJEQjVQZ0JPMVZJc2djanpQMkdNM04tUXpjTXYyUGVrYkdrZDdpa2kyOUIycS0?oc=5",
-            "pubDate": "Thu, 21 May 2026 13:01:13 GMT",
-            "source": "CMoney投資網誌"
+            "title": "《價值型投資 最新產業研究報告》奇鋐（3017-TW）與雙鴻（3324-TW）散熱升級主線，液冷成為AI伺服器標準配備。 - news.cnyes.com",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1NUxjN1d2d3U2d3ZMaEZDLTBORGtBbEdTc3ozek5ydVotRXdLeXFyaUhBTnFIcWFzdzU2SWw3cGpiMmJZWU9WQm5NbXpxTGM?oc=5",
+            "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
+            "source": "news.cnyes.com"
           }
         ]
       }
@@ -16607,6 +16775,8 @@
       "defenseLine": "287.9",
       "firstTarget": "331.8",
       "riskReward": 0.5621295201860941,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "等待條件轉強",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -16690,7 +16860,7 @@
           {
             "title": "Factset 最新調查：廣達(2382-TW)目標價調升至385元，幅度約4.05%｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40X2kybXlZUWd3czYzQTZySHJQeVgwWW00VVVFa2lfWGdWZVU0UkxuNjNONXNNMVpjWTNaODBaNFdMbHBVZEpBWjBacm9lYjNjNWNob0ZGNUNaWW5kNkN6YlE4WThkR2VmQWpUZEhTWm5FRTZjN3c?oc=5",
-            "pubDate": "Thu, 14 May 2026 09:10:00 GMT",
+            "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
           },
           {
@@ -16787,6 +16957,8 @@
       "defenseLine": "1361.9",
       "firstTarget": "1497.1",
       "riskReward": 1.8108243433592477,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -16877,10 +17049,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "亞德客-KY 3月、Q1營收雙創歷史新高 4月出貨動能看俏 - news.cnyes.com",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0d0lnWHY5alJZQ25YeUgzN1o4UGt0YzNQVHA4aUZSUEVEOW9NMlJCZ2JEQjJXMEZBdmZtRnRETElsM1NVNFlnMHR0Zkt4c1k?oc=5",
-            "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
-            "source": "news.cnyes.com"
+            "title": "亞德客-KY Q1獲利拚高；看好氣動景氣領先上行- 新聞 - MoneyDJ",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYS1HeE5HaFdqVFNta1NGMjdlVGN5bU9sQlRMUGRyQ3hYczFwSzk3YkVqQU0xR3l5SkdubGljcWZ4UlZ3UVV0WDBKdkNoRHBXYjZxUE1TQXZyalhwSTdUd0stNl9qZEJhNldBNEQwNXZ2X21Rdmc3WURyM2xnMU9MeC00VDhycWt6bkwxYi16Y3NHdw?oc=5",
+            "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+            "source": "MoneyDJ"
           }
         ]
       }
@@ -16972,6 +17144,8 @@
       "defenseLine": "2191",
       "firstTarget": "2345",
       "riskReward": 1.4070194637692457,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "量能需補、離觸發仍遠",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -17047,21 +17221,21 @@
         "url": "https://news.google.com/rss/search?q=2330%20%E5%8F%B0%E7%A9%8D%E9%9B%BB%20%E6%9C%80%E6%96%B0%E6%96%B0%E8%81%9E&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
         "items": [
           {
+            "title": "【即時新聞】台積電(2330)收漲25元至2255元 帶動台股四大紀錄改寫 - CMoney投資網誌",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUtzVE1Ld01JdnNxakstSlBlQVlHa2c1ZVh4aXNuMFdmM1NNX01FRWg3bmVXaUFBSHJ5dUU5QjI4TjlZS25KUk1RTmtvOGhOUDVLTVN2NGFLYmx6NmszVmZ3dkdrWTExZEhvTGotSmFpZjM3bDdwT0d4RVJ4QlpTSzNMbTVCT3ZXWWd5WnVzeUc?oc=5",
+            "pubDate": "Sat, 23 May 2026 10:25:36 GMT",
+            "source": "CMoney投資網誌"
+          },
+          {
             "title": "台積電（2330）、0050回檔新手崩潰！網安撫：反而是加碼機會 - UDN",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UaTZQSjladFJEVlkwalBleFNuaGZUOXZJcnMtS0dRZW9wcFpraUZpTjl2MXZES2FTMGtqLVRLVHppTjlKYU80XzR2Si1FemxxMERj0gFYQVVfeXFMTXJaZEtUZHlvRXRybUdEb2hndHVPRE9WMHo1bHFuSkNQY0pLOTVfc3hXOFMxZXBTVmNwZ3pzR1VmelJvTkpPczFNRF9ISUxfSnFJOTF2V1dGaA?oc=5",
             "pubDate": "Wed, 20 May 2026 01:00:55 GMT",
             "source": "UDN"
           },
           {
-            "title": "【即時新聞】台積電(2330)列入AI相關族群 市場持續追蹤 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFJJU2Z1dzY1em5ULVRBZEt6VzVuNFJ3d1ZKc1prX3EzQVlCa2p4bHY4OTZFUXBab0tyMndmVVY3TEhFbm5ESEJCREFkbkEwa0RsN2MxUDJNazJvRzUwelhTbjMwZi1FbFJBeW4ydXA5NkVhNElRZ0ZmUXBMSUxwbzlpdE42c0VuR0xfdVBLcDI?oc=5",
-            "pubDate": "Wed, 20 May 2026 06:14:37 GMT",
-            "source": "CMoney投資網誌"
-          },
-          {
-            "title": "2330 台積電 - 【最新消息】台積電點名智慧眼鏡，「8檔概念股」搶先關注！-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84cGtmNW0zeXhLLXVUTGxNUUJEdmVFS2VQMTFxY3F2LTBKTGxtR05UWDc2WWJyaWtNVHQtOFZTd2tCS3J1cXBWemZvSVFwYUdCM0RseXUzY3Q?oc=5",
-            "pubDate": "Wed, 20 May 2026 17:15:00 GMT",
+            "title": "2330 台積電 - \"根據台積電（TSMC）最新2026年的第一季財報顯示，海外...-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UY05TQVNKbFpLUlBLajF5amtXbEU1RDZKaG5mNjFMU0JmdUlwcXhYTU50dW9SSDdLbVVhUUZVaXppS3lBa1Jocm41ZlJUTWRZemdpaVJZSVQ?oc=5",
+            "pubDate": "Fri, 22 May 2026 15:26:40 GMT",
             "source": "CMoney"
           }
         ]
@@ -17152,6 +17326,8 @@
       "defenseLine": "261.8",
       "firstTarget": "311.5",
       "riskReward": 0.4537163433400174,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -17231,16 +17407,16 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "2449 京元電子 - 各位朋友晚安，我是老葉。 上週五記憶體 IC 設計才在「汰...-股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTmNIU1ZQSm9YTVR0ZWk4VkRvOW42eVpBNEZxZWY4N1c5b2ttdzhzRHVDZ2RyZkJJUFpzV3lFU3FLU1BWdjhDVUwzWXVNTkI0WE1kWm0yalA?oc=5",
-            "pubDate": "Sun, 17 May 2026 23:00:48 GMT",
-            "source": "CMoney"
-          },
-          {
             "title": "Factset 最新調查：京元電子(2449-TW)EPS預估下修至9.77元，預估目標價為370元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TY2J1cEVwanBrXzkzRlBfaVEwWVF1Qk9fNW00aEpNeVhVVnprY0sxQkFESC1hMkwyRE1OU2Jrbkp4bEx5WlBDUzhrN3NubTJONTYzTHBlRGM0R3MwbE9pWnFfbzV0QWVsb1E3RVllLW5KcHNhVlE?oc=5",
             "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
             "source": "sinotrade.com.tw"
+          },
+          {
+            "title": "京元電(2449)做什麼的？股價連噴3天衝354元還能買？目標價曝光！和力成(6239)比較：誰能複製日月光(3711)翻倍漲勢 - 今周刊",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdG82Vk9Xa0RudWpXTUl6bEJ4ckhJRGlmdEtaSWdtN0RKRWhBbFRJbjZOUGRFODUtWHFlZHcxR05sTEt5UmQ4R1huSUVSdzYzYW1zYjFhTm5DaHkwbVN1bW1EcE5IRXdTQUVxS2lPM280NjhjaHp6ei1TSXBvd3Y2aA?oc=5",
+            "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+            "source": "今周刊"
           }
         ]
       }
@@ -17329,6 +17505,8 @@
       "defenseLine": "2227.2",
       "firstTarget": "2676.2",
       "riskReward": 0.41285727310678183,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -17411,16 +17589,16 @@
             "source": "sinotrade.com.tw"
           },
           {
-            "title": "大摩出手！「散熱大廠」Q1每股大賺20.17元 目標價喊上3333元 - Yahoo股市",
-            "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUy1jc3czRk5wUDZpeGsyUzVaZ2hQZDBURC0wU2hFbmhvSkFZUE12N3dJRXY2c0ZqU2JSR0cybU1WcVI2YWJzMnBhMGRzdUVGTkw4Q09KWk9jWVl2QWhmOFE5YTlHM2xaa05ERkU4a3p5WUFHMGxiV0V5TG9ObHQzVlN3R0FiSU1hRzJyM280UkNJV05KczNrUk5waUFaZzZOQXBaSVhLWEVoWTVLVl9UM0ZzZThIbkV3ai1Yck80T05jdjZPUzB4czVoblpVT3FTa0tZbmVncm1rSmtDbGdULVkzVzdPV0t6azdfcVVvUGRIUjRHYU1fcG5WTUZQelAzVEx5Z0NTbDEzRWh0LU9aLWJ4X0JxOWUtTE92RDlxS0xsZDhlTDBNME01Ny1ZckZISGJ4ZkxmMDZvSWNmWGhvWUk0STI4WGlrd3dGOUN3VGl2dw?oc=5",
-            "pubDate": "Sat, 16 May 2026 00:30:54 GMT",
-            "source": "Yahoo股市"
+            "title": "3017 奇鋐 - 跟著外資就對了 空下去喔😍-股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtX2tSTWx1WDdxRWkyUk5PNEFiOFJkMjVYbmxYX3hla0tjeVdfeUlCTVlkb3hqSmo5Nk5UMFRpZW5hRUVTSi15UnFpVFllNzhJVXRVdnFJajA?oc=5",
+            "pubDate": "Sat, 23 May 2026 01:33:37 GMT",
+            "source": "CMoney"
           },
           {
-            "title": "【即時新聞】奇鋐受惠AI伺服器液冷趨勢，法人預期今明年營收獲利高速成長 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3VaamRMYW5FZUxmT040NDd6T2hrak9nOHM2aEsxVFZtdzNuaDd4a2puOVpRN3plSGZCTmcyeWdSZHUwRGNjOHBmaGNnckxxMWVhczVwYkpSYVZiZjdHcERPZ3dLUkg4aENqa0N0RmdRa2kyVDdKODFUblZvWFZ2dC1HSWx3Z3dkUFc5LUNPU3Y?oc=5",
-            "pubDate": "Tue, 19 May 2026 22:59:34 GMT",
-            "source": "CMoney投資網誌"
+            "title": "奇鋐新平台/ASIC專案H2出貨放量，水冷產能放大 - 台視全球資訊網",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnlBT1lLZ0JZWnJiUms3SXpENnFPd3FlajFieXQ4encxRDk1X0hndXNWZy01WHVBZ0xoaDl0Qlh0TkhnVV96X1BPUm9BNWo3REY4Rm90LTNuREtOVkxJMlpTOTVaOEE1cmQwempxbTFQQmZfck5halh5Z0RnWFdjUkxteFR4M1B1MzRLR0lqLVhkZw?oc=5",
+            "pubDate": "Fri, 22 May 2026 04:53:05 GMT",
+            "source": "台視全球資訊網"
           }
         ]
       }
@@ -17509,6 +17687,8 @@
       "defenseLine": "27.40",
       "firstTarget": "29.58",
       "riskReward": 7.3835773643473495,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -17689,6 +17869,8 @@
       "defenseLine": "75.88",
       "firstTarget": "80.80",
       "riskReward": 0.28806548300244084,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "等待條件轉強",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -17867,6 +18049,8 @@
       "defenseLine": "255.8",
       "firstTarget": "289.9",
       "riskReward": 1.3162028375731172,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -18048,6 +18232,8 @@
       "defenseLine": "544.6",
       "firstTarget": "615",
       "riskReward": 1.1089465008242168,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "離觸發仍遠",
       "waveZones": {
         "pool": "setup",
         "entry": {
@@ -18224,6 +18410,8 @@
       "defenseLine": "62.49",
       "firstTarget": "82.45",
       "riskReward": 0.2014123327919913,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -18307,10 +18495,10 @@
             "source": "CMoney投資網誌"
           },
           {
-            "title": "【即時新聞】南茂(8150)飆漲34％列注意股！這「5檔概念股」買盤接棒狂飆？ - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaX0psQkVOSWY1aFpXQkxDQVVrU0lqQy1lOUp5WXhLNWNnc2thLUl2bnp5Qi1ENk1BVEwzak5ocHNHaWpIU3Y0VkU5RE1OaUdlWDlMWThpTUNweWxTVklvczlrX3BLYmc?oc=5",
-            "pubDate": "Mon, 11 May 2026 03:45:09 GMT",
-            "source": "CMoney"
+            "title": "瑤姐押南茂不是巧合？SpaceX「Terafab」千億計畫浮出檯面| 財經 - Newtalk新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPdS1uN3REYzVZZmFtQ3B1UnZTMVNYS1BGakZ4VGNEakVJRjdQZU5VVHBQem50ZF9WTkd2ek5Wd2UyVWRuN2lkVGh3S2VsdGFQYW1jQzhyc09Wa3M?oc=5",
+            "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+            "source": "Newtalk新聞"
           }
         ]
       }
@@ -18399,6 +18587,8 @@
       "defenseLine": "1632.5",
       "firstTarget": "1968.3",
       "riskReward": 1.0664841485187646,
+      "executionPlan": "僅觀察不追",
+      "executionNote": "上影需消化、量能需補",
       "waveZones": {
         "pool": "oversold",
         "entry": {
@@ -18479,7 +18669,7 @@
           {
             "title": "營收速報 - 富世達(6805)1月營收14.04億元年增率高達115.76％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuQTFPQ19kWkkxUlZzQmFWQnl0bDExdnNMSDJsTEpTdXhuclVjWmVLVUF5WXljZEp0VVRpck5QcU4zV3IzbzNIblllbTFMQzdybHpSTHJ5LWw3QXZGc2pqTklXY3NEUVdaVG5NMkRfcE1Rd3Etd1E?oc=5",
-            "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT",
+            "pubDate": "Sun, 08 Feb 2026 08:00:00 GMT",
             "source": "sinotrade.com.tw"
           },
           {
