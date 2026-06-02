@@ -1,0 +1,1302 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>今日短線觀察池 2026-06-02</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f7f9;
+      --panel: #ffffff;
+      --ink: #17202a;
+      --muted: #687381;
+      --line: #dde3ea;
+      --red: #d84a3a;
+      --green: #1f8f63;
+      --amber: #b7791f;
+      --blue: #2563eb;
+      --teal: #0f766e;
+      --gray: #64748b;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Microsoft JhengHei", "Noto Sans TC", Arial, sans-serif;
+      line-height: 1.45;
+    }
+    .page { max-width: 1280px; margin: 0 auto; padding: 24px; }
+    header { display: flex; justify-content: space-between; gap: 16px; align-items: flex-end; margin-bottom: 20px; }
+    h1 { margin: 0; font-size: 28px; }
+    h2 { margin: 0 0 14px; font-size: 20px; }
+    h3 { margin: 0 0 10px; font-size: 16px; }
+    .meta { color: var(--muted); font-size: 13px; text-align: right; }
+    .grid { display: grid; gap: 16px; }
+    .grid-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    .grid-2 { grid-template-columns: 1.1fr 0.9fr; }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 16px;
+      box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+    }
+    .metric .label { color: var(--muted); font-size: 12px; }
+    .metric .value { font-size: 24px; font-weight: 700; margin-top: 4px; }
+    .metric .sub { color: var(--muted); font-size: 12px; margin-top: 4px; }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 2px 8px;
+      font-size: 12px;
+      font-weight: 700;
+      background: #eef2ff;
+      color: #3730a3;
+      white-space: nowrap;
+    }
+    .badge.exec { background: #dcfce7; color: #166534; }
+    .badge.wait { background: #fef3c7; color: #92400e; }
+    .badge.no { background: #fee2e2; color: #991b1b; }
+    .badge.watch { background: #e2e8f0; color: #334155; }
+    .bar-row { display: grid; grid-template-columns: 88px 1fr 70px; align-items: center; gap: 10px; margin: 10px 0; }
+    .bar-label { font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .bar-track { height: 18px; border-radius: 5px; background: #edf2f7; overflow: hidden; }
+    .bar-fill { height: 100%; border-radius: 5px; background: linear-gradient(90deg, var(--teal), var(--blue)); }
+    .bar-value { text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); }
+    .sop-list { display: grid; gap: 10px; }
+    .sop-card { display: grid; grid-template-columns: 1fr auto; gap: 10px; border: 1px solid var(--line); border-radius: 8px; padding: 12px; }
+    .sop-title { font-weight: 800; }
+    .sop-detail { color: var(--muted); font-size: 12px; margin-top: 4px; }
+    .score { font-size: 22px; font-weight: 800; text-align: right; }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    th, td { border-bottom: 1px solid var(--line); padding: 8px 7px; text-align: left; vertical-align: top; }
+    th { color: var(--muted); font-size: 12px; background: #f8fafc; position: sticky; top: 0; }
+    td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .table-wrap { overflow-x: auto; }
+    .pool-title { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+    .grade-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; }
+    .A { background: var(--red); } .B { background: var(--amber); } .C { background: var(--blue); } .D { background: var(--gray); }
+    .news a { color: var(--blue); text-decoration: none; }
+    .news a:hover { text-decoration: underline; }
+    .note { color: var(--muted); font-size: 12px; margin-top: 18px; }
+    section { margin-top: 16px; }
+    @media (max-width: 900px) {
+      .grid-4, .grid-2 { grid-template-columns: 1fr; }
+      header { display: block; }
+      .meta { text-align: left; margin-top: 8px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header>
+      <div>
+        <h1>今日短線觀察池</h1>
+        <div class="sub">市場基準資料：2026-06-02 官方盤後行情</div>
+      </div>
+      <div class="meta">產生時間：2026/6/2 20:07:58<br>TradingView：連線正常</div>
+    </header>
+
+    <section class="grid grid-4">
+      <div class="panel metric"><div class="label">市場狀態</div><div class="value">偏弱整理盤</div><div class="sub">38.9% 上漲家數占比</div></div>
+      <div class="panel metric"><div class="label">中位數漲跌</div><div class="value">-0.93%</div><div class="sub">663 檔樣本</div></div>
+      <div class="panel metric"><div class="label">SOP候選</div><div class="value">12</div><div class="sub">可執行 / 待確認優先看</div></div>
+      <div class="panel metric"><div class="label">A級熱門</div><div class="value">0</div><div class="sub">過熱股另列不追</div></div>
+    </section>
+
+    <section class="grid grid-2">
+      <div class="panel">
+        <h2>族群強弱排行</h2>
+        <div class="bar-row" title="2408 南亞科、3260 威剛、2344 華邦電">
+    <div class="bar-label">記憶體</div>
+    <div class="bar-track"><div class="bar-fill" style="width:100%"></div></div>
+    <div class="bar-value">7.22%</div>
+  </div><div class="bar-row" title="2409 友達、6116 彩晶、3481 群創">
+    <div class="bar-label">面板</div>
+    <div class="bar-track"><div class="bar-fill" style="width:91.8%"></div></div>
+    <div class="bar-value">6.63%</div>
+  </div><div class="bar-row" title="3231 緯創、2382 廣達、2356 英業達">
+    <div class="bar-label">AI伺服器</div>
+    <div class="bar-track"><div class="bar-fill" style="width:54.7%"></div></div>
+    <div class="bar-value">3.95%</div>
+  </div><div class="bar-row" title="2887 台新新光金、2880 華南金、2883 凱基金">
+    <div class="bar-label">金融</div>
+    <div class="bar-track"><div class="bar-fill" style="width:34.1%"></div></div>
+    <div class="bar-value">2.46%</div>
+  </div><div class="bar-row" title="3653 健策、3324 雙鴻、2421 建準">
+    <div class="bar-label">散熱</div>
+    <div class="bar-track"><div class="bar-fill" style="width:8%"></div></div>
+    <div class="bar-value">0.57%</div>
+  </div><div class="bar-row" title="2492 華新科、2327 國巨*、8043 蜜望實">
+    <div class="bar-label">被動元件</div>
+    <div class="bar-track"><div class="bar-fill" style="width:11.7%"></div></div>
+    <div class="bar-value">0.85%</div>
+  </div><div class="bar-row" title="2603 長榮、2615 萬海、2609 陽明">
+    <div class="bar-label">航運</div>
+    <div class="bar-track"><div class="bar-fill" style="width:3%"></div></div>
+    <div class="bar-value">0.17%</div>
+  </div><div class="bar-row" title="4919 新唐、2454 聯發科、3035 智原">
+    <div class="bar-label">矽智財/IC設計</div>
+    <div class="bar-track"><div class="bar-fill" style="width:3%"></div></div>
+    <div class="bar-value">-1.74%</div>
+  </div><div class="bar-row" title="2313 華通、5469 瀚宇博、2368 金像電">
+    <div class="bar-label">PCB/載板</div>
+    <div class="bar-track"><div class="bar-fill" style="width:3%"></div></div>
+    <div class="bar-value">-3.96%</div>
+  </div>
+      </div>
+      <div class="panel">
+        <h2>三池等級分布</h2>
+        <div class="bar-row">
+    <div class="bar-label">熱門追蹤</div>
+    <div class="bar-track" title="A:0 B:0 C:12 D:0">
+      <div style="height:100%;width:0%;background:var(--red);float:left"></div>
+      <div style="height:100%;width:0%;background:var(--amber);float:left"></div>
+      <div style="height:100%;width:100%;background:var(--blue);float:left"></div>
+      <div style="height:100%;width:0%;background:var(--gray);float:left"></div>
+    </div>
+    <div class="bar-value">A0/B0</div>
+  </div><div class="bar-row">
+    <div class="bar-label">轉強潛伏</div>
+    <div class="bar-track" title="A:14 B:2 C:4 D:0">
+      <div style="height:100%;width:70%;background:var(--red);float:left"></div>
+      <div style="height:100%;width:10%;background:var(--amber);float:left"></div>
+      <div style="height:100%;width:20%;background:var(--blue);float:left"></div>
+      <div style="height:100%;width:0%;background:var(--gray);float:left"></div>
+    </div>
+    <div class="bar-value">A14/B2</div>
+  </div><div class="bar-row">
+    <div class="bar-label">錯殺反彈</div>
+    <div class="bar-track" title="A:12 B:8 C:0 D:0">
+      <div style="height:100%;width:60%;background:var(--red);float:left"></div>
+      <div style="height:100%;width:40%;background:var(--amber);float:left"></div>
+      <div style="height:100%;width:0%;background:var(--blue);float:left"></div>
+      <div style="height:100%;width:0%;background:var(--gray);float:left"></div>
+    </div>
+    <div class="bar-value">A12/B8</div>
+  </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>隔日實戰觀察清單</h2>
+      <div class="sop-list">
+        <div class="sop-card">
+    <div>
+      <div class="sop-title">1. 2884 玉山金 <span class="badge wait">待確認</span></div>
+      <div class="sop-detail">可盤中執行｜轉強潛伏｜金融#4｜打底轉強｜觸發 32.55｜防守 31.02</div>
+      <div class="sop-detail">過觸發且量能配合，再依防守控風險、相對大盤強、收在日內高檔、打底轉強、箱體壓縮</div>
+    </div>
+    <div class="score">85</div>
+  </div><div class="sop-card">
+    <div>
+      <div class="sop-title">2. 3653 健策 <span class="badge wait">待確認</span></div>
+      <div class="sop-detail">僅觀察不追｜轉強潛伏｜散熱#5｜打底轉強｜觸發 4305｜防守 3552</div>
+      <div class="sop-detail">上影需消化、離觸發仍遠、相對大盤強、打底轉強、上影風險</div>
+    </div>
+    <div class="score">84.4</div>
+  </div><div class="sop-card">
+    <div>
+      <div class="sop-title">3. 6669 緯穎 <span class="badge wait">待確認</span></div>
+      <div class="sop-detail">僅觀察不追｜轉強潛伏｜AI伺服器#3｜打底轉強｜觸發 5880｜防守 5165.6</div>
+      <div class="sop-detail">上影需消化、離觸發仍遠、族群前段#3、打底轉強、上影風險</div>
+    </div>
+    <div class="score">65.5</div>
+  </div><div class="sop-card">
+    <div>
+      <div class="sop-title">4. 2912 統一超 <span class="badge wait">待確認</span></div>
+      <div class="sop-detail">只等回測｜轉強潛伏｜未分類｜打底轉強｜觸發 233.5｜防守 217.9</div>
+      <div class="sop-detail">等回測不破或量縮確認、相對大盤強、收在日內高檔、打底轉強</div>
+    </div>
+    <div class="score">65</div>
+  </div><div class="sop-card">
+    <div>
+      <div class="sop-title">5. 3529 力旺 <span class="badge wait">待確認</span></div>
+      <div class="sop-detail">只等回測｜錯殺反彈｜未分類｜錯殺反彈｜觸發 3505｜防守 2912.3</div>
+      <div class="sop-detail">等回測不破或量縮確認、相對大盤強、收在日內高檔、止跌訊號</div>
+    </div>
+    <div class="score">64</div>
+  </div><div class="sop-card">
+    <div>
+      <div class="sop-title">6. 3665 貿聯-KY <span class="badge wait">待確認</span></div>
+      <div class="sop-detail">僅觀察不追｜錯殺反彈｜未分類｜錯殺反彈｜觸發 2180｜防守 1726.3</div>
+      <div class="sop-detail">量能需補、相對大盤強、收在日內高檔、止跌訊號、量不足需確認</div>
+    </div>
+    <div class="score">63.6</div>
+  </div><div class="sop-card">
+    <div>
+      <div class="sop-title">7. 2354 鴻準 <span class="badge wait">待確認</span></div>
+      <div class="sop-detail">只等回測｜轉強潛伏｜未分類｜觀察｜觸發 65.30｜防守 59.41</div>
+      <div class="sop-detail">等回測不破或量縮確認、相對大盤強、收在日內高檔、打底轉強</div>
+    </div>
+    <div class="score">61.3</div>
+  </div><div class="sop-card">
+    <div>
+      <div class="sop-title">8. 1216 統一 <span class="badge wait">待確認</span></div>
+      <div class="sop-detail">只等回測｜轉強潛伏｜未分類｜打底轉強｜觸發 76.70｜防守 71.26</div>
+      <div class="sop-detail">等回測不破或量縮確認、收在日內高檔、打底轉強</div>
+    </div>
+    <div class="score">60.7</div>
+  </div><div class="sop-card">
+    <div>
+      <div class="sop-title">9. 3017 奇鋐 <span class="badge wait">待確認</span></div>
+      <div class="sop-detail">僅觀察不追｜轉強潛伏｜散熱#5｜打底轉強｜觸發 2835｜防守 2492.9</div>
+      <div class="sop-detail">上影需消化、離觸發仍遠、打底轉強、上影風險</div>
+    </div>
+    <div class="score">60.2</div>
+  </div><div class="sop-card">
+    <div>
+      <div class="sop-title">10. 2412 中華電 <span class="badge wait">待確認</span></div>
+      <div class="sop-detail">只等回測｜轉強潛伏｜未分類｜觀察｜觸發 144｜防守 134.8</div>
+      <div class="sop-detail">等回測不破或量縮確認、收在日內高檔、打底轉強</div>
+    </div>
+    <div class="score">59.8</div>
+  </div><div class="sop-card">
+    <div>
+      <div class="sop-title">11. 3045 台灣大 <span class="badge wait">待確認</span></div>
+      <div class="sop-detail">只等回測｜轉強潛伏｜未分類｜觀察｜觸發 117.5｜防守 110.1</div>
+      <div class="sop-detail">等回測不破或量縮確認、相對大盤強、收在日內高檔、打底轉強</div>
+    </div>
+    <div class="score">58.9</div>
+  </div><div class="sop-card">
+    <div>
+      <div class="sop-title">12. 6510 精測 <span class="badge watch">觀察</span></div>
+      <div class="sop-detail">僅觀察不追｜錯殺反彈｜未分類｜錯殺反彈｜觸發 3320｜防守 3009.2</div>
+      <div class="sop-detail">上影需消化、上影風險</div>
+    </div>
+    <div class="score">57.3</div>
+  </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>昨日名單追蹤</h2>
+      <div class="sub">來源：2026-05-28 晚間觀察清單，盤中追蹤時間：2026/6/2 12:32:51</div>
+  <div class="table-wrap"><table>
+    <thead><tr><th>股票</th><th>昨日SOP</th><th>今日盤中結果</th><th class="num">盤中價</th><th class="num">觸發</th><th class="num">防守</th><th class="num">估量比</th><th>處理</th></tr></thead>
+    <tbody><tr>
+    <td><strong>2337 旺宏</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>可執行</td>
+    <td>觸發後拉回</td>
+    <td class="num">172.5</td>
+    <td class="num">178.5</td>
+    <td class="num">153.5</td>
+    <td class="num">1.4x</td>
+    <td>等重新站回</td>
+  </tr><tr>
+    <td><strong>2603 長榮</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>待確認</td>
+    <td>盤中觸發</td>
+    <td class="num">229.5</td>
+    <td class="num">222</td>
+    <td class="num">205.3</td>
+    <td class="num">1.5x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>6187 萬潤</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>待確認</td>
+    <td>跌破防守</td>
+    <td class="num">1010</td>
+    <td class="num">1430</td>
+    <td class="num">1147.6</td>
+    <td class="num">1.53x</td>
+    <td>剔除或等待重建</td>
+  </tr><tr>
+    <td><strong>6510 精測</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>待確認</td>
+    <td>未觸發</td>
+    <td class="num">3230</td>
+    <td class="num">3560</td>
+    <td class="num">3134.3</td>
+    <td class="num">0.76x</td>
+    <td>不動作</td>
+  </tr><tr>
+    <td><strong>8112 至上</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>待確認</td>
+    <td>盤中觸發</td>
+    <td class="num">93.40</td>
+    <td class="num">90.50</td>
+    <td class="num">82.86</td>
+    <td class="num">3.19x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>2883 凱基金</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>待確認</td>
+    <td>盤中觸發</td>
+    <td class="num">23.15</td>
+    <td class="num">23.10</td>
+    <td class="num">21.46</td>
+    <td class="num">2.68x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>3260 威剛</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>可執行</td>
+    <td>盤中觸發</td>
+    <td class="num">459</td>
+    <td class="num">437.5</td>
+    <td class="num">387.4</td>
+    <td class="num">3.18x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>2376 技嘉</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>可執行</td>
+    <td>盤中觸發</td>
+    <td class="num">385.5</td>
+    <td class="num">351</td>
+    <td class="num">308.2</td>
+    <td class="num">1.34x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>3293 鈊象</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>待確認</td>
+    <td>盤中觸發</td>
+    <td class="num">798</td>
+    <td class="num">767</td>
+    <td class="num">720</td>
+    <td class="num">2.76x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>2892 第一金</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>待確認</td>
+    <td>盤中觸發</td>
+    <td class="num">28.20</td>
+    <td class="num">27.80</td>
+    <td class="num">26.98</td>
+    <td class="num">0.94x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>3231 緯創</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>待確認</td>
+    <td>盤中觸發</td>
+    <td class="num">191</td>
+    <td class="num">150.5</td>
+    <td class="num">138.3</td>
+    <td class="num">6.42x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>3264 欣銓</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>待確認</td>
+    <td>跌破防守</td>
+    <td class="num">215</td>
+    <td class="num">249</td>
+    <td class="num">220.2</td>
+    <td class="num">1.46x</td>
+    <td>剔除或等待重建</td>
+  </tr><tr>
+    <td><strong>2451 創見</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>待確認</td>
+    <td>觸發後拉回</td>
+    <td class="num">354.5</td>
+    <td class="num">360</td>
+    <td class="num">307</td>
+    <td class="num">1.41x</td>
+    <td>等重新站回</td>
+  </tr><tr>
+    <td><strong>5351 鈺創</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>待確認</td>
+    <td>觸發後拉回</td>
+    <td class="num">92.00</td>
+    <td class="num">94.00</td>
+    <td class="num">78.30</td>
+    <td class="num">1.58x</td>
+    <td>等重新站回</td>
+  </tr><tr>
+    <td><strong>1402 遠東新</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>待確認</td>
+    <td>盤中觸發</td>
+    <td class="num">26.25</td>
+    <td class="num">25.90</td>
+    <td class="num">23.30</td>
+    <td class="num">2.27x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>3006 晶豪科</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>待確認</td>
+    <td>盤中觸發</td>
+    <td class="num">263.5</td>
+    <td class="num">261</td>
+    <td class="num">214.8</td>
+    <td class="num">1.33x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>2884 玉山金</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>待確認</td>
+    <td>盤中觸發</td>
+    <td class="num">32.20</td>
+    <td class="num">31.25</td>
+    <td class="num">30.65</td>
+    <td class="num">1.41x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>2330 台積電</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>待確認</td>
+    <td>價過量不足</td>
+    <td class="num">2390</td>
+    <td class="num">2360</td>
+    <td class="num">2207.2</td>
+    <td class="num">0.75x</td>
+    <td>等量能補上</td>
+  </tr><tr>
+    <td><strong>4967 十銓</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>待確認</td>
+    <td>盤中觸發</td>
+    <td class="num">299</td>
+    <td class="num">288</td>
+    <td class="num">255.7</td>
+    <td class="num">2.64x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>3665 貿聯-KY</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>待確認</td>
+    <td>未觸發</td>
+    <td class="num">2120</td>
+    <td class="num">2335</td>
+    <td class="num">1751.4</td>
+    <td class="num">0.41x</td>
+    <td>不動作</td>
+  </tr><tr>
+    <td><strong>2912 統一超</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>盤中觸發</td>
+    <td class="num">232</td>
+    <td class="num">211.1</td>
+    <td class="num">203.5</td>
+    <td class="num">1.8x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>5274 信驊</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>觀察</td>
+    <td>未觸發</td>
+    <td class="num">18200</td>
+    <td class="num">19195</td>
+    <td class="num">16997.9</td>
+    <td class="num">0.75x</td>
+    <td>不動作</td>
+  </tr><tr>
+    <td><strong>6805 富世達</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>盤中觸發</td>
+    <td class="num">2175</td>
+    <td class="num">1840</td>
+    <td class="num">1595</td>
+    <td class="num">2.19x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>1815 富喬</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>觸發後拉回</td>
+    <td class="num">107.5</td>
+    <td class="num">110</td>
+    <td class="num">98.65</td>
+    <td class="num">1.35x</td>
+    <td>等重新站回</td>
+  </tr><tr>
+    <td><strong>1303 南亞</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>觀察</td>
+    <td>盤中觸發</td>
+    <td class="num">110.5</td>
+    <td class="num">101.5</td>
+    <td class="num">86.58</td>
+    <td class="num">2.09x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>1590 亞德客-KY</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>跌破防守</td>
+    <td class="num">1280</td>
+    <td class="num">1500</td>
+    <td class="num">1360</td>
+    <td class="num">0.91x</td>
+    <td>剔除或等待重建</td>
+  </tr><tr>
+    <td><strong>5483 中美晶</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>觀察</td>
+    <td>未觸發</td>
+    <td class="num">161</td>
+    <td class="num">170</td>
+    <td class="num">145.2</td>
+    <td class="num">0.86x</td>
+    <td>不動作</td>
+  </tr><tr>
+    <td><strong>5289 宜鼎</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>價過量不足</td>
+    <td class="num">1865</td>
+    <td class="num">1830</td>
+    <td class="num">1318.1</td>
+    <td class="num">0.84x</td>
+    <td>等量能補上</td>
+  </tr><tr>
+    <td><strong>3563 牧德</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>未觸發</td>
+    <td class="num">807</td>
+    <td class="num">900</td>
+    <td class="num">781.4</td>
+    <td class="num">0.44x</td>
+    <td>不動作</td>
+  </tr><tr>
+    <td><strong>5871 中租-KY</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>盤中觸發</td>
+    <td class="num">113.5</td>
+    <td class="num">109.5</td>
+    <td class="num">104.5</td>
+    <td class="num">2.25x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>3034 聯詠</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>觀察</td>
+    <td>觸發後拉回</td>
+    <td class="num">498.5</td>
+    <td class="num">503</td>
+    <td class="num">460.3</td>
+    <td class="num">1.36x</td>
+    <td>等重新站回</td>
+  </tr><tr>
+    <td><strong>3661 世芯-KY</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>觸發後拉回</td>
+    <td class="num">4570</td>
+    <td class="num">4845</td>
+    <td class="num">4016.4</td>
+    <td class="num">0.86x</td>
+    <td>等重新站回</td>
+  </tr><tr>
+    <td><strong>2379 瑞昱</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>觀察</td>
+    <td>盤中觸發</td>
+    <td class="num">642</td>
+    <td class="num">624</td>
+    <td class="num">552.8</td>
+    <td class="num">1.88x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>2324 仁寶</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>觀察</td>
+    <td>盤中觸發</td>
+    <td class="num">44.35</td>
+    <td class="num">35.95</td>
+    <td class="num">29.76</td>
+    <td class="num">1.66x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>2382 廣達</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>盤中觸發</td>
+    <td class="num">404</td>
+    <td class="num">323.5</td>
+    <td class="num">285.2</td>
+    <td class="num">4.19x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>3324 雙鴻</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>盤中觸發</td>
+    <td class="num">1155</td>
+    <td class="num">1080</td>
+    <td class="num">918.1</td>
+    <td class="num">2.34x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>3715 定穎投控</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>未觸發</td>
+    <td class="num">173.5</td>
+    <td class="num">191</td>
+    <td class="num">160.6</td>
+    <td class="num">0.8x</td>
+    <td>不動作</td>
+  </tr><tr>
+    <td><strong>5536 聖暉*</strong><br><span class="sub">轉強潛伏</span></td>
+    <td>觀察</td>
+    <td>未觸發</td>
+    <td class="num">980</td>
+    <td class="num">1130</td>
+    <td class="num">917.9</td>
+    <td class="num">0.49x</td>
+    <td>不動作</td>
+  </tr><tr>
+    <td><strong>1326 台化</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>盤中觸發</td>
+    <td class="num">53.40</td>
+    <td class="num">45.85</td>
+    <td class="num">41.77</td>
+    <td class="num">3.97x</td>
+    <td>可依紀律找買點</td>
+  </tr><tr>
+    <td><strong>3017 奇鋐</strong><br><span class="sub">錯殺反彈</span></td>
+    <td>觀察</td>
+    <td>觸發後拉回</td>
+    <td class="num">2690</td>
+    <td class="num">2835</td>
+    <td class="num">2268.7</td>
+    <td class="num">0.68x</td>
+    <td>等重新站回</td>
+  </tr></tbody>
+  </table></div>
+    </section>
+
+    <section class="panel">
+      <div class="pool-title"><h2>熱門追蹤池</h2><span class="badge">TradingView 技術面</span></div>
+      <div class="table-wrap"><table>
+    <thead><tr><th>級別</th><th>股票</th><th>SOP</th><th>族群</th><th class="num">收盤</th><th class="num">漲跌</th><th class="num">RSI</th><th class="num">量比</th><th class="num">觸發</th><th class="num">防守</th><th>備註</th></tr></thead>
+    <tbody><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>2379 瑞昱</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>未分類</td>
+      <td class="num">653</td>
+      <td class="num">7.22%</td>
+      <td class="num">69.8</td>
+      <td class="num">2.1x</td>
+      <td class="num">653</td>
+      <td class="num">620.4</td>
+      <td>僅觀察不追、過熱不追高、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、KD高檔、突破前高、相對大盤強、收在日內高檔、已表態突破</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>2409 友達</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>面板#2</td>
+      <td class="num">26.15</td>
+      <td class="num">9.87%</td>
+      <td class="num">71.2</td>
+      <td class="num">1.81x</td>
+      <td class="num">26.15</td>
+      <td class="num">24.84</td>
+      <td>僅觀察不追、過熱不追高、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏熱、KD高檔、突破前高、族群前段#2、相對大盤強、收在日內高檔、已表態突破、回測量縮</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>3260 威剛</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>記憶體#1</td>
+      <td class="num">469.5</td>
+      <td class="num">9.95%</td>
+      <td class="num">63</td>
+      <td class="num">2.68x</td>
+      <td class="num">469.5</td>
+      <td class="num">446</td>
+      <td>僅觀察不追、過熱不追高、站上20MA、短均線偏多、明顯放量、RSI偏多、KD高檔、突破前高、族群前段#1、相對大盤強、收在日內高檔、已表態突破</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>2382 廣達</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>AI伺服器#3</td>
+      <td class="num">400.5</td>
+      <td class="num">7.52%</td>
+      <td class="num">75.4</td>
+      <td class="num">3.41x</td>
+      <td class="num">409.5</td>
+      <td class="num">380.5</td>
+      <td>僅觀察不追、過熱不追高、站上20MA、短均線偏多、明顯放量、RSI偏熱、KD高檔、突破前高、族群前段#3、相對大盤強、收在日內高檔、已表態突破</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>3231 緯創</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>AI伺服器#3</td>
+      <td class="num">191</td>
+      <td class="num">9.77%</td>
+      <td class="num">82.7</td>
+      <td class="num">4.15x</td>
+      <td class="num">191</td>
+      <td class="num">181.4</td>
+      <td>僅觀察不追、過熱不追高、站上20MA、短均線偏多、均線多排、明顯放量、RSI過熱、KD高檔、突破前高、族群前段#3、相對大盤強、收在日內高檔、已表態突破</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>2357 華碩</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>未分類</td>
+      <td class="num">920</td>
+      <td class="num">9.92%</td>
+      <td class="num">85.7</td>
+      <td class="num">1.7x</td>
+      <td class="num">920</td>
+      <td class="num">874</td>
+      <td>僅觀察不追、過熱不追高、站上20MA、短均線偏多、均線多排、明顯放量、RSI過熱、KD高檔、突破前高、相對大盤強、收在日內高檔、已表態突破</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>2353 宏碁</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>未分類</td>
+      <td class="num">42.55</td>
+      <td class="num">9.95%</td>
+      <td class="num">87.7</td>
+      <td class="num">4.13x</td>
+      <td class="num">42.55</td>
+      <td class="num">40.42</td>
+      <td>僅觀察不追、過熱不追高、站上20MA、短均線偏多、均線多排、明顯放量、RSI過熱、KD高檔、突破前高、相對大盤強、收在日內高檔、已表態突破</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>2324 仁寶</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>未分類</td>
+      <td class="num">44.35</td>
+      <td class="num">9.91%</td>
+      <td class="num">81.3</td>
+      <td class="num">1.27x</td>
+      <td class="num">44.35</td>
+      <td class="num">42.13</td>
+      <td>僅觀察不追、過熱不追高、站上20MA、短均線偏多、均線多排、量能放大、RSI過熱、KD高檔、突破前高、相對大盤強、收在日內高檔、已表態突破</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>2408 南亞科</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>記憶體#1</td>
+      <td class="num">419.5</td>
+      <td class="num">9.96%</td>
+      <td class="num">76.3</td>
+      <td class="num">1.11x</td>
+      <td class="num">419.5</td>
+      <td class="num">398.5</td>
+      <td>僅觀察不追、過熱不追高、站上20MA、短均線偏多、均線多排、RSI偏熱、KD高檔、族群前段#1、相對大盤強、收在日內高檔、已表態突破</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>2344 華邦電</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>記憶體#1</td>
+      <td class="num">184.5</td>
+      <td class="num">9.82%</td>
+      <td class="num">77</td>
+      <td class="num">1.01x</td>
+      <td class="num">184.5</td>
+      <td class="num">175.3</td>
+      <td>僅觀察不追、過熱不追高、站上20MA、短均線偏多、均線多排、RSI偏熱、KD高檔、族群前段#1、相對大盤強、收在日內高檔、已表態突破、回測量縮</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>2327 國巨*</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>被動元件#6</td>
+      <td class="num">846</td>
+      <td class="num">7.09%</td>
+      <td class="num">89.8</td>
+      <td class="num">0.42x</td>
+      <td class="num">847</td>
+      <td class="num">803.7</td>
+      <td>僅觀察不追、過熱不追高、量能需補、站上20MA、短均線偏多、均線多排、價強量未跟、RSI過熱、KD高檔、相對大盤強、收在日內高檔、已表態突破、量不足需確認、回測量縮</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>2317 鴻海</strong><br><span class="sub">過熱不追</span></td>
+      <td><span class="badge no">不追</span><br><span class="sub">57</span></td>
+      <td>未分類</td>
+      <td class="num">301.5</td>
+      <td class="num">2.73%</td>
+      <td class="num">81.8</td>
+      <td class="num">1.06x</td>
+      <td class="num">304.5</td>
+      <td class="num">286.4</td>
+      <td>僅觀察不追、過熱不追高、站上20MA、短均線偏多、均線多排、RSI過熱、KD高檔、相對大盤強、收在日內高檔、回測量縮</td>
+    </tr></tbody>
+  </table></div>
+    </section>
+
+    <section class="panel">
+      <div class="pool-title"><h2>轉強潛伏池</h2><span class="badge">Yahoo 日K快篩</span></div>
+      <div class="table-wrap"><table>
+    <thead><tr><th>級別</th><th>股票</th><th>SOP</th><th>族群</th><th class="num">收盤</th><th class="num">漲跌</th><th class="num">RSI</th><th class="num">量比</th><th class="num">觸發</th><th class="num">防守</th><th>備註</th></tr></thead>
+    <tbody><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>2884 玉山金</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge wait">待確認</span><br><span class="sub">85</span></td>
+      <td>金融#4</td>
+      <td class="num">32.20</td>
+      <td class="num">2.38%</td>
+      <td class="num">56</td>
+      <td class="num">1.68x</td>
+      <td class="num">32.55</td>
+      <td class="num">31.02</td>
+      <td>可盤中執行、過觸發且量能配合，再依防守控風險、接近/站上20MA、剛站回20MA、站上短均、短均線改善、RSI轉強未過熱、接近20日箱頂、箱體中上段、上影不重、近5日未過熱、相對大盤強、收在日內高檔、打底轉強、箱體壓縮</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>3653 健策</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge wait">待確認</span><br><span class="sub">84.4</span></td>
+      <td>散熱#5</td>
+      <td class="num">3990</td>
+      <td class="num">3.91%</td>
+      <td class="num">53</td>
+      <td class="num">1.69x</td>
+      <td class="num">4305</td>
+      <td class="num">3552</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、接近/站上20MA、站上短均、短均線改善、RSI轉強未過熱、接近20日箱頂、箱體中上段、近5日未過熱、相對大盤強、打底轉強、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>6669 緯穎</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge wait">待確認</span><br><span class="sub">65.5</span></td>
+      <td>AI伺服器#3</td>
+      <td class="num">5475</td>
+      <td class="num">-0.73%</td>
+      <td class="num">59</td>
+      <td class="num">0.88x</td>
+      <td class="num">5880</td>
+      <td class="num">5165.6</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、接近/站上20MA、站上短均、短均線改善、RSI轉強未過熱、量能溫和、接近20日箱頂、箱體中上段、近5日未過熱、族群前段#3、打底轉強、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>2912 統一超</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge wait">待確認</span><br><span class="sub">65</span></td>
+      <td>未分類</td>
+      <td class="num">233</td>
+      <td class="num">2.42%</td>
+      <td class="num">61.3</td>
+      <td class="num">2.05x</td>
+      <td class="num">233.5</td>
+      <td class="num">217.9</td>
+      <td>只等回測、等回測不破或量縮確認、接近/站上20MA、站上短均、短均線改善、RSI轉強未過熱、接近20日箱頂、上影不重、近5日未過熱、相對大盤強、收在日內高檔、打底轉強</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>2354 鴻準</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge wait">待確認</span><br><span class="sub">61.3</span></td>
+      <td>未分類</td>
+      <td class="num">64.00</td>
+      <td class="num">1.91%</td>
+      <td class="num">65.5</td>
+      <td class="num">1.36x</td>
+      <td class="num">65.30</td>
+      <td class="num">59.41</td>
+      <td>只等回測、等回測不破或量縮確認、接近/站上20MA、站上短均、短均線改善、量能溫和、接近20日箱頂、箱體中上段、上影不重、近5日未過熱、相對大盤強、收在日內高檔、打底轉強</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>1216 統一</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge wait">待確認</span><br><span class="sub">60.7</span></td>
+      <td>未分類</td>
+      <td class="num">74.20</td>
+      <td class="num">0.68%</td>
+      <td class="num">58.7</td>
+      <td class="num">1.35x</td>
+      <td class="num">76.70</td>
+      <td class="num">71.26</td>
+      <td>只等回測、等回測不破或量縮確認、接近/站上20MA、站上短均、短均線改善、RSI轉強未過熱、量能溫和、接近20日箱頂、箱體中上段、上影不重、近5日未過熱、收在日內高檔、打底轉強</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>3017 奇鋐</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge wait">待確認</span><br><span class="sub">60.2</span></td>
+      <td>散熱#5</td>
+      <td class="num">2700</td>
+      <td class="num">-3.05%</td>
+      <td class="num">56.8</td>
+      <td class="num">0.76x</td>
+      <td class="num">2835</td>
+      <td class="num">2492.9</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、接近/站上20MA、站上短均、短均線改善、RSI轉強未過熱、量能溫和、接近20日箱頂、箱體中上段、近5日未過熱、打底轉強、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>2412 中華電</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge wait">待確認</span><br><span class="sub">59.8</span></td>
+      <td>未分類</td>
+      <td class="num">142</td>
+      <td class="num">1.07%</td>
+      <td class="num">65</td>
+      <td class="num">1.17x</td>
+      <td class="num">144</td>
+      <td class="num">134.8</td>
+      <td>只等回測、等回測不破或量縮確認、接近/站上20MA、站上短均、短均線改善、量能溫和、接近20日箱頂、箱體中上段、上影不重、近5日未過熱、收在日內高檔、打底轉強</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>3045 台灣大</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge wait">待確認</span><br><span class="sub">58.9</span></td>
+      <td>未分類</td>
+      <td class="num">115.5</td>
+      <td class="num">1.32%</td>
+      <td class="num">62.6</td>
+      <td class="num">1.24x</td>
+      <td class="num">117.5</td>
+      <td class="num">110.1</td>
+      <td>只等回測、等回測不破或量縮確認、接近/站上20MA、站上短均、短均線改善、量能溫和、接近20日箱頂、箱體中上段、上影不重、近5日未過熱、相對大盤強、收在日內高檔、打底轉強</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>2330 台積電</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">56.3</span></td>
+      <td>未分類</td>
+      <td class="num">2380</td>
+      <td class="num">1.06%</td>
+      <td class="num">66.6</td>
+      <td class="num">0.93x</td>
+      <td class="num">2415</td>
+      <td class="num">2228.3</td>
+      <td>僅觀察不追、上影需消化、接近/站上20MA、站上短均、短均線改善、量能溫和、接近20日箱頂、箱體中上段、近5日未過熱、打底轉強、上影風險、箱體壓縮</td>
+    </tr><tr>
+      <td><span class="grade-dot B"></span>B</td>
+      <td><strong>5347 世界</strong><br><span class="sub">等箱頂突破</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">56.1</span></td>
+      <td>未分類</td>
+      <td class="num">171.5</td>
+      <td class="num">-4.19%</td>
+      <td class="num">57.4</td>
+      <td class="num">1.24x</td>
+      <td class="num">185.5</td>
+      <td class="num">165</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、接近/站上20MA、站上短均、短均線改善、RSI轉強未過熱、量能溫和、箱體中上段、近5日未過熱、打底轉強、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>3702 大聯大</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">55.9</span></td>
+      <td>未分類</td>
+      <td class="num">119</td>
+      <td class="num">0.42%</td>
+      <td class="num">60.7</td>
+      <td class="num">1.06x</td>
+      <td class="num">127.5</td>
+      <td class="num">112.8</td>
+      <td>僅觀察不追、離觸發仍遠、接近/站上20MA、短均線改善、RSI轉強未過熱、量能溫和、接近20日箱頂、箱體中上段、上影不重、近5日未過熱、收在日內高檔、打底轉強</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>5871 中租-KY</strong><br><span class="sub">轉強但偏熱</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">55</span></td>
+      <td>未分類</td>
+      <td class="num">114.5</td>
+      <td class="num">5.53%</td>
+      <td class="num">59.1</td>
+      <td class="num">2.44x</td>
+      <td class="num">117</td>
+      <td class="num">107.8</td>
+      <td>僅觀察不追、條件不完整，先觀察、接近/站上20MA、剛站回20MA、站上短均、短均線改善、RSI轉強未過熱、接近20日箱頂、箱體中上段、上影不重、近5日未過熱、相對大盤強、收在日內高檔、打底轉強、箱體壓縮</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>1402 遠東新</strong><br><span class="sub">轉強但偏熱</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">55</span></td>
+      <td>未分類</td>
+      <td class="num">26.25</td>
+      <td class="num">4.79%</td>
+      <td class="num">51.2</td>
+      <td class="num">2.2x</td>
+      <td class="num">27.20</td>
+      <td class="num">25.10</td>
+      <td>僅觀察不追、離觸發仍遠、接近/站上20MA、剛站回20MA、站上短均、RSI轉強未過熱、接近20日箱頂、箱體中上段、上影不重、近5日未過熱、相對大盤強、打底轉強</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>2880 華南金</strong><br><span class="sub">轉強但偏熱</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">55</span></td>
+      <td>金融#4</td>
+      <td class="num">34.05</td>
+      <td class="num">3.65%</td>
+      <td class="num">61.1</td>
+      <td class="num">2.48x</td>
+      <td class="num">34.40</td>
+      <td class="num">31.39</td>
+      <td>僅觀察不追、條件不完整，先觀察、接近/站上20MA、站上短均、短均線改善、RSI轉強未過熱、接近20日箱頂、箱體中上段、上影不重、近5日未過熱、相對大盤強、收在日內高檔、打底轉強</td>
+    </tr><tr>
+      <td><span class="grade-dot C"></span>C</td>
+      <td><strong>5475 德宏</strong><br><span class="sub">轉強但偏熱</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">55</span></td>
+      <td>未分類</td>
+      <td class="num">320</td>
+      <td class="num">7.74%</td>
+      <td class="num">54.6</td>
+      <td class="num">2.22x</td>
+      <td class="num">390.5</td>
+      <td class="num">297</td>
+      <td>僅觀察不追、離觸發仍遠、接近/站上20MA、剛站回20MA、站上短均、短均線改善、RSI轉強未過熱、上影不重、近5日未過熱、相對大盤強、收在日內高檔、打底轉強</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>3044 健鼎</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">51.9</span></td>
+      <td>未分類</td>
+      <td class="num">508</td>
+      <td class="num">-1.93%</td>
+      <td class="num">57.4</td>
+      <td class="num">0.99x</td>
+      <td class="num">542</td>
+      <td class="num">485.1</td>
+      <td>僅觀察不追、離觸發仍遠、接近/站上20MA、短均線改善、RSI轉強未過熱、量能溫和、接近20日箱頂、箱體中上段、近5日未過熱、打底轉強</td>
+    </tr><tr>
+      <td><span class="grade-dot B"></span>B</td>
+      <td><strong>3035 智原</strong><br><span class="sub">等箱頂突破</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">51.3</span></td>
+      <td>矽智財/IC設計#8</td>
+      <td class="num">209.5</td>
+      <td class="num">-0.71%</td>
+      <td class="num">60.1</td>
+      <td class="num">0.8x</td>
+      <td class="num">231</td>
+      <td class="num">195.1</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、接近/站上20MA、站上短均、短均線改善、RSI轉強未過熱、量能溫和、箱體中上段、近5日未過熱、打底轉強、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>5274 信驊</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">47.9</span></td>
+      <td>矽智財/IC設計#8</td>
+      <td class="num">18095</td>
+      <td class="num">-2.19%</td>
+      <td class="num">58</td>
+      <td class="num">0.87x</td>
+      <td class="num">19510</td>
+      <td class="num">17180.9</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、接近/站上20MA、短均線改善、RSI轉強未過熱、量能溫和、接近20日箱頂、箱體中上段、近5日未過熱、打底轉強、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>1504 東元</strong><br><span class="sub">轉強可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">47.2</span></td>
+      <td>未分類</td>
+      <td class="num">75.50</td>
+      <td class="num">-4.07%</td>
+      <td class="num">61.3</td>
+      <td class="num">1.48x</td>
+      <td class="num">80.00</td>
+      <td class="num">70.46</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、接近/站上20MA、站上短均、短均線改善、RSI轉強未過熱、量能溫和、接近20日箱頂、箱體中上段、近5日未過熱、打底轉強、上影風險</td>
+    </tr></tbody>
+  </table></div>
+    </section>
+
+    <section class="panel">
+      <div class="pool-title"><h2>錯殺反彈池</h2><span class="badge">Yahoo 日K快篩</span></div>
+      <div class="table-wrap"><table>
+    <thead><tr><th>級別</th><th>股票</th><th>SOP</th><th>族群</th><th class="num">收盤</th><th class="num">漲跌</th><th class="num">RSI</th><th class="num">量比</th><th class="num">觸發</th><th class="num">防守</th><th>備註</th></tr></thead>
+    <tbody><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>3529 力旺</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge wait">待確認</span><br><span class="sub">64</span></td>
+      <td>未分類</td>
+      <td class="num">3530</td>
+      <td class="num">7.62%</td>
+      <td class="num">48</td>
+      <td class="num">0.97x</td>
+      <td class="num">3505</td>
+      <td class="num">2912.3</td>
+      <td>只等回測、等回測不破或量縮確認、短線跌深、接近支撐/布林下緣、KD低檔轉折、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、相對大盤強、收在日內高檔、止跌訊號</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>3665 貿聯-KY</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge wait">待確認</span><br><span class="sub">63.6</span></td>
+      <td>未分類</td>
+      <td class="num">2195</td>
+      <td class="num">3.54%</td>
+      <td class="num">46.6</td>
+      <td class="num">0.61x</td>
+      <td class="num">2180</td>
+      <td class="num">1726.3</td>
+      <td>僅觀察不追、量能需補、短線跌深、接近支撐/布林下緣、RSI低檔、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、相對大盤強、收在日內高檔、止跌訊號、量不足需確認</td>
+    </tr><tr>
+      <td><span class="grade-dot B"></span>B</td>
+      <td><strong>6510 精測</strong><br><span class="sub">等止跌確認</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">57.3</span></td>
+      <td>未分類</td>
+      <td class="num">3215</td>
+      <td class="num">-2.28%</td>
+      <td class="num">42.3</td>
+      <td class="num">0.83x</td>
+      <td class="num">3320</td>
+      <td class="num">3009.2</td>
+      <td>僅觀察不追、上影需消化、短線跌深、回檔幅度合理、RSI低檔、KD低檔轉折、量能未失控、中期結構未完全破壞、非熱門追高、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot B"></span>B</td>
+      <td><strong>7750 新代</strong><br><span class="sub">等止跌確認</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">56.4</span></td>
+      <td>未分類</td>
+      <td class="num">2200</td>
+      <td class="num">-2.22%</td>
+      <td class="num">44.1</td>
+      <td class="num">0.71x</td>
+      <td class="num">2425</td>
+      <td class="num">2141.5</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、短線跌深、接近支撐/布林下緣、RSI低檔、KD低檔、量能未失控、中期結構未完全破壞、非熱門追高、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>8996 高力</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">55.8</span></td>
+      <td>未分類</td>
+      <td class="num">1050</td>
+      <td class="num">0.48%</td>
+      <td class="num">46.7</td>
+      <td class="num">0.7x</td>
+      <td class="num">1100</td>
+      <td class="num">952.5</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、RSI低檔、KD低檔、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、止跌訊號、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>1590 亞德客-KY</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">55.4</span></td>
+      <td>未分類</td>
+      <td class="num">1280</td>
+      <td class="num">-5.19%</td>
+      <td class="num">36.9</td>
+      <td class="num">1.04x</td>
+      <td class="num">1385</td>
+      <td class="num">1245</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、RSI低檔、KD低檔、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、止跌訊號、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>6781 AES-KY</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">53.2</span></td>
+      <td>未分類</td>
+      <td class="num">1130</td>
+      <td class="num">-5.83%</td>
+      <td class="num">46.9</td>
+      <td class="num">1.04x</td>
+      <td class="num">1225</td>
+      <td class="num">1076.8</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、RSI低檔、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、止跌訊號、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot B"></span>B</td>
+      <td><strong>6442 光聖</strong><br><span class="sub">等止跌確認</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">45.1</span></td>
+      <td>未分類</td>
+      <td class="num">1880</td>
+      <td class="num">-0.27%</td>
+      <td class="num">47.3</td>
+      <td class="num">0.78x</td>
+      <td class="num">1930</td>
+      <td class="num">1646.9</td>
+      <td>僅觀察不追、上影需消化、短線跌深、回檔幅度合理、接近支撐/布林下緣、RSI低檔、KD低檔、量能未失控、中期結構未完全破壞、非熱門追高、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>3533 嘉澤</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">44.6</span></td>
+      <td>未分類</td>
+      <td class="num">2615</td>
+      <td class="num">-2.24%</td>
+      <td class="num">54</td>
+      <td class="num">0.57x</td>
+      <td class="num">2735</td>
+      <td class="num">2260.6</td>
+      <td>僅觀察不追、量能需補、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、收在日內高檔、止跌訊號、量不足需確認</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>1519 華城</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">42.5</span></td>
+      <td>未分類</td>
+      <td class="num">850</td>
+      <td class="num">-2.3%</td>
+      <td class="num">48.7</td>
+      <td class="num">0.72x</td>
+      <td class="num">888</td>
+      <td class="num">769.8</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、止跌訊號、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot B"></span>B</td>
+      <td><strong>4977 眾達-KY</strong><br><span class="sub">等止跌確認</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">41.8</span></td>
+      <td>未分類</td>
+      <td class="num">212.5</td>
+      <td class="num">-2.07%</td>
+      <td class="num">47.7</td>
+      <td class="num">0.92x</td>
+      <td class="num">219.5</td>
+      <td class="num">190.5</td>
+      <td>僅觀察不追、上影需消化、短線跌深、回檔幅度合理、接近支撐/布林下緣、RSI低檔、量能未失控、中期結構未完全破壞、非熱門追高、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>6223 旺矽</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">40.5</span></td>
+      <td>未分類</td>
+      <td class="num">5515</td>
+      <td class="num">-2.9%</td>
+      <td class="num">49.9</td>
+      <td class="num">0.82x</td>
+      <td class="num">6015</td>
+      <td class="num">4845.3</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、KD低檔、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、止跌訊號、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>1717 長興</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">39.9</span></td>
+      <td>未分類</td>
+      <td class="num">78.70</td>
+      <td class="num">-3.44%</td>
+      <td class="num">49.6</td>
+      <td class="num">0.63x</td>
+      <td class="num">84.40</td>
+      <td class="num">73.65</td>
+      <td>僅觀察不追、上影需消化、量能需補、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、止跌訊號、量不足需確認、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot B"></span>B</td>
+      <td><strong>3714 富采</strong><br><span class="sub">等止跌確認</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">39.9</span></td>
+      <td>未分類</td>
+      <td class="num">69.20</td>
+      <td class="num">-3.35%</td>
+      <td class="num">47.8</td>
+      <td class="num">0.6x</td>
+      <td class="num">74.20</td>
+      <td class="num">63.65</td>
+      <td>僅觀察不追、上影需消化、量能需補、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、RSI低檔、KD低檔、量能未失控、中期結構未完全破壞、非熱門追高、量不足需確認、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>2449 京元電子</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">38.9</span></td>
+      <td>未分類</td>
+      <td class="num">306.5</td>
+      <td class="num">-3.62%</td>
+      <td class="num">50.2</td>
+      <td class="num">1.04x</td>
+      <td class="num">329.5</td>
+      <td class="num">275</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、止跌訊號、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot B"></span>B</td>
+      <td><strong>4749 新應材</strong><br><span class="sub">量縮等確認</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">37.9</span></td>
+      <td>未分類</td>
+      <td class="num">1050</td>
+      <td class="num">-1.41%</td>
+      <td class="num">49.7</td>
+      <td class="num">0.42x</td>
+      <td class="num">1080</td>
+      <td class="num">953.3</td>
+      <td>僅觀察不追、上影需消化、量能需補、短線跌深、回檔幅度合理、接近支撐/布林下緣、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、止跌訊號、量不足需確認、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot B"></span>B</td>
+      <td><strong>6187 萬潤</strong><br><span class="sub">等止跌確認</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">36.7</span></td>
+      <td>未分類</td>
+      <td class="num">1010</td>
+      <td class="num">-5.61%</td>
+      <td class="num">42.9</td>
+      <td class="num">1.53x</td>
+      <td class="num">1114</td>
+      <td class="num">998</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、RSI低檔、KD低檔、中期結構未完全破壞、非熱門追高、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot B"></span>B</td>
+      <td><strong>3715 定穎投控</strong><br><span class="sub">等止跌確認</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">33.6</span></td>
+      <td>未分類</td>
+      <td class="num">173.5</td>
+      <td class="num">-4.67%</td>
+      <td class="num">47.9</td>
+      <td class="num">0.91x</td>
+      <td class="num">185.5</td>
+      <td class="num">161.7</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、RSI低檔、量能未失控、中期結構未完全破壞、非熱門追高、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>8046 南電</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">30.3</span></td>
+      <td>PCB/載板#9</td>
+      <td class="num">862</td>
+      <td class="num">-4.75%</td>
+      <td class="num">51.5</td>
+      <td class="num">0.85x</td>
+      <td class="num">923</td>
+      <td class="num">778.8</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、止跌訊號、上影風險</td>
+    </tr><tr>
+      <td><span class="grade-dot A"></span>A</td>
+      <td><strong>4991 環宇-KY</strong><br><span class="sub">錯殺反彈可盯</span></td>
+      <td><span class="badge watch">觀察</span><br><span class="sub">25.6</span></td>
+      <td>未分類</td>
+      <td class="num">702</td>
+      <td class="num">-4.49%</td>
+      <td class="num">50.2</td>
+      <td class="num">1.63x</td>
+      <td class="num">754</td>
+      <td class="num">608.6</td>
+      <td>僅觀察不追、上影需消化、離觸發仍遠、短線跌深、回檔幅度合理、接近支撐/布林下緣、KD低檔、量能未失控、疑似止跌K、中期結構未完全破壞、非熱門追高、上影風險</td>
+    </tr></tbody>
+  </table></div>
+    </section>
+
+    <section class="panel news">
+      <h2>A/B級法人與新聞補充</h2>
+      <h3>熱門池</h3><p class="sub">無 A/B 級標的需要補充。</p>
+      <h3>轉強池</h3><div class="panel" style="margin:10px 0"><strong>2884 玉山金</strong><div class="sub">HiStock 2026/06/02: 外資 4308、投信 17928、法人合計 21776; 3日合計 38487</div><ul><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5EUFowcUVHQU5LSkM4alJobGo0ZkxWYWNYeFY0N3p0UjRFRnRDR203Q0JBLWJkamxDX2Y1YU1TRmJOV1phVm5ZUDl5Um43amF2V0gwRmc4NWsxc1J4Y3RFdTFmMGhEcFAwU3lReHcwMURJbkZ5Nnc?oc=5">Factset 最新調查：玉山金(2884-TW)EPS預估上修至2.42元，預估目標價為36元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw</a></li><li><a href="https://news.google.com/rss/articles/CBMivwNBVV95cUxQcFdJVmZQd015T2FlMVMyZnNrMXhnRzRiSlg2S2xvNGpCRXJxMkpoRzlpM3hqaTJqNWpKbEh0Qm9ra3VtUUtCWTdObWhkZEVNVW5ZX1dlSkpHZzk0dEtMcENWelN3ZUlaNGFicDJZR3NWSzRUVWRRZzNra3Iwdk9FNUY0cUxZb1N1TGhNVkFlUzZKckRhZkpNU2NIS0pVeTRjbG5tcmhaeFU2UV9QZy1HcWZzTEhKNTRLRVVlMkZmd1V5aVc2ODhFOVRqMnUzaVp0bXlDUWFiRVBNWWY4S2ZLLU5SMk9yclhObkFYdlJqSXpMYkJXM2tlbkVZSEdSZVU4WFd4U2VYTFU5N09KRTg3akpaaGhBaXRGTktuVlVVemxHWmNUQU1Sc3A1dnkwQVppdFZxTmd1QkJOaUxSVXlqOHhzMFY2aXZEQm96TV9FLXN6Ql9zajF0cHpkekhpSmx2T2tBdzNmYkdrVVZZRWl6ZnB2VEVzYWpHS0JUdXM2VF9rOVdUVy1LRVNaRWhYMTF2c2ppMVYxT0xBbTdndWRReGpnUkJqQXlsV0FybW8xTzRVUnVXZ2pmSWVZMTBiS3M?oc=5">婚事二樣情！玉山金爆84億元巨量跌7% 三商壽亮燈一度50餘萬張排隊等買 - Yahoo股市</a></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ycVkwQ1ltUHc0bFVNT3J6bUNFVVhzZXRCT0VzeDJlX09WZWVGUDNUNl9hZVFvS2tORWprMUNjU0tBODgtaFVzWXAtbWMzRkp2UFRXY0hmdmo?oc=5">2884 玉山金- 散戶持股率竟然只有40趴？-股市爆料同學會 - CMoney</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>3653 健策</strong><div class="sub">HiStock 2026/06/02: 外資 -72、投信 321、法人合計 204; 3日合計 115</div><ul><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWJwbzB3VENQYWpTaGJmRWxnT1kyeWJrSG9KSDhQeE9hQ19DcHo2cVd6VXRhX1d6SS05TklpdW10NEx0QUxyWFppcDloX1NYdmpQUUNCRDNSRlpmZXg5eS0xVmN2RlRlTTNNWDNRQjZTUnRrN0hhSk9HX2JzVGtSdjNJTWdKTjAyTUU0TXZB?oc=5">【12:34 即時新聞】健策(3653)亮燈漲停攻至3895，AI散熱題材發酵＋高檔拉回後技術面止穩吸引買盤迴流 - CMoney投資網誌</a></li><li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQZnQzRkZLMERzRHlTRW1QR3dZUUZsZG1Sb2o0RGgwdlhwMFl5ZnNHanE4bWZON3FYV2hQSHhhcUdSeVFoNGdWci1yOHdRRDhJUVhUSVBNYWIzZnJ4XzI3RXR3Z3JnaUdFWkd1LU9pWllXeFdoZTFpQmpibUtWQXNBdmZLQ1F4MzhGdTMzUDFHZXdNdw?oc=5">健策H2看年成長；首度參展COMPUTEX秀新方案- 新聞 - MoneyDJ</a></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Zc2I5ZXBFSjFmLVI2UFRzZUtfRGlEaThhblU4aHAtcjNYd2ZtUkNKNE1iUy1KOFA1d3JwVG9YWUFsaGpQM1BqdktmeGx0RmxUbzluV1REbGU?oc=5">3653 健策 - 安全帶係好來準備出花-股市爆料同學會 - CMoney</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>6669 緯穎</strong><div class="sub">HiStock 2026/06/02: 外資 201、投信 4、法人合計 141; 3日合計 905</div><ul><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5FM0xzOThhb3pHQ3VIdWFQbGhFWGZvZ2c0RmNTT3JYUWkxS0xiX0M3SDdOM1lNdGZwMGRuQ3FfR3ZFZm1ZZ3dVUkRfNjZueFNGSjA0T0xucDVpdWZiaS1pbjlpMWl1Wm9nVGV1SVBDSFVmS21XNHc?oc=5">Factset 最新調查：緯穎(6669-TW)EPS預估上修至344.78元，預估目標價為6500元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw</a></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlVRRE81VFluN0hjV3dYaWgzcldzZkRBZ3JSVFpMWm9Sd1luWHZaM1J5QkxKTXEyUkZKWE9fMlVDaEtKUE9vOEZOUjJTeWFNVHdaQXJUblZpb2VjOWdTQVdJM3B1UXJVV2FyTzdtRHNHMlluZHB2MU1fSklvM3RFVFVrQkM1dkp1dUlORUZ3?oc=5">【09:43 即時新聞】緯穎(6669)亮燈漲停至5445元，受惠伺服器與AI訂單展望轉強＋主力先前出貨後今買盤急拉回補 - CMoney投資網誌</a></li><li><a href="https://news.google.com/rss/articles/CBMitgNBVV95cUxNbnZxNS1tV1RYcnRzd2t4VW56QW91RldIZ3dQTV9qZ3FBTHZhaXJBTElrWVVZWS0ycFVFS3BFQzVZdjMtV1VGVVBvbFM0V3otNWhPYm04eWE1dUFkSDJPRzJjcElIV3MtazZXaE5WLVZpM05VZmVwazcybTRhRjdDcWgtdmVndkZ6UnNXZHViRGc3U18xSk5XaVVYaThNMGxCQTJURkQzUUtVb2hjTDlITmJWbXNRSkxEX1h6U0RrdmRqVTVSeFdVbGdJZlBnSkVEMmdCTHdpQkdLa1c0N2pnYjV3aGFuXzR1WTk2U1VLZFB5Zjh2OENNclpEMFBtTF9ZOWQyZ05OQlRlZEE0TlBUaHk3c3YzNzhUQnFPbnhwNmVYdmlydUhsejR4Y0NpQU92Z2VUNENlbVhIOEgzN3R4TFVSektNNWVXMzh0YVNjdWQ3VHFlcjR5aWNWSDlPcWhMR0RkbzJORDRfZkJ5ZGVPcF9OOXo1LURfdi1hSTN5UU1pbFl6S3V0RjdDSURJZE1JNjhxZ3BXMnVncHBYNWVhMlMwend5ejl1Z3NfTUpmbzR2NF9oOGc?oc=5">目標價喊上天價！「AI伺服器大廠」週線狂收連5紅 法人看旺今年賺30個股本 - Yahoo股市</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>2912 統一超</strong><div class="sub">HiStock 2026/06/02: 外資 -4934、投信 7750、法人合計 2805; 3日合計 8567</div><ul><li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1PRTc1ZE9EYVFSRXdqR2FmaWstWmxsTVE1dTFqa1FEcmNtWWxaT2VEeGJZSTdNWEJGQTY0c2JKMUhneXNabkxFUnNmOGVHQUZHRG94R3hMcElSZ3dETV8wQ2NqMFhKMDJwX2YtT2RkTXVDUi1xaVd2ZThUZVM?oc=5">統一超(2912)會員經濟進入收割期，物流與展店布局成下一波成長動能！-小資女艾蜜莉 - CMoney投資網誌</a></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uQXNBMlVndG42QmJPS0xBcHJqcmlQenR3MDkzUURYX3J0T2NfU1hKWThMZ0lSaEltXzNzREtsaW1BYjZwdERLMUI5NzhvWjhXWFJtYmU0bFA?oc=5">2912 統一超 - 【統一超(2912)盤後解析】投信大舉買超，股價強漲 統一...-股市爆料同學會 - CMoney</a></li><li><a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CX0ZGTldGaTRfV1o0TDVTdXRkU3JiOHZVV2lsYnloa3RiUEJxN1lXWVk2SDRIMm00Zk5qZzlQQjVOUDV5ZWVKUlhBZTdNZHY00gFWQVVfeXFMUHF2STNZWV91M1JVVE4zRDVSVW5aU3d5OC1WMEYwRHBLZWV3cmpBakplVXRoVDgxQzhabHVYblVWT3YwV3A2UFlTcDRZSTR4dE9Jd2tpRlE?oc=5">統一超搶618購物節大餅 - UDN</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>2354 鴻準</strong><div class="sub">HiStock 2026/06/02: 外資 6765、投信 0、法人合計 6667; 3日合計 11273</div><ul><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEpGTnZfQVlyT3hzMWlDekowcUhsU0NHcDRUcXlHcVRnQjBKVE9Hb1NESlpJTThYVXpBQW5WbjV2am5oNmNtazczSERTZFh5d1J2dTZTOXdGSHNQYmNGN0xoMlhIdGhuSk40c2hUZG9ETVhaRll0NnlRRkdxTklXaFJWN2pxMTc2NWlJS1Zn?oc=5">【10:55 即時新聞】鴻準(2354)股價勁揚逾7%，機器人與遊戲機殼題材發酵＋多頭結構續強搭配法人與主力同步加碼 - CMoney投資網誌</a></li><li><a href="https://news.google.com/rss/articles/CBMiswNBVV95cUxQcTBVRUlSX2Z1MGNaSnloSHpubUliSTYwd2RrbDRpeDRoczcwMW81dmhxNkF1WHJwTks3MkJTc0trYlFkbGViY040bW5FX0EyTm9uclVfNVNTMzRKdGJqUzgzR1FUUGpwUGRfdWJrcnFXZDZrUXVrNnJJVWdBS3pwVEtiMURHanJvSGNhVmdpOXY0Rkg0RFFUMUNVcTBFV1lSQlFHRTNvaGt3c1JFS3V1MXZMb0ZjTFU2SzZyWEJzejBwSWVNMURPRUpnUmtoRTFXbWVFREl5SDE1VTQzNnNacUpTRnViNGw0bkkxakxqSW5HZ3R5OUlycTJ3d1d5aThjbVVBZTZGSElqU0ljRGJhWDhTdWFLbXhpem0wb2U3T0NaNnRoWUhoLW56T2l2Z3FLbG01MWNIMERLbGc5UTV3b2VZUG1wUTlnOGFuT0pmb2M4UmZSc3lYVWJPRHJWNi1FZWpWTkhpZl9wdWpRa09tTWRvczlabkJKb0ZEaU5wLXYxeXo4N2RUa1FpS1dZNWRvd1JRY3h5MFBTYjJWdjROT2wydUVlNEs2bkFJdTJLUTJxYm8?oc=5">黃仁勳點火機器人？鴻家軍鴻準爆3萬張量能閃紅燈 8000張買單排隊搶 - Yahoo股市</a></li><li><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nY19EN2VlcndoWmgxSjN1Y0ZXc3dvU2RVcEVSMG5lSFFibmEwNUVzSFJFWkcyV2gzNUpoTVlPZFlLSWhhWVZ5Y09mdXBxWFphWW1FNEFsWkdodXlrWFE3ODR0UTNXRGc?oc=5">【即時新聞】鴻準(2354)爆量鎖漲停！資金輪動點火，這「2檔機殼概念股」強勢亮燈！ - CMoney</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>1216 統一</strong><div class="sub">HiStock 2026/06/02: 外資 -10590、投信 10721、法人合計 -4; 3日合計 8781</div><ul><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0dZcnJMaEIwSG05cFZ2T1kyZW54WE1LUmM3MkM2RjNybGdVNHdPaUtOdnEwQWt0VFYzYXZmQWJ4TS1WWGswemtWWlhEUHUxai1fQ1hOS0ZQODdUNllHRm56TW9JUGJFNVp1WVRNalhqb2EzX00ySEJNS2VoVzMza1BRT3FFZzYwa3p5RHVZbm4?oc=5">【即時新聞】統一(1216) Q1財報稅後純益年增26.9% 外資買超逾1.69萬張推升股價攻高 - CMoney投資網誌</a></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rNjIyOE5JZ2t5Z0tpaUowSHFhb19wTkY4YVFpSV9TQjdfRjJpbDZZeDlNZURKc3dqU29QNkpOR3JLdjBfNGtucU51YmdnNENJTjFsNU14ZlU?oc=5">1216 統一 - 【即時新聞】最新統一宣布2月營收達515億元年增逾8%，前二月創同期新高-股市爆料同學會 - CMoney</a></li><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1lRmtfbDM4dDI5ZGVPcU1aQ3VqNjRsZll0VEZPSnlzdW5ObFZBQ1ZRbUhUU3FCZ3NkdU01aXMwaDNPZURpTDN3Y01NM0cxMFRvS2VhWUwydTRkbVVqZlpZMGQyTHZwYTdpT0d2Nk5sZnE0dXM0akE?oc=5">Factset 最新調查：統一(1216-TW)目標價調升至78元，幅度約5.41%｜新聞快訊｜豐雲學堂 - sinotrade.com.tw</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>3017 奇鋐</strong><div class="sub">HiStock 2026/06/02: 外資 -272、投信 -123、法人合計 -401; 3日合計 951</div><ul><li><a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xcHdQOEt6Qm5LdFRUYmNZMmZBMjJZRnpzTzZSc21Oa0tMUER5bzJnUXlka2ZjdE9tZFRMeTI5Mk9ZaEVTMmxxdmVIVXNWamdW0gFWQVVfeXFMTUxPcmxJZjBDd1N0TWZhUVhoRFhlbDM2cXpESnh2Wm5wR2NxdDB6dkRMb2Z6Mm53NkhOSzd1Qkd5TXpITGQ0ZjBqSmpKZkp0bzFfOFZHcWc?oc=5">奇鋐股東會／沈慶行：獲利增速將大於營收 訂單能見度直達2029年 - UDN</a></li><li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4SU9kakl3VE1TWXV2RWlpNTZwYnJIRDAwM3BTa01RQmZXMXR3TnZTdU9vY0NoWmhBejRNSzFFOG5mbmNNcWZEdl9SV0tocEdLbV8zZVhqNHRLSEtxREln0gFkQVVfeXFMUHlWckpxbmR0ZG10cVpneERna250eDdESHJ2T0xHM09BZWd0bndvblA0bXU2bndwd2h5TGh5QnRwSi14dDBDQi1VekUtUnhiZ0ZPaldiU2U5S0NoZlF4NFhEakdBWg?oc=5">奇鋐訂單能見度看到2029年 聚焦高獲利市場 - 自由財經</a></li><li><a href="https://news.google.com/rss/articles/CBMikAJBVV95cUxQemtEUldMcnN3V0J4YjdXaVI5VGdMYW8zWUl3UFVzRVNUSGFMUTVWRWlpZnVxTWpfNlpfdlJpb2s0WUhFOVBBd0hIa2EwdHVnOW5EN1RrQXc2VkphNVFfSnhpTFZPcjZQOW9xMllNNVZzY3MxY0Q0ZE1JX003c1FVbEpmc2VMWHMyZFZ1WW85RmZIRnMtS0pNQkduTVZZbnhIZFM4ZWZ6WFFidHZFdU93NFQ3eURENWZ0N21MRUJEeHFoUXpXRV93dl93cGxFRFBINXpiRW5aM3o2TXdjX1Q3d3JTOVZuMC1JMGtxc0lrQzRJN1NSS2E1U2p0RGJscFNrZVJXMWh4RlVUWkY3U0hRbg?oc=5">奇鋐營收1390億元創新高 AI液冷商機發酵 - Yahoo新聞</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>2412 中華電</strong><div class="sub">HiStock 2026/06/02: 外資 -4824、投信 7602、法人合計 2757; 3日合計 13830</div><ul><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDZvMEhuOVU0T0NBNjR4NWFPXzM2dXdxVk1XaDk5WWJybDFpbzVKeFdqbkx0amhzMktSYWFPaEp1dzR6NUg4RTlCcFdZVFRmQkFSMURXbFAwajJVeDMzcUFUZm0zVDVFYU9Hd0FSdjN0TnJaRzhUZDZRTldXVnhXWUFCLXJBZXdrVW04OUNOVHE?oc=5">【即時新聞】中華電股東會簡志誠表達2026營運信心，2025每股純益創新高 - CMoney投資網誌</a></li><li><a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzR1RJblJLZWhXcTFrR2ZPMFJSYlhnSmlDUlpOUjdLeGVmT3kxbHFqYnpHcWV2dHE3eWZteXgtTUdHTTAzNGthdEVTUlV2ZlpWd3c?oc=5">台股暴跌700點中華電（2412）卻創歷史新高！大漲4％登144元…股添樂：少了網路線只是原始人 - UDN</a></li><li><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YbUQ5QjRXZnpvRjVRdDlaMXhyM01uS3h3bE5CcTdVMzBNeWtsZzQ1VkdwMHRKcDdmdThZUHFVRUNqNkFtck1ncWFuZ25UazlLSExvZzloY05iZWJUSld5clJPSlg1MDg?oc=5">【即時新聞】中華電(2412)擴大低軌衛星版圖！專家點名年底留意這「關鍵指標」！ - CMoney</a></li></ul></div>
+      <h3>錯殺池</h3><div class="panel" style="margin:10px 0"><strong>3529 力旺</strong><div class="sub">HiStock 2026/06/02: 外資 301、投信 -10、法人合計 292; 3日合計 234</div><ul><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBYdWgtTGZtdEEyamJSb0NveGpFWE1reGh0RzBLZDY5TkhNcjMxZUVXTG5LUDJqNnVvMDNGZ3V2UUNJZW1iTFg2VnZWa0haMlZtYWg4Z0VLUldaWVJucm1PdUNkVnlYNXVDU0dTTGxnQWtRMlE5OVE?oc=5">Factset 最新調查：力旺(3529-TW)EPS預估下修至36.74元，預估目標價為4155元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw</a></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQLWU5b3Zwb3ZpNEVteEhmbVZNanZOd0FXXzNHZ3dVTHFwNmlNNHg1eDNVOU1EQUZKRVY0c2ZJQm9wY2ViRm9rTVFmZlpIT2FaNS12b0g5WElhWG04c1ZaSU9ZekhuZWtub01zU3dJUkpteUJtYmZUci11bi11emhDLWVQMWJ0VzJMZGowTTJ3?oc=5">【10:18 即時新聞】力旺(3529)攻上漲停4075元，AI/IP 權利金題材發酵＋主力與三大法人同步偏多推升 - CMoney投資網誌</a></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oeHpEUmdYSDFXem11d3RrU3NQOWVoazlzRHQ3M1ZLQ2NYRGUyMEdwc3VuYVZUVU1fV0JTMXVnQmo5RDVaSXQ4LW5INGhjODF0MnUzTTZmOGU?oc=5">【10:24 即時新聞】力旺(3529)盤中急漲逼近漲停，法人買盤強勢點火，AI矽智財題材再度吸引資金輪動 - CMoney</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>3665 貿聯-KY</strong><div class="sub">HiStock 2026/06/02: 外資 241、投信 -334、法人合計 -101; 3日合計 -712</div><ul><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPVWJuOWZDM0V2Q0RwWkgzenIxQU1WdEFmUGxqWVU4bDd4VFdTY3hRaXQxZGh4U0hYMkZJSXYyNWtkdnZVSHBDeWcwZndFeUdTbTQzNk5RaTM?oc=5">3665 貿聯-KY - 10檔外資鎖碼股 盤面聚焦 經濟日報 記者周克威／台北報導...-股市爆料同學會 - CMoney</a></li><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5hMnJaMDd5TVdzSnYzZFE2bjgyOEUwZmdaYnBhX1d0M2VHOWlXLUwyQkJUaGZGMVpfdmJBSFBZY1d2Y0k2YVY2YmRWU2NsYzFZUEF2MVJSZWRxLWVVdXpDY2lJN1RaSVlfUGVuT0h1Q3ktY3FLc3c?oc=5">Factset 最新調查：貿聯-KY(3665-TW)EPS預估下修至66.37元，預估目標價為3230元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw</a></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTJyRTFKbzNYLUFCVTlwM1RRTUNkdDI4NVlpQ1FzYkNCUWhub3FXaTBVd3B6UVFyN01LdGJJZ2Q1cV8xWTVZSklieUFhMmtKQWQxckhlTHFpb1EzVHNMWk5Tb0VwRnY3RXZ0MVBuTGhnZ3JKOGZzMk1jQTVrX2V3Y0JXZWVzajZsamYweTNyRUE?oc=5">【即時新聞】貿聯-KY(3665)營收創高竟殺跌停！這「5檔概念股」賣壓湧現？ - CMoney投資網誌</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>6510 精測</strong><div class="sub">HiStock 2026/06/02: 外資 -180、投信 104、法人合計 -83; 3日合計 -213</div><ul><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3hBaXNiU2lRR0F5UE05Qy1saC1paTlINlgyWlE0LUg4eWdfMFl3eGFRMUFteGE4VWVCOThSWVl6Zkh2QzBoT3AwQ0VYenp1cU1DeGlKbXltM3BtbndFbEtVakFJenFpYlJxdGlkVVpPNXl4T2dCalZHZW04Mm5uMWljRW5ORk1ORVk0aXFqQ1E?oc=5">【即時新聞】精測因應AI需求加速擴產，產能預計8月底倍增 - CMoney投資網誌</a></li><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY1p5U0ROSkJkWEZVdG4zSzFFSS1sZkpmc3NJZWRLOEpCTEhzbm9aTF9JczlaLTQyN0E3ZDdGMlQ1QmNYNHdhR2Zlb2pZckN6QktnZ0xRSDFINm00RGsweEd1bXZkbVY5aWRSSS1mRFV5Rm50YUE?oc=5">Factset 最新調查：精測(6510-TW)EPS預估上修至66.85元，預估目標價為4550元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw</a></li><li><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YTGRBN01MQUthUEQ1bUVxbkNZdWhQalk1aTFqZjJWRGVOVk9HOWtON1JPazRnUTZGclhXeUczZTRfR1pmMmlXSEhwRFBsT2l0X0tQSDh4RjJGSG9XWGpqbWFtdGFMTFU?oc=5">【13:04 即時新聞】精測(6510)股價勁揚近7%，受惠AI測試介面訂單與月營收創高＋短線跌深反彈吸引買盤回補 - CMoney</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>7750 新代</strong><div class="sub">HiStock 2026/06/02: 外資 128、投信 -162、法人合計 -41; 3日合計 380</div><ul><li><a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tU09sN0FFNmRsS1ZIR2ljUFU0eV9TQmFPUG1BVHpFQTdVRWlOZUtFZUt5LVVlbllJV0RJcGtSNVdTc1dCNTFJMkVBTzhUX1FwdzBN?oc=5">新代(7750) 個股概覽 | 個股 - 股市 - CMoney</a></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPck1nbksyMkNtS09GajQ0ZHpGTFdoQVg2SV9wQUwzNWZKVDVvOTl4dUM2SkVrRlZuUEh4d3BBZWFJS3RrcXBoY0hrc0hMeGM2QUVDZVNBZEFXaWJOZkxDWGdUNmszUjNjNkdKWjhzc3pZY05TTTB0c2ZqbE5SVUx5OUhPSHA4bDYwTzJKT2hB?oc=5">【13:19 即時新聞】新代(7750)股價上漲近6%，機器人與中國製造擴張題材帶動，法人買超加持多頭結構 - CMoney投資網誌</a></li><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVmh3UlBHUDBKNmdJOFBBZ3ljOTNXdFk2aFpHXy05OWpZWklOQmYyU1dkc3E4R1FjWlVWTXBjX01oQTFROHltTXAxdHhSZFNSZzFMbkNEZlNJUl8xXzlqaFRJMzliOWRUN2NvdkxVVQ?oc=5">機器人股王！新代(7750)AI機器人小腦發威 股價上看4000元 - 理財周刊</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>8996 高力</strong><div class="sub">HiStock 2026/06/02: 外資 -306、投信 7、法人合計 -310; 3日合計 -672</div><ul><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfT0NqUFI1X2dWZkZabGR5cnduQ1k2M19OMjFxa2F3NXRVdGN2Ynp4bkxFYWlHNTJfcU5qR0FkaUh3Znh2cVZLS3BQTzV6U19jdTBaRFJoWU8?oc=5">8996 高力- 高力3/10法說解析影片-股市爆料同學會 - CMoney</a></li><li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JeEMxMnVtdU5SeTRscXp5MnZuaHpXOXJxc1lrenZzVEZRVFEtSDRLeFhXdkJXeVZvUncwUEVLbUFINUUyY0xvSzJsTmJXdmpoUDEyTUczOTBzcHl6ay1V?oc=5">擴產需求強高力通過私募引資案- 日報 - 工商時報</a></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkVGa0JKMWo1aXl5dUZKUE9VOUJWTVRoanhKek94QWpTZ1E4WkR6Si1nSTY4cTVCLTNuTnd6LWlKNW5fV2JHTFRQclo2b29QS2V1OVluOWZ4YmpwNG9qYmpLLTV3Y05uZXdDREcxRzN5ampEVnNIdUxJUDRITS0ya21jbG14SGlwdGtSeGFR?oc=5">【10:51 即時新聞】高力(8996)股價上漲近一成站上1250，受SOFC燃料電池＋AI資料中心電力題材加持，量能與中長多頭技術結構同步轉強 - CMoney投資網誌</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>1590 亞德客-KY</strong><div class="sub">HiStock 2026/06/02: 外資 -125、投信 -6、法人合計 -140; 3日合計 -145</div><ul><li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE10VW5fVlJON2NnbDdhYUZDRmZEUWJHWGZtcG96dlh1cUxYbmJOY3VxOE9uRHdWWVZHRVNscWR6YTlMVkJ6TWprY1NzVHJ1M1BKUUF1WE1fRFlUVVZZYzZNSFl3N09zTWh2X2VvS25EWXFTZC0yY3c?oc=5">營收速報 - 亞德客-KY(1590)5月營收39.09億元年增率高達40.39％｜新聞快訊｜豐雲學堂 - sinotrade.com.tw</a></li><li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWEpRR1dpeXRFVDhIS1ozdW1yNFJpRGhRdUcyRTNOVk8xcFRidVV6ZUdjRGpRby1mNU9acVhrVnJ3RE9Fa0l1alRuMnd6VjVlUXhVdnVnMGZPNHYxS3JHXzF6Q0Y3UUpEcDltS2FmY21kQnRwREFUV2dLTUVWU0Eyb1NKX2VFUzdz?oc=5">△個股：亞德客-KY(1590)5月營收及接單金額創歷年同期新高，估Q2利潤率提高 - 富聯網</a></li><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1RkQUg2NE1vcURhc1Z6bHoydndMU1RKV1RvTm8zdW5rU2Z1Umo1ai1pbmN4RzNLdEdOaTY0NnN3LWNyem9WeW1JeHF6OXpDMkpSSkozNXJ6THpHYWZVZnAwN2h0WnliRlY4WDE0UkF1QTdpN3R4STd2YndsbWcyb1JPR1RKUm9kQ185RklFZ0w?oc=5">【即時新聞】亞德客-KY 第一季毛利率47.97%優於預期，全年EPS上修至58元 - CMoney投資網誌</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>6781 AES-KY</strong><div class="sub">HiStock 2026/06/02: 外資 -556、投信 -90、法人合計 -694; 3日合計 -873</div><ul><li><a href="https://news.google.com/rss/articles/CBMijwJBVV95cUxNLXFuc0pBQ3ZrVm5BblZaSFUtcm1sVmp0XzIwRkNlNEZzX0pBbW1zN2tRSTFKZV96VDUxc1ZpR2JUajhvTWh2OVNURmhVbThGUi1CZTcxNU1tNDFzb1dyU0ZvOVlaODNpOVhFM3RfYm9pRnF2Q2p2cDRJMWZiZ2M0dG0zUnluREtOVFRGZU9rWEhsQVRfRnNhWWZvMlZSLTVvUFZ6bk9Zb0JfSVRndDdtY3p3NDlOZlB1QXdHVWZCWWJ4QjZBVFRiaFNGVWVScHhWVF84MmFGckZMMjVIMHgyU1NjUlNncFdUc0d6VHYyeXdQNEdpRWE3LXVzVlB6d05JZ3NQdkp6MXVZTDloczdr?oc=5">挑戰2000元目標價！這「BBU模組廠」EPS估看52.28元 法人力挺喊買 - Yahoo股市</a></li><li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQcjZyR1k0aWxMOXhNY1B3T3VhSkNLa292NVlCdGNQOXJRTnp3LXF3MXJ2R0h1eUV3MjF0eGhIZm1ZT3RkVHBJeGVQMmhsRDh6aHdZZUo2RFVCaEpUX2ZxNUhTUEtkdmlGOEN4RkdPOWl5dXNTZU0yM0NldXlyWUZ2U2VFeC1vblVrVnVuU3Jn?oc=5">【12:27 即時新聞】AES-KY(6781)股價上漲至1230元勁揚逾6%，AI伺服器BBU財報利多激勵＋法人買盤迴流帶動技術面轉強 - CMoney投資網誌</a></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE41Tm1FdVlqaHpwdUJNMnNkZDd2UFBPNzN0dy11UW9fc0ZmOXA2ZDN2cEFoSFd2Ny1aVnZ2T0ZYbWRxekY2bFFfdWpJQVdOV1BGWnpxOUxoYjE?oc=5">【13:22 即時新聞】AES-KY(6781)盤中強彈逾5%，短線量能回溫但籌碼凌亂，AI電力題材續熱推升股價 - CMoney</a></li></ul></div><div class="panel" style="margin:10px 0"><strong>6442 光聖</strong><div class="sub">HiStock 2026/06/02: 外資 -116、投信 15、法人合計 -114; 3日合計 -1329</div><ul><li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE40b3Z6SF8yRVlQMGJTVnBzY3dJSVlvbDJfeDFQUl9oLUpLYjhCTzM4QmZhdWE3OWc4Tm5FdS1fcml1Umd1Xzc2ZDg2czZobEk?oc=5">〈COMPUTEX〉光聖轉投資合聖新產品FAU亮相 最快H2試產、明年量產 - news.cnyes.com</a></li><li><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzFqR2hPdl9WblFGNTRrYUlPeDFKR1hiMFJhM0kwcjRxVGp0VDB5Vm1jbFRKMUNjVnBpTmtpUDhIQzU5NXkxb0RWSFRFbldWZFJxOE5RMUh3Ym5hbE9rckNKbFJobmFuYldKdzc3TVhKWFJDek8zbk5CejlpMktnV1lWYw?oc=5">光聖(6442)的 EPS 成長敘事，市場到底買不買單！-王澤明 - CMoney投資網誌</a></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tdWZyR0tBNTgxbzIwZnM5elpBT21mSW1TdUFVSlhZQkNoZC03djA3QnJiT1JJc2tpeW5nWTdBNTV4d19JaW9aOXk3SjNjcnpBOWZTUlBTOFA?oc=5">6442 光聖 - 明天估計跌到1730-股市爆料同學會 - CMoney</a></li></ul></div>
+    </section>
+
+    <p class="note">提醒：這是短線觀察清單，不是買賣建議。隔日盤中只做確認：有沒有過觸發價、量能是否配合、是否跌破防守價。</p>
+  </main>
+</body>
+</html>
