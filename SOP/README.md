@@ -1,4 +1,4 @@
-﻿# SOP Reports
+# SOP Reports
 
 Latest report:
 
@@ -7,4 +7,4 @@ Latest report:
 - [latest-intraday.md](latest-intraday.md)
 - [latest-intraday.html](latest-intraday.html)
 
-Updated: 2026-06-12 12:41:51
+Updated: 2026-06-12 20:16:26
