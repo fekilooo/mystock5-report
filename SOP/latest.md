@@ -1,6 +1,6 @@
 # 今日短線觀察池
 
-產生時間：2026/7/16 20:06:06
+產生時間：2026/7/16 20:21:03
 
 市場基準資料：2026-07-16 官方盤後行情
 
@@ -98,7 +98,6 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 | 2357 華碩 | 7 | 6 | 2026-07-01 | 2026-07-09, 2026-07-08, 2026-07-06, 2026-07-03, 2026-07-02 |
 | 6669 緯穎 | 7 | 6 | 2026-06-30 | 2026-07-15, 2026-07-14, 2026-07-09, 2026-07-06, 2026-07-01 |
 | 1815 富喬 | 6 | 5 | 2026-06-29 | 2026-07-15, 2026-07-08, 2026-07-06, 2026-06-30, 2026-06-29 |
-| 2449 京元電子 | 6 | 5 | 2026-06-30 | 2026-07-14, 2026-07-09, 2026-07-03, 2026-07-01, 2026-06-30 |
 | 3045 台灣大 | 6 | 5 | 2026-06-29 | 2026-07-15, 2026-07-14, 2026-07-09, 2026-07-02, 2026-06-29 |
 | 7769 鴻勁 | 6 | 5 | 2026-06-29 | 2026-07-15, 2026-07-09, 2026-07-02, 2026-06-30, 2026-06-29 |
 | 8150 南茂 | 6 | 5 | 2026-07-01 | 2026-07-15, 2026-07-09, 2026-07-06, 2026-07-02, 2026-07-01 |
@@ -110,8 +109,6 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 | 3665 貿聯-KY | 5 | 4 | 2026-06-29 | 2026-07-06, 2026-07-01, 2026-06-30, 2026-06-29 |
 | 3711 日月光投控 | 5 | 4 | 2026-06-29 | 2026-07-15, 2026-07-09, 2026-07-06, 2026-06-29 |
 | 6278 台表科 | 5 | 4 | 2026-06-29 | 2026-07-03, 2026-07-02, 2026-06-30, 2026-06-29 |
-| 8039 台虹 | 5 | 4 | 2026-06-30 | 2026-07-14, 2026-07-09, 2026-07-03, 2026-06-30 |
-| 2360 致茂 | 4 | 3 | 2026-06-29 | 2026-07-03, 2026-06-30, 2026-06-29 |
 | 2454 聯發科 | 4 | 3 | 2026-06-29 | 2026-07-15, 2026-07-06, 2026-06-29 |
 | 3034 聯詠 | 4 | 3 | 2026-06-29 | 2026-07-15, 2026-07-08, 2026-06-29 |
 | 3231 緯創 | 4 | 3 | 2026-06-29 | 2026-07-15, 2026-07-14, 2026-06-29 |
@@ -131,7 +128,6 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 | 8028 昇陽半導體 | 3 | 2 | 2026-06-29 | 2026-07-02, 2026-06-29 |
 | 2353 宏碁 | 2 | 1 | 2026-07-03 | 2026-07-03 |
 | 3413 京鼎 | 2 | 1 | 2026-07-08 | 2026-07-08 |
-| 6505 台塑化 | 2 | 1 | 2026-07-15 | 2026-07-15 |
 
 ### 隔日實戰觀察清單
 
@@ -144,11 +140,11 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 | 5 | 2880 華南金 | 可盤中執行 | 轉強潛伏 | 可執行 | 81.7 | 金融#2 | 打底轉強 | 39.90 | 37.37 | 過觸發且量能配合，再依防守控風險、族群前段#2、相對大盤強、弱盤抗跌、打底轉強、箱體壓縮 |
 | 6 | 2454 聯發科 | 只等回測 | 錯殺反彈 | 待確認 | 80.6 | 矽智財/IC設計#4 | 錯殺反彈 | 3790 | 3571.4 | 等回測不破或量縮確認、止跌訊號、量不足需確認 |
 | 7 | 6669 緯穎 | 可盤中執行 | 轉強潛伏 | 可執行 | 79.4 | AI伺服器#3 | 打底轉強 | 5325 | 4804.9 | 過觸發且量能配合，再依防守控風險、族群前段#3、弱盤抗跌、收在日內高檔、打底轉強、量不足需確認 |
-| 8 | 2892 第一金 | 可盤中執行 | 轉強潛伏 | 可執行 | 78.1 | 金融#2 | 觀察 | 34.15 | 32.35 | 過觸發且量能配合，再依防守控風險、族群前段#2、相對大盤強、弱盤抗跌、收在日內高檔、打底轉強、箱體壓縮 |
-| 9 | 2603 長榮 | 可盤中執行 | 轉強潛伏 | 待確認 | 76.8 | 航運#5 | 打底轉強 | 201 | 187.2 | 過觸發且量能配合，再依防守控風險、弱盤抗跌、打底轉強、量不足需確認、箱體壓縮、回測量縮 |
-| 10 | 2886 兆豐金 | 僅觀察不追 | 轉強潛伏 | 可執行 | 76 | 金融#2 | 打底轉強 | 47.60 | 45.21 | 上影需消化、族群前段#2、相對大盤強、弱盤抗跌、打底轉強、上影風險、箱體壓縮 |
-| 11 | 3045 台灣大 | 可盤中執行 | 錯殺反彈 | 待確認 | 75.8 | 未分類 | 錯殺反彈 | 110 | 106.8 | 過觸發且量能配合，再依防守控風險、相對大盤強、弱盤抗跌、收在日內高檔、止跌訊號 |
-| 12 | 3665 貿聯-KY | 只等回測 | 轉強潛伏 | 待確認 | 75.3 | 未分類 | 打底轉強 | 2140 | 1815 | 等回測不破或量縮確認、相對大盤強、弱盤抗跌、收在日內高檔、打底轉強 |
+| 8 | 2484 希華 | 可盤中執行 | 熱門追蹤 | 待確認 | 79.4 | 未分類 | 趨勢表態 | 89.60 | 87.81 | 過觸發且量能配合，再依防守控風險、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
+| 9 | 3491 昇達科 | 可盤中執行 | 熱門追蹤 | 待確認 | 78.8 | 未分類 | 趨勢表態 | 1310 | 1260.5 | 過觸發且量能配合，再依防守控風險、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
+| 10 | 2892 第一金 | 可盤中執行 | 轉強潛伏 | 可執行 | 78.1 | 金融#2 | 觀察 | 34.15 | 32.35 | 過觸發且量能配合，再依防守控風險、族群前段#2、相對大盤強、弱盤抗跌、收在日內高檔、打底轉強、箱體壓縮 |
+| 11 | 3665 貿聯-KY | 可盤中執行 | 熱門追蹤 | 待確認 | 77.5 | 未分類 | 趨勢表態 | 1985 | 1905.5 | 過觸發且量能配合，再依防守控風險、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
+| 12 | 2603 長榮 | 可盤中執行 | 轉強潛伏 | 待確認 | 76.8 | 航運#5 | 打底轉強 | 201 | 187.2 | 過觸發且量能配合，再依防守控風險、弱盤抗跌、打底轉強、量不足需確認、箱體壓縮、回測量縮 |
 
 ## 熱門追蹤池
 
@@ -156,30 +152,33 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 
 | 股票 | 明日策略 | 型態 | SOP | 族群 | 現價 | 漲跌 | 量/20日均量 | RSI | KD | 隔日觸發 | 防守 | 備註 |
 |---|---|---|---|---|---:|---:|---:|---:|---:|---|---|---|
-| 6505 台塑化 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
-| 8150 南茂 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
-| 8028 昇陽半導體 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
-| 2484 希華 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
-| 3008 大立光 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
-| 3491 昇達科 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
-| 2330 台積電 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
-| 2360 致茂 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
-| 3413 京鼎 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
-| 2449 京元電子 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
-| 8039 台虹 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
-| 3665 貿聯-KY | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 154.5 | 9.96% | 2.9x | 67.6 | - | 154.5 | 146.8 | 過觸發且量能配合，再依防守控風險、買 153.7~156｜守 146.8（失守 144.6）｜賣 T1 166.1、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
+| 2484 希華 | 可盤中執行 | 短線可盯 | 待確認 79 | 未分類 | 89.60 | 9.94% | 0.99x | 61.4 | 29/29 | 89.60 | 87.81 | 過觸發且量能配合，再依防守控風險、買 89.15~90.50｜守 87.81（失守 86.49）｜賣 T1 93.63、壓縮30/回測36、站上20MA、短均線偏多、RSI偏多、KD向上、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
+| 3491 昇達科 | 可盤中執行 | 短線可盯 | 待確認 79 | 未分類 | 1310 | 9.62% | 2.12x | 44.2 | 39/34 | 1310 | 1260.5 | 過觸發且量能配合，再依防守控風險、買 1303.5~1323.1｜守 1260.5（失守 1241.6）｜賣 T1 1384.3、壓縮44/回測52、站上20MA、短均線偏多、明顯放量、KD向上、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
+| 2330 台積電 | 可盤中執行 | 短線可盯 | 待確認 75 | 未分類 | 2470 | 1.23% | 0.92x | 57.8 | 48/34 | 2470 | 2420.6 | 過觸發且量能配合，再依防守控風險、買 2457.7~2494.7｜守 2420.6（失守 2384.3）｜賣 T1 2581.2、壓縮100/回測36、站上20MA、短均線偏多、RSI偏多、KD向上、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破、箱體壓縮 |
+| 8150 南茂 | 可盤中執行 | 短線可盯 | 待確認 74 | 未分類 | 122.5 | 7.46% | 2.67x | 60.9 | 52/52 | 125 | 116.4 | 過觸發且量能配合，再依防守控風險、買 124.4~126.3｜守 116.4（失守 114.7）｜賣 T1 131.7、壓縮40/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏多、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
+| 3413 京鼎 | 僅觀察不追 | 短線可盯 | 待確認 73 | 未分類 | 382 | 9.77% | 2.78x | 73.4 | 76/58 | 382.5 | 362.9 | 過熱不追高、買 380.6~386.3｜守 362.9（失守 357.5）｜賣 T1 410.7、壓縮16/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI偏熱、KD向上、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
+| 8028 昇陽半導體 | 可盤中執行 | 短線可盯 | 待確認 73 | 未分類 | 350 | 9.89% | 2.43x | 62.5 | 50/30 | 350 | 332.5 | 過觸發且量能配合，再依防守控風險、買 348.3~353.5｜守 332.5（失守 327.5）｜賣 T1 376.3、壓縮46/回測24、站上20MA、短均線偏多、明顯放量、RSI偏多、KD向上、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
 
 ### B級
 
-無。
+| 股票 | 明日策略 | 型態 | SOP | 族群 | 現價 | 漲跌 | 量/20日均量 | RSI | KD | 隔日觸發 | 防守 | 備註 |
+|---|---|---|---|---|---:|---:|---:|---:|---:|---|---|---|
+| 3665 貿聯-KY | 可盤中執行 | 等突破或回測 | 待確認 78 | 未分類 | 1955 | 2.36% | 1.11x | 47.7 | 38/24 | 1985 | 1905.5 | 過觸發且量能配合，再依防守控風險、買 1975.1~2004.8｜守 1905.5（失守 1876.9）｜賣 T1 2043、壓縮44/回測32、站上20MA、短均線偏多、KD向上、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
 
 ### C級
 
-無。
+| 股票 | 明日策略 | 型態 | SOP | 族群 | 現價 | 漲跌 | 量/20日均量 | RSI | KD | 隔日觸發 | 防守 | 備註 |
+|---|---|---|---|---|---:|---:|---:|---:|---:|---|---|---|
+| 8039 台虹 | 僅觀察不追 | 過熱不追 | 不追 57 | 未分類 | 199.5 | 9.92% | 1.22x | 73.6 | 93/92 | 199.5 | 189.5 | 過熱不追高、買 198.5~201.5｜守 189.5（失守 186.7）｜賣 T1 214.5、壓縮8/回測88、站上20MA、短均線偏多、均線多排、量能放大、RSI偏熱、KD高檔、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破、回測量縮 |
+| 6505 台塑化 | 僅觀察不追 | 過熱不追 | 不追 57 | 未分類 | 80.00 | 9.89% | 4.43x | 84.3 | 98/91 | 80.00 | 76.00 | 過熱不追高、買 79.60~80.80｜守 76.00（失守 74.86）｜賣 T1 86.00、壓縮8/回測68、站上20MA、短均線偏多、均線多排、明顯放量、RSI過熱、KD高檔、突破前高、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
+| 2360 致茂 | 僅觀察不追 | 熱門但未成熟 | 不追 57 | 未分類 | 1990 | 4.46% | 1.58x | 45.1 | 31/20 | 2015 | 1947 | 條件不完整，先觀察、買 2004.9~2035.2｜守 1947（失守 1917.8）｜賣 T1 2079.6、壓縮0/回測32、短均線偏多、明顯放量、KD向上、突破前高、跌破20MA、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
+| 3008 大立光 | 僅觀察不追 | 熱門但未成熟 | 不追 57 | 未分類 | 4260 | 5.45% | 1.34x | 52 | 52/51 | 4370 | 4172 | 條件不完整，先觀察、買 4348.1~4413.7｜守 4172（失守 4109.4）｜賣 T1 4451.7、壓縮32/回測24、短均線偏多、量能放大、RSI偏多、KD向上、跌破20MA、相對大盤強、弱盤抗跌、收在日內高檔 |
 
 ### D級
 
-無。
+| 股票 | 明日策略 | 型態 | SOP | 族群 | 現價 | 漲跌 | 量/20日均量 | RSI | KD | 隔日觸發 | 防守 | 備註 |
+|---|---|---|---|---|---:|---:|---:|---:|---:|---|---|---|
+| 2449 京元電子 | 僅觀察不追 | 排除追高 | 不追 57 | 未分類 | 318 | 3.58% | 0.85x | 51.6 | 30/20 | 324 | 311.6 | 條件不完整，先觀察、買 322.4~327.2｜守 311.6（失守 306.9）｜賣 T1 332.3、壓縮26/回測36、短均線偏多、RSI偏多、KD向上、跌破20MA、相對大盤強、弱盤抗跌、收在日內高檔、已表態突破 |
 
 ## 轉強潛伏池
 
@@ -256,30 +255,6 @@ TradingView：連線正常，熱門池技術面由 TradingView 日K/盤中 quote
 
 ## 熱門池 A/B級法人與新聞補充
 
-### 6505 台塑化
-
-HiStock 2026/07/16: 外資 3892、投信 2519、法人合計 9556; 3日合計 36246
-
-- [台塑四寶變九寶！台塑、南亞、台化、台塑化還能買？最新目標價！台塑AI半導體「特化帝國」版圖一次看 - 今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxON0taaDFmdWxmQ005YXdDanFuaWhMREV2M3pVSXNOMmlNUi1zVDN3V011YVNOY0ZDakZFQllmSlAzUjlCbTMyTVZ5MXpTOEUtRWlfZzcta0RDSG4takZWbHhYRFA4NlZINU5pWWdwejE2QlBtWW9oZXJzMEZnMnZZYw?oc=5)
-- [焦點股》台塑化︰國際油價大漲 股價狂飆 - 自由財經](https://news.google.com/rss/articles/CBMiX0FVX3lxTE94TG9jZUxoc01yazBGZzFod29EaDRyNVF6NW1xUmFWbEtORWxkM0ZZSzZTeUl3LUlzWmJ6Y0hCTHdlTU9KSVEzY1lyNWdpOXN0SjJJWHR1SjRaakRsLXkw0gFkQVVfeXFMTjR5d2J0ODFqNno0bE52aDRlSVN2M2VnVjNrekE2c1RROEZMSllPU1hxLWQ5M1pmeGVKNHpaUDN6N3VnWF91c1NkOExSbE1RM2ZLcWFfR3ZncENlRGFhUlQzYXM1Yg?oc=5)
-- [台塑化(6505)財報亮眼，股價攻上漲停板-朱家泓X林穎 - CMoney投資網誌](https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1pxcWtiT2l3eERHc1YzdXlHTUU4U2RGS3RFQ1FfbVRPUGRsb2ozbUR4WHNGUU5PY3RqSEdQQkZaS1JKc1RrSzRJRFZYVThEdEhMMVJ2djhwUmt1dTViNHJKc21tVUVITmlPMnZWa1Y1dlVDQk9PN3hiTkVxbzRKQkdrMENjUjBxZXc?oc=5)
-
-### 8150 南茂
-
-HiStock 2026/07/16: 外資 28683、投信 -207、法人合計 27977; 3日合計 18973
-
-- [【09:36 即時新聞】南茂(8150)股價勁揚逾7%，記憶體封測漲價＋營收創高帶動多方買盤延續 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3h1ckQ5dHdXWE1kTjZjWWxkUVZ0MUE2b2FSaVp5TXNYNFF5SUJpZi1mUm9TVnhMdWw4czFGajZyXzFldThrbkhudUEzYXhJZk5pVFhESmlYU1NHNzRLclROVTRnbHRwYUJ0NlB4WmRISS1qRGhSWklWTUs1NFVPMzhJRmhKZE9Scm5LMjVR?oc=5)
-- [三大法人買賣超 – 外資買超(8150)南茂、(6770)力積電，投信買超(1303)南亞、(2059)川湖，法人合計賣超431.43億元 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMiwgRBVV95cUxOLVA5d1VNOGJoQVVMcDVuODA2d2NEV1Rna09GNGVmblJlZ2wtY2E3bDdJNDd2bjh6R1lvTXI1ZHRhSVVkZDctSkMta3hTejM1QnRqakUwb193M250c3A1WnRYSG02dDFUbmdQaTc3THVLS25Vc3dod0plLUVKMkxhcmxRd3I2UmFlVWpmRG1OXzNGN0V0ZTBlWWxrZmNQcVZWM0JIZk53ZHJ2T1h4Ym1LQUpkdmFjWmdHc0ZZRDRKSUVfVXFROE8xUjRJRVlkcmdhUFJjZWtJUXV1UXgtTWV4R3VqNUh6QWtEbGN3Sm0zV0JST2l5bTNBOE5BWHNwVmstWmxmNVQ0blBtb3FvN193NUFZWjRlUjY2aHN6RTlKVnR6V1N5SGVUSm9mU0hhaGtzT0FvWGlsbDY4MEJHaUZVVTM3Y3A3YTVrUnR4VTEwUjJMdDU2ZTVUa04zcHRGTUVCcjlVOEZUSFhtMTkwaWJ6VDZxWGJCdF9GbGlwdm44Y2Fac1VYVktWVlRRZzFNSC1kZ3IwUHI2V1dEUUxKc2NNNnI5ak1YaWdZSmtzaXZWdXdIWDlmcEpUVmhETWh6bTZ4bzR2ZXdFM29tMXU1NUExekREVklBQ0xFelMtYkwxS3owN2N4cGtBS1RaUXRyNkF3c0RqZFZjcVE0VzQzTUt3N0dhLWtVZXdZZkd6YnZPZDdsd2M2WXM3WnFiSURzbWZXVzVtZ2pWWWt4bDFzT0REdmlqR3IycU1wcXFZTWhFRDYtZw?oc=5)
-- [聯電、南茂 四檔後勁足 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE40bVpiRUlZcHQzRlpoTkc4UGRGVzRyQmQ1TTViRHRMX2tmc1d0OV9VamtSVzFRLVB2YURneVh4cEZKNXE2X3pWbTFqLTJUWGlr0gFWQVVfeXFMT3BiUF9PYkc2c25MRHE0MV9RQjNBeGtRbFk5eGpPVmNOYTFxU3BCWG5pVGtLYjY1d1ZWdmQtUzM3SDhXVVR6M29wSk9vNE4yY2NzMGxLbnc?oc=5)
-
-### 8028 昇陽半導體
-
-HiStock 2026/07/16: 外資 4186、投信 -59、法人合計 4074; 3日合計 4927
-
-- [【09:22 即時新聞】昇陽半導體(8028)亮燈漲停至350元，AI再生晶圓營收連創新高＋法人買盤與短中期多頭結構支撐 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxPQi1DMElHcXhGSVlYWXcxdWxkVXRKakJ2NEd1c1dTTlFYY0xkT1VuUm4xM3hxajQxOFhwNjdhN3RIMUF1OWhmMGdOc1A1VEJyUTV6M2ZYcXhwb1RucWVjal90Z0I4VFFKb0FMSHNZOXc0S3kwYTFIdmstekdjcm54ZkU2S3R1Qi03QndJdEF3?oc=5)
-- [【11:13 即時新聞】昇陽半導體(8028)股價勁揚至315.5元，延續營收創高與AI再生晶圓題材＋短線脫離低檔區、主力偏空籌碼待修正 - CMoney](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vQ2tabWhGVVFwWlVEa2VIM3BiNDFJNVBFMGFodUdRNHg4QXNoa05mZWx5ck1DWUFzYmhVM3R6cDlGYnYtRk15ZjJZeGJXcDhXdE01WGVNSnBUWl9qU09kVmNYMU5uMUk?oc=5)
-- [大客戶擴產積極！「再生晶圓大廠」需求同步噴發 目標價喊上435元、潛在漲幅近3成 - Yahoo股市](https://news.google.com/rss/articles/CBMi2gNBVV95cUxPQ3cxVkFVMm8xRlJXX2ZaXzBlc1BfenRBby1fX3ZsQnE4dDd5OEFIbXBuYWh3Ry1wVm9iWW1PX3pzYzg3ZEFpdDBnQ1pud1NkemlQVDYzSWpiaE9xeG5OSS1ER2FFSHN6SWNFR2NNNmtwTkt2MjB2WkhoUXgzVkdncXNWVlptVjgwdG9KUURZS0RUUl9CZnBiLUlreWZac0lOYUEzSG4xOGZFZUNzdjNlRG83VDFrcGt0em5vM0dJUHZfOXdlZmJIejlLQUhvNW82MkdDcmtPd3Z0NmFYYjlNLUdoYUFsVW5FTklZTEF2cWNVR3V0Znl1SHhwUnRLZEpvSV9lMk1Pd1hVMUc2MHBheUEwLURZNjVKcExCNklUX18wZjU4RWtrTUxpVldPWlp6emljRkJISENvS2htUV9faXYyUDN2dndoUnV1eUEyc3JZekJDalgzZm02QUV0a1l3UTIyMUliU3VXamNBRXplWVVLaDBXVWh5bEFFRDFKcFZiZjVxNC0zdzRFbF9DV0RiRk1SdFVrXzgxS1MwX3ctdUhTakE1dzFPQlFaMFRmVGMxemVjSG1aSXpqVUZGWjlzTTZLLW5tOGIwcmVLSVAwXy1GSE1BM29KUXc?oc=5)
-
 ### 2484 希華
 
 HiStock 2026/07/16: 外資 -2170、投信 0、法人合計 -2082; 3日合計 -1382
@@ -288,21 +263,21 @@ HiStock 2026/07/16: 外資 -2170、投信 0、法人合計 -2082; 3日合計 -13
 - [【10:00 即時新聞】希華(2484)股價勁揚逼近漲停，石英頻率元件量價齊揚＋短線主力高檔換手後買盤再推升 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzFlZy13UnFKbG11dFF1YmlCS0M3UG00YjFrWF91blktTXFTQjNwOVdGRC1iNjJHc2lMZHA2NUpiSVRiTHllUE04UlJWWDBYQWxQbkxkdURJQ3dnUlYwOGhVQWtIRUV2SUxKUEQwSTc5eXJmcEFQRjBOdm5Pdk52bThiRktERkY0Qi0xbzV3?oc=5)
 - [【即時新聞】希華(2484)爆萬張大單飆漲停，這「5檔概念股」逆勢突圍吸金！ - CMoney](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JWjV2R2xOZUMtMEVNQm9Tb2tzWmpmbUQzWU0xN0g1djJ2eURsU3pseXZkNEs1WmpvbEp4VHFPelVLVS1ORWpsa3hMNUVKTktIbk1HRTZqYUVmdFN2S1F1cXRzVjVwNXc?oc=5)
 
-### 3008 大立光
-
-HiStock 2026/07/16: 外資 1、投信 206、法人合計 258; 3日合計 -1031
-
-- [【10:51 即時新聞】大立光(3008)股價上漲6.31%，光學＋CPO題材點火，高價千金股買盤迴流帶動短線反攻 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHpsNFVlQWJDLTVnT1dvYXFPeHlfWTJCYko0OVU0SmctYlQ3VlB0cnJneGRjQUpqMjhPdGpqcHZYeHVaVnFOVk82a1lwTlZ6WkJodTJ3UWlSLThweFpkVExPSUVyQVVmX0RDa3J1ejRKT19aMDFYOFNROHRyYzlRWnNIZ2cyVHlrQndVcE5n?oc=5)
-- [大立光殺進CPO不到1年就傳捷報！股價跳空漲停慶賀法人喊出「這」目標價- 證券 - 工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xTHE0dS05Q0x0WW42NGFOQVFaaVJyOG5ibTZwRlFvOFo0ZFl1MG5ZUEpXZ0dETXMwZW9KdDNvd0xsNThTaGVvT0xELXBQbkxCVXRCcGJiNW9MWHlvVXFR?oc=5)
-- [大立光要飛了？外資狂讚「CPO新武器」進度超前 喊買上看5150元 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pejBlRzUyVzhVVm43dzZmUnlrN04zTXJOWlZkbEt0MWFhSU1kSlJLUk5jaWdpQWpDanJHVGxaQ0NuNjNKemVOVkNJMHFsLURF0gFWQVVfeXFMUGNDQ2RsS3JWOW1HMko1a0h3OGN5UmZPQUFwbFM5NGlCMlh0YzFvQ0FsVWJZMzhUR19PN29IVVpiUlZSTEJ5QTR5TFJCcUMtNEtJYnA2WEE?oc=5)
-
 ### 3491 昇達科
 
 HiStock 2026/07/16: 外資 -474、投信 2、法人合計 -458; 3日合計 -319
 
-- [昇達科暫停交易原因揭曉！股價「2200元→1195元」近腰斬...低軌衛星概念股還有戲？華通、台燿大反攻 - 今周刊](https://news.google.com/rss/articles/CBMigAFBVV95cUxPU2FRVW52OGF4dlhneV9YUTczYVBKWmJLakhiRnpIdUNRM2VERThEak4xeWYtbjFPaS1mNng1aE4xUmY0NWJYTVU1dTVkOGZlWEZOMTVEMzc3ejlfc2RhMG5ZM29qZ3FuWEhiX1FPdXJrck00N0ZrVUNfb0NyZmh2Ng?oc=5)
-- [快訊／低軌衛星熱！昇達科砸17億併購巨頻科技 搶攻高頻高速市場 - 三立新聞](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rd19kZEJCUTd0cV8yMndjUElIQm05YXhpU3Flay1uc09MRkhSSjlnV0l0NHN6U0E2ai1ENGp5VHZaZ1ZJSVNLTklnWQ?oc=5)
+- [昇達科今停牌，下午重訊公告新訊- 新聞 - MoneyDJ](https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ25Vdm9uNGtLVVBNbVZPTlpyUjdNV3pvZm9lYVdYNS1mbkNLN2NiVjlBOEJNb3pPeXhIQzF1ZXdoamRwWUVzejFGTDVabXFoM1daamZRd2t6cUZNbHpEZXQzdHJPM3dhNkN0bk03QU56bzdaUUFqbW1oQm5kYWVKLXFka0pnTmtmQmQ2NnhLdzR0dw?oc=5)
 - [快訊／股價2個月崩逾4成！低軌衛星指標廠昇達科突發重訊 明暫停交易 - Yahoo股市](https://news.google.com/rss/articles/CBMisgNBVV95cUxNY09CTS1UNXJxZWJ5NURiekpqNm9wRE0yQ1BUQVZQRFVJVmVwV3BQQkY0UjdybFR6b3VNR21mZzFFMGszS0daRFc0UFhqNU5zU3Z5akV4SXBZbl9NVmkzQm1KdmJaY3UzbGM1a2tfMGNmdmpLeFRzNU1qc1RnVUVUbkR3dURHckFrWE1OaFU4SXlVVER1R3ZONWdXajZBS0g0RGtKMlZIM2pjdURaUEVjS043R1hpNU9Qa0cwNjRzVFZLVnJ5R0oyNzd6NDh2Nzd6LUlubXlzeU92aXlmdDlBb1l2Y3djN1NQZUNhQzJLWXk0aDJmUHJZNUREM0V6Si1PN3cxaWU3aXZ0S1BTd2ZjVmJ6VUZYRm1kcGZWRC1EQ05MMmI5TlNXWVNuZ3QyS0I1OWdMbmlXTzdGU1dINV9abXFsdWxLWFE4VUxPc0ZpemdGM0VuUW14SWhlc1hkN3pLbVlwajdoZjRSVXR5dWllcGFmRU1VQXdsRlp3Qmd0RjBWZUpLOWo1SUN6YVVVZFByeXN0b0dJY2RpaUI0c21oemZ5bDlrN1VNeTNaODVROC1WUQ?oc=5)
+- [昇達科斥資17億入主巨頻科技！低軌衛星龍頭擴大高頻高速互連版圖｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMiggRBVV95cUxQZ1VDTVFSRmcwVk5NWF9Pb3VtRm1Eby1zd3oyZVQzaXkyLUc3NVloYjgzdWVjTDAtNEdrWC1KRUdDeDYxRjB3V2ZHZE5QcVo5aV81b2tDTkZ6d1B6NmEtZUtacUxnTmpaTUJEZnVIV3lvZlNfdGl1WDJveVdGbnJyLXl2azRZdDlwZzhxOFk5T3Zfclp3eTZ3N0JuT3lwLUpRMVFaMFhjZTVqcDdEeEgtWm9Lc3NsT2x3RFlQN2VJakNMQVU1NnQwaTF4ZjZfY2p3aV9uQU1YQTFkLUg5RnhJYUFESm1JbkwwZDdESVg3anlLMW9TaVdvYTA1OFRCbm9sQ29uX19iaE10RDItS2dlbGsxMGNoTkFFS0dzaXFVZllSOXpza3BwZ2JVRVlqbVJDblhaTjNrd2pHdnpoQlRCM2xWbDF5OWRIYnBkcXBSOHNTU3habU01Zm1GeWhyaU5ZLVpWQXAtOHBQNXh4eWpfYjVSSGd4WXNDYTk5YXBxRVhVbHYtNE1pcjhwT2JZRXZWWjZCcnNDOGN4UEVSN2x2WDNMRG5fc2ZwVWpzaGc1UVd2UHI5aHAyOWw1eVpfeHVlVlFZUkViemdJbTdVcGNCaFlOX0xVWXNFbGdIRWIyTmE2Wkw1S2hzOFZOTEViUU5BaEo4ZGNzdkpVSnpLRTNqdmxn?oc=5)
+
+### 3665 貿聯-KY
+
+HiStock 2026/07/16: 外資 -411、投信 323、法人合計 -60; 3日合計 678
+
+- [AI題材點火！貿聯-KY營收連創高 獲美系外資喊買、目標價3100元受矚 - Yahoo股市](https://news.google.com/rss/articles/CBMiiwNBVV95cUxQZzlmV2cyU3VRb0pDZ19QQm9jaXFXMVBCdll6SUxRNlpzQVlNbXJmRzBNTW12akJMU2hWUW1pTldIeWxpRUdjc0xHc3BUNHdQeFRoeGJwYzJIRlpRaTBxX3lMZUJGelVkT01tN0FRZnZqSkYxenpxd0x3RGZOc09scTRBa1BrZkM5VlZteXJQLWNUTVR6b0pBbGhobGphVzBhMVJVWGVmWWljWExZdzZkR2dReHk0bTM5WEZWaWdKWFA2Y1ZGUnFHYldXX2F3dkFYVUd2YkUxV1R2cmZnZF9BLUxfZjM2cE45OENJbEo2LXdjOHJTdk16RXhQN0RGaW1lLTNPRVJocWp6SGZjczlrQW1rN1JDcHo3OFhlUUZwakZnbVFqZlAtRXFUTXNBNDhybTNHdWh4cXRfb1pWcVVsOWEyLTNlajRubDhrWXVKYVgzTVFScHZ1MVRyUG1RZWZqdjJDcGNIMVAxU183UlVaTks1b3JqLTE4Q0w3QmJuZXRCUlhfbHRhbTh3Yw?oc=5)
+- [【13:06 即時新聞】貿聯-KY(3665)股價走強至1975元、上漲3.4%，AI伺服器線束與資料中心題材受捧＋短線均線結構翻多、投信與主力買盤延續 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlJndHhBSnhtRUxPQVlkam5NRVFXNmlkWVVYTmlGNDlhaS1xV2ZIcFZNN3lPRnNtcWRVajROQ0hWU0VBNVJ6WGZpdld5Wk0xYjA1cngyZ0FPSEtNNmlxWms4c0wyTlNmY1c3MjJtSVZ5YmNkRDBkNi1WUlhsMnV4a3FYa1dJYlRFSndHYTBR?oc=5)
+- [【13:06 即時新聞】貿聯-KY(3665)股價走強至1975元、上漲3.4%，AI伺服器線束與資料中心題材受捧＋短線均線結構翻多、投信與主力買盤延續 - CMoney投資網誌](https://news.google.com/rss/articles/CBMizwFBVV95cUxNdkpXdklHcDBTNXNLRGRkOFN4LWVjbURQR3RBWkRmSlNXZXYtN2dJWGVGcjd3VEFEYTBrbXl4VDEzQzZ3UzZvMWwtY25GdUthcUJSWkNibDdGaXlxSWc5SW40eEY1ajNrRVVnTWNCNmNKNVk0SnFKU3VmWmhSRU1qbVg2Y1dYb0lYXzMwUXZIU0pubVVqbkFzeFIzTzM4b2RrcWxBLTFZTGRiNVJEN1lmc0plOHUybmVFUHBwUnV1ZGI5NUxiNHl0YmVnNlU5YVk?oc=5)
 
 ### 2330 台積電
 
@@ -312,45 +287,29 @@ HiStock 2026/07/16: 外資 -4215、投信 532、法人合計 -2621; 3日合計 -
 - [【即時新聞】台積電(2330)法說前外資樂觀押寶，這「3檔概念股」資金輪動表態！ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUkxYkY2Wmp2R3hLMmppTURWR0Y2b2E4Z1BFSjM3dWNXTVlBX0FHZm1KellOclktT2w1Wk1wbWRyMHpzVXh6TFBhUlI5WFJMNnIwdzZVX2VCSjEwNS1pTEpad0NiQTFlMFRWWWdqNXc3SE91U0x3XzZzQnZmYkF3QldraTg1cGJXeExmWV9VVmM?oc=5)
 - [決定下半年台股多空！小童拆解台積電（2330）法說會「三大指標」：表現好還不夠| 台股雜談| 股市 - UDN](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzOXR1MWt0MXY2VmpLb294ZUVpSFZGSnFSM1p3bkJGSVEwS3JDSm9nU2FYajVIM2R2eHZyOUM3d3A2c2FPTm8xdWYxUkplYUNGS2c?oc=5)
 
-### 2360 致茂
+### 8150 南茂
 
-HiStock 2026/07/16: 外資 -1122、投信 687、法人合計 -438; 3日合計 -253
+HiStock 2026/07/16: 外資 28683、投信 -207、法人合計 27977; 3日合計 18973
 
-- [致茂(2360) 個股概覽 | 個股 - 股市 - CMoney](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zckRsX3hYWnpOQlNIQ3ljckp5OVdKNnU4YjJXNWs1ZWRYb2RGTG1LMVJLaTJsejVFZWNyRWJTOHlrRjhSU3NfNWNCQzNMa0RkYlkw?oc=5)
-- [【11:11 即時新聞】致茂(2360)股價走強，量測裝置受AI與量子題材加持＋月營收連爆發支撐高檔評價 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEZwM0xaV3ZsY1AwVEVHTnZ6Q3JVWEMxRlY1cUpNTHROcEJDdDdraTJ6dnBRajNUQ1ZEbEw5UU5uLU5IWWlGSm1laWg4VVlORzhVdVVVTFNiWUMybUxaUzFUdExZS0FhaHA2N3g4Nmg2Tm9LRWVMbDBkQUhMNkRwaV9CRXJFekZid0dpdnZn?oc=5)
-- [AI 設備台柱致茂(2360)營收暴衝73%！股價卻從天價慘跌3成，市場在怕什麼？ - 理財周刊](https://news.google.com/rss/articles/CBMib0FVX3lxTE1NMmZ3N0RNX0xxQlVuMDBaZzR5NE5YNzFNeDRoY3hoYk5NcEVHeTFTZWNPUXU3ZG5jWWtBYklONjBkNTkyd1NkVTRkV3JGWS1sUTRiYlR4aTM3cHY1WUk4UGFhS1VuSU9IV0JDcmRfSQ?oc=5)
+- [【09:36 即時新聞】南茂(8150)股價勁揚逾7%，記憶體封測漲價＋營收創高帶動多方買盤延續 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3h1ckQ5dHdXWE1kTjZjWWxkUVZ0MUE2b2FSaVp5TXNYNFF5SUJpZi1mUm9TVnhMdWw4czFGajZyXzFldThrbkhudUEzYXhJZk5pVFhESmlYU1NHNzRLclROVTRnbHRwYUJ0NlB4WmRISS1qRGhSWklWTUs1NFVPMzhJRmhKZE9Scm5LMjVR?oc=5)
+- [三大法人買賣超 – 外資買超(8150)南茂、(6770)力積電，投信買超(1303)南亞、(2059)川湖，法人合計賣超431.43億元 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMiwgRBVV95cUxOLVA5d1VNOGJoQVVMcDVuODA2d2NEV1Rna09GNGVmblJlZ2wtY2E3bDdJNDd2bjh6R1lvTXI1ZHRhSVVkZDctSkMta3hTejM1QnRqakUwb193M250c3A1WnRYSG02dDFUbmdQaTc3THVLS25Vc3dod0plLUVKMkxhcmxRd3I2UmFlVWpmRG1OXzNGN0V0ZTBlWWxrZmNQcVZWM0JIZk53ZHJ2T1h4Ym1LQUpkdmFjWmdHc0ZZRDRKSUVfVXFROE8xUjRJRVlkcmdhUFJjZWtJUXV1UXgtTWV4R3VqNUh6QWtEbGN3Sm0zV0JST2l5bTNBOE5BWHNwVmstWmxmNVQ0blBtb3FvN193NUFZWjRlUjY2aHN6RTlKVnR6V1N5SGVUSm9mU0hhaGtzT0FvWGlsbDY4MEJHaUZVVTM3Y3A3YTVrUnR4VTEwUjJMdDU2ZTVUa04zcHRGTUVCcjlVOEZUSFhtMTkwaWJ6VDZxWGJCdF9GbGlwdm44Y2Fac1VYVktWVlRRZzFNSC1kZ3IwUHI2V1dEUUxKc2NNNnI5ak1YaWdZSmtzaXZWdXdIWDlmcEpUVmhETWh6bTZ4bzR2ZXdFM29tMXU1NUExekREVklBQ0xFelMtYkwxS3owN2N4cGtBS1RaUXRyNkF3c0RqZFZjcVE0VzQzTUt3N0dhLWtVZXdZZkd6YnZPZDdsd2M2WXM3WnFiSURzbWZXVzVtZ2pWWWt4bDFzT0REdmlqR3IycU1wcXFZTWhFRDYtZw?oc=5)
+- [聯電、南茂 四檔後勁足 - UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE40bVpiRUlZcHQzRlpoTkc4UGRGVzRyQmQ1TTViRHRMX2tmc1d0OV9VamtSVzFRLVB2YURneVh4cEZKNXE2X3pWbTFqLTJUWGlr0gFWQVVfeXFMT3BiUF9PYkc2c25MRHE0MV9RQjNBeGtRbFk5eGpPVmNOYTFxU3BCWG5pVGtLYjY1d1ZWdmQtUzM3SDhXVVR6M29wSk9vNE4yY2NzMGxLbnc?oc=5)
 
 ### 3413 京鼎
 
 HiStock 2026/07/16: 外資 1591、投信 88、法人合計 2044; 3日合計 2901
 
+- [3413 京鼎- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NdjdLX1YteE1EeXdMcG8tcVctMHZBYWdHVi1xUmh2amRnNHNQMTRUMFJHQ1R0d0p0TTN4dEM0a2QzWnFTVXhKb2M0V3pQS0hzWE1lN0tHS2U?oc=5)
 - [【10:47 即時新聞】京鼎(3413)股價上攻漲逾5%，歷史新高營收延續AI裝置成長題材＋短中期多頭格局技術面偏強 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2dTeTRxV055aUZmSnF5MjRVMDJVR3dOMm5xTnpaWnJkeVpXVzYwc1IyLXA2dUNRWFY1aVBpaGNIczNyYlBQUm5XRHlNOURrZGc4N1p1WjljSGtMN1ZqbHM5dnBEdWRpSy1ZbUZFRFZrQWY4Qm5ZVExvdzdmd1VsZE4xUy1MU3BWemNpQWFR?oc=5)
-- [【12:53 即時新聞】京鼎(3413)股價上漲至316元、漲幅5.69%，AI裝置訂單能見度延長支撐買盤，評價仍在歷史區間中下緣吸引逢低佈局 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qc2tTUjhIb1NienNURlhfUEwyRUFrN2tONnJQUXMtZk5nWFV3MU9oRnV1VlM3dDhKVnhnckRlUXlCMjFwWVRNbUdKOXo0ZmRVWmdkTHp6eUQ?oc=5)
 - [大客戶需求堅挺京鼎今年看逐季向上- 新聞 - MoneyDJ](https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjlrY0lrVks5dzYySGVOZmRUbmZyMzZJd0QxOFpjXzZvY1RTQ2twRjdwcUZDdElJYkViQjNCV3lScFREUHd4ajNPMzhmbjl6NFNFN0NjeWwyNnpIcWMyanJzWms0OHJmN2pQcDhkMW9GalRpM2VhalhQUUQyaU5rVTNRdl9JcUlOdVZDNXdBakNKZw?oc=5)
 
-### 2449 京元電子
+### 8028 昇陽半導體
 
-HiStock 2026/07/16: 外資 3577、投信 572、法人合計 5237; 3日合計 -1884
+HiStock 2026/07/16: 外資 4186、投信 -59、法人合計 4074; 3日合計 4927
 
-- [【11:58 即時新聞】京元電子(2449)股價上漲逾4%，延續封測族群資金聚焦＋AI高階晶片測試題材支撐多頭結構 - CMoney](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44Y3hCLUF1OXJKRk9TZEJrYVFpWjhyQlhvUVg2Z0VINWZkMWV2dUo0OGJkNVU3Z1drOEFtTmZfZnJsYml0WjZrZkpTc1pYd2xBSndUMVZNOE5mTzcxVWhnMmdyaTFWYkk?oc=5)
-- [個股：京元電子(2449)每股含息1元、含權0.5元，7/28除權息，現金8/20發放 - 富聯網](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkt6UXlvaFZJdEJnMl9WenpVUDNRalBLNEVIV3loZkN4YkNtbzlWbkpxRUJoN3Z2RmpRVllsWGRfR3dpZTdlZ1l2YXFkaGcyWmIzYkxfamJKeGpKWWhkUUE0SzItRE4xNmxPenFYMzh2VXpGME5OM2pGRHdFbUJnYnVuc1o0T1Zr?oc=5)
-- [Factset 最新調查：京元電子(2449-TW)EPS預估下修至9.72元，預估目標價為369元｜新聞快訊｜豐雲學堂 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xRlhuNWw3bEhJaFY2T3ZvMGlfQUxDcEZIM1IwZnhuT19nanJaSzRtQ3VXc0FlNTVtcDJzRXJ5eHdFaTJiM1hqY3RDbExXbzhoREx1NXZXZlZNZmRVQXd4ZE1jdHFlVmk4N3N5eGE1Z2xvM0JmdWc?oc=5)
-
-### 8039 台虹
-
-HiStock 2026/07/16: 外資 678、投信 0、法人合計 1013; 3日合計 13480
-
-- [台虹（8039）鎖漲停衝破52週高！PTFE題材、經營權變局共振｜股市話題｜豐雲學堂2026 年 07 月 - sinotrade.com.tw](https://news.google.com/rss/articles/CBMimANBVV95cUxNNWwyU1R2alpJMmk4YWxfZG5zS0MyNmhVX2tKWUNIMjJFdV9zQlBBTTZDSTVwLWNMVmdpaDBRQUl5aG5fZjVaRlg0OEFhMm5RRjF1cFlqQnZwbzdqSm9QTlhRR1RoeGs5Mk1kN2JJbEFuSkh4bzNWZHljUElJbkdaNDhMVzVycG9EbnFScDZoX1ZyZ1k3N2ZMVzRXUWJzUUI3V0hlejkydmtWUlRibkljWGR0WjFuVFdscE02cVhtcnZCaXJBWVVLZXN3NGZlWmMwWThWdF9ENHRsQklzOXhHYjBQWGZwbHBaNlFDUldrdUVYZDFFQ3BWcl9kZVFyNUUzQjdkQXRjMlJidDdXRnRucWVxRjMwY2YzX2d4VDVKVUdpM2tscks5eWpZc0Q1Z2FHSkhZSTBaWUpiY29LRHVqQmJmc3cwV21POVE5UDZvbHBjekxXT2FhcTAwU3Z5UzNDSHJOZVJ5U0UxT3B5VWNyREcyc0JKaVAzUkVEWmx2Zy1BaTZseWd6YXNCVXBfOHRrNV9IWmx3cm0?oc=5)
-- [【即時新聞】台虹(8039)狂飆亮燈創天價！這「6檔概念股」資金輪動掀洗牌？ - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGF1YklEd2lFUXR3RVNWcVRJSmlESEZMT1FYYklBVGt1WS16TXhXQTZjWEZDWmFFa0VjYThMS29aZ2MzN3RPRXV3NGpiZ08tNDJ1bG8zSUM4RS1VTTdDcGhQelVFbDRnYUptVUx6cUIwMkRxWWtJaXBLT29NQS1pTVphdHozTlQtTzZFaHBCUGc?oc=5)
-- [AI新材料出鞘、元太強勢入主！ 台虹爆量狂飆鎖漲停演繹半導體先進封裝材料新黑馬 - 理財周刊](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Gb1o3SXNNYklkeVk2N3Q0RFZHTzE3WmtkcjNienYyaXZIeDJFNkpPWTFVV0RmUjFvZjhwa3FZTE9oYUk5YzJLejB4X2JxakljcFZtQ1BfejdLakpEaVlab2dUbXJUSHU5QnVJcDNJYw?oc=5)
-
-### 3665 貿聯-KY
-
-HiStock 2026/07/16: 外資 -411、投信 323、法人合計 -60; 3日合計 678
-
-- [AI題材點火！貿聯-KY營收連創高 獲美系外資喊買、目標價3100元受矚 - Yahoo股市](https://news.google.com/rss/articles/CBMiiwNBVV95cUxQZzlmV2cyU3VRb0pDZ19QQm9jaXFXMVBCdll6SUxRNlpzQVlNbXJmRzBNTW12akJMU2hWUW1pTldIeWxpRUdjc0xHc3BUNHdQeFRoeGJwYzJIRlpRaTBxX3lMZUJGelVkT01tN0FRZnZqSkYxenpxd0x3RGZOc09scTRBa1BrZkM5VlZteXJQLWNUTVR6b0pBbGhobGphVzBhMVJVWGVmWWljWExZdzZkR2dReHk0bTM5WEZWaWdKWFA2Y1ZGUnFHYldXX2F3dkFYVUd2YkUxV1R2cmZnZF9BLUxfZjM2cE45OENJbEo2LXdjOHJTdk16RXhQN0RGaW1lLTNPRVJocWp6SGZjczlrQW1rN1JDcHo3OFhlUUZwakZnbVFqZlAtRXFUTXNBNDhybTNHdWh4cXRfb1pWcVVsOWEyLTNlajRubDhrWXVKYVgzTVFScHZ1MVRyUG1RZWZqdjJDcGNIMVAxU183UlVaTks1b3JqLTE4Q0w3QmJuZXRCUlhfbHRhbTh3Yw?oc=5)
-- [【13:06 即時新聞】貿聯-KY(3665)股價走強至1975元、上漲3.4%，AI伺服器線束與資料中心題材受捧＋短線均線結構翻多、投信與主力買盤延續 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlJndHhBSnhtRUxPQVlkam5NRVFXNmlkWVVYTmlGNDlhaS1xV2ZIcFZNN3lPRnNtcWRVajROQ0hWU0VBNVJ6WGZpdld5Wk0xYjA1cngyZ0FPSEtNNmlxWms4c0wyTlNmY1c3MjJtSVZ5YmNkRDBkNi1WUlhsMnV4a3FYa1dJYlRFSndHYTBR?oc=5)
-- [【13:06 即時新聞】貿聯-KY(3665)股價走強至1975元、上漲3.4%，AI伺服器線束與資料中心題材受捧＋短線均線結構翻多、投信與主力買盤延續 - CMoney投資網誌](https://news.google.com/rss/articles/CBMizwFBVV95cUxNdkpXdklHcDBTNXNLRGRkOFN4LWVjbURQR3RBWkRmSlNXZXYtN2dJWGVGcjd3VEFEYTBrbXl4VDEzQzZ3UzZvMWwtY25GdUthcUJSWkNibDdGaXlxSWc5SW40eEY1ajNrRVVnTWNCNmNKNVk0SnFKU3VmWmhSRU1qbVg2Y1dYb0lYXzMwUXZIU0pubVVqbkFzeFIzTzM4b2RrcWxBLTFZTGRiNVJEN1lmc0plOHUybmVFUHBwUnV1ZGI5NUxiNHl0YmVnNlU5YVk?oc=5)
+- [【09:22 即時新聞】昇陽半導體(8028)亮燈漲停至350元，AI再生晶圓營收連創新高＋法人買盤與短中期多頭結構支撐 - CMoney投資網誌](https://news.google.com/rss/articles/CBMijgFBVV95cUxPQi1DMElHcXhGSVlYWXcxdWxkVXRKakJ2NEd1c1dTTlFYY0xkT1VuUm4xM3hxajQxOFhwNjdhN3RIMUF1OWhmMGdOc1A1VEJyUTV6M2ZYcXhwb1RucWVjal90Z0I4VFFKb0FMSHNZOXc0S3kwYTFIdmstekdjcm54ZkU2S3R1Qi03QndJdEF3?oc=5)
+- [【11:13 即時新聞】昇陽半導體(8028)股價勁揚至315.5元，延續營收創高與AI再生晶圓題材＋短線脫離低檔區、主力偏空籌碼待修正 - CMoney](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vQ2tabWhGVVFwWlVEa2VIM3BiNDFJNVBFMGFodUdRNHg4QXNoa05mZWx5ck1DWUFzYmhVM3R6cDlGYnYtRk15ZjJZeGJXcDhXdE01WGVNSnBUWl9qU09kVmNYMU5uMUk?oc=5)
+- [大客戶擴產積極！「再生晶圓大廠」需求同步噴發 目標價喊上435元、潛在漲幅近3成 - Yahoo股市](https://news.google.com/rss/articles/CBMi2gNBVV95cUxPQ3cxVkFVMm8xRlJXX2ZaXzBlc1BfenRBby1fX3ZsQnE4dDd5OEFIbXBuYWh3Ry1wVm9iWW1PX3pzYzg3ZEFpdDBnQ1pud1NkemlQVDYzSWpiaE9xeG5OSS1ER2FFSHN6SWNFR2NNNmtwTkt2MjB2WkhoUXgzVkdncXNWVlptVjgwdG9KUURZS0RUUl9CZnBiLUlreWZac0lOYUEzSG4xOGZFZUNzdjNlRG83VDFrcGt0em5vM0dJUHZfOXdlZmJIejlLQUhvNW82MkdDcmtPd3Z0NmFYYjlNLUdoYUFsVW5FTklZTEF2cWNVR3V0Znl1SHhwUnRLZEpvSV9lMk1Pd1hVMUc2MHBheUEwLURZNjVKcExCNklUX18wZjU4RWtrTUxpVldPWlp6emljRkJISENvS2htUV9faXYyUDN2dndoUnV1eUEyc3JZekJDalgzZm02QUV0a1l3UTIyMUliU3VXamNBRXplWVVLaDBXVWh5bEFFRDFKcFZiZjVxNC0zdzRFbF9DV0RiRk1SdFVrXzgxS1MwX3ctdUhTakE1dzFPQlFaMFRmVGMxemVjSG1aSXpqVUZGWjlzTTZLLW5tOGIwcmVLSVAwXy1GSE1BM29KUXc?oc=5)
 
 ## 轉強池 A/B級法人與新聞補充
 
@@ -648,9 +607,9 @@ HiStock 2026/07/16: 外資 -355、投信 -6、法人合計 -455; 3日合計 -102
 
 HiStock 2026/07/16: 外資 6956、投信 -999、法人合計 -1413; 3日合計 -30437
 
+- [亞泥非水泥獲利已近4成，儲能2028年底完工加入- 新聞 - MoneyDJ](https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3NRUXFIVXNKME1ScDZDc250dlM2VUtMQlh1TTdPUVR3X1NoRjA1NWN0bmNXRVpnVGlWcEZteXBxREQ2Z2tLa2luTmktQTZBalpyLVYzc1pNLVZBX0dfU1pBWVdlTnJMbFJxRWtvMnVwVll2MEpUUlpjS3NraF9tYTh5c3hvNm1QdXU2NjZZZjNVQQ?oc=5)
 - [1102 亞泥 - 【亞泥(1102)盤後解析】法人賣超延續，短線壓力不減 今...-股市爆料同學會 - CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PSGpuZGpSLTRHR0pKM3B2YmYyNkkzb2NRVTFIa2FOYjdNdk5vV1VxTHphekZ0VFFOTHNDbnNrdjhGcjlZZmdxSWRKRExNU19wcklKYzRQSzg?oc=5)
 - [【即時新聞】亞泥(1102)最新全球指數調整，剔除標準型成分股新增小型型，5月29日生效 - CMoney投資網誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQm1WS1BvbGR1UWN1WFQ3cFMtLWt2WVlsS1c5cklqYWE5akJZRlY3R0JHVzZqR1BIa2s3VVQzd3hDdDNMOUljUnpxNjlwSEN4SlprYTFWVEVUZVcwcTIwRzhXU2Y5WEdzdTRPbUt5Z29OUTN3eTNjOGRJRTlsUnM5N05wVFZhbGV2VkVOVm9LQnU?oc=5)
-- [低檔反彈在即？台泥火災大虧落底、亞泥獲利跳升 3大利多獲投顧齊按買進鍵…最新目標價出爐 - Yahoo股市](https://news.google.com/rss/articles/CBMiqgRBVV95cUxOSTFsZ3dBWjlrUDRJRnFQZnRZVkFkSFNnREhRSWF1QjFBV1llQUtMYXozVlFTcEVibVp5TVlKeFBPeFhQZ2ROM3BHbWtQdXg3WUxkcjFlbUViZDRrMWhaVVBBTGpSMEUzRWE0THQ2NXhUX0dKYjRfckR6T09aODJjY1lGTU5NXzBseHJNWVo1OWJTdTZxV3IzTkFUT2ZUS1FzRlZGR091Q1FrUUNNMTBvUTc5TV9iRk5aRWhzcFpGX1VRYmhhNkMyTHJpR19KU1lKc010cDkzLXFEYU82NFpHQTcwQ0QxZlRqMTFxY1o2bWZCazVBdlhGV2NzYVhKM01wYm50eWRyU2Q5dklDSXZFVnNSVUtfOXF2aXJhaEtSeUNLcDMyNHM2Wmh4SmtMQVk0Z2JTMjV3dXk5VzVpcWRrSVpJUG45V1djTmtGMHRFaVFhT25tYnhsd0FwQXVIbTVKN3dTOTdDNnU1Rl9VWGdUS2lrQUFEWTU5RnF4dEJFRmJrTVB5QzA3a3d6cHJZakJjQWloZUgxNXk3UzFvX0xPQWZnTjdTQ2hiQVJNc3otdVJFa19kYXBTRHZxUDZGdGxqc3h5dmVsaGJjSXRHV3ZwRS1DZkkxT2ZiYmNpZmt0bnRZWmIzQ01nWFl2VEJpSW9FYy1wUDJUeDFyME9odVJNcUtPVHpXMVR2cnlqdGdtdktGNEVQYzQxLVk0VS15YV9FdkNtRlZMR1h1Zw?oc=5)
 
 ### 1815 富喬
 
